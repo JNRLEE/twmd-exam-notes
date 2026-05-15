@@ -588,7 +588,8 @@
 - Necrotizing fasciitis（壞死性筋膜炎, facia（superficial-deep））： 成因＝Streptococcus pyogenes（＝GAS, Tx＝PCN＋Clindamycin）, Vibrio（Doxycycline＋Ceftriaxone, RF＝海水暴露）； SS＝出血性水泡, 痛超過傷口範圍； Exam＝CT blurring fascia； Tx＝緊急外科清瘡＋Broad-spectrum antibiotics
 - Erysipelas（丹毒）： SS＝明確邊界清楚紅色隆起； 成因＝Streptococcus pyogenes； Tx＝PCN
 - Gas gangrene（骨骼肌感染）：Mainly Clostridium perfringens； SS＝古銅色皮膚, 氣泡, 惡臭； Exam＝Gram（＋）, X-ray皮下氣體,；Tx＝緊急外科清瘡＋PCN＋Clindamycin
-- Toxic shock syndrome（中毒性休克症候群）： 成因＝Staphylococcus aureus（TSS-1毒素, 培養（-）, 不用給抗生素）, Streptococcus pyogenes（STTS, deep-seated foci, 培養（＋））； SS＝發燒, 低血壓, 多器官衰竭, 皮疹（全身紅斑）； Tx＝緊急外科清瘡（STTS才需要抗生素）
+- Toxic shock syndrome（中毒性休克症候群）： 成因＝Staphylococcus aureus（TSS-1毒素, 培養（-）, 不用給抗生素（但皮膚科說給）Clindamycin可以減少S.aureus生成毒素）
+- Streptococcus pyogenes（STSS, deep-seated foci, 培養（＋））； SS＝發燒, 低血壓, 多器官衰竭, 皮疹（全身紅斑）； Tx＝緊急外科清瘡（STTS才需要抗生素）
 
 ## GI感染
 
@@ -684,7 +685,7 @@
 - 流病：20-40 y/o female； 常見HLA-DR3（＋）； 自體抗體, 免疫複合物沉積； Mainly腎, 皮膚, 關節
 - 臨床表現：關節（多關節腫痛, 可矯正之變形, 無骨蛀蝕（＝Jaccoud's deformity/ No bone erosion））； 皮膚（光敏感, Malar rush, reverse Gottron's sign（關節間紅斑, cf. DM皮肌炎）, 慢性皮屑（Anti-Ro/SSA）, 口腔潰瘍）； 腎臟（依ISN&RPS分六型）； 心肺（心包炎, 肺炎）； 神經精神（精神病, 癲癇）； 腸胃道（Mesenteric vasculitis（CT＝Double halo sign/comb sign））
 - Lab：ANA（screen工具, 敏感度高但特異度低）, Anti-dsDNA（特異度高, 活躍度指標, 可預測腎炎, 血管炎）, Anti-Smith（特異best, 但跟活躍度無關）, Anti-Ro/SSA（可過胎盤, 導致胎兒先天心臟傳導dx）, Anti-ribosomal P（中樞侵犯, 精神病）
-- Diag：11C4（Malar rush, Discoid rash, Photosensitivity, Oral ulcer, non-erosive Arthritis,（多且對稱）, Serositis（包含各種pleuritis, effusion）, Renal disorder（蛋白尿（>500mg/day）, Cellular cast（＋）, Seizure, Hemolytic anemia（Comb test（＋）, Leukopenia（<4000,）, Lymphopenia淋巴細胞減少, Thromnocytopenia血小板減少, ANA（＋）, ANti-dsDNA/Anti-phospholipid/ANti-Smith（＋））
+- Diag：11C4（SOAP BRAIN MD＝Serositis（包含各種pleuritis, effusion）, Oral ulcer, non-erosive Arthritis（>2, 對稱）, Photosensitivity, Blood disorder（紅白小）, Renal disorder（蛋白尿（>500mg/day）, ANA（+）, Immunologic disorder（Anti-XXX）, Neurologic disorder, Malar rash, Discoid rash）, Lymphopenia淋巴細胞減少, Thromnocytopenia血小板減少, ANA（＋）, ANti-dsDNA/Anti-phospholipid/ANti-Smith（＋））
 - Tx：無器官/生命危險＝保守治療（NSAIDs, 防曬, Hydroxychloroquine（抗血栓, 預防皮膚病變惡化））； 器官/生命危險＝類固醇（Induction thx（High dose steroid＋免疫抑制劑（Cyclophosphamide, MMF）, Maintenance thx（停Cyclophosphamide（烷化DNA, SE＝骨髓抑制, 出血膀胱炎, 月經早停）, 改MMF/Azathioprine（輕度） > Cyclosporine > Rituximab（重度） for 6 mths）, 持續f/u Anti-dsDNA, C3/C4））
 - 併發症：抗磷脂抗體症候群（APS, >1次血管thrombus＋5年內兩次驗到aPL ⭢ 終身抗凝治療）
 - 孕婦：持續Predinisolone（胎盤可分解）, 免疫抑制劑可用Azathropine（胎盤可分解）/少量Cyclosporin, 不可用MMF/Cyclophosphamide
@@ -702,7 +703,7 @@
 ## 其他結締組織病
 
 - Sjogren's syndrome { SS, 流病＝中年女性, 常合併RA； 機轉＝腺泡表皮MHC II活化淋巴球⭢腺體凋亡； SS＝口乾（Xerostomia, 合併唾液腺腫大）, 眼乾, 呼吸乾； 併發症＝Non-Hodgkin lymphoma, 間質肺病, RTA type 1, 淋巴癌； Tx＝症狀治療（人工淚液, Pilocarpine（促進分泌）, Bicarbonate for RTA, 免疫抑制劑 for 關節/血管炎； Diag＝6C4（口乾>3m, 眼乾>3m, Schirmer test 唾液腺腫大（Salviary scintigraphy）, 抗Ro/SSA（ or La/SSB）, 唾液腺活檢（淋巴細胞浸潤>1focus）） }
-- Systemic sclerosis（SSc, 硬皮症, 流病＝中年女性； SS＝皮膚硬化（由內而外）, Secondary Raynaud's phenomenon（甲褶鏡血管扭曲）, Esophageal dysmotility（食道下2/3, cf. DM/PM）；
+- Systemic sclerosis（SSc, 硬皮症, 流病＝中年女性； SS＝CREST syn（鈣化, Raynaud's, 食道運動障礙, Sclerodacty手指硬皮斑, Telangiectasia手指末端萎縮）, 皮膚硬化（由內而外）, Secondary Raynaud's phenomenon（甲褶鏡血管扭曲）, Esophageal dysmotility（食道下2/3, cf. DM/PM）；
   - 分型：Diffused（dcSSc, 進展快, Anti scl-70（＋））, Limited（lcSSc, 進展慢, Anti-centromere（＋））
   - Tx：Raynaud's（保溫＋CCB）； Esophageal dysmotility（PPI）, ILD（Cyclophosphamide）, PAH（Endothelin receptor antagonist（ERAs）, Phosphodiesterase-5 inhibitors（PDE5i））
 - Polymyositis/Dermatomyositis（多發性肌炎/皮肌炎（記法：大肌群在核心, 肌炎＝近端無力）； Anti-Jo-1（預後差）, Anti-Mi2（預後好）； SS＝對稱近端肌無力, 上1/3食道侵犯, 眼臉sparing（重要的負向鑑別診斷）； 併發症＝乳癌, 大腸癌, NPC（確診應全面癌篩）； Tx＝高劑量類固醇（三個月內）>免疫抑制劑>IVIG
@@ -753,16 +754,15 @@
 
 - 定義：Hb<13g/dL（男）, <12g/dL（女）； MCV<80fL （小球性, e.g＝IDA, Thalassemia（小鐵海）） , 80-100fL（正常）, >100fL （大球性, e.g. B12/ Folate缺乏） ； Reticulocyte production index （RPI＝Reticulocyte count （%） x （Hct/45）, <2（骨髓造血不足））
   - Microcytic anemia（小球性貧血）
-
-    1. Iron deficiency anemia（IDA, 鐵缺乏性貧血； SS＝Pica（吃非食物）, Koilonychia（匙狀指甲）； Lab＝低Ferritin（鐵庫存） ⭢ 高TIBC（鐵結合能力） ⭢ 低Serum iron, MCV<80 （通常不會<70, <70考慮地中海貧血）； Tx＝口服鐵劑（二價好吸收, 三價好運送）, SE＝便秘/黑便）；
+    1. Iron deficiency anemia（IDA, 鐵缺乏性貧血； SS＝Pica（吃非食物）, Koilonychia（匙狀指甲）； Lab＝低Ferritin（鐵庫存） ⭢ 高TIBC（鐵結合能力） ⭢ 低Serum iron, MCV<80 （通常不會<70, <70考慮地中海貧血）, RDW⭡； Tx＝口服鐵劑（二價好吸收, 三價好運送）, SE＝便秘/黑便）；
     2. Thalassemia（地中海貧血, MCV/RBC<13； α-thalassemia（Ch16 α基因缺失, 4個基因, 1-2輕微, 3 HbH disease（SS＝脾腫大； Exam＝Hb H stain（＋））, 4 Hydrops fetalis死胎）, β-thalassemia（Ch11 β基因突變, minor ⭢ intermedia ⭢ major（Cooley's anemia, Tx＝移植））； Exam＝電泳HbA2>3.5%（for screen）, 染色體檢測； Tx＝輸血＋Deferoxamine（鐵螯合劑, 鐵相對過多器官損傷）；
-    3. Anemia of chronic inflammation （ACI慢性病貧血； 炎症/惡腫引起； Lab＝Ferritin⭡（cf. IDA）, TIBC⭣； Tx＝治療原發疾病）
+    3. Anemia of chronic Inflammation （ACI慢性病貧血； 炎症/惡腫引起； Lab＝Ferritin⭡（cf. IDA）, TIBC⭣； Tx＝治療原發疾病）
   - Macrocytic anemia（大球性貧血）
-
-    * Megaloblastic anemia：缺B12（in 肉）/葉酸（in 菜）； Lab＝MCV>120, hypersegmented neutrophils, 髓內溶血； 成因：Pernicious anemia（1st. 缺Vit B）, 菜吃不夠（缺Folate）； SS＝貧血, 神經病變（缺B12）；溶血性貧血（內科急症； survey whem Hb⭣>1g/wk, Hemoglobunuria（尿黑）； Exam＝拉抹片, Coobs' test找原因； 成因＝Microanigiopathic hemolytic anemia（MAHA）, Autoimmune hemolytic anemia（AIHA）, G6PD deficiency）
+    - Megaloblastic anemia：缺B12（in 肉）/葉酸（in 菜, 體存量少, 常缺）； Lab＝MCV>120, hypersegmented neutrophils, 髓內溶血； 成因：Pernicious anemia（1st. 缺Vit B）, 菜吃不夠（缺Folate）； SS＝貧血, 神經病變（缺B12）；溶血性貧血（內科急症； survey whem Hb⭣>1g/wk, Hemoglobunuria（尿黑）； Exam＝四件套=(Haptoglobin⭣, T.Bili, LDH, Reticulocyte)拉抹片, Coobs' test找原因； 成因＝Microanigiopathic hemolytic anemia（MAHA）, Autoimmune hemolytic anemia（AIHA）, G6PD deficiency）
       * MAHA＝微血管性溶血性貧血； fibrin strands 將 RBC 切碎 → Coombs（-） intravascular hemolysis；smear 見 schistocytes。常見於 TTP / HUS / DIC，常合併 thrombocytopenia
       * Coombs' test（抗人球蛋白試驗）＝Direct Coombs' test（直接測血球上的抗體, 較主要）； Indirect Coombs' test（間接抗人球蛋白試驗； 抗體在血清中未結合紅血球（多與輸血有關）； e.g.＝新生兒溶血, 輸血前）
         * 抗體攻擊溫度：Warm antibody（溫抗體（熱才攻擊）； IgG為主； e.g 藥物, EBV, SLE, RA）； Cold antibody（冷抗體； e.g Non-Hodgkin）
+    - 其他(Myeloid Disease, 甲狀腺低下, 酗酒)
 - Pancytopenia（全血球減少）
   - Aplastic anemia（再生不良性貧血）：骨髓細胞減少, 內臟腫大； Diag＝中紅小3C2（WBC/網狀紅血球/ 血小板）＋骨髓密度下降（⭣25%）； Tx＝ <40 y/o移植, steroid/支持性治療
   - Paroxymal noctural hemoglobinuria（PNH, PIGA基因突變, 缺乏GPI anchor蛋白（如CD55/59））：使membrane protein流失, 補體攻擊紅血球； Lab＝Indirect Bil⭡, LDH⭡, Coombs' test（-）, LAP⭣（需Ddx CML）； Tx＝葉酸/鐵劑/輸血/ Eculizumab（抗C5）
