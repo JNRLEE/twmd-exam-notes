@@ -565,7 +565,7 @@
 - 腹膜透析（喝水限制少, 可在家自己洗, 禁忌＝腹部沾黏, 肺疾病, 脊椎慢性病）
   - 併發症：CAPD peritonitis（Staphylococcus中的Coagulase（-））, 管道感染（S. aureus）, Encapsulating peritoneal sclerosis（嚴重腹膜纖維化/鈣化, 腹痛, 腸阻塞, Tx＝改血透/手術）, 血糖血脂異常, 低血鉀（腹膜液不含鉀離子）
 
-## Renal Transplantation
+## Renal Transplantation腎臟移植
 
 - 適應症＝大部分CKD, 容易再發者＝ { Anti-GBM, IgA, MPGN, FSGS, DM } , 禁忌症＝ { Acute INF, Malignancy, 6個月內還有活性的SLE/血管炎/Anti-GBM }
 - 免疫排斥（HLA-A, B, DR最重要）： Hyperacute（幾分鐘, 由於Preformed antibody, Tx＝移除腎臟）, Acute（幾天, 由於T cell, Tx＝類固醇）, Chronic（幾月-幾年, 由於慢性免疫反應, Tx＝無）, 移植後用藥＝Calcineurin inhibitor（萬用基底）＋Steroid＋MMF/Sirolimus＋預防性anti（Trimethoprim/sulfa）

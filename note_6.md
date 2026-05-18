@@ -4,26 +4,31 @@
 
 - Maternal-fetal physiology
   - Cardiovascular system
-    -心輸出量上升（早期心搏量增加, 後期心率增加）
-    -胎兒循環=umbilical vein（1x）⭢ductus venosus（靜脈導管）⭢IVC⭢RA⭢foramen ovale⭢LA⭢LV⭢aorta⭢umbilical vein（2x）
-  - Metabolism＝HPL（人體胎盤泌乳素）⭢降低胰島素敏感⭢孕婦飯錢低血糖, 飯後高血糖高胰島素
-  - Respiratory system＝黃體素⭢CO2敏感下降⭢relative hyperventilation, tide volume增加⭢呼吸性鹼中毒
+    - 心輸出量上升（早期心搏量增加, 後期心率增加）
+    - 胎兒循環：umbilical vein（1x）⭢ductus venosus（靜脈導管）⭢IVC⭢RA⭢foramen ovale⭢LA⭢LV⭢aorta⭢umbilical vein（2x）
+  - Metabolism：HPL（人體胎盤泌乳素）⭢降低胰島素敏感⭢孕婦飯前低血糖, 飯後高血糖/高胰島素
+  - Respiratory system：黃體素⭢CO2敏感上升⭢relative hyperventilation, tide volume增加⭢呼吸性鹼中毒
   - Hematologic system＝總血量上升（足月達40%）, 生理性貧血（血漿增加>紅血球增加）, WBC增加, 凝血因子增加, 血小板減少
 - Prenatal exam（共10次）
   - 1st trimester（<17週, 2次）＝確認懷孕, 預產期（M+9, D+7）, 產前檢查（血型, 感染, 德麻疫苗）, 例行產檢
-    - 自費=絨毛取樣（10-12wk, 用絨毛細胞分析胎兒染色體）, 初唐篩檢（11-14wk, NIPT媽媽血中cell-free DNA, 超音波頸部透明帶+β-HCG+PAPP-A（90%準確率））, SMA/fragileX（10-20wk）, 羊膜穿刺（16-20wk, 羊水分析：肺成熟度（L/S比值）, 胎兒感染, NTD,染色體異常）
+    - 自費=絨毛取樣（10-12wk, 用絨毛細胞分析胎兒染色體）, NIPT（11-14wk唐篩, 媽媽血中cell-free DNA）, 第一孕期組套（11-14wk唐篩；內容＝超音波頸部透明帶+β-HCG+PAPP-A；90%準確率）, SMA/fragileX（10-20wk）, 羊膜穿刺（16-20wk, 羊水分析；內容＝肺成熟度（L/S比值）, 感染survey, NTD, 染色體異常）
   - 2nd trimester（17-28週, 2次）＝Echo（胎兒畸形篩檢, 橫徑/頭圍/腹圍/股骨長）, 例行產檢；
-    - 自費=高層次超音波（18-24wk, abnl={spinal bifida（脊柱裂）, Lemon sign（額骨塌陷）, Banana sign（小腦結構變異）}）, GDM（24-28wk）, 四指標唐篩（15-20wk, AFP（⭣Trisomy, ⭡NTD（Neural Tube Defects））+β-HCG（⭡Down's, ⭣Edwards）+uE3⭣+inhibin A⭣）
+    - 自費=高層次超音波（18-24wk, abnl={spinal bifida（脊柱裂）, Lemon sign（額骨塌陷）, Banana sign（小腦結構變異）}）, GDM（24-28wk）, 四指標唐篩（15-20wk, AFP（⭣Trisomy, ⭡NTD（Neural Tube Defects））+β-HCG（⭡Down's, ⭣Edwards）+uE3⭣+inhibin A⭣；準確率83%）
   - 3rd trimester（29-40週, 6次）＝32wk VDRL梅毒檢查, 36wk GBS檢查, 例行產檢
 - Baby health
   - GA（胎齡）= CRL（crown-rump length, mm）+42 days or CRL（cm）+6 wks
   - Thalassemia：α（16 deletion, A片低級, 4x等位gene, 分級＝{Silent carrier（3個正常）, Trait（2, Hb降低, Asymp）, HbH（1, 慢性貧血）, HB Bart（死胎）}）, β（11 replaced, B咖被取代, 2x等位gene, 分級＝{Minor（1, 輕微貧血）, Major（2, Cooley anemia）}）
-  - Fetal growth restriction（FGR）＝胎兒生長受限（<10% persentile）, ∵感染, 胎兒結構異常, 母親疾病；分類={Symmetrical（全身小, 第一孕程問題）, Asymmetrical（第二孕程後, 頭正常, 腹圍小（養分先給頭））}；DDx=FSD（量子宮頂到恥骨聯合上緣, Echo（可評估是否對稱性））
+  - Fetal growth restriction（FGR）＝胎兒生長受限（<10% persentile）, ∵感染, 胎兒結構異常, 母親疾病；分類={Symmetrical（全身小, 第一孕程問題）, Asymmetrical（第二孕程後, 頭正常, 腹圍小（養分先給頭））}；DDx=FSD（Fundal Symphysis Distance, 皮尺量子宮頂到恥骨聯合距離）, Echo（可評估是否對稱性）
     - 正常國人體重=1500g in 32wks, 2500g in 37wks（出生>2200g才能出院）
 - 產前胎兒評估（胎心率基線110-160bpm, 變異度>5bpm）
   - Non-stress test（NST）：reactive（99%出生一週內健康）=20分鐘內有2次加速（加速≥15bpm持續≥15秒）；if non-reactive：覺醒寶寶/3-5天後重做
-  - Doppler ultrasound（臍動脈為主, 長期追蹤血流狀況）：分析內容={S/D ratio=peak systolic velocity/ end diastolic velocity（正常<3, >3胎兒缺氧）；RI=S/S/S（<0.6異常）；胎兒窘迫Pattern（Absent end diastolic flow velocity （AEDV）, Reversed EDV（REDV）⭢>32wks立即引產）}
-  - Biophysical profile（BPP）：NST（2分）＋超音波評估（8分）＝10分滿分（<6分儘早引產）；超音波評估內容={胎動（3次/30分鐘）, 胎肌張力（1次/30秒）, 羊水量（單一最大羊水深度>2cm）, 呼吸（1次/30秒）}
+  - Doppler ultrasound（臍動脈為主, >24wks 長期追蹤血流狀況）
+    - 內容：
+      - S/D ratio=peak systolic velocity/ end diastolic velocity（正常<3, >3胎兒缺氧）
+      - RI=(S-D)/S（<0.6異常）
+      - 胎兒窘迫Pattern＝Absent end diastolic flow velocity （AEDV）, Reversed EDV（REDV）⭢ >32wks立即引產
+  - Biophysical profile（BPP）：NST（2分）＋超音波評估（8分）＝10分滿分（<6分儘早引產）
+    - 超音波評估內容=胎動（3次/30分鐘）, 肌張力（脊椎ext⭤flex 1次/30秒）, 羊水量（單一最大羊水深度>2cm）, 呼吸（1次/30秒）
 - Antepartum hemorrhage（APH）：孕20週後出血
   - Placenta previa（前置胎盤）：SS=懷孕>20wks無痛性出血；DDx=Echo（胎盤位置, 禁止內診）；Tx=穩定母vital, 監測胎兒心律, 剖腹生產
   - Placental abruption（胎盤早剝）, 無週期性陣痛性出血（與剝離程度不相關）；DDx=Echo（retroplacetal hematoma）, 開刀（uteropacental apoplexy子宮胎盤中風（=Vouvelaire uterus））；Tx=安胎至胎兒成熟（mild）, 穩定母vital+剖腹產（severe）
@@ -78,6 +83,7 @@
 ## Embryology and Anatomy（題目少）
 
 - Anatomy：前庭腺體={Skene's gland（尿道前庭腺, =♂攝護腺）, Bartholin's gland（大陰唇前庭腺, =♂Bulbourethral （Cowper's） gland）, Bulb of the vestibule（♂bulb of penis）}, 尿道括約肌＝球海綿體肌+深會陰橫肌+提肛肌, 子宮韌帶={broad lig（包住輸卵管, 圓韌帶, 卵巢韌帶）, Suspensory lig, round lig（弓帶遺跡, 過腹股溝連接大陰唇, 讓子宮前傾）, ovarian lig（弓帶遺跡, 連接卵巢子宮）}, 輸尿管走勢=卵巢血管下（上段）⭢內髂動脈上（中段）⭢卵巢/子宮動脈下（下段, 小橋流水）；淋巴回流=子宮（外髂lymph）, 陰道（內髂lymph）, 卵巢（主動脈旁lymph）, 陰唇（淺腹股溝lymph）
+
 ## 婦科Tumor
 
 - 卵巢：SS=無特定, 腹痛, 頻尿；併發症=腫瘤扭轉（Mainly teratoma）, 囊腫破裂（Mainly黃體囊腫）；DDx=內診, 超音波（惡性＝飛高回音, 分葉, 有血流）, marker（上皮細胞＝CA125/CA199/CEA, 生殖細胞=AFP/β-HCG/LDH）；Tx= 切片, 觀察（功能性卵巢）, 其他皆可手術
