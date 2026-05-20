@@ -292,6 +292,7 @@
 - Dumping syndrome： 胃切除後，食物過快進入小腸，導致腹痛, 腹瀉, 暈眩等症狀。治療包括飲食調整（少量多餐, 避免高糖食物）和藥物治療（如Octreotide）。
 - Afferent loop syndrome： 胃切除/B-II吻合術後，消化液進小腸受阻（膽囊炎, 胰臟炎）
 - Efferent loop syndrome： 胃切除/B-II吻合術後胃切除/B-II後數年, 胃食物進小腸阻塞
+  - 腸阻塞特徵：X-ray（proximal dilation, distal colapse, 要照KUB看到骨盆腔）
 
 ## 腸道疾病
 
@@ -641,7 +642,6 @@
   - Monobactam（Axtreonam）： for GNB, 對PCN過敏者可用
   - Glycopeptides＝Vancomycin（對MRSA有效； SE＝紅人症候群（輸太快）, 耳毒性, 腎毒性）
 - 抑制蛋白質合成：Macrolide, Clindamycin, Linezolid, Chloramphenicol, Aminoglycoside, Tetracycline
-
   - 抑制50S＝ { Macrolide（for非典型肺炎, e.g Erythromycin, Azithromycin, Clarithromycin（對H.pylori有效））,Clindamycin, Linezolid（for MRSA, Vancomycin resistant enterococci（VRE）； 副作用/DD 交互作用多）, Chloramphenicol（SE＝Aplastic anemia, Gray baby syndrome； 少用） }
   - 抑制30S＝ { Aminoglycoside（對G（-）有效； e.g. Gentamicin, Amikacin； SE＝耳毒性, 腎毒性, 神經肌肉阻斷）, Tetracycline（for 非一般細菌（立克次體/螺旋菌/H.pyloric）, e.g. Doxycycline, Tigecycline（增加MRSA, VRE效果）； SE＝牙齒變黑, 骨骼生長受抑制（兒童不能用）, 光敏感） }
 - 破壞細胞膜＝ { Daptomycin（打破膜, for MRSA, VRE, VRSA）, Polymyxin }

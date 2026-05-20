@@ -78,7 +78,6 @@
   - 睪丸癌：Mainly germ cell tumor（年輕男1st固態腫瘤； seminoma>non-seminoma）； 淋巴擴散路徑＝外髂⭢總髂⭢腎門附近； SS＝無痛腫大（70%）； DDx＝ Lab（HCG+AFP+LDH） + 影像（超音波深色病灶, CXR看肺部轉移, 腹部骨盆CT看淋巴轉移）； Tx＝手術（睪丸必切除）, 化療（全Stage都可輔助, 復發能化療就化療, 不能就努力切）, 放療（for seminoma, 中低Stage才做）
   - Penile cancer： RF＝>65 y/o, HPV（+）, phimosis（包莖）, 抽菸, SCC為主；SS： Balanitis xerotica obliterans（BXO, 閉鎖硬化龜頭, DM常見）, 陰莖無痛腫塊/潰瘍, 腹股溝淋巴腫（發炎, 非侵犯）, Bowen's dx（紅色結痂）, Erythroplasia of queyrat（紅皮潰瘍）； DDx＝病理最準（leukoplakia）, Lab/影像都不準； 分級＝Jackson分級（1-4, 1龜頭, 2主幹, 3淋巴結, 4遠端）； Tx（if 無淋巴轉移8成可治癒, 目標為保留陰莖）＝局部化療（Tis）, 手術⭢電燒⭢放療（T2）⭢抗生素（淋巴腫）
 
-## 書籤RRRRRRR
 
 ## 攝護腺
 
@@ -116,7 +115,7 @@
 
 - 性功能障礙（早洩, 遲洩, 逆行射精, 無高潮症, 勃起障礙）
   - 勃起障礙（ED＝impotence）： 好發抽菸, DM, HTN, CAD（80%）, PAD（90%）； DDx＝ 空腹血糖（排除DM）, 血中睪固酮／prolactin（抑制testosterone）, 夜間陰莖勃起測試（Snap-Gauge test套三跟橡皮經看破幾條； if正常⭢排除器質因素）, Doppler超音波（血流量）； Tx＝治療原發病因, PDE5抑制劑（sildenafil, 治療type V血管變異（海綿體交通問題））, 陰莖注射藥物（prostaglandin E1）, 真空裝置, 手術（陰莖假體植入）
-- 男性不孕症：一年無套未孕； 成因＝{睪丸前（下視丘-垂體-睪丸軸問題）, 睪丸內（染色體（Klinefelter's disease（47XXY, 小睪丸男性女乳； Noonan's）, varicocele））, 睪丸後}； Exam＝ 排除藥物（血壓CCB, BB, spironolactone, 尿酸（秋水仙, allopurinol）, 精神科藥）, PE（正常大小18ml）, 精液分析（正常>1.5ml, >15 million/ml, 活動率>40%, 正常形態>4%）； Tx＝underlying dx, Endocrine tx（1st內科治療, 用clomiphene）, 手術
+- 男性不孕症：一年無套未孕； 成因＝{睪丸前（下視丘-垂體-睪丸軸問題）, 睪丸內（染色體（Klinefelter's disease（47XXY, 小睪丸男性女乳）, Noonan's）,  varicocele））, 睪丸後}； Exam＝ 排除藥物（血壓CCB, BB, spironolactone, 尿酸（秋水仙, allopurinol）, 精神科藥）, PE（正常大小18ml）, 精液分析（正常>1.5ml, >15 million/ml, 活動率>40%, 正常形態>4%）； Tx＝underlying dx, Endocrine tx（1st內科治療, 用clomiphene）, 手術
 
 ## 腎上腺
 
