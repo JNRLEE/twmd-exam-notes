@@ -8,7 +8,8 @@
     - cf. EKG in左新發育不全＝肥P, in 肺動脈瓣狹窄＝尖P
   - Tricuspid atresia：分類={伴隨ASD（維持血流）,VSD（嚴重型）和大血管轉位（肺over circulation in CXR, 三尖瓣閉鎖變形）}；DDx＝CXR（undercirculation（ASD, VSD）/ overcirculation）, EKG心軸偏右；Tx＝PGE1+手術（Balloon atrial septostomy）
   - 大血管轉位：GDM患者風險高；SS＝肺紋增加, 其他都跟TOF一樣, DDx＝CXR（egg on a string, 肺紋增加）；Tx＝維持血流（PGE1）⭢手術（arterial switch operation）
-  - TAPVR全肺靜脈異常回流：50%接到supracardiac（ L. innominate v.為主）, 20%接到cardiac（coronary sinus）, 30%接到infracardiac（堵塞率近100%, 預後最差）, SS＝肺紋增加（跟新生兒RDS很像易混淆）；Tx＝手術, （不要用PGE1, 會造成肺部瘀血）
+  - TAPVR全肺靜脈異常回流：50%接到supracardiac（ L. innominate v.為主）, 20%接到cardiac（coronary sinus）, 30%接到infracardiac（堵塞率近100%, 預後最差）, SS＝肺紋增加（跟新生兒RDS很像易混淆）；Tx＝唯一手術, （不要用PGE1, 會造成肺部瘀血）
+    - cf. PAPVR：不一定手術；看 Qp/Qs、症狀、RV dilation、pulmonary hypertension
   - Ebstein anomaly：三尖瓣下移（右心室變小）, mild cyanosis（青少年才發病）, ∈偶發性疾病（少家族性）, DDx＝CXR（box-shaped心肥大）, EKG（RBBB, 20%有Wolff-Parlinson-White syndrome）, Tx＝手術for嚴重
   - HLHS左心發育不全症候群：全身循環差, SS＝grayish-blue（藍嬰）, 乳酸⭡, 酸血症⭡, DDx＝EKG肥大P, Echo小左室, 扭曲二尖瓣；Tx＝唯一手術（Norwood procedure（stage1）, Glenn procedure（stage2）, Fontan procedure（stage3））
 - 非發紺先天心臟病：VSD, ASD, PDA, PVS（肺動脈瓣狹窄）, AS, CoA（Coarctation of the aorta, 主動脈狹縮）

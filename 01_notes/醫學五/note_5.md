@@ -78,7 +78,6 @@
   - 睪丸癌：Mainly germ cell tumor（年輕男1st固態腫瘤； seminoma>non-seminoma）； 淋巴擴散路徑＝外髂⭢總髂⭢腎門附近； SS＝無痛腫大（70%）； DDx＝ Lab（HCG+AFP+LDH） + 影像（超音波深色病灶, CXR看肺部轉移, 腹部骨盆CT看淋巴轉移）； Tx＝手術（睪丸必切除）, 化療（全Stage都可輔助, 復發能化療就化療, 不能就努力切）, 放療（for seminoma, 中低Stage才做）
   - Penile cancer： RF＝>65 y/o, HPV（+）, phimosis（包莖）, 抽菸, SCC為主；SS： Balanitis xerotica obliterans（BXO, 閉鎖硬化龜頭, DM常見）, 陰莖無痛腫塊/潰瘍, 腹股溝淋巴腫（發炎, 非侵犯）, Bowen's dx（紅色結痂）, Erythroplasia of queyrat（紅皮潰瘍）； DDx＝病理最準（leukoplakia）, Lab/影像都不準； 分級＝Jackson分級（1-4, 1龜頭, 2主幹, 3淋巴結, 4遠端）； Tx（if 無淋巴轉移8成可治癒, 目標為保留陰莖）＝局部化療（Tis）, 手術⭢電燒⭢放療（T2）⭢抗生素（淋巴腫）
 
-
 ## 攝護腺
 
 - 感染：
@@ -91,12 +90,13 @@
 
 - 流病：3rd泌尿系統dx（UTI⭢BPH⭢stone）, RF＝結晶尿, 家族史, 飲食（高蛋白, 重油, 高鈉（非石頭成分但增加沉澱）, 少蔬菜）, 藥物, 高社經地位, 乾燥氣候； cf. 抑制結石成分＝硫, 鎂, 檸檬 （留美檸檬）
 - 種類：Calcium calculi（含鈣結石, 80%）, 非含鈣結石（Struvite結石（磷酸銨鎂）＝女性尿路感染, 尿酸結石＝男性痛風病史，Indinavir結石＝AIDS Indinavir用藥）
-- SS：hematuria（9成）, pain（colicky pain＝石頭拉扯痛, noncolicky pain＝積尿痛, 石頭大小與痛度無正比關係）, 三狹窄堵塞（UPJ輸尿腎盂, iliac vessels髂血管旁, UVJ輸尿膀胱）, 感染（Mainly Proteus（struvite結石））； DDx＝KUB（鈣化結石可見, Struvite模糊, 尿酸/indinavir結石看不到）, CT（看不到indinavir結石）, Intravenous pyelogram/ Retrograde pyelography（可見所有結石）； Tx＝hydration（喝水2500ml⭡, 排水2000ml⭡）, 趴著拍背, 跳繩, 改變尿pH（含鈣結石⭢鹼化尿液, 含磷酸銨鎂結石⭢酸化尿液）, 碎石（<1cm ESWL震波（不適用膀胱 ∵會動）, >1cm經皮造口取石）
+- SS：hematuria（9成）, pain（colicky pain＝石頭拉扯痛, noncolicky pain＝積尿痛, 石頭大小與痛度無正比關係）, 三狹窄堵塞（UPJ輸尿腎盂, iliac vessels髂血管旁, UVJ輸尿膀胱）, 感染（Mainly Proteus（struvite結石））； DDx＝KUB（鈣化結石可見, Struvite模糊, 尿酸/indinavir結石看不到）, CT（看不到indinavir結石）, Intravenous pyelogram/ Retrograde pyelography（可見所有結石）； Tx＝hydration（喝水2500ml⭡, 排水2000ml⭡）, 趴著拍背, 跳繩, 改變尿pH（含鈣結石⭢citrate（抓走 free Ca）, 尿酸結石⭢鹼化尿液, Struvite結石⭢酸化尿液）, 碎石（<1cm ESWL震波（不適用膀胱 ∵會動）, >1cm經皮造口取石）, 低普林/減少動物蛋白, 藥物（febuxostat降尿酸, 禁用Benzbromarone）
   *ESWL體外碎石禁忌＝孕婦, 腹主動脈瘤, 重度水腎, 出血傾向
 
 ## 泌尿道細菌感染
 
 - 宿主防禦＝沖刷, 上皮, 女＝乳酸菌保護, 男＝Zinc in 前列腺
+- 導尿管：放一天多5%感染率
 - 常用藥：廣泛anti＝TMP+SMX（for uncomplicated UTI；綠膿/Enterococci無效, 孕婦小孩禁用）, Fluoroquinolone（for G（-）；孕婦小孩禁用）, Nitrofurantoin（for G（-）/Enterococci；綠膿/Proteus無效, 孕婦小孩禁用）, Amynoglycoside（for G（-）Enterococci；腎耳毒性, 孕婦小禁用）, PCN（孕婦可用, 但多數細菌有抗藥性）, Cephalosporin（孕婦可用）
 
 ## 泌尿道功能工程
