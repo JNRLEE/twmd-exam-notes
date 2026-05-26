@@ -1,0 +1,882 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "下 列有關自費疫苗接種建議之敘述，何者最不適當？",
+    "options": {
+      "A": "肺 炎鏈球菌疫苗有結合型以及多醣體疫苗兩種，其中結合型疫苗不適用於2歲以下幼兒",
+      "B": "幼 童常規接種的百日咳抗體只能維持5～10年，建議青少年自費接種一劑減量破傷風白喉非細胞性百日咳混 合疫苗（Tdap）",
+      "C": "曾 施打過水痘疫苗者仍可能罹患水痘，稱為突破性感染。建議未得過水痘的幼童在4～6歲自費接種第二劑 水痘疫苗",
+      "D": "針 對欲前往麻疹流行地區之6個月以上未滿1歲嬰兒，建議可先自費接種一劑麻疹腮腺炎德國麻疹混合疫苗 （MMR疫苗）"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 2,
+    "question_text": "下 列有關母乳哺餵之敘述，何者最不適當？",
+    "options": {
+      "A": "母 乳哺育可以減少寶寶過敏性疾病以及成人期心血管疾病的發生率",
+      "B": "哺 餵母乳的媽媽罹患乳癌及卵巢癌的機率較低",
+      "C": "喝 母乳的寶寶黃疸可能持續到6個月才完全消退",
+      "D": "喝 母乳的寶寶在頭幾個月的大便通常是稀稀水水的，甚至一吃就解，這是正常現象"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 3,
+    "question_text": "2 7週出生的早產兒，開始餵食12天後，突然發生嗜睡、腹脹、含膽汁嘔吐、糞便帶血絲等症狀。其腹部X光 檢查如下圖。發生此狀況時，下列何種處置最不適當？",
+    "options": {
+      "A": "給 與廣效抗生素",
+      "B": "增 加靜脈輸液給與量",
+      "C": "會 診小兒外科考慮手術",
+      "D": "安 排上消化道攝影檢查"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 4,
+    "question_text": "剛 出生新生兒之血紅素（hemoglobin）為9.7 g/dL，血球容積比（hematocrit）為30%，平均紅血球體積 （mean corpuscular volume, MCV）為80 fL，由此檢驗值可推測此新生兒最有可能的診斷為何？",
+    "options": {
+      "A": "缺 鐵性貧血（iron deficiency anemia）",
+      "B": "β 型地中海型貧血（β-thalassemia）",
+      "C": "α 型地中海型貧血（α-thalassemia）",
+      "D": "蠶 豆症（glucose-6-phosphate dehydrogenase deficiency）"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 5,
+    "question_text": "嬰 兒出生後無法進食，持續使用靜脈營養（parenteral nutrition）。第40天後出現黃疸、糞便呈極淡黃 色，實驗室檢查值：ALT（alanine aminotransferase）為125 U/L，serum total bilirubin為12 mg/dL， conjugated bilirubin為5.6 mg/dL。下列何者最不可能是此嬰兒黃疸之原因？",
+    "options": {
+      "A": "新 生兒膽道閉鎖（biliary atresia）",
+      "B": "新 生兒肝炎症候群（neonatal hepatitis syndrome）",
+      "C": "靜 脈營養導致之膽汁滯留（parenteral nutrition cholestasis）",
+      "D": "吉 伯特氏症候群（Gilbert syndrome）"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 6,
+    "question_text": "關 於兒童心肌炎（myocarditis），下列敘述何者最不適當？",
+    "options": {
+      "A": "病 毒感染是引起兒童心肌炎常見的病因",
+      "B": "有 部分的心肌炎是屬於輕症",
+      "C": "聽 診心音有摩擦音（friction rub），代表心包膜也受影響",
+      "D": "兒 童心肌炎如果恢復後，大多數會留下嚴重後遺症"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 7,
+    "question_text": "出 生2天的女嬰發紺，被診斷為大血管轉位（d-transposition of the great arteries with intact ventricular septum）。下列何者之處置最不適當？",
+    "options": {
+      "A": "若 兩心房間交通受限，做心房造口術（atrial septostomy）",
+      "B": "靜 脈注射前列腺素（prostaglandin E1, PGE 1）",
+      "C": "為 避免造成肺部壓力上升，應儘量避免放置氣管內管",
+      "D": "儘 快進行心臟矯正手術（arterial switch operation）"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 8,
+    "question_text": "關 於各種先天性心臟病引起心臟衰竭的臨床症狀表現時機，下列何者最為適當？",
+    "options": {
+      "A": "大 型的心室中隔缺損（ventricular septal defect, VSD）通常出生一週之內就可能會有心臟衰竭的症狀表 現",
+      "B": "大 型的心房中隔缺損（atrial septal defect, ASD）通常在一歲之內就可能會有心臟衰竭的症狀表現",
+      "C": "左 心發育不全症候群（hypoplastic left heart syndrome, HLHS）通常在胎兒時期就可能會發生心臟衰竭 的症狀表現",
+      "D": "亞 柏斯坦畸形（Ebstein anomaly）合併嚴重三尖瓣逆流通常在胎兒時期就可能會發生心臟衰竭的症狀表現"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 9,
+    "question_text": "關 於肝炎病毒潛伏期（incubation periods），下列敘述何者最適當？",
+    "options": {
+      "A": "A 型肝炎病毒的潛伏期約為15～19天",
+      "B": "B 型肝炎病毒的潛伏期約為30天",
+      "C": "C 型肝炎病毒的潛伏期約為7天",
+      "D": "E 型肝炎病毒的潛伏期約為90天"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 10,
+    "question_text": "足 月新生男嬰，出生體重3公斤，全母乳哺餵，出生後6小時開始出現黃疸。身體診察顯示鞏膜與皮膚黃 疸。下列何項檢驗結果最可以支持男嬰的黃疸是溶血造成的？",
+    "options": {
+      "A": "直 接型膽紅素（direct bilirubin）濃度上升",
+      "B": "直 接庫氏試驗（direct Coombs test）陰性",
+      "C": "周 邊血液抹片可見紅血球碎片（fragmented red blood cells）",
+      "D": "紅 血球容積比（hematocrit）55%"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 11,
+    "question_text": "3 歲男童無特殊病史，因高燒、倦怠（malaise）、陣發性腹痛、頻繁水瀉2天被送到急診。男童無嘔吐，無 服用抗生素。身體診察顯示體溫40.2℃、口腔黏膜乾、心搏快、腹部軟、沒有壓痛（tenderness）或反彈痛 （rebound tenderness）。觸診時，男童突然腹絞痛，接著排出含有血絲黏糊便。下列何者是最可能的致病 菌？",
+    "options": {
+      "A": "輪 狀病毒（Rotavirus）",
+      "B": "諾 羅病毒（Norovirus）",
+      "C": "志 賀氏桿菌（Shigella）",
+      "D": "梭 狀困難桿菌（Clostridium difficile）"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 12,
+    "question_text": "關 於自體顯性多囊腎（autosomal dominant polycystic kidney disease, ADPKD）及自體隱性多囊腎 （autosomal recessive polycystic kidney disease, ARPKD），下列敘述何者最不適當？",
+    "options": {
+      "A": "A DPKD之囊泡表現可見於肝臟、脾臟、胰臟與女性卵巢",
+      "B": "A RPKD較常出現在新生兒時期，可能伴隨有羊水過少、肺部發育不全等表現",
+      "C": "兩 者皆可能出現血尿、高血壓、腎衰竭等併發症",
+      "D": "大 部分ADPKD的基因缺陷發生在第6對染色體"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 13,
+    "question_text": "關 於急性鏈球菌感染後腎炎（acute poststreptococcal glomerulonephritis）的描述，下列何者最為適 當？",
+    "options": {
+      "A": "最 常發生於3歲以下的孩童",
+      "B": "最 常見表現為咽喉感染後1至3天內發生巨視性血尿",
+      "C": "於 90%的病童其血液中C3與C4數值同時明顯下降",
+      "D": "早 期使用抗生素治療鏈球菌並無法減少腎炎的發生"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 14,
+    "question_text": "5 歲女童高燒3日及膿尿（pyuria ; WBC 100～150/HPF），住院接受抗生素治療。經投與經驗性抗生素治療 3日後，高燒並沒有改善。腹部電腦斷層（有注射顯影劑）檢查顯示如圖，女童最可能的診斷為：",
+    "options": {
+      "A": "急 性腎絲球腎炎（acute glomerulonephritis）",
+      "B": "急 性大葉性腎盂腎炎（acute lobar nephronia）",
+      "C": "急 性腎膿瘍（acute renal abscess）",
+      "D": "急 性腎梗塞（acute renal infarction）"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 15,
+    "question_text": "關 於過敏性紫斑症（Henoch-Schönlein purpura），下列敘述何者最為適當？",
+    "options": {
+      "A": "紫 斑（purpura）主要出現在上肢及軀幹",
+      "B": "抽 血大部分會發現血小板低下",
+      "C": "病 理表現為血管炎（vasculitis）與IgA沉積在小血管",
+      "D": "大 部分病患會造成腎臟發炎，應儘快給與類固醇治療"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 16,
+    "question_text": "有 關兒童特發性關節炎（juvenile idiopathic arthritis），下列敘述何者最不適當？",
+    "options": {
+      "A": "是 指16歲以下至少關節腫痛6週以上",
+      "B": "是 兒童最常見的慢性風濕性疾病",
+      "C": "要 長期追蹤注意是否合併虹彩炎（anterior uveitis）",
+      "D": "生 物製劑（如Omalizumab）可用於治療嚴重者"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 17,
+    "question_text": "有 關慢性蕁麻疹，下列敘述何者最適當？",
+    "options": {
+      "A": "是 指病程反覆發作14天以上",
+      "B": "可 能是自體免疫疾病，如：thyroid disease的先期表現",
+      "C": "血 清過敏原（specific IgE）檢驗為常規檢測項目",
+      "D": "用 第2代抗組織胺治療，即使效果不好也不宜增加劑量"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 18,
+    "question_text": "關 於剛出生健康足月新生兒的血液學變化，下列敘述何者最適當？",
+    "options": {
+      "A": "與 學齡兒童相比，紅血球體積較小，血紅素較低，此乃生理性貧血",
+      "B": "除 了第八因子濃度比較接近成人的濃度，其餘的凝血因子濃度都較成人低",
+      "C": "蛋 白C與蛋白S數值較學齡兒童高",
+      "D": "血 小板功能較學齡兒童佳"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 19,
+    "question_text": "關 於兒童癌症，下列敘述何者最不適當？",
+    "options": {
+      "A": "兒 童癌症僅有少數（8～10%）為偶發，大部分（90%以上）都與先天性的遺傳疾病有關",
+      "B": "白 血病是臺灣及美國最常見的兒童癌症類別",
+      "C": "在 全面接種B型肝炎疫苗的國家，可觀察到兒童肝細胞癌（hepatocellular carcinoma）的發生率明顯下降",
+      "D": "較 可能發生在青少年時期的癌症，有骨癌、何杰金淋巴瘤、性腺癌（卵巢或睪丸癌）及上皮癌等"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 20,
+    "question_text": "3 歲男童因發燒1週合併輕度貧血，做骨髓抽吸抹片檢查時發現多處細胞叢集（clumps）形成薔薇狀構造 （rosette formation），並圍繞著一些纖維狀物質。下列何者為最有可能的診斷？",
+    "options": {
+      "A": "神 經母細胞瘤（neuroblastoma）",
+      "B": "急 性淋巴性白血病（acute lymphoblastic leukemia）",
+      "C": "感 染性單核球增多症（infectious mononucleosis）",
+      "D": "高 雪氏症（Gaucher disease）"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 21,
+    "question_text": "關 於小兒敗血症與敗血性休克的敘述，下列何者最適當？",
+    "options": {
+      "A": "敗 血症會造成單一身體器官失能，導致死亡",
+      "B": "敗 血症是一種感染過程中，造成兒童局部性發炎反應的現象",
+      "C": "兒 童敗血症之早期症狀通常為低血壓",
+      "D": "敗 血性休克造成血行動力學不穩定或呼吸窘迫時，需要考慮插管治療"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 22,
+    "question_text": "對 於兒童氣胸發生後的治療方針，下列敘述何者最適當？",
+    "options": {
+      "A": "輕 至中度的氣胸，有機會在1個星期內自己改善",
+      "B": "第 一次發作的氣胸，其程度小於5%的病童，需要胸管引流治療",
+      "C": "氣 胸第一次發作，應使用化學性肋膜黏連術（chemical pleurodesis）治療",
+      "D": "氣 胸發作次數與外科內視鏡手術治療時機無關"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 23,
+    "question_text": "2 歲女童，發燒、持續昏睡、呼吸喘及有肌躍型抽搐，身體診察有口腔潰瘍，手部、足部與臀部出現紅色丘 疹及水泡。關於此病症的敘述，下列何者最不適當？",
+    "options": {
+      "A": "肌 躍型抽搐為類似受到驚嚇的動作，可能是腸病毒重症之前兆",
+      "B": "可 能是腸病毒71型感染併發重症合併腦幹腦炎，須進行腦脊髓液檢查",
+      "C": "為 維持該童之基本血壓，應快速給與大量靜脈輸液",
+      "D": "若 因心臟衰竭有休克症狀、血壓下降之情形，升壓藥物應優先使用milrinone"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 24,
+    "question_text": "足 月新生兒，出生體重4250公克。因為呼吸喘，入住新生兒病房。母親懷孕時有妊娠糖尿病，僅以飲食控 制。出生4小時後，因為活動力不佳，檢查發現低血糖（血糖：39 mg/dL）。下列何種處置最不適當？",
+    "options": {
+      "A": "立 即靜脈給與2 c.c./kg的葡萄糖水（10%），等到血糖＞70 mg/dL，再抽血檢查低血糖的原因",
+      "B": "需 注意是否同時有低血鈣（hypocalcemia）、低血鎂（hypomagnesemia）的情形",
+      "C": "考 慮安排心臟超音波，檢查是否有心臟構造的問題",
+      "D": "因 出生體重過重，要注意是否有產傷（birth trauma）"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 25,
+    "question_text": "1 4歲女孩有無痛性的雙側甲狀腺腫大，合併心悸、體重減輕、月經不規則。實驗室檢查顯示，free T4 3.6 ng/dL（參考值0.79～1.89）、TSH＜0.03 mIU/L（參考值0.5～5.5）。下列何者是最可能的診斷？",
+    "options": {
+      "A": "葛 雷夫氏病（Graves disease）",
+      "B": "橋 本氏病（Hashimoto disease）",
+      "C": "乳 突狀甲狀腺癌（papillary thyroid cancer）",
+      "D": "亞 急性甲狀腺炎（subacute thyroiditis）"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 26,
+    "question_text": "2 歲男童發燒5天伴隨全身性瘀點（petechiae）而住院，同時有鼻塞及雙眼眼皮浮腫。身體診察發現頸部淋 巴結腫大、扁桃腺有滲出物。抽血檢查：Hb 10 g/dL、WBC 18800/μL、atypical lymphocyte 16%、 platelet 20000/μL，GOT 194 IU/L、GPT 109 IU/L、CRP 0.5 mg/dL，EB VCA IgM＞160.0 U/mL；血液塗片 染色如圖所示。有關此疾病的敘述，下列何者最不適當？",
+    "options": {
+      "A": "最 有可能為Epstein-Barr virus感染",
+      "B": "圖 中血液塗片中箭頭所指為非典型淋巴球（atypical lymphocyte）",
+      "C": "因 為血小板低下症狀嚴重，應儘快使用抗病毒藥物治療",
+      "D": "短 期皮質類固醇治療，可能有助於此病症的特定併發症"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 27,
+    "question_text": "關 於活性減毒疫苗，下列敘述何者最不適當？",
+    "options": {
+      "A": "麻 疹、水痘疫苗和B型流行性腦脊髓炎疫苗都是活性減毒疫苗",
+      "B": "活 性減毒疫苗往往會誘發長期免疫反應",
+      "C": "大 多數活性減毒疫苗通常只需要接種1劑或2劑",
+      "D": "M MR活性減毒疫苗需重複接種的目的是誘導那些對第一劑沒有反應者的初始免疫反應（initial immune response）"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 28,
+    "question_text": "關 於麻疹腮腺炎德國麻疹混合疫苗（MMR疫苗）接種及疑似麻疹個案接觸者暴露後預防建議措施的敘述，下 列何者最不適當？",
+    "options": {
+      "A": "距 最近一次暴露72小時內，滿6個月至未滿1歲嬰兒可由醫師評估後選擇接種MMR疫苗或肌肉注射麻疹免 疫球蛋白（IMIG）",
+      "B": "注 射麻疹免疫球蛋白（IMIG）後，為了提高保護效力，須於2週時再接種MMR疫苗",
+      "C": "未 滿1歲嬰兒提前接種MMR疫苗進行暴露後預防時，仍須於滿1歲後，按時程重新完成2劑公費常規疫苗接 種",
+      "D": "未 滿1歲嬰兒之暴露後預防如接種MMR疫苗，後續接種常規MMR疫苗，應至少間隔28天"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 29,
+    "question_text": "有 關腦性麻痺的敘述，下列何者最不適當？",
+    "options": {
+      "A": "造 成早產兒的腦性麻痺主要的病灶是腦室旁白質軟化",
+      "B": "超 過7成以上的腦性麻痺個案發生的原因與新生兒窒息有關",
+      "C": "a thetoid cerebral palsy可能起因於核黃疸（kernicterus）的結果",
+      "D": "可 能合併有癲癇、認知功能障礙或語言發展遲緩等問題"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 30,
+    "question_text": "關 於兒童頭痛，下列那一項病史最不需要考慮進行神經影像學檢查？",
+    "options": {
+      "A": "頭 痛合併有癲癇發作",
+      "B": "家 族有偏頭痛病史",
+      "C": "咳 嗽時頭痛會更加劇烈",
+      "D": "沒 有外傷的情況下從來沒有經歷過如此劇烈之頭痛"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 31,
+    "question_text": "關 於Wilson disease的敘述，下列何者最不適當？",
+    "options": {
+      "A": "1 0歲以前發病的族群，常以神經學症狀為主要表現，尤其是癲癇發作",
+      "B": "屬 隱性遺傳疾病，因第13對染色體上ATP7B基因出現變異",
+      "C": "神 經學外的表現還有肝衰竭、肝硬化、凝血功能異常等",
+      "D": "不 能完全以ceruloplasmin levels確立或排除診斷，仍需考慮急性發炎疾病、懷孕等因素"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 32,
+    "question_text": "關 於兒科病童在急診就診的初步評估，下列何者最為適當？",
+    "options": {
+      "A": "初 步評估的兒童評估三角（pediatric assessment triangle）著重的重點為呼吸道（airway）、呼吸 （breathing）、循環（circulation）",
+      "B": "初 步評估發現病童為危急狀態，應在完成初級（primary）、次級（secondary）與三級評估（tertiary assessment）後，再進行緊急處理",
+      "C": "初 級評估（primary assessment）中，收縮壓的最低標準，1歲以上需≧「70 mmHg＋年紀（以年算）× 2」，在10歲以上為≧90 mmHg",
+      "D": "三 級評估（tertiary assessment）包括焦點式病史詢問及身體診察"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 33,
+    "question_text": "下 列那一個狀況最不需要接受遺傳諮詢？",
+    "options": {
+      "A": "年 齡35歲以上的懷孕婦女",
+      "B": "上 一胎為先天性異常孩子的父母",
+      "C": "經 歷重複流產的婦女",
+      "D": "確 診為缺鐵性貧血的婦女"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 34,
+    "question_text": "3 0歲女性，在軀幹及四肢出現靶心狀病灶及水疱，同時伴隨口腔糜爛，眼結膜紅腫以及會陰部糜爛。下列何 者為最可能之診斷？",
+    "options": {
+      "A": "多 型性紅斑（erythema multiforme）",
+      "B": "梅 毒（syphilis）",
+      "C": "汗 疱疹（pompholyx）",
+      "D": "結 節性紅斑（erythema nodosum）"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 35,
+    "question_text": "基 於乾癬的免疫致病機轉，以下列那一細胞激素作為標靶阻斷時無法達到有效治療？",
+    "options": {
+      "A": "T NF-α",
+      "B": "I L-17A",
+      "C": "I L-4",
+      "D": "I L-23"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 36,
+    "question_text": "有 關脂漏性皮膚炎（seborrheic dermatitis）的敘述，下列何者正確？",
+    "options": {
+      "A": "皮 膚受Malassezia furfur感染與此病無關",
+      "B": "H IV感染不會加重脂漏性皮膚炎的臨床症狀",
+      "C": "遇 到難以控制的脂漏性皮膚炎患者，醫師須考慮該患者罹患乾癬的可能性",
+      "D": "P arkinson disease不會加重脂漏性皮膚炎的臨床症狀"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 37,
+    "question_text": "下 列關於皮膚的病毒感染之敘述，何者錯誤？",
+    "options": {
+      "A": "感 染性紅斑（erythema infectiosum）是parvovirus B19感染所導致，典型是像slapped cheek的臉部紅 疹",
+      "B": "水 痘（varicella）的疫苗保護力極佳，打過疫苗的人就不可能再被varicella-zoster virus（VZV）感染 而長出水痘",
+      "C": "手 足口病（hand-foot-mouth disease）其致病原的主要感染途徑是糞口傳染",
+      "D": "尖 圭濕疣（condyloma acuminatum）主要的致病原為HPV-6及HPV-11"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 38,
+    "question_text": "2 5歲男性志願役士兵，平常在軍隊整天穿著軍靴，此次因腳底會散發異味的問題來就診，病灶如圖所示，最 可能的診斷為何？",
+    "options": {
+      "A": "足 癬（tinea pedis）",
+      "B": "異 汗性濕疹（dyshidrotic eczema）",
+      "C": "凹 陷性角質溶解症（pitted keratolysis）",
+      "D": "掌 蹠膿疱症（palmoplantar pustulosis）"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 39,
+    "question_text": "某 些遺傳性症候群的患者由於先天性基因的缺失，往往造成其皮膚發生鱗狀上皮細胞癌的機率較常人高。這 些症候群不包括下列何者？",
+    "options": {
+      "A": "著 色性乾皮症（xeroderma pigmentosum）",
+      "B": "韋 爾納症候群（Werner syndrome）",
+      "C": "史 特基–韋伯氏症候群（Sturge-Weber syndrome）",
+      "D": "眼 皮膚白化症（oculocutaneous albinism）"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 40,
+    "question_text": "5 5歲男性，自兩年前在軀幹與四肢陸續出現許多無症狀的紅色斑塊，並合併輕微脫屑（如圖所示），經KOH 檢查並未發現有黴菌感染；最近數週發現有些病灶形成結節。皮膚切片之病理檢查結果顯示表皮中有許多異 常細胞浸潤如附圖。此患者最可能的診斷為下列何者？",
+    "options": {
+      "A": "蕈 狀肉芽腫（mycosis fungoides）",
+      "B": "類 肉瘤（sarcoidosis）",
+      "C": "蟹 足腫（keloid）",
+      "D": "結 節性癢疹（prurigo nodularis）"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 41,
+    "question_text": "3 8歲女性病人，下肢出現病灶已有兩週（如附圖），曾服用過口服抗生素並沒有改善。來院接受皮膚切片檢 查，病理結果顯示為septal panniculitis。下列敘述何者正確？",
+    "options": {
+      "A": "此 疾病常常同時伴隨血管炎的發生",
+      "B": "此 疾病病理下常常可看到許多plasma cell浸潤",
+      "C": "此 疾病最有可能是lupus panniculitis",
+      "D": "常 見的原因包括感染、藥物或免疫疾病"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 42,
+    "question_text": "2 5歲女性發現雙側腋下及腹股溝出現反覆發炎疼痛之結節並有膿樣的分泌物，經診斷為化膿性汗腺炎 （hidradenitis suppurativa）。下列有關化膿性汗腺炎之敘述，何者錯誤？",
+    "options": {
+      "A": "在 病灶處若有長期無法癒合的傷口，可能是鱗狀上皮細胞癌",
+      "B": "嚴 重度可用Hurley stage評估",
+      "C": "對 於嚴重度較輕之病患，首選治療為口服tetracycline或塗抹clindamycin藥膏",
+      "D": "為 細菌感染所致，故不可給與環孢素（cyclosporin）或類固醇等免疫抑制藥物"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 43,
+    "question_text": "下 列何種疾病之遺傳模式是體染色體隱性遺傳（autosomal recessive）？",
+    "options": {
+      "A": "第 一型神經纖維瘤病（neurofibromatosis type I）",
+      "B": "結 節性硬化症（tuberous sclerosis）",
+      "C": "著 色性乾皮症（xeroderma pigmentosum）",
+      "D": "P eutz-Jeghers 症候群（Peutz-Jeghers syndrome）"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 44,
+    "question_text": "脊 髓梗塞（spinal cord infarction）的臨床表現，下列敘述何者最不恰當？",
+    "options": {
+      "A": "胸 椎之前脊髓症候群（thoracic anterior cord syndrome）的典型症狀為雙下肢無力及本體感覺喪失，但 對溫度感覺則不影響",
+      "B": "症 狀常在數分鐘到數小時內發生惡化",
+      "C": "症 狀初期常出現下肢肌腱反射喪失",
+      "D": "在 梗塞區域的皮節（dermatome）常會有疼痛感"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 45,
+    "question_text": "血 栓移除術（endovascular thrombectomy）為缺血性腦中風之重要急性治療方法，下列敘述何者錯誤？",
+    "options": {
+      "A": "血 栓移除術主要應用於大血管阻塞的急性中風病人，針對小血管阻塞的病人（lacunar infarct）並不適用",
+      "B": "針 對大血管阻塞的病人，於進行血栓移除術治療打通血管後，會再施行血栓溶解治療（thrombolytic therapy），以進一步減少遠端小血栓所造成的腦梗塞",
+      "C": "進 行血栓移除術打通血管，主要是要救回腦部半影區（penumbra）的組織",
+      "D": "使 用腦部灌流造影（perfusion scan）可幫助篩選適合接受血栓移除術的病人，腦中風於發生24小時內尚 有機會接受治療"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 46,
+    "question_text": "5 6歲男性，因為腦內出血（intracerebral hemorrhage）合併右側偏癱（hemiparesis）。他罹患高血壓多 年，但卻從未接受治療。根據病史，最可能的病灶位置在：",
+    "options": {
+      "A": "殼 核（putamen）",
+      "B": "前 額葉（prefrontal lobe）",
+      "C": "枕 葉（occipital lobe）",
+      "D": "小 腦（cerebellum）"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 47,
+    "question_text": "下 列何者不是預防偏頭痛發作的藥物？",
+    "options": {
+      "A": "p ropranolol",
+      "B": "c arbamazepine",
+      "C": "t opiramate",
+      "D": "o nabotulinum toxin type A"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 48,
+    "question_text": "下 列何者不是入睡抽動（hypnic jerks）常見的加重因子？",
+    "options": {
+      "A": "睡 眠不足",
+      "B": "睡 前喝水",
+      "C": "睡 前劇烈運動",
+      "D": "情 緒壓力"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 49,
+    "question_text": "對 於不是重積癲癇（status epilepticus）的一般癲癇病人，下列抗癲癇藥物的使用，何者錯誤？",
+    "options": {
+      "A": "起 始治療應根據病人的癲癇種類，選取單一種最適宜的藥物",
+      "B": "起 始治療劑量應由低劑量開始，以減少急性副作用",
+      "C": "起 始治療即應達到血中高藥物濃度，以確保療效",
+      "D": "後 續藥物調整，應根據病人的反應與副作用而定"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 50,
+    "question_text": "3 0歲女性持柺杖至神經科門診就診，主訴近一年來走路不穩的情況愈來愈明顯，說話也變得口齒不清。身體 診察發現眼動緩慢且有眼震，肢體測距不準，肌腱反射異常增強，她的父親及祖母也有類似症狀。據上描 述，下列何種診斷最為可能？",
+    "options": {
+      "A": "脊 髓小腦共濟失調（spinocerebellar ataxia）",
+      "B": "威 爾森氏病（Wilson disease）",
+      "C": "巴 金森氏病（Parkinson disease）",
+      "D": "庫 賈氏病（Creutzfeldt-Jakob disease）"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 51,
+    "question_text": "6 0歲女性在唱卡拉OK後，突然開始不停的重複提問同一個問題，如「現在幾點鐘？」、「這裡是那裡？」 等等。當獲得回答以後，又會馬上忘記。她可以自己走路、吃東西和洗澡，但是行為表現和平時很不一樣。 10小時後，她恢復正常，但是她對於這10小時內的事情完全沒有記憶。有關此疾病，下列敘述何者最恰 當？",
+    "options": {
+      "A": "只 有新發生的事情記不起來，以前的事都可以記住",
+      "B": "後 續追蹤容易發生中風",
+      "C": "偏 頭痛是此病的危險因子",
+      "D": "腦 部血流檢查可發現大腦前動脈血流灌注不良"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 52,
+    "question_text": "有 關阿茲海默氏病（Alzheimer disease），下列敘述何者錯誤？",
+    "options": {
+      "A": "是 最常見的退化型失智症",
+      "B": "A PP、PSEN1及PSEN2基因突變，會造成隱性遺傳",
+      "C": "病 理特徵是細胞外類澱粉斑塊與細胞內神經糾結",
+      "D": "臨 床症狀有時會出現妄想症狀"
+    },
+    "answer": "#"
+  },
+  {
+    "question_number": 53,
+    "question_text": "有 關肌萎縮性側索硬化（amyotrophic lateral sclerosis）的敘述，下列何者正確？",
+    "options": {
+      "A": "會 侵犯自律神經系統",
+      "B": "不 會侵犯感覺神經系統",
+      "C": "不 會侵犯上運動神經元",
+      "D": "不 會侵犯下運動神經元"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 54,
+    "question_text": "下 列有關「吞嚥困難」的特徵，何者較少發生在中風病人，而是重症肌無力病人特有的表現？",
+    "options": {
+      "A": "吞 嚥困難對「流質食物」特別嚴重",
+      "B": "吞 嚥困難常會合併「講話不清楚（dysarthria）」",
+      "C": "吞 嚥困難常在「夜間惡化」，以致無法順利進食晚餐",
+      "D": "吞 嚥困難常會合併「流口水（drooling）」"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 55,
+    "question_text": "6 0歲男性主訴漸進性步態不穩6個月，合併尿失禁，神經學檢查發現膝反射和踝反射消失，感覺性共濟失調 （sensory ataxia），下肢振動覺和關節本體感覺受損，瞳孔光反射異常，聚焦反射（accommodation reflex）正常，最可能的診斷為：",
+    "options": {
+      "A": "前 額葉腦中風（prefrontal lobe infarct）",
+      "B": "中 腦中風（midbrain infarct）",
+      "C": "梅 毒脊髓症（tabes dorsalis）",
+      "D": "亞 急性合併退化（subacute combined degeneration）"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 56,
+    "question_text": "關 於腦炎的敘述，下列何者錯誤？",
+    "options": {
+      "A": "腦 炎常因病毒感染而發生，也可以是因為自體免疫的機制而發病",
+      "B": "常 見的臨床病症包括發燒、意識障礙與癲癇發作",
+      "C": "腦 脊髓液檢查中白血球的數量增加是腦炎診斷的必要條件",
+      "D": "當 病人疑似罹患病毒性腦炎時，在確定感染的病原體前，可先開始使用acyclovir治療"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 57,
+    "question_text": "4 5歲女性，六年前開始情緒不穩，常易怒煩躁；一年後，動作變得笨拙且容易跌倒。再過兩年，雙腿出現一 些不自主、小幅度、無規律性扭動，之後持續惡化並延伸至上肢、軀幹及頭頸部。目前已無法行走，同時也 出現記憶衰退。病人父親於40歲時有類似症狀，此病人最可能罹患下列何種疾病？",
+    "options": {
+      "A": "亨 丁頓氏病（Huntington disease）",
+      "B": "額 顳葉失智症（frontotemporal dementia）",
+      "C": "威 爾森氏病（Wilson disease）",
+      "D": "第 六型小腦脊髓共濟失調症（spinocerebellar ataxia type 6）"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 58,
+    "question_text": "關 於急性瀰漫性腦脊髓炎（acute disseminated encephalomyelitis, ADEM）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "常 發生在病毒或細菌感染後",
+      "B": "偶 爾在疫苗接種後發生",
+      "C": "常 是單一病程，不會反覆發病",
+      "D": "較 好發於成年人"
+    },
+    "answer": "#"
+  },
+  {
+    "question_number": 59,
+    "question_text": "有 關妄想症（delusional disorder）的敘述，下列何者正確？",
+    "options": {
+      "A": "盛 行率與思覺失調症相近",
+      "B": "發 病年齡早於思覺失調症",
+      "C": "常 會出現幻覺症狀，特別是聽幻覺",
+      "D": "社 會或感官的隔離是妄想症的危險因子之一"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 60,
+    "question_text": "有 關思覺失調症（schizophrenia）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "盛 行率男女相同",
+      "B": "女 性患者發病年齡通常晚於男性患者",
+      "C": "男 性患者較容易受到負性症狀（negative symptoms）影響而導致功能受損",
+      "D": "當 發病年齡晚於60歲時將被歸類為晚發性思覺失調症（late-onset schizophrenia）"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 61,
+    "question_text": "有 關思覺失調症（schizophrenia）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "患 者的生殖力（fertility rate）低於一般人口",
+      "B": "有 高比例罹患內科疾病，其中高達一半可能未被診斷",
+      "C": "同 卵雙胞胎的思覺失調症共病率（concordance rate）約為50%",
+      "D": "父 親年齡大於60歲所生產的小孩，長大後罹患思覺失調症的機會增加"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 62,
+    "question_text": "有 關雙相情緒障礙症（bipolar disorders）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "大 多數bipolar II的個案診斷後，5年內不太會轉變成bipolar I的診斷",
+      "B": "電 痙攣療法（electroconvulsive therapy﹐ECT）可使用於嚴重的躁期或鬱期治療",
+      "C": "大 約有一半的患者會只發作過一次躁症或鬱症，而不再復發",
+      "D": "發 病的平均年齡比憂鬱症早"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 63,
+    "question_text": "和 壓力反應最有相關的內分泌系統，俗稱壓力賀爾蒙，下列何者為最相關？",
+    "options": {
+      "A": "性 荷爾蒙系統",
+      "B": "腸 胃系統的神經胜肽",
+      "C": "下 視丘–腦下垂體–腎上腺軸（hypothalamic-pituitary-adrenal axis）",
+      "D": "血 清素系統（serotonergic system）"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 64,
+    "question_text": "有 關群纖維肌痛（fibromyalgia）症候群有關的藥物治療，下列何者最不適當？",
+    "options": {
+      "A": "n arcotics是解除疼痛的首選",
+      "B": "p regabalin是適合用藥之一",
+      "C": "抗 鬱劑扮重要角色",
+      "D": "一 般止痛藥亦有效果"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 65,
+    "question_text": "關 於焦慮性疾患（anxiety disorders）的描述，下列何者錯誤？",
+    "options": {
+      "A": "包 括廣泛性焦慮症、恐慌症、畏懼症等疾病",
+      "B": "依 美國流行病學研究，為盛行率最高的精神疾病",
+      "C": "大 部分焦慮性疾患發病年齡在青少年或成年早期",
+      "D": "大 部分焦慮性疾患之盛行率男性大於女性"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 66,
+    "question_text": "有 關偷竊癖（kleptomania），下列何者錯誤？",
+    "options": {
+      "A": "偷 到東西後常有張力紓解感",
+      "B": "常 與情緒疾患（mood disorders）有較高比率共病（comorbidity）",
+      "C": "女 性盛行率較男性高",
+      "D": "偷 竊的行為多為計畫性，通常經過仔細規劃"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 67,
+    "question_text": "有 關血管性失智症（vascular dementia）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "約 占所有失智症（dementia）患者15～30%，是所有失智症患者中第二常見類型",
+      "B": "好 發年齡約在60～70歲，常見於女性",
+      "C": "常 在發病前就有高血壓及心血管疾病史",
+      "D": "不 同於阿茲海默症漸進性退化，血管性失智症多階梯式退化"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 68,
+    "question_text": "依 據美國精神醫學會所出版的精神疾病診斷準則手冊第五版（DSM-5），有關認知功能的範疇（cognitive domain），下列何者錯誤？",
+    "options": {
+      "A": "執 行功能（executive function）",
+      "B": "語 言（language）",
+      "C": "社 會認知（social cognition）",
+      "D": "定 向感（orientation）"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 69,
+    "question_text": "興 奮劑（stimulant）引起的精神病的症狀與處理，下列敘述何者錯誤？",
+    "options": {
+      "A": "精 神病症狀以視幻覺最常見",
+      "B": "妄 想與幻覺是興奮劑所致精神病的主要症狀",
+      "C": "也 有可能出現蟲爬感（formication or the sensation of bugs crawling beneath the skin），令個案出 現搔抓行為",
+      "D": "主 要的治療是短期使用antipsychotics，例如haloperidol"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 70,
+    "question_text": "某 48歲工人，過去工作狀況尚可，但長期每天持續有喝烈酒習慣，某日因胰臟炎住院因此停止喝酒，3天後 個案逐漸出現入睡困難、焦躁不安，甚至定向感喪失，連家人也不認識。此狀態最可能之診斷為何？",
+    "options": {
+      "A": "W ernicke's 腦病變（encephalopathy）",
+      "B": "急 性震顫（tremulousness）",
+      "C": "酒 精戒斷譫妄（alcohol withdrawal delirium）",
+      "D": "酒 精性失智（alcohol-induced persistent dementia）"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 71,
+    "question_text": "有 關自閉症類群障礙症（autism spectrum disorder）的藥物治療（psychopharmacological interventions），下列何者最正確？",
+    "options": {
+      "A": "藥 物治療主要目的是用來改善自閉症的核心症狀（例如：社會－情緒相互性、非語言的溝通行為）",
+      "B": "r isperidone（抗精神病藥物的一種）已被證實可以減低自閉症的激躁（irritability）行為",
+      "C": "m ethylphenidate是治療注意力不足／過動症的藥物，對自閉症合併的過動症狀並不具治療效果",
+      "D": "一 些營養補充品，例如：綜合維他命、必需脂肪酸（essential fatty acid），對自閉症的的溝通行為已被 證實具有療效"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 72,
+    "question_text": "侵 擾性情緒失調疾患（disruptive mood dysregulation disorder, DMDD）和對立性反叛疾患 （oppositional defiant disorder, ODD）之比較，下列敘述何者錯誤？",
+    "options": {
+      "A": "兩 者都會有易怒（irritability）、發脾氣（temper outbursts）及生氣（anger）",
+      "B": "幾 乎符合DMDD診斷之患者的症狀都可以符合ODD診斷要件",
+      "C": "幾 乎符合ODD診斷之患者症狀並不完全符合DMDD之診斷要件",
+      "D": "D MDD之症狀包括惱怒（annoyance）與對立（defiance），ODD之診斷要件也有這兩個症狀"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 73,
+    "question_text": "依據我國現行精神衛生法，下列何種疾病不屬於精神疾病的範圍？",
+    "options": {
+      "A": "反 社會性人格違常",
+      "B": "精 神病",
+      "C": "精 神官能症",
+      "D": "酒 癮、藥癮"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 74,
+    "question_text": "5 3歲女性，一個月來有頭痛現象，根據所附二張MRI影像，下列何者為最可能的診斷？",
+    "options": {
+      "A": "內 頸動脈動脈瘤",
+      "B": "腦 膜瘤",
+      "C": "多 形性膠質母細胞瘤",
+      "D": "腦 下垂體腺瘤"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 75,
+    "question_text": "出 生4個月大的早產兒，因小腸壞死長期使用靜脈營養注射，因雙側踝關節變形所照的X光影像如圖示，下 列何者為最常見的診斷？",
+    "options": {
+      "A": "壞 血症（scurvy）",
+      "B": "甲 狀腺機能亢進（hyperthyroidism）",
+      "C": "骨 質骨髓炎（osteomyelitis）",
+      "D": "佝 僂症（rickets）"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 76,
+    "question_text": "7 歲男童因異物梗塞無法出聲時，下列處置何者最適當？",
+    "options": {
+      "A": "如 果沒看到異物，可用手指嘗試掏挖",
+      "B": "如 果沒看到異物，可用器械嘗試掏挖",
+      "C": "如 果沒看到異物，使用哈姆立克法急救",
+      "D": "若 處置過程中病童失去意識，立即實施環甲膜穿刺術（needle cricothyrodotomy）通氣"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 77,
+    "question_text": "有 關卡西酮（cathinone）類物質的濫用敘述，下列何者最適當？",
+    "options": {
+      "A": "化 學結構類似ketamines",
+      "B": "會 刺激正腎上腺素（norepinephrine）、多巴胺（dopamine）的釋出",
+      "C": "會 產生鎮靜安眠的作用，常被用作性侵的協助藥物",
+      "D": "在 常見濫用物質的尿液檢驗中會被當作ketamines而檢驗出來"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 78,
+    "question_text": "引 起老人譫妄（delirium）的藥物，下列何者最不常見？",
+    "options": {
+      "A": "a tropine",
+      "B": "h aloperidol",
+      "C": "l orazepam",
+      "D": "m eperidine"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 79,
+    "question_text": "滿 24週之胎兒，預估體重500公克，因破水併子宮收縮，安胎無效，準備生產。胎兒父親要求放棄此胎兒， 出生後不要施予急救。下列何種做法最為適當？",
+    "options": {
+      "A": "根 據優生保健法規範，告知父母不可在此時放棄",
+      "B": "與 父母親說明此週數新生兒的預後，並討論出生後處置方式",
+      "C": "因 為將來養育的責任在父母身上，應尊重父親不救治之意願",
+      "D": "胎 兒未出生係屬於母親身體自主權的範圍，母親是唯一的決定者"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 80,
+    "question_text": "1 0歲的小女孩有一個罹患急性淋巴性白血病的12歲姐姐。她與姐姐HLA完全相符，因此在2年前是姐姐接 受骨髓移植的最佳骨髓捐贈者。2年後姐姐白血病復發，醫師與家屬決定再拚一次骨髓移植。所以這個10歲 的小女孩入院準備抽取骨髓。她卻在抽骨髓的當天早上逃離了醫院，隨後雖然找到了她，但抽取骨髓程序只 好延後。下列做法何者最為適當？",
+    "options": {
+      "A": "只 要父母同意即可抽取妹妹的骨髓",
+      "B": "告 知妹妹要對姐姐有愛心，勸說她捐贈骨髓",
+      "C": "請 心理師或兒童友善醫療團隊介入，取得妹妹同意後進行",
+      "D": "因 涉及家人間之利益衝突，訴請法院裁決"
+    },
+    "answer": "C"
+  }
+]
