@@ -1,6 +1,6 @@
 # 產科
 
-## Ante-Partum產前時期（考題33）
+## Ante-Partum產前時期（考題31）
 
 - Maternal-fetal physiology
   - Cardiovascular system
@@ -41,7 +41,7 @@
 - 早期破水（PROM, 50%兩天內分娩）：RF＝PROM hx, 生殖道感染, 產前出血, smoking；DDx＝Nitrazine test（pH test, 羊水pH>6.5呈藍色）, Amino-dye infusion（indigo carmine打入羊水, 30min後陰道有染劑, 舊gold-standard）, PAMG-1（AmniSure test, 棉棒採樣快篩, 當今最準且無周數限制）；Tx＝安胎（tocolytics for<32wks）, 抗生素（預防感染）, Betamethasone（促肺成熟）
 - 安胎藥物：Ritodrine（Yutopar, 唯一FDA, 但SE多（心悸喘, 心跳上升/可能血壓上升, 低血鉀, 高血糖）, Nifedipine（Ca blocker, >32wks一線, 不可並用MgSO4）, MgSO4（only FDA for子癲前預防, 安胎∈off-label, SE＝低壓低鈣水腫燥熱）, Indomethacin（NSAID, 抑制子宮收縮, <32wks一線, 不可用於>32wks（會關PDA））, Atosiban（專注子宮, 不喘）
 
-## Delivery分娩（考題24）
+## Delivery分娩（考題22）
 
 - 骨盆生產評估
   - Pelvic types（骨盆類型）＝Gynecoid（女性型, 50%, 最適合生產, 圓形）, Android（男性型, 心形, 預後差）, Anthropoid（猿人型, 橢圓形）, Platypelloid（扁平型, 扁圓形）
@@ -74,7 +74,7 @@
   - Obstetric sepsis：常見來源＝UTI/pyelonephritis, chorioamnionitis, endometritis, wound infection；常見菌＝E. coli（最常見）, GBS/GAS, S. aureus, anaerobes, Enterococcus, Klebsiella；Listeria可見於孕期感染但產科敗血症相對少見
   - 母乳特徵：初乳（colostrum, 產後3-5天, 黃色富含免疫球蛋白）, 成乳（mature milk, 產後2週, 有IgA, cytokine, 缺K, ∴出生要打Vit K）
 
-## High-risk pregnancy高危險妊娠（考題13）
+## High-risk pregnancy高危險妊娠（考題14）
 
 - Preeclampsia：機轉unknown, 可能與胎盤血管生成異常（sFlt-1⭡, VEGF/PlGF⭣）有關；RF＝GDM, HTN, 多胞胎, 自體免疫Dx；DDx＝蛋白尿（24hr尿蛋白>300mg, 尿蛋白/肌酐比>0.3, dipstick≥2+）, SBP/DBP>140/90, 器官失能；併發症＝腦出血, 腦中風, 胎兒遲緩, 胎盤剝離；Tx（生產/避免母親缺氧/HTN/復發）＝引產（>34wks, 唯一根治方法）, MgSO4（預防子癲症, 不可用於MG, 肺水腫, SE＝心跳上升/可能血壓上升頭痛肺水腫鎂中毒（使用要規律側）DTR）, 降壓（Labetalol（急性用, 氣喘不用）, Nicardipine（急性用）, Methyldopa（慢性安全, cf. ACEi/ARB絕不可用）, 目標＝130-150/80-100, 太低胎兒會沒血）, Aspirin（最有效預防, 12-28wk給予）
   - 孕期高血壓相關定義：Gestational hypertension（妊娠高血壓, >20wks, 無蛋白尿/器官失能）, Preeclampsia（子癲前症, >20wks, 高血壓∩蛋白尿, 90% >34wks發病（if late onset, 預後佳））, Eclampsia（子癲症, 子癲前症+Seizure）, HELLP syndrome（Triad＝Hemolysis溶血+Elevated Liver enzymes肝酶升高+Low Platelet count血小板減少）
@@ -94,7 +94,7 @@
   - 輸尿管走勢（下上下）：卵巢血管下（上段）⭢內髂動脈上（中段）⭢卵巢/子宮動脈下（下段, 小橋流水）
   - 淋巴回流：子宮（外髂lymph）, 陰道（內髂lymph）, 卵巢（主動脈旁lymph）, 陰唇（淺腹股溝lymph）
 
-## 婦科Tumor（考題103）
+## 婦科Tumor（考題116）
 
 - 卵巢：SS＝無特定, 腹痛, 頻尿；併發症＝腫瘤扭轉（Mainly teratoma）, 囊腫破裂（Mainly黃體囊腫）；DDx＝內診, 超音波（惡性＝非高回音, 分葉, 有血流）, marker（上皮細胞＝CA125/CA199/CEA, 生殖細胞＝AFP/β-HCG/LDH）；Tx＝ 切片, 觀察（for 功能性卵巢）, 手術（for 其他）
   - ovarian cyst（1st 卵巢良性病灶）：
@@ -138,7 +138,7 @@
   - 良性：Hydatidiform mole（90%, 葡萄胎, pure良）：Complete mole＝46XX/XY（父源only）, 無胎兒組織, β-hCG較高, 惡性/侵襲風險較高；Partial mole＝triploid（三倍體, 多一套父源）, 可見胎兒組織, β-hCG較低, 惡性風險較低
   - 惡性：Invasive mole, Choriocarcinoma（易轉移, Mainly肺, 化療反應佳）, Placental site trophoblastic tumors, Epithelioid trophoblastic tumor}
 
-## 一般婦科學（考題24）
+## 一般婦科學（考題32）
 
 - Gynecological infection
   - Bacterial vaginosis（1st, 菌相失衡導致，培養非診斷標準）：成因＝性行為, 陰道灌洗, 抽菸；菌種＝Gardnerella, Prevotella, Bacteroides, Ureaplasma；SS＝分泌物多/腐臭味；DDx＝pH>4.5, 抹片（clue cell細菌包覆表皮細胞）, whiff test（+, 加KOH出現魚腥味）；Tx＝Metronidazole/Clindamycin（口服/陰道塞劑）
@@ -162,7 +162,7 @@
 - 卵巢扭轉（1st 婦科急症, 育齡女性）：成因＝卵巢囊腫/tumor（90%）；SS＝ Triad（下腹痛, 噁心, adnexal mass）；DDx＝超音波/CT/MRI（血流減少, 敏感度低）； Tx＝手術（卵巢復位, 卵巢切除）
 - 間質性膀胱炎（慢性dx, 機轉不明, 與mast cell有關）：女/男＝5, 特定食物活動加劇（咖啡, 酒精, 運動, 性交）；SS＝慢性膀胱不悅>6wks, 下泌尿道陣狀, 性交疼痛；DDx（臨床診斷為主）＝urine routine, 尿路動力學, 膀胱鏡切片（Hunner's lesion膀胱粘膜放射狀紅血管, Glomerulation腎絲球點狀出血, mast cell增加）, Potassium sensitivity test（+, 膀胱注射KCl高敏感）, Anesthetic bladder test（+, 膀胱注射局麻藥症狀改善）； Tx＝Mainly支持性, 口服藥物（TCA, Pentosan polysulfate sodium（PPS, 唯一FDA核准口服藥））, 膀胱灌注藥物（合併lidocaine, heparin等藥物）, 嚴重治療（打botox, 薦椎神經調節, 口服cyclosporine A, 尿道改道手術）
 
-## Female Endocrinology（考題39）
+## Female Endocrinology（考題27）
 
 - 生理週期：Two-cell two-gonadotropin model（LH刺激theca cell分泌androgen, FSH刺激granulosa cell將androgen轉化為estrogen）；激素作用＝Estrogen（刺激子宮內膜增生, 促進LH surge, 陰道表皮細胞角化, 乳房stroma/duct增生, 長高防骨鬆, 心血管保護）；Progesterone（刺激子宮內膜分泌, 抑制子宮內膜增生, 負回饋抑制LH/FSH, 乳房小葉增生, 心血管保護）
   - 月經週期：平均28天⭢濾泡期（1-14天, 末期estrogen第一高峰）⭢排卵期（14天, LH/FSH高峰）⭢黃體期（固定14天, 中期estrogen第二高峰＋progesterone高峰, 子宮頸細胞ferning pattern（羊齒狀））；
@@ -182,7 +182,7 @@
   - 子宮因素：Mainly∵子宮中隔（生殖預後最差的成因, 中隔越長預後越差）
   - 染色體異常：Mainly balanced translocation（父母染色體正常但子代染色體異常）
 
-## Infertility（考題25）
+## Infertility（考題24）
 
 - Infertility（不孕症, 1年內無避孕措施仍無法懷孕, 35歲以上6m, >40y/o想懷孕者要積極介入）：成因＝男性因素（30%）, 女性因素（50%）, 不明原因（20%）
   - 檢查項目：
@@ -208,7 +208,7 @@
   - 精子形態定義：Oligozoospermia（精子濃度<1.5x10^7/ml）, Asthenozoospermia（精子活力<40%）, Teratozoospermia（正常型態<4%）, Necrozoospermia（精子活力＝0%）, Azoospermia（精子濃度＝0）
 - Intrauterine adhesion（子宮內膜沾黏, Asherman syndrome）：成因＝子宮內膜損傷纖維沾黏（手術, 流產, 分娩, 感染）, 感染；SS＝月經量減少/停經, 不孕, 流產；DDx＝輸卵管攝影（filling defect）, 子宮鏡（gold standard）, Echo；Tx＝子宮鏡切除沾黏組織（術前勿亂用抗生素/GnRH, 無幫助）, 術後放置IUD預防再沾黏
 
-## 尿路動力學（考題17）
+## 尿路動力學（考題11）
 
 - 神經支配：pudendal n.（尿道外括約肌收放）,Hypogastric n.（交感T10-L2, 下腹神經, 留尿＝{α膀胱頸收縮, β膀胱肌肉放鬆}）, Pelvic n.（副交感S2-4, 骨盆神經）
 - 檢查項目：Cystometry（CMG, 膀胱壓力測量, 充水測試）, Uroflowmetry（尿流率測量）, Pressure-flow study（尿流速與壓力變化, DDx阻塞/逼尿肌無力, if 逼尿肌Pdet>50cmH20無尿 favor阻塞）, Urethral pressure profilometry（UPP, 測量尿道壓力/功能性長度, DDx功能性無力/應力尿失禁）, Leak point pressure（<60cmH20為內因性括約肌無力）
@@ -220,7 +220,7 @@
 - Pelvic organ prolapse（骨盆器官往陰道脫垂）：RF＝同尿失禁；SS＝Adnexal下墜感, 應力尿失禁, 膀胱過動, 排便困難；分級＝Baden-Walker system（0-4, 0無脫垂, 2在陰道口, 4完全脫垂）；Tx＝保守治療（骨盆底肌肉訓練, Pessary陰道托, 雌激素）, 手術（骨盆底重建, 薦骨子宮固定, colpocleisis（陰道閉合術, for 無性行為者））
 - UTI：見note3
 
-## 內視鏡（考題12）
+## 內視鏡（考題1）
 
 - 腹腔鏡（Laparoscopy）：適應症＝骨盆疾病診斷（子宮內膜異位, 不明原因不孕）, 婦科病灶治療；禁忌症＝心肺功能不佳, 腹腔嚴重粘連, 懷孕；
   - 填充氣體（CO2）：優點＝不易燃, embolism風險低（溶解度高）；缺點＝尿量減少, 腹壓上升, 心血管影響（CO2吸收⭢酸中毒, 心輸出⭣）
@@ -230,7 +230,7 @@
 
 大量解剖學知識是為了能看懂，不是考點
 
-## 概論
+## 概論（考題8）
 
 - 眼球結構：分為三層（纖維層＝角膜Cornea+鞏膜Sclera（兩者交界＝limbus）, 血管層（色素層）＝虹膜（Iris）+睫狀體（Ciliary body, 分泌眼房水）+脈絡膜（Choroid）, 內膜＝視網膜（Retina））；眼球前後分為兩個腔（前房＝角膜與虹膜之間, 後房＝虹膜與晶狀體之間）；眼球內液體分為兩種（房水＝前房/後房, 玻璃體＝眼球後段）；其他＝結膜（Conjunctiva, 覆蓋眼球前段和眼瞼內側, 有goblet cell分泌淚液）, 水晶體（Lens, 透明雙凸透鏡, 由晶狀體上皮細胞分泌晶狀體纖維組成, 無血管神經, 由睫狀肌調節厚度改變焦距）
 - 眼匡結構：7骨組成, 內壁最薄, 底版最易骨折；神經＝CN2,3,4,5-1/2,6；血管＝眼動脈（ICA分支）, 眼靜脈（無瓣膜, 可逆流感染）
@@ -240,7 +240,7 @@
   - 斜肌檢查：眼球外展51度 for 斜肌上升下降, 內收39度 for 上斜肌內轉下斜肌外轉
 - 視覺發育：4wks開始, 2months可追視, 6months可定視, 5y/o視力達成人水平
 
-## 眼瞼（考題11）
+## 眼瞼（考題0）
 
 - 眼瞼（保護眼球, 形成淚液）：分為五層
   - 淺層3層：皮膚（汗腺 Moll's gland）, 皮下組織（眼緣處有Zeis gland與睫毛）, 眼輪匝肌（Orbicularis oculi muscle, CN7, 閉眼）
@@ -256,7 +256,7 @@
   - SCC：老人下眼瞼, 少見但侵略性高
     Sebaceous carcinoma：中年女性上眼瞼Meibomian gland, 最惡性；SS＝睫毛脫落, Hordeolum, 全身轉移
 
-## 淚液系統
+## 淚液系統（考題8）
 
 - 淚膜Precorneal tear film（分三層）＝{外油脂層（Meibomian, Zeis, Moll gland, 延遲淚膜水層蒸發）, 中水層（淚腺分佈, 供給角膜氧氣, 免疫抗菌）, 內黏液層（結膜Goblet cell分泌）}
 - 淚腺＝{主淚腺（上眼瞼外側, 分泌基礎淚液（90％, 可角膜反射性分泌）, CN5-1, CN7）,副淚腺（Krause gland（結膜穹窿）, Wolfring gland（上眼瞼緣）, 穩定分泌保濕, 夜晚最少）}
@@ -269,7 +269,7 @@
 - 乾眼症（＝Keratoconjunctivitis sicca）：成因＝淚液分泌不足（Sjogren syn, VitA缺乏, Blepharitis（慢性眼瞼炎, 脂肪層分泌不足）, coffee, atropine）, 淚液蒸發過多（面部神經麻痺, 工作眨眼次數不足）； SS＝tear film abnl, keratopathy（角膜病變, e.g斑點病變（punctate epithelopathy）, 角膜上皮filament附著, 黏液狀斑塊mucous plaques）；DDx＝Schirmer's test, Rose bengal stain（染色角膜上皮細胞, 乾眼症會染色增加）, TBUT；Tx＝人工淚液, 抗炎藥物（Cyclosporine A）, 黏液分解藥物（N-acetylcysteine）
 - Lacrimal gland tumor（上皮變異為主, 良惡都切）：分類＝{pleomorphic adenoma（良性混合瘤, 切不乾淨會惡化）, Adenoid cystic carcinoma（1st惡性, 侵襲性強, 易復發轉移）}；SS＝上眼瞼顳側疼痛, 眼球突, 複視；Tx＝手術+放療（良惡都切）
 
-## 結膜（著重沙眼/春季結膜炎）（考題2）
+## 結膜（著重沙眼/春季結膜炎）（考題5）
 
 - 結膜炎（不畏光）：SS＝癢, pappilar central fibrovascular pattern（結膜乳頭增生）, 分泌物＝{水漾（病毒）, 黏液狀（春季結膜炎, 乾眼症）, 化膿黏液（披衣菌, 細菌）}, 膜＝{偽膜（腺病毒, 淋病, SJS）, 真膜（β鏈球菌, 白喉）}, 淋巴腫大
   - 病毒結膜炎：傳染性強, 自限性；SS＝耳前腫大, 上呼吸道INF, 偽膜結膜炎, 角膜炎, 水泡後眼睛症狀（Herpes zoster）
@@ -280,7 +280,7 @@
 - 退化性疾病：Pinguecula（結膜贅, limbus無害白色沉積, ∵紫外光）, Pterygium（Bowman's層斷裂, 翼狀胬肉沉積角膜上皮；∵紫外光, 切除仍然易復發）
 - Tumor（多良性）：Conjunctiva papilloma（HPV6,11；良性）, Conjunctiva corneal intraepithelial neoplasia（CCIN, 良性緩慢；∵HPV6,11/紫外光））
 
-## 角膜（考題15）
+## 角膜（考題19）
 
 - 角膜（Cornea, 透明無血管淋巴（除了limbus）, 主要折射介質, 交界處limbus再生力強）：分為五層＝{上皮層（無角質上皮, 底部basement membrane ∈ Type 4 collagen）, Bowman's layer（CN5-1通過, 無細胞死層, 受傷易留疤）, stroma（最厚, 膠質纖維組成）, Descemet's membrane（Type 4 collagen）, 內皮層（pump排水/保持角膜透明, 無再生能力）}
   - 角膜檢查：Pachymetry（Echo厚度測量）, Specular microscopy（內皮細胞密度,形狀測量）, Corneal topography（角膜曲率, 檢查圓錐角膜）, 切片（KOH）
@@ -301,14 +301,14 @@
   - Megalocornea（先天性角膜過大）：性聯遺傳, 雙側角膜變大（直徑>13mm）； 男多, 易合併Marfan's syn；SS＝高度近視/散光；DDx：量眼壓/眼底鏡（鑑別buphthalmos（＝牛眼, 先天性青光眼））
 - Keratoplasty（角膜移植, ∵無血管, 無捐贈者抗原, 有Fas-ligand系統（與受贈者T結合促使apoptosis）, 少排斥）：死後24-72小時內捐贈；分類＝{Penetrating keratoplasty（PK, 全層移植）, Lamellar keratoplasty（LK, 層狀移植）, Deep lamellar（Descement以內才用, 減少排斥）, Descenmet stripping automated endothelial keratoplasty（DSAEK, 只移植內皮層）}；禁忌donor：年齡限制（No 嬰兒（太軟會散光）, >70（細胞太少））, 死因不明, 中樞感染, 眼睛惡腫
 
-## 鞏膜（考題5）
+## 鞏膜（考題1）
 
 - 鞏膜（Sclera, 眼球白色部分）：分為三層＝{外層（Tendon氏囊纖維組織, 隔開結膜）, 中層（episcleral layer血管化結締組織）, 內層（結締組織, elastin, glycoprotein）}；DDx＝Phenylephrine（局部α-agonist, 鞏膜血管不收縮但結膜血管收縮（結膜, 上鞏膜變透明）, 觀察鞏膜本體有無發炎）, 水腫（if上鞏膜炎, 鞏膜本身不水腫）, 光照（血管＝深紫色, 葡萄膜＝藍色）
   - 上鞏膜炎（Episcleritis）：1/3合併系統性dx（痛風, 玫瑰面皰）, 上鞏膜炎本身自限性；SS＝紅眼, 畏光, 流淚, 不充血也無分泌物
   - 鞏膜炎（Scleritis, 鞏膜變薄, 血管變形）：女多, 血流少, 病程慢, 藥難到, 不易好, 易復發；Mainly前鞏膜炎（98%）, 合併免疫性（RA（1st）, SLE））/角膜INF（綠膿, 肺炎練球）；SS＝劇烈疼痛（夜間加重）, 紅眼, 畏光, 流淚；DDx＝光照（血管明顯變形（紫色）, 葡萄膜明顯（Necrotizing Scleritis w/o INF導致鞏膜變薄（RA相關）, 黃色膠狀結節淨潤））；Tx＝underlying dx, NSAIDs, atropine（散瞳, 減少疼痛）
   - 鞏膜變色：暗灰卵圓形（老化透明化）, 棕黑色（黑尿症alkaptonuria）, 藍灰色（minocycline藥物副作用）, 鏽棕色（hemochromatosis鐵血沉著症）, 藍色（變薄露出葡萄膜, ∵osteogenesis imperfecta骨發育不全, Turner's, Ehlers-Danlos syn, Marfan's syn）
 
-## 葡萄膜（考點＝自體免疫uveitis, 僵直性脊椎炎, Choroid melanoma tumor）（考題12）
+## 葡萄膜（考點＝自體免疫uveitis, 僵直性脊椎炎, Choroid melanoma tumor）（考題23）
 
 - 葡萄膜（Uvea）：眼球血管層, 供給眼球營養, 調節光線進入, 產生房水, 黑色葡萄樣, Mainly前葡萄膜炎（90%, 虹彩部分）
   - 前葡萄膜炎＝HLA-B27相關；SS＝睫狀充血, 角膜後沉澱物（keratic precipitate）, 房水cell⭡, 前房蓄膿（hypopyon）, 前房輝塵（aqueous flare, 蛋白質⭡廷德爾效應）, Low intraocular pressure（Iris癒合後便眼壓上升）, Iris nodules（慢性肉芽腫）
@@ -320,14 +320,14 @@
 - 交感性眼炎（Sympathetic ophthalmia）：單眼穿刺傷⭢免疫系統攻擊雙眼
 - Choroidal melanoma（1st成人原發惡腫, cf. kid 1st＝Retinoblastoma）：轉移性高（肝）；SS＝視力模糊, 閃光感, 視野缺損；DDx＝視網膜黑色蘑菇狀tumor, 滲出性剝離；預後差＝類上皮細胞多, 淋巴浸潤, 腫瘤內封閉血管新生
 
-## 水晶體與白內障（考點＝白內障混濁位置, 術後併發症, 先天水晶體異位）（考題2）
+## 水晶體與白內障（考點＝白內障混濁位置, 術後併發症, 先天水晶體異位）（考題0）
 
 - 水晶體（Lens）：透明雙凸透鏡, 晶狀體纖維組成, 無血管神經, 睫狀肌調節厚度, 混濁＝白內障
 - 白內障（Cataract）：成因＝年齡相關（老年性）, 先天性（母體TORCH感染, 遺傳）, 藥物（長期類固醇, 金屬, Allopurinol）；SS＝早期（複視, 黑影, 畏光）, 晚期（視力模糊, 夜間視力差, 色彩變淡）；DDx＝眼底鏡（red reflex消失）, 裂隙燈（混濁位置, 程度）
 - - 老年白內障：混濁位置分類＝{後囊下（較早發, 強光下眩光/視力模糊）, 皮質性（晚發, 進展慢, 楔形 spoke-like opacity）, 核質性（中央水晶體開始, 核密度增加硬化曲度增加/深色化⭢會有視力第二春, 又名深色白內障（brunescent））}；進程＝incipient（初期, 無症狀）, intumescent（混濁部分, 視力受影響, 可能急性隅角閉鎖青光眼）, mature（完全混濁, 全白）, hypermature（過熟, Ca沈澱晶狀體皺縮, 又名Morganian cataract）；Tx（藥物無效）＝手術（超音波乳化術⭢ECCE囊外摘除⭢人工水晶體植入, 復發打YAG雷射）；併發症＝囊膜破裂, 水晶體後脫位, 類囊狀黃斑水腫（長期視力下降主因）
 - Ectopia lentis（先天性水晶體異位）：成因＝{先天（Marfan's syn（上顳側脫位）, Homocystinuria（下鼻側脫位）, Weill-Marchesani（方向不一定）, 後天（外傷為主）}
 
-## 青光眼（考點多, 分類愛考）（考題22）
+## 青光眼（考點多, 分類愛考）（考題15）
 
 - 青光眼：房水循環問題⭢眼壓升高⭢視神經受損/視神經盤凹陷（cupping）變大；視野缺損順序＝paracentral（中心旁暗點）⭢nasal step（鼻側階梯）⭢arcuate（弓狀區, 視神經走向）⭢環狀視野缺損；其他種類＝Malignant glaucoma（手術後睫狀體阻塞）, Steroid glaucoma, neovascular glaucoma（新生兒視網膜炎種病變導致VEGF釋放）, Glaucomatocyclitic crisis（眼壓升高伴虹膜炎, 自限性；Tx＝降壓藥, 類固醇）
 
@@ -345,12 +345,12 @@
     - 促進房水排出drug：Cholinergic（Pilocarpine）, α-agonist（Brimonidine）, Prostaglandin analogue（Latanoprost）
     - 雷射治療：Laser trabeculoplasty（雷射小梁成形術 for 開角型）, Laser iridotomy（造孔術 for閉角型）
 
-## 玻璃體（老化＝空泡化, 飛蚊症）（考題1）
+## 玻璃體（老化＝空泡化, 飛蚊症）（考題0）
 
 - 玻璃體剝離（vitreous detachment, VD, 後玻璃為主, 嚴重合併視網膜剝離）：RF＝老化, 近視, DM；SS＝飛蚊症, photopsia（閃光感）, 視力模糊；DDx＝散瞳（間接眼底鏡, 視神經懸浮物增加）, B-scan echo（玻璃體與視網膜距離⭡）, OCT（最準）；Tx＝觀察, 冷凍/雷射（視網膜受損）
 - 玻璃體出血（vitreous hemorrhage）：RF＝DM, 玻璃體剝離；SS＝無痛vision loss, 飛蚊症, 溶血性青光眼（出血過久, 碎片/鐵離子導致前房隅角受損）；Tx＝雷射凝固（預防, 抑制血管新生）, 觀察（輕微出血）, 玻璃體切除+視網膜復位（視網膜受損）, 玻璃體手術（經睫狀體扁平部Pars plana移除血塊）
 
-## 視網膜（考點雜, 抓視網膜剝離, 黃斑部病變即可）（考題16）
+## 視網膜（考點雜, 抓視網膜剝離, 黃斑部病變即可）（考題10）
 
 - 視網膜解剖（十層，脾氣先何從何從節違憲）：色素上皮層（Retinal Pigment Barrier, 吸收光線, 供養）-光感受器層（視桿+視錐, 黃斑部只有視錐）-外限-外核-外叢-內核（4細胞核＝水平/雙極/Muller/無軸突細胞）-內叢-神經節層-神經纖維層-內限層（Muller cell基底膜）
   - 視網膜水平分佈（內-外）：視神經盤（盲點, 無視桿視錐, 血管分布）, 黃斑（中央＝中心凹, 只有視錐, 色覺）, 鋸齒緣（視網膜與脈絡膜相接最鬆處, 玻璃體最緊處）
@@ -368,11 +368,11 @@
 - 視網膜腫瘤：Melanoma（成人1st惡性原發）, Meta（主要from 乳/肺）, Retinoblastoma（兒童1st惡性原發）
   - Retinoblastoma：RB1基因缺乏（抑癌基因）, 腫瘤易鈣化；SS＝leukocoria（白瞳）, 視力差, hypopyon, rubeosis iridis（虹膜血管新生）；DDx＝CT（腫瘤鈣化點）；Tx＝雷射/冷凍治療（for<3mm）, 放療/眼球摘除（for 嚴重）
 
-## 光學屈光（太專科, 背考古即可）
+## 光學屈光（太專科, 背考古即可）（考題0）
 
 - S, C, A ＝ S+C, -C, A+90°
 
-## 斜弱視（抓大方向, 檢查方法很亂）（考題9）
+## 斜弱視（抓大方向, 檢查方法很亂）（考題5）
 
 - 眼球運動定律：共軛肌（yoke muscles, e.g. 左上斜共軛右下直）, Sherrington's law（對側肌肉相互禮讓, e.g. 外直肌用力內直機會放鬆）, Hering's law（共軛機會同等程度收縮）
   - 上下直肌檢查：眼球外展23度 for 上下直肌垂直上升下降, 內收67度 for 上直肌內轉下直肌外轉
@@ -388,7 +388,7 @@
     - 甲狀腺病變（Mainly 下斜視/內斜視）：自體免疫攻擊, 淋巴球浸潤, 眼外直肌侵犯順序＝下內上外
 - 弱視（無法透過矯正讓視力>0.7）：crowd phenomenon（目標物旁有別的東西就看不清楚）；分類＝{斜視性弱視, 不等視弱視（兩眼屈光度差太多）, 刺激剝奪弱視（白內障等病灶剝奪視力）}；預後＝雙眼弱視>單眼弱視（不會早期就好眼依賴）, 近視不等視>遠視遠視不等視；Tx（視力定型前要治好）＝移除成因病灶, 眼鏡矯正區光, 弱化好眼（遮蓋, 點atropine散瞳）
 
-## 眼眶（考古學習）（考題4）
+## 眼眶（考古學習）（考題1）
 
 - Exophthalmos（眼球突出>20mm/雙眼差>2mm）：成人主因＝thyroid⭡, 海綿靜脈瘻管（搏動性眼凸） 兒童主因＝orbital cellulitis, 篩竇炎（單側）, meta（雙側）
 - 甲狀腺眼症（甲狀腺功能可能正常範圍, smoke可惡化）：自體免疫dx；SS＝肌肥大（內直, 下直）, tendon/外直肌 sparing；惡化=抽菸, radioactive iodine（治療甲亢但免疫刺激）
@@ -401,7 +401,7 @@
 - 先天青光眼：男多, 雙側, Triad＝流淚, 畏光, 眼瞼痙攣；SS＝牛眼, 角膜直徑>13mm, Haab's striae（Descemet氏膜裂開）；Tx＝Mainly手術, 藥物輔助
 - Retinoblastoma：RB1基因缺乏（抑癌基因）, 腫瘤易鈣化；SS＝leukocoria（白瞳）, 視力差, hypopyon, rubeosis iridis（虹膜血管新生）；DDx＝CT（腫瘤鈣化點）, 病理（Rosette structure）；Tx＝雷射/冷凍治療（for<3mm）, 放療/眼球摘除（for 嚴重）
 
-## 眼科急症（考題1）
+## 眼科急症（考題13）
 
 - 立即處理：中心視網膜動脈阻塞, 急性青光眼, 甲醇中毒（視野縮小, AG＆OG增加, 代謝酸中毒, 鼓膜膨出/充血⭢蒼白萎縮⭢失明）, 重度外傷（化學（酸症狀明顯, 鹼嚴重度高有惡化可能；Tx＝大量沖水, 抗膠原酶for 鹼）, 熱（anti+保濕）, 眼挫傷, 穿刺傷（金屬保護罩, 摘除防交感眼炎））
   - 次緊急（數小時處理） ：角結膜異物, 角膜糜爛, 急性虹彩睫狀體炎
@@ -410,7 +410,7 @@
 
 我只讀了神經復健, 骨科復健與心肺復健，其他的就背考古學習了
 
-## 神經復健（考題56）
+## 神經復健（考題48）
 
 - 大腦血管與支配：ACA（額葉內側（下肢運動皮質）, 頂葉內側；中風＝對側下肢無力, 尿失禁）, MCA（額葉/頂葉外側, 顳葉；中風＝左側失語症, 右側空間感病覺缺失）, PCA（枕葉, 顳內側；中風＝病灶對側雙眼偏盲）
   - 功能傳遞（預後：表達能力好 > 語言理解能力好, ∵理解力通常比較好恢復）
@@ -444,14 +444,14 @@
     - 勃起：副交感S2-4/視聽觸T11-L2 ⭢ 副交感神經節後（乙醯膽鹼） ⭢ 血管充血（NO）；Tx＝口服藥物（威而鋼）, 陰莖注射（Alprostadil（Prostaglandin E1）, α-blocker）, 真空裝置, 陰莖假體植入
     - 高潮/射精：交感T11-L2 ⭢ hypogastric plexus；Tx＝人工取精
 
-## 骨科復健（考題5）
+## 骨科復健（考題0）
 
 - Osgood-Schlatter dx：青少年膝蓋生長板炎, 脛骨粗隆牽拉性骨骺炎；Tx＝休息, 冰敷, 伸展運動, 手術拿掉發炎組織
 - 髖關節手術後：避免FAIR（Hip Flexion, Adduction, Internal Rotation, e.g站立時不要腳掌內旋轉）
 - 膝關節手術後：疼痛控制, 避免DVT, PE, 適當活動
 - 膝截肢照護：術後墊高患肢, 彈繃幫助塑形, 直視/拍打殘肢減少幻肢痛, 膝上截肢避免hip flexion/abduction contracture（仰躺抬腿訓練, 夾腿縮肛）, 膝下截肢避免knee flexion contracture（壓直, 仰躺抬腿訓練）
 
-## 心肺復健（考題4）
+## 心肺復健（考題5）
 
 - 心臟手術後勤做, 血管在堵塞率低, 死亡率少25%
 - Cardiac rehab（MI/PCI/CABG後）：二級預防；改善exercise tolerance/serum lipids, 提高ischemic threshold, 降低再住院/死亡率（不會增加catecholamine）
@@ -461,7 +461,7 @@
 
 # 麻醉科
 
-## 麻醉評估
+## 麻醉評估（考題17）
 
 - 目標：Amnesia（失憶）, Sedation（鎮靜）, Analgesia（止痛）, Muscle relaxation（肌肉鬆弛）
 - 用藥評估：應該停藥＝{降血糖藥, MAOI（精神科藥）}, 持續用藥＝{毛地黃, 心律不整藥, 支氣管藥, 抗癲癇藥, 甲狀腺藥}
@@ -470,7 +470,7 @@
   - Mallampati score（I-IV級, I軟顎/懸雍垂完全可見, II部分uvula可見, III uvular只剩基部, IV只可見硬顎）
 - 禁食：油脂蛋白8hr, 吐司輕食6hr, 母乳果凍4hr, 咖啡水2hr
 
-## 呼吸道處理（考題7）
+## 呼吸道處理（考題6）
 
 - 插管流程（MDSOLES醫師的足底）：Monitor, Drug, Suction, Oxygen, Laryngoscope, Endotracheal tube, Stylet（管芯/插管導芯）
 - 快速插管（7P）：Prepare&Position（墊高肩膀頭部, 外耳道胸骨一直線）, Preoxygenation（100%氧氣自行呼吸, 不要給正壓）, Pretreatment（鎮靜藥物, e.g. Lidocaine減少咳嗽反射/抑制腦壓上升, Fentanyl減少插管刺激）, Paralysis （肌肉鬆弛藥+入睡藥）, Protection（Cricoid Pressure（Sellick manuver）＝食指拇指壓環狀軟骨避免GERD, cf. 插管BURP壓甲狀軟骨）, Placement（插管）, Post management
@@ -481,7 +481,7 @@
   - CICV/CICO：cannot intubate + cannot ventilate/oxygenate（面罩與聲門上器具都無效）＝立即緊急front-of-neck airway（cricothyrotomy）
 - Laryngeal mask airway（LMA, 喉罩）：適用於短時間手術, 無GERD風險, 可甭肌肉鬆弛藥；優點＝插管簡單, 減少氣管損傷（水腫, 禁臠）；禁忌症＝長時間手術, pharynx腫瘤, 有嗆咳風險病人（禁食時間不足, 孕婦, Hiatal Hernia）
 
-## 麻醉監測（考題19）
+## 麻醉監測（考題8）
 
 - 四大方向：Oxygenation, Ventilation, Circulation, Temperature（預防惡性高熱與低溫）
   - Oxygenation：Pulse oximetry（夾手指照光（吸氧940nm紅外光, 缺氧660nm紅光）血氧飽和度SpO2, 95-100%正常, <90%（＝PaO2從100mmHg掉到60mmHg）需處理）, Arterial blood gas（ABG, PaO2<80mmHg需處理）
@@ -492,7 +492,7 @@
   - BIS（EEG-based, 監測consciousness/hypnosis；和Stage非一對一, 不能代表analgesia/肌鬆/自主反應）：100＝清醒, 40-60＝general anesthesia目標/recall低, <40＝過深/可能burst suppression, 0＝EEG silence
 - 麻醉藥物類型：Preanesthetic（for 進入Stage I, e.g. Midazolam（BZD）鎮靜, 抗膽鹼藥減少嗆咳, Fentanyl/Morphine減少疼痛）, Induction（for I to III）, Maintenace（III維持）, Recovery（for III to I）
 
-## 靜脈麻醉劑（考題5）
+## 靜脈麻醉劑（考題7）
 
 - Propofol：活化GABA抑制中樞, 作用快, 恢復快（抗噁心）, 可長效pump維持用；副作用＝心跳上升/可能血壓上升, 呼吸抑制, 注射部位疼痛
 - Barbiturate sodium（Thiopental, Thiamylal, Methohexital）：抑制興奮傳導物（acetylcholine）, 加強抑制物（GABA）, 局部腦血管保護（血管收縮耗氧⭣）；副作用＝心跳上升/可能血壓上升, 呼吸抑制, 咽喉痙攣, 無止痛效果, 紫質沉積（porphyria禁用）
@@ -502,7 +502,7 @@
 - Dexmedetomidine：α2受體激動, 輕度鎮靜止痛, for重症患者呼吸器鴉片減量, 無induction功能；副作用＝心跳上升/可能血壓上升, 心跳過快
 - Opioids（Fentanyl, Morphine）：強止痛, 止咳；receptor＝μδκ, 位在脊髓/腦幹/消化泌尿壁；副作用（μ為主）＝呼吸抑制, 情緒興快成癮, 癲癇（Meperidine長期使用）, 心跳收縮⭣, 徐脈, 呼吸抑制, 縮瞳, 便尿難排；解藥＝Naloxone（Opioid拮抗劑）, Methylnaltrexone（周邊Opioid拮抗劑, 治療便秘, 不過BBB）
 
-## 吸入性麻醉劑（考題6）
+## 吸入性麻醉劑（考題10）
 
 - 概論：主要用作Maintenance（劑量依Minimum alveolar concentration決定）, 小兒可用於induction
   - 優點：重復使用, 安眠, 協助氣管擴張（Desflurane除外）
@@ -518,7 +518,7 @@
   - Isoflurane：MAC小（1.2%）, 便宜；副作用＝冠狀物動脈擴張（心血管阻塞會有Coronary steal syndrome）
   - Halothane：MAC小（0.75%）, 強力支氣管擴張劑；副作用＝心律不整
 
-## 神經肌肉阻斷劑（考題12）
+## 神經肌肉阻斷劑（考題26）
 
 - 概論：Neuromuscular junction以synaptic cleft分開, 透過Acetylcholine傳遞訊號；阻斷Ach receptor分兩類＝{Depolarizing（持續性去極化受器, e.g. Succinylcholine）, Non-depolarizing（競爭性拮抗aka占著茅坑不拉屎, 不過BBB⭢要合用麻醉藥避免鬼壓床/溺水感 e.g. Rocuronium, Vecuronium, Pancuronium；解藥＝Neostigmine（Cholinesterase inhibitor, 增加Ach濃度））}
   - Cholinesterase inhibitor：同時作用在副交感神經產生噁心/分泌物變多等副作用；Tx＝解毒時合併Anticholinergic drugs
@@ -542,7 +542,7 @@
   - Spinal needle路徑：skin⭢subcutaneous⭢supraspinous lig.⭢interspinous lig.⭢ligamentum flavum⭢epidural space⭢dura⭢arachnoid⭢subarachnoid space（CSF流出）
   - PDPH：dura穿刺癒合不良, 心跳上升/可能血壓上升性頭痛；Tx＝平躺, 補充水分/咖啡因（血管收縮）, Epidural blood patch（抽病人血打到硬膜外促進癒合）
 
-## 疼痛（考題27）
+## 疼痛（考題19）
 
 - 疼痛名詞：
 
@@ -562,13 +562,13 @@
   - 術後止痛：全身性（病人主控PCA）, 區域止痛（局部麻藥）
   - 癌症痛：包含somatic/visceral/Neuropathic；Tx＝3B（By the mouth, By the clock, By the ladder）
 
-## 術中維持與併發症（考題1）
+## 術中維持與併發症（考題3）
 
 - 惡性高熱：risk of all吸入性麻醉/去極化肌肉鬆弛劑；遺傳性鈣調控異常（Ryanodine receptor mutation）導致肌肉過度收縮（肌肉代謝亢進, 產熱過多, 全身代謝亢進）；SS＝前期（CO2堆積, 心律不整）, 後期（高熱, 橫紋肌溶解, 酸中毒, 全身僵硬, 高血鉀）, 骨骼肌/咬肌痙攣（Mainly Succinylcholine）；Tx＝停用誘發藥物, Dantrolene, 支持性治療（降溫, 糖水補充）, 矯正electrolyte, BZD/opioid/propofol維持麻醉
 
 # 耳鼻喉科
 
-## 耳科（考題25）
+## 耳科（考題32）
 
 - 聽力檢查：
 
@@ -614,7 +614,7 @@
     - Vestibular schwannoma：老人單側；SS＝初期（漸進聽損, 無暈眩）, 後期（腫瘤壓迫暈眩, 三叉神經麻痺）；DDx＝Weber's test, Corneal reflex（CN5/7, 受壓會減弱）, Acoustic brainstem reflex, MRI（gold）；Tx＝放射治療, 手術切除
     - Vertebrobasilar artery insufficiency：老男人, 抽菸, 三高
 
-## 鼻科（考題16）
+## 鼻科（考題4）
 
 - 解剖學：
   - 鼻腔：鼻前庭（外鼻孔, 皮膚有毛囊/汗腺）, 固有鼻腔（分類內外頂底, 內＝鼻中隔, 外＝鼻甲/鼻道）
@@ -638,7 +638,7 @@
     - 併發症：眼窩蜂窩性組織炎（pathogen經篩竇攻擊眼球）, 海綿靜脈竇栓塞（Ophthalmic/Angular vein血栓；SS＝單側深部眼睛疼痛畏光, CN3,4,6麻痹, 硬腦膜abscess（急症, 給抗生素+引流））
   - 黏液囊腫：術後狹窄, 1st額竇, 2nd篩竇；SS＝眼窩無痛性腫脹（額竇）, 視神經壓迫（蝶竇）；Tx＝手術引流
 
-## 喉科（考題16）
+## 喉科（考題9）
 
 - 解剖學：咽部+喉部
   - 咽部：Nasopharynx（鼻咽, 鼻腔到軟顎上表面）, Oropharynx（口咽, 軟顎到舌根, 含舌扁桃體, 舌後1/3, vallecula）, Laryngopharynx（喉咽, 舌骨/會厭到環狀軟骨外下緣（不在喉內）, 含pyriform sinus, postcricoid area, post. pharyngeal）
@@ -651,7 +651,7 @@
 - Herpetic Stomatitis（單純皰疹口炎, HSV-1感染）：潛伏期7天；SS＝口腔前半多發性小水泡, 破掉後形成潰瘍, 牙齦紅腫惡臭；Tx＝抗病毒藥物（Acyclovir）
 - Nasopharyngeal Angiofibroma（鼻咽血管纖維瘤）：青年男性鼻咽腫瘤, 良性, 但要避免吃到鼻竇/眼匡/頭顱, 成因不明, 可能與雄性激素有關；SS＝單側鼻塞, 鼻出血, 顏面腫脹, 耳鳴, 複視；Dx＝鼻咽鏡（深紅色, 圓形, 表面光滑, 無包膜）, CT（看侵佔範圍）；Tx（易出血）＝手術切除, 血管攝影栓塞
 
-## 頭頸科（考題29）
+## 頭頸科（考題17）
 
 - 解剖學：頭頸部淋巴結分為7群（I-VII, 依照位置命名）
 

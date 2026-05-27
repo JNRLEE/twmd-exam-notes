@@ -1,6 +1,6 @@
 # 泌尿科
 
-## 腎臟疾病（考題64）
+## 腎臟疾病（考題54）
 
 - Renal Cyst： >50 y/o盛行率3成； SS＝多無症狀（>10cm可能水腎）； 惡性特徵 ＝ 囊腫抽取物血樣（懷疑papillary cancer）, CT （Bosniak分級高分, Septal, Nodular變化, 強顯影； 低分Obs, 高分RFA/手術全切）； Tx＝Acetaminophen, NSAIDs, 經皮抽吸+注射硬化劑
 - 腎臟外傷：1st泌尿系統外傷, 男多,鈍傷為主, 血尿量與嚴重度無關； 嚴重度（分五級）＝膜下血腫（1級）⭢1cm內撕裂傷（2）⭢未傷集尿系統（3）⭢傷集尿系統（4）⭢主血管/腎臟碎裂損傷（5）； Exam＝尿檢,影像學（CT, IVP）； Tx＝觀察（1-2級）, 引流／手術（3-5級）
@@ -29,7 +29,7 @@
   - 禁忌症＝active感染/腫瘤（原位癌例外, 可移植）, 周邊動脈血管硬化, 腎還有救（e.g. cystinosis胱氨酸血症）
     *過去有TB感染要投藥isoniazid 一年才可移植
 
-## 下泌尿道（考題12）
+## 下泌尿道（考題10）
 
 - 解剖
   - 男：尿道口→陰莖段尿道 / 海綿體尿道→ 球部尿道→ 膜部尿道（尿道外括約肌 external urethral sphincter）→ 前列腺部尿道（精阜 verumontanum / seminal colliculus）→ 肥大的前列腺組織→ 膀胱頸（bladder neck）→ 膀胱
@@ -52,7 +52,7 @@
   - Urinary TB：>30y/o成人, SS＝多無症狀（if 腎/輸尿管/攝護腺感染）, 刺激/血尿（if 膀胱炎）； DDx＝尿檢（持續濃尿+培養陰性）, 觸診（輸精管球狀結節bead chain）, X ray（Moth-Eaten腎盞）, TB培養（fast stain/ 晨尿）； Tx＝抗結核藥物
 - 膀胱癌（2nd泌尿道惡腫, cf. 攝護腺癌）：老白人病, 75％診斷時膀胱局限； RF＝抽菸, 橡膠, 苯, 膀胱受傷, 洗腎； 種類＝移形上皮（90%）, SCC（5%, 伴隨發炎, 血尿, 埃及血吸蟲）, Mixed carcinoma, Papilloma（＝PUNLMP低惡性泌尿乳突瘤）； SS＝間歇性血尿, 頻尿； DDx＝膀胱鏡（確診）, 影像（判斷轉移, X for肺, bone scan for骨）, Lab/cytology不準； Tx＝手術（TURBT）+膀胱灌藥物（Mitomycin C, BCG）⭢radical cystectomy（侵犯肌肉層（T2）, 切骨盆器官, 合併骨盆淋巴廓清）⭢chemo（333 rule, 1/3反應, 1/3縮小, 1/3沒反應）, Immune
 
-## 外生殖器（考題28）
+## 外生殖器（考題20）
 
 - 構造異常：
   - 先天性
@@ -80,7 +80,7 @@
   - 睪丸癌：Mainly germ cell tumor（年輕男1st固態腫瘤； seminoma>non-seminoma）； 淋巴擴散路徑＝後腹腔/主動脈旁淋巴結； SS＝無痛腫大（70%）； DDx＝ Lab（HCG+AFP+LDH） + 影像（超音波深色病灶, CXR看肺部轉移, 腹部骨盆CT看淋巴轉移）； Tx＝手術（睪丸必切除）, 化療（全Stage都可輔助, 復發能化療就化療, 不能就努力切）, 放療（for seminoma, 中低Stage才做）
   - Penile cancer： RF＝>65 y/o, HPV（+）, phimosis（包莖）, 抽菸, SCC為主；SS： Balanitis xerotica obliterans（BXO, 閉鎖硬化龜頭, DM常見）, 陰莖無痛腫塊/潰瘍, 腹股溝淋巴腫（發炎, 非侵犯）, Bowen's dx（紅色結痂）, Erythroplasia of queyrat（紅皮潰瘍）； DDx＝病理最準（leukoplakia）, Lab/影像都不準； 分級＝Jackson分級（1-4, 1龜頭, 2主幹, 3淋巴結, 4遠端）； Tx（if 無淋巴轉移8成可治癒, 目標為保留陰莖）＝局部化療（Tis）, 手術⭢電燒⭢放療（T2）⭢抗生素（淋巴腫）
 
-## 攝護腺（考題15）
+## 攝護腺（考題17）
 
 - 感染：
   - 細菌性：多<50y/o, 急性E.coli為主； SS＝下泌尿道症狀+系統性感染症狀（急性）, 無症狀（慢性）； Lab＝慢性可前列腺按摩後前段尿（取前列腺液）； Tx＝ 經驗性抗生素（急性6wks, 慢性3m）, 恥骨上膀胱引流（for尿滯留, 不要放foley）
@@ -88,20 +88,20 @@
 - 攝護腺增生（BPH）： 好發老男, Transitional zone細胞數增加； SS＝LUTS下泌尿道症狀； DDx＝FUN-WISE score（Frequency, Urgency, Nocturia, Weak stream, Intermittent stream, Straining, Emptying, 每項0-5分, >8分中度, >20分重度 ）； Tx＝藥物（for >8分, α-blocker（放鬆膀胱）, 5α-reductase inhibitor（⭣攝護腺體積（40ml以上者才顯著）, ⭣癌症發生率；e.g. Finasteride, Dutasteride）, 副交感（興奮劑/抑制劑皆有幫助）, TCA, 手術（反覆發作, 移除尿管失敗者, Transurethral Incision for<30ml, Transurethral vaporization for 30-80ml）
 - 攝護腺癌：1st 泌尿癌症（美國第一癌, 台灣第五）, adenocarcinoma in peripheral zone為主； RF＝年齡, 人種（黑>白>黃）, 紅肉飲食, 特定營養缺乏（茄紅素, Vit D, Omega-3）； SS多無症狀, 發現時已轉移（cf. 陰莖癌, 膀胱癌）； DDx＝DRE像石頭, PSA>4ng/ml（當中free form比值越小越惡性）, 影像學（>5成經直腸超音波（TRUS）異常低回音）, 切片Gleason grading（最大片+最高分分數, 7分中風險, >7高風險）, MRI低訊號； Tx＝手術根除（攝護腺/儲精囊/輸精管/淋巴廓清）+ 放射/賀爾蒙（中6ms, 高3yrs）
 
-## 結石（考題30）
+## 結石（考題15）
 
 - 流病：3rd泌尿系統dx（UTI⭢BPH⭢stone）, RF＝結晶尿, 家族史, 飲食（高蛋白, 重油, 高鈉（非石頭成分但增加沉澱）, 少蔬菜）, 藥物, 高社經地位, 乾燥氣候, 酸性尿, 尿少（不需要高尿酸）； cf. 抑制結石成分＝硫, 鎂, 檸檬 （留美檸檬）
 - 種類：Calcium calculi（含鈣結石, 80%）, 非含鈣結石（Struvite結石（磷酸銨鎂）＝女性尿路感染, 尿酸結石＝男性痛風病史，Indinavir結石＝AIDS Indinavir用藥）
 - SS：hematuria（9成）, pain（colicky pain＝石頭拉扯痛, noncolicky pain＝積尿痛, 石頭大小與痛度無正比關係）, 三狹窄堵塞（UPJ輸尿腎盂, iliac vessels髂血管旁, UVJ輸尿膀胱）, 感染（Mainly Proteus（struvite結石））； DDx＝KUB（鈣化結石可見, Struvite模糊, 尿酸/indinavir結石看不到）, CT（看不到indinavir結石）, Intravenous pyelogram/ Retrograde pyelography（可見所有結石）； Tx＝hydration（喝水2500ml⭡, 排水2000ml⭡）, 趴著拍背, 跳繩, 改變尿pH（含鈣結石⭢citrate（抓走 free Ca）, 尿酸結石⭢鹼化尿液, Struvite結石⭢酸化尿液）, 碎石（<1cm ESWL震波（不適用膀胱 ∵會動）, >1cm經皮造口取石）, 低普林/減少動物蛋白, 藥物（febuxostat降尿酸, 禁用Benzbromarone）
   *ESWL體外碎石禁忌＝孕婦, 腹主動脈瘤, 重度水腎, 出血傾向
 
-## 泌尿道細菌感染
+## 泌尿道細菌感染（考題0）
 
 - 宿主防禦＝沖刷, 上皮, 女＝乳酸菌保護, 男＝Zinc in 前列腺
 - 導尿管：放一天多5%感染率
 - 常用藥：廣泛anti＝TMP+SMX（for uncomplicated UTI；綠膿/Enterococci無效, 孕婦小孩禁用）, Fluoroquinolone（for G（-）；孕婦小孩禁用）, Nitrofurantoin（for G（-）/Enterococci；綠膿/Proteus無效, 孕婦小孩禁用）, Amynoglycoside（for G（-）Enterococci；腎耳毒性, 孕婦小禁用）, PCN（孕婦可用, 但多數細菌有抗藥性）, Cephalosporin（孕婦可用）
 
-## 泌尿道功能工程（考題6）
+## 泌尿道功能工程（考題5）
 
 - Urodynamics： 評估內容＝Urinary flow rate（尿流速圖, 鐘型曲線, 最大流速<15懷疑<10確診阻塞/逼尿功能障礙）, Cystometrogram CMG（膀胱壓力圖； 逼尿肌壓力（Pdet）＝膀胱內壓（Pves）-腹內壓（Pabd）； 膀胱體積＝150ml開始尿意, 450最大容積）, Urethral pressure profile/Sphincter electromyography（尿道壓力圖/括約肌電圖 for括約肌偵測）, Videourodynamic（尿路攝影＝影像＋pressure-flow/CMG）
 - 下泌尿道功能異常
@@ -112,7 +112,7 @@
       - 過動膀胱：副交感阻斷（oxybutynin, trospium）, 膀胱內灌藥, 肉毒
       - 無力膀胱：膀胱訓練, 副交感興奮, 間歇導尿
 
-## 男性學（考題10）
+## 男性學（考題69）
 
 - 性功能障礙（早洩, 遲洩, 逆行射精, 無高潮症, 勃起障礙）
   - 神經：Erection＝副交感S2-4（pelvic splanchnic（Cavernosal nerve）, NO）；Emission/射精前段＝交感T11-L2（hypogastric, 輸精管/精囊/前列腺收縮＋內括約肌關閉）；Expulsion/射出＝陰部神經S2-4（bulbospongiosus收縮）
@@ -120,7 +120,7 @@
 - 男性不孕症：一年無套未孕； 成因＝{睪丸前（下視丘-垂體-睪丸軸問題）, 睪丸內（染色體（Klinefelter's disease（47XXY, 小睪丸男性女乳）, Noonan's）,  varicocele））, 睪丸後}； Exam＝ 排除藥物（血壓CCB, BB, spironolactone, 尿酸（秋水仙, allopurinol）, 精神科藥）, PE（正常大小18ml）, 精液分析（正常>1.5ml, >15 million/ml, 活動率>40%, 正常形態>4%）； Tx＝underlying dx, Endocrine tx（1st內科治療, 用clomiphene/SERM）, 手術
   - 低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T
 
-## 腎上腺（考題76）
+## 腎上腺（考題0）
 
 - Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona glomerulosa （球狀帶, Mineralocorticoid（Grami葛萊美球場）, 又名Aldosterone, 與血壓有關, 過多 ＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多 ＝Cushing（口訣：束庫帶）, 過少 ＝Addison's）,Zona Reticulosa （網狀帶, Androgen 口訣＝網路宅男）, 髓質（分泌Catecholamine, Epinephrine/NE（過多 ＝Pheochromocytoma））
   - Conn's dx（原發性醛皮質素增多症, 治療預後good）：特徵 ＝ 高壓低鉀頭痛夜尿； DDx＝aldosterone/renin ratio>30（Aldosterone⭡, Renin⭣）, 24 hr尿中Aldosterone⭡； Tx＝手術切除（單側）, 藥物（Spironolactone+ Amiloride for雙側）
@@ -155,7 +155,7 @@
 
 # 骨科
 
-## 脊椎與神經根
+## 脊椎與神經根（考題8）
 
 - Spinal nerve roots出孔規則：Cervical有8條root但只有7節vertebra，故C1-C7 root從同名椎骨上方出，C8從C7-T1出；T1以下root從同名椎骨下方出
 
@@ -189,14 +189,14 @@
 - Calcaneus 跟骨 Fx： ∵高處跌落, 車禍, 常合併subtalar joint關節內骨折（talar-calcaneus post. facet）； SS＝高處跌落史, 無法負重, Mondor sign（Hematoma延伸腳底）； DDx＝ Xray量Bohler's angle（<20度有fx）； Tx：Open reduction and internal fixation（ORIF, 合併其他骨折）, 固定（if只有跟骨）
 - 阿基里斯撕裂傷：運動男； SS＝小腿腳踝腫, 小腿跟骨交界凹陷； DDx＝Thompson's test（壓Gastrocnemius muscle壓腓腸肌時足部無plantar flexion）； Tx＝儘速手術避免攣縮
 
-## 膝關節（考題11）
+## 膝關節（考題6）
 
 - 前十字韌帶（ACL）撕裂傷： pop一聲, 局部腫痛, 女性高機率合併外半月板受損； 併發症＝ unhappy triad（ACL前十字韌帶, medial collateral lig內側副韌帶, medial meniscus內半月板）； DDx＝ Lachman test（最敏感, 小腿相對往前拉）； Tx＝手術重建（年輕, unhappy triad一起斷, 之前ACL reconstruction失敗）, 保守治療（年長活動少者）
 - 後十字韌帶（PCL, 人體最強韌帶）撕裂傷： SS＝下樓不舒服； DDx＝ Posterior drawer test（最敏感, 膝蓋90度垂直後推疼痛）； Tx＝手術重建（合併ACL, 膝關節不穩定, bony avulsion）, 保守治療（單純PCL斷, 膝關節穩定）
 - 半月板（Type I collagen, 內大C外小O）：好發中年男性, 扭轉, 蹲踞受傷, Commonly內半月板, verticle tear； SS：腫脹, locking感； DDx＝ McMurray test（膝髖收縮再伸直）, Tx＝部分切除, 修補, transplant, 避免全切除
 - Osteochondritis dissecans（OCD, 分離性骨軟骨炎）：青少年/年輕人, 常見膝/踝/肘；軟骨下骨病灶不穩定⭢loose body（關節內游離體）/locking；DDx＝MRI（非老人股骨頭AVN）
 
-## 創傷（考題6）
+## 創傷（考題5）
 
 - 復位（骨頭相對位置接好）：封閉式＝皮膚肌肉完整，不見骨； 開放式＝皮膚肌肉破裂，骨頭外露
 - 固定（斷骨兩端接合）： 外固定＝固定器沒碰骨頭, e.g 石膏 ； 內固定＝釘在骨頭上
@@ -205,7 +205,7 @@
 - Tibial-Fibula fx： 常見骨折, 車禍, 脛骨承重、腓骨相對非承重（不嚴重可觀察就好）； 併發症： tibial head fx＝common fibular nerve受傷, tibial shaft fx＝deep peroneal nerve受傷（common fibular n. 繞過tibial外側分出）； Tx＝Obs（if 沒有傷及神經血管關節）, 開刀（if 神經血管關節受傷）
 - acute compartment syndrome：5P（Pain（受傷與疼痛不成比例）, Pallor, Paresthesia（麻木）, paralysis, pulselessness）； Tx＝移除外部壓迫＋筋膜切開（腔室壓>30 mmHg或delta pressure<30 mmHg）, 必要時清創壞死肌肉
 
-## 骨盆與髖部（考題7）
+## 骨盆與髖部（考題6）
 
 - 一堆classification
 - 上到下：pelvis⭢femoral head ⭢ femoral neck ⭢ intertrochanteric
@@ -215,7 +215,7 @@
 - Intertrochanteric fx（intertrochanteric line以下, 大轉子與小轉子之間）： 特性＝癒合力好（cancellous bone, metaphysis處血流佳（所以罕見avascular necrosis）, 有periosteum）； 分類（Evans classification） ＝ stable（posteromedial cortex完整）/unstable； Tx＝內固定（Stable）, IM fix（Unstable）
 - Pelvic fx：特性＝高能量創傷, 併發症多（出血, 泌尿生殖道損傷, 神經損傷）, 高死亡率（多併發者>50%）； 分類（AO Universal Classification）＝A（stable）, B（rotate unstable, B1＝{open book, 正面撞擊⭢翻書打開狀}, B2＝{Lateral compression injury, 1st骨盆骨折}）, C（rotate+vertically unstable）； Tx＝Obs, 手術（for 嚴重B, 所有C）； 併發症＝nonunion, malunion, 慢性arthritis, 排尿異常
 
-## 上臂與前臂（考點多）（考題6）
+## 上臂與前臂（考點多）（考題8）
 
 - Acromioclavicular injury： 男運動員, 肩關節著地碰撞, 包含Acromioclavicular lig.（AC, 水平）, Coracoclavicular lig（CC, 垂直）, Coracoacromial lig； DDx＝ AP Xray（coracoid上端 to clavicle下端⭡＝coracoclavicular lig.拉扯）； 分類＝ Rockwood classification（1-6, I AC sprain/II AC torn+CC sprain/III AC+CC torn；Tx＝sling, 冰敷；IV-VI關節錯位；Tx＝開放式復位）
 - 肩關節脫位：1st關節脫位（9成前脫位, 傷到前方axillary n.）, 支撐結構＝ 3x lig（上中下glenohumeral lig（構成capsule））+4x 肌肉（棘上棘下小圓肩胛下（SItS, 只有肩胛下載關節前方防止後脫位）, 構成rotator cuff）； DDx＝ AP Xray （light bulb sign後脫位, 肱骨頭像燈泡外露）, Y view Xray（肱骨頭不在glenoid fossa內）； Tx＝close reduction為主, 手術 for 軟組織受傷/fx
@@ -231,7 +231,7 @@
   - c.f 膝關節 unhappy triad＝ACL前十字韌帶＋medial collateral lig內側副韌帶＋medial meniscus內半月板
 - Distal radius fx：年輕人跌倒, 老女人骨鬆, 血流豐富, 預後佳； DDx＝斷肢背側Silver-fork deformity, X ray AP（Radial height⭣, Radial inclination<20度, ulnar variance>0）, X ray Lateral（Palmar tilt<0）, Frykman classification（1-8, ≥3 延伸到joint）； Tx＝Obs（type1/2, 年紀大）, Open reduction and internal fixation（ORIF）； 併發症＝Carpal tunnel syndrome, 晚期Extensor pollicis longus受損, 腕關節不穩定
 
-## 手部（考題10）
+## 手部（考題8）
 
 - Carpal tunnel syndrome腕隧道症候群： 肥胖懷孕女, 甲低, RA； SS＝握力下降, 大魚際肌無力, 屈腕時加劇； PE＝Carpal tunnel compression test（Durkan's test, 最準）, Tinel's sign（伸腕時敲擊被電到）, Phalen's test； Tx＝消炎, 手術切開減壓
   - Carpal tunnel內容物＝transverse carpal lig.包住median n., tendon of 屈指淺, 屈指深, 屈拇長（共9條肌腱；cf. 掌長肌在外面）
@@ -245,7 +245,7 @@
   - Snuff box內肌肉發炎：外展拇長肌（APL）＋ 伸姆短（EPB）； DDx＝Finkelstein's test（握拳把拇指包在裡面, ulnar deviation會痛）； Tx＝消炎, 手術切開減壓
   - Trigger finger（扳機指）：手指彎曲卡住（屈指A1 pulley狹窄性肌腱發炎）； Tx＝消炎, 手術切開減壓
 
-## 骨腫瘤（考題6）
+## 骨腫瘤（考題4）
 
 - 概論：
   - 1st原發惡腫＝MM（症狀＝CRAB, hyperCalcemia, Renal impair, Anemia, Bone pain）, 原發好發Metaphysis
@@ -276,7 +276,7 @@
   - Unicameral Bone cyst：青少年無症狀, non-neoplastic lesion, fallen fragment sign； DDx：Xray（骨頭邊緣清晰, 近端肱骨充滿serous fluid, fallen fragment sign（骨碎片in cyst）；Tx＝類固醇/局部抽吸
   - Aneurysmal Bone cyst動脈瘤性骨囊腫：青年男； DDx： Xray（lytic, bubble apperance, 含血fluid level）； Tx＝手術刮除+修補
 
-## 小兒骨科（考題8）
+## 小兒骨科（考題10）
 
 - 兒童骨折照護：單純骨折保守治療即可，患側先穿衣, 後脫衣
 
@@ -295,7 +295,7 @@
 - Developmental dysplasia of hip（DDH）：1st新生兒骨科病； RF＝第一胎, 女, 足位生產（Breech presentation）, 家族史； SS＝患髖abduction受限； DDx： Ortolani test（外展髖關節評估可否復位）, Barlow test（測試髖關節是否可被推出髖臼）, Galeazzi test（患側膝蓋較低）, Echo（6m內）, Xray（>6m, 已骨化）； Tx＝Pavlik harness（6m內）, Reduction（6m後）, Osteotomy（>2y/o）
 - Legg-Calve-Perthes disease（股骨頭缺血壞死）：4-10歲男孩, 股骨頭epiphysis不明原因壞死； RF＝低社經二手菸男孩, Protein S/C deficiency； SS＝跛行, Trendelenburg gait（髖部外展內旋角度⭣, 走路健側tilt）； DDx＝ X-ray（Waldenstrom/ Herring lateral pillar classification）, MRI（femoral head缺血）； Tx＝保守（<8y/o, type A（lateral pillar（股骨頭構造）高度正常））, 手術（>8 y/o, type B/C（lateral pillar 高度減少））
 
-## 內科骨疾病（考題8）
+## 內科骨疾病（考題2）
 
 - Osteoporosis：成因 ＝ primary（停經（第一型, 脊椎, 遠端橈骨骨折）, 老化（第二型, 脊椎, 髖骨骨折））, Secondary（副甲亢/庫欣/DM/藥物（Glucocorticoid/Lithium））； DDx＝DEXA（T>-1正常, -1~-2.5 Osteopenia, <-2.5 Osteoporosis）, QUS（定量超音波足跟測量）；Tx ＝ 運動, 補鈣（1200mg/day）Bisphosphonate, 女性賀爾蒙（SERM副作用較少）, Calcitonin（效果較弱）, Strontium ranelate（鍶鹽, 抑制clast, 促進blast, 歐洲可用）, 脈衝副甲狀腺素, Percutaneous vertebroplasty（骨水泥注射, for 壓迫性骨折）
 - 骨科疾病與數值（鈣, 磷, ALP（骨頭被吸收程度）, PTH）

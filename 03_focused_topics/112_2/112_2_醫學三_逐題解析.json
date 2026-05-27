@@ -11,26 +11,26 @@
       "D": "測血中鎂（magnesium）濃度"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「甲狀腺眼症（甲狀腺功能可能正常範圍, smoke可惡化）」。可用筆記重點判斷：甲狀腺眼症（甲狀腺功能可能正常範圍, smoke可惡化）：自體免疫dx；SS＝肌肥大（內直, 下直）, tendon/外直肌 sparing",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「斜肌檢查」。可用筆記重點判斷：斜肌檢查：眼球外展51度 for 斜肌上升下降, 內收39度 for 上斜肌內轉下斜肌外轉",
     "classified_specialty": "眼科",
-    "classified_topic": "眼眶（考古學習）",
-    "matched_note_subheading": "甲狀腺眼症（甲狀腺功能可能正常範圍, smoke可惡化）",
-    "matched_note_heading_path": "# 眼科 > ## 眼眶（考古學習） > - 甲狀腺眼症（甲狀腺功能可能正常範圍, smoke可惡化）",
-    "matched_note_excerpt": "甲狀腺眼症（甲狀腺功能可能正常範圍, smoke可惡化）：自體免疫dx；SS＝肌肥大（內直, 下直）, tendon/外直肌 sparing",
+    "classified_topic": "斜弱視（抓大方向, 檢查方法很亂）",
+    "matched_note_subheading": "斜肌檢查",
+    "matched_note_heading_path": "# 眼科 > ## 斜弱視（抓大方向, 檢查方法很亂） > - 斜肌檢查",
+    "matched_note_excerpt": "斜肌檢查：眼球外展51度 for 斜肌上升下降, 內收39度 for 上斜肌內轉下斜肌外轉",
     "matched_note_path": "01_notes/醫學六/note_6.md",
     "matched_note_line": 379,
     "matched_note_scope": "cross_note_fallback",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 8.0,
+        "score": "refreshed",
         "exam_subject": "醫學六",
         "source_note": "01_notes/醫學六/note_6.md",
         "line": 379,
         "specialty": "眼科",
-        "topic": "眼眶（考古學習）",
-        "subheading": "甲狀腺眼症（甲狀腺功能可能正常範圍, smoke可惡化）",
-        "content": "甲狀腺眼症（甲狀腺功能可能正常範圍, smoke可惡化）：自體免疫dx；SS＝肌肥大（內直, 下直）, tendon/外直肌 sparing"
+        "topic": "斜弱視（抓大方向, 檢查方法很亂）",
+        "subheading": "斜肌檢查",
+        "content": "斜肌檢查：眼球外展51度 for 斜肌上升下降, 內收39度 for 上斜肌內轉下斜肌外轉"
       }
     ]
   },
@@ -82,7 +82,7 @@
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 8.0,
+        "score": "refreshed",
         "exam_subject": "醫學四",
         "source_note": "01_notes/醫學四/note_4.md",
         "line": 547,
@@ -105,42 +105,22 @@
       "D": "prednisolone"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。題幹關鍵字最接近「Anatomy」。可用筆記重點判斷：Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona Gramrulosa （絲狀帶, Mineralocorticoid（礦醛）, 又名Aldosterone, 與血壓有關（絲壓 ⭢ 施壓）, 過多＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多＝Cushing, 過少＝Addison's （口訣：愛迪生的酷刑束皮帶））,Zona Re",
-    "classified_specialty": "新陳代謝科",
-    "classified_topic": "腎上腺dx（題目多）",
-    "matched_note_subheading": "Anatomy",
-    "matched_note_heading_path": "# 新陳代謝科 > ## 腎上腺dx（題目多） > - Anatomy",
-    "matched_note_excerpt": "Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona Gramrulosa （絲狀帶, Mineralocorticoid（礦醛）, 又名Aldosterone, 與血壓有關（絲壓 ⭢ 施壓）, 過多＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多＝Cushing, 過少＝Addison's （口訣：愛迪生的酷刑束皮帶））,Zona Reticulosa （網狀帶, Androgen, 口訣＝網路宅男）, 髓質（分泌Catecholamine, Epinephrine/NE（過多＝Pheochromocytoma））\n  - Cushing's（ACTH分泌過多 ⭢ cortisol過盛）：成因＝Cushing dx（80%, 腦垂Adenoma, hyperplasia）, Adrenal tumor（20%, <4cm 良性Adenoma, >6cm惡性Carcinoma, 故腎上腺tumor>4m一概切除）, Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH, 如小細胞肺癌（長低血鉀/代謝鹼中毒））\n    - SS＝Buffalo hump, Central obesity, 皮膚變薄易瘀青, 骨質疏鬆, DM, Hirsutism, Moon face；\n    - DDx＝Cortisol screen（24hr尿游離Cortisol⭡/夜間給1mg Dexamethasone 但Cortisol⭡）； Cortisol Diag（Dexamethasone 0.5mg q6h for 2 days仍無抑制可確診）； ACTH DDx（ACTH<10（Adrenal tumor（排腹部CT）, ACTH independent）, >10（腦垂Adenoma/ Ectopic adenoma, 排腦部MRI）, >200（Small cell lung ca., 排胸部CT））\n    - Tx＝手術切除腫瘤（腦垂/Adrenal tumor） ⭢ 類固醇~3年, 藥物治療（Ketoconazole抑制Cortisol合成, for 其他難手術者）\n  - Adrenal insufficiency（腎上腺功能不全）：\n    - Primary （原發性, Addison's disease）： 1st, 腎本身被破壞（自體免疫攻擊/感染 （幼兒綠膿, 腦膜炎求菌血症）/出血 （成人凝血功能異常）/藥物 （Ketoconazole, Rifampin）/遺傳性 （21-hydroxylase缺乏））\n      - Primary特異SS＝高血鉀, Hyperpigmentation （ACTH過多刺激Melanocyte stimulating hormone）\n    - Secondary（次發性）： 腦垂體無法製造（外部壓迫/Glucocorticoid長期使用）\n    - 共同SS＝疲倦, 體重減輕, 食慾不振, 低血壓, 低血糖, 低血鈉\n    - 診斷＝screen：注射250ug Cosyntropin ⭢ Cortisol仍無法上升, DDx： ACTH stimulation test（primary無反應, secondary有反應）\n    - Tx＝cortisone\n      - 用長效藥物（Dexamenthasone, 可過BBB）可減少生理影響, 另外越長效Glucocorticoid越強, Mineralocorticoid作用越弱）\n      - 副作用：短期脈衝<長期少量投藥； ∴急性狼瘡用脈衝\n    - 特殊狀況＝Adrenal crisis（急性腎上腺危象）： 成因＝感染/手術/外傷/停藥 導致急性Adrenal失能； SS＝休克, 發燒, 嗜睡； Tx＝IV fluids＋IV hydrocortisone； Critical illness related Adrenal insufficiency（Relative AI）： 重症病人腎上腺需求上升6~10x, 術後相對不足, SS＝休克, Tx＝IV hydrocortisone\n  - Pheochromocytoma（＝會分泌Catecholamine的交感神經, 代謝物＝Metanephrine）\n    \\*cf. Paraganglioma（＝分泌Catecholamine的胸腹部交感神經）\n    - Rule of 10： 腎上外10%, 雙側侵犯10%, 家族性10%, 惡性10%）\n    - SS： 5P＝ { Pressure（高血壓）, Pain, Palpitation, Perspiration（多汗）, Pallor（血管收縮蒼白） }\n    - 診斷： 24hr尿Metanephrine⭡（也可Vanillymandelate（VMA）/Catecholamine）, CT/MRI定位, MIBG scan（if 懷疑長在腎上腺外）\n    - Tx： a-blocker/β-blocker控血壓>手術（完整切除為目標）\n  - Adrenal incidentaloma（偶發腎上腺腫瘤, 腎上腺FNA主要用來評估轉移，良惡性區分不佳）： CT/MRI偶發腎上腺腫瘤, 排除Pheochromocytoma且有惡腫hx ⭢ 懷疑轉移（CT guide FNA）；\n    - 功能性腫瘤/ 無功能>6cm/ 惡性特徵（不規則邊界, 密度>10 HU, 增強後washout<50%）建議切除",
+    "reference_explanation": "答案為 B。題幹關鍵字最接近「Gout arthritis」。可用筆記重點判斷：Gout arthritis：發炎性, 中年男, 停經女； SS＝單一關節（大腳趾第一MTP> 踝> 膝蓋）； DDx＝尿酸結晶（針狀, 負偏光（平黃直藍（痛風負評黃直男）））； Tx＝急性期NSAIDs/Colchicine, 慢性期（for 穩定穩定）Allopurinol/Febuxostat（腎功能不佳可用）",
+    "classified_specialty": "風濕免疫科",
+    "classified_topic": "Arthritis",
+    "matched_note_subheading": "Gout arthritis",
+    "matched_note_heading_path": "# 風濕免疫科 > ## Arthritis > - Gout arthritis",
+    "matched_note_excerpt": "Gout arthritis：發炎性, 中年男, 停經女； SS＝單一關節（大腳趾第一MTP> 踝> 膝蓋）； DDx＝尿酸結晶（針狀, 負偏光（平黃直藍（痛風負評黃直男）））； Tx＝急性期NSAIDs/Colchicine, 慢性期（for 穩定穩定）Allopurinol/Febuxostat（腎功能不佳可用）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 493,
-    "matched_note_scope": "primary_note",
+    "matched_note_line": 827,
+    "matched_note_scope": "manual_corrected",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 11.62,
+        "score": "manual",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 493,
-        "specialty": "新陳代謝科",
-        "topic": "腎上腺dx（題目多）",
-        "subheading": "Anatomy",
-        "content": "Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona Gramrulosa （絲狀帶, Mineralocorticoid（礦醛）, 又名Aldosterone, 與血壓有關（絲壓 ⭢ 施壓）, 過多＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多＝Cushing, 過少＝Addison's （口訣：愛迪生的酷刑束皮帶））,Zona Reticulosa （網狀帶, Androgen, 口訣＝網路宅男）, 髓質（分泌Catecholamine, Epinephrine/NE（過多＝Pheochromocytoma））\n  - Cushing's（ACTH分泌過多 ⭢ cortisol過盛）：成因＝Cushing dx（80%, 腦垂Adenoma, hyperplasia）, Adrenal tumor（20%, <4cm 良性Adenoma, >6cm惡性Carcinoma, 故腎上腺tumor>4m一概切除）, Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH, 如小細胞肺癌（長低血鉀/代謝鹼中毒））\n    - SS＝Buffalo hump, Central obesity, 皮膚變薄易瘀青, 骨質疏鬆, DM, Hirsutism, Moon face；\n    - DDx＝Cortisol screen（24hr尿游離Cortisol⭡/夜間給1mg Dexamethasone 但Cortisol⭡）； Cortisol Diag（Dexamethasone 0.5mg q6h for 2 days仍無抑制可確診）； ACTH DDx（ACTH<10（Adrenal tumor（排腹部CT）, ACTH independent）, >10（腦垂Adenoma/ Ectopic adenoma, 排腦部MRI）, >200（Small cell lung ca., 排胸部CT））\n    - Tx＝手術切除腫瘤（腦垂/Adrenal tumor） ⭢ 類固醇~3年, 藥物治療（Ketoconazole抑制Cortisol合成, for 其他難手術者）\n  - Adrenal insufficiency（腎上腺功能不全）：\n    - Primary （原發性, Addison's disease）： 1st, 腎本身被破壞（自體免疫攻擊/感染 （幼兒綠膿, 腦膜炎求菌血症）/出血 （成人凝血功能異常）/藥物 （Ketoconazole, Rifampin）/遺傳性 （21-hydroxylase缺乏））\n      - Primary特異SS＝高血鉀, Hyperpigmentation （ACTH過多刺激Melanocyte stimulating hormone）\n    - Secondary（次發性）： 腦垂體無法製造（外部壓迫/Glucocorticoid長期使用）\n    - 共同SS＝疲倦, 體重減輕, 食慾不振, 低血壓, 低血糖, 低血鈉\n    - 診斷＝screen：注射250ug Cosyntropin ⭢ Cortisol仍無法上升, DDx： ACTH stimulation test（primary無反應, secondary有反應）\n    - Tx＝cortisone\n      - 用長效藥物（Dexamenthasone, 可過BBB）可減少生理影響, 另外越長效Glucocorticoid越強, Mineralocorticoid作用越弱）\n      - 副作用：短期脈衝<長期少量投藥； ∴急性狼瘡用脈衝\n    - 特殊狀況＝Adrenal crisis（急性腎上腺危象）： 成因＝感染/手術/外傷/停藥 導致急性Adrenal失能； SS＝休克, 發燒, 嗜睡； Tx＝IV fluids＋IV hydrocortisone； Critical illness related Adrenal insufficiency（Relative AI）： 重症病人腎上腺需求上升6~10x, 術後相對不足, SS＝休克, Tx＝IV hydrocortisone\n  - Pheochromocytoma（＝會分泌Catecholamine的交感神經, 代謝物＝Metanephrine）\n    \\*cf. Paraganglioma（＝分泌Catecholamine的胸腹部交感神經）\n    - Rule of 10： 腎上外10%, 雙側侵犯10%, 家族性10%, 惡性10%）\n    - SS： 5P＝ { Pressure（高血壓）, Pain, Palpitation, Perspiration（多汗）, Pallor（血管收縮蒼白） }\n    - 診斷： 24hr尿Metanephrine⭡（也可Vanillymandelate（VMA）/Catecholamine）, CT/MRI定位, MIBG scan（if 懷疑長在腎上腺外）\n    - Tx： a-blocker/β-blocker控血壓>手術（完整切除為目標）\n  - Adrenal incidentaloma（偶發腎上腺腫瘤, 腎上腺FNA主要用來評估轉移，良惡性區分不佳）： CT/MRI偶發腎上腺腫瘤, 排除Pheochromocytoma且有惡腫hx ⭢ 懷疑轉移（CT guide FNA）；\n    - 功能性腫瘤/ 無功能>6cm/ 惡性特徵（不規則邊界, 密度>10 HU, 增強後washout<50%）建議切除"
-      },
-      {
-        "score": 10.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 815,
-        "specialty": "風濕免疫科",
-        "topic": "Arthritis",
-        "subheading": "關節液鑑別診斷",
-        "content": "關節液鑑別診斷：非發炎性（OA, 白血球<2000, 單核球dominant, 多核球<25%）； 發炎性（RA, SLE, GA； 白血球>破萬, 多核球>75%, 關節液濃稠）； 化膿性（細菌感染； 白血球>5萬, 多核球>90%, 關節液膿狀）； 出血性（血友病, 外傷； 關節液帶血）"
-      },
-      {
-        "score": 8.75,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 817,
+        "line": 827,
         "specialty": "風濕免疫科",
         "topic": "Arthritis",
         "subheading": "Gout arthritis",
@@ -160,36 +140,26 @@
       "D": "sodium bicarbonate"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「Cholelithiasis（膽結石）」。可用筆記重點判斷：Cholelithiasis（膽結石）： 分類＝Cholesterol（4F：Female, Forty, Fat, Fertility（懷孕））, Pigment（膽色素, Brown＝鈣化（X ray看不到）, Black＝polymer）, Mixed（Mainly, 80%）；   - SS＝油性食物後右上腹痛, 診斷＝腹部超音波（首選, 可看到結石和膽囊壁增厚）, 治療＝Obs, 止痛藥/切除 if pain",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「Cholelithiasis（膽結石）」。可用筆記重點判斷：Cholelithiasis（膽結石）： 分類＝Cholesterol（4F：Female, Forty, Fat, Fertility（懷孕））, Pigment（膽色素, Brown＝鈣化（X ray看不到）, Black＝polymer）, Mixed（Mainly, 80%）；",
     "classified_specialty": "肝膽腸胃科",
     "classified_topic": "膽囊疾病",
     "matched_note_subheading": "Cholelithiasis（膽結石）",
     "matched_note_heading_path": "# 肝膽腸胃科 > ## 膽囊疾病 > - Cholelithiasis（膽結石）",
-    "matched_note_excerpt": "Cholelithiasis（膽結石）： 分類＝Cholesterol（4F：Female, Forty, Fat, Fertility（懷孕））, Pigment（膽色素, Brown＝鈣化（X ray看不到）, Black＝polymer）, Mixed（Mainly, 80%）；\n  - SS＝油性食物後右上腹痛, 診斷＝腹部超音波（首選, 可看到結石和膽囊壁增厚）, 治療＝Obs, 止痛藥/切除 if pain",
+    "matched_note_excerpt": "Cholelithiasis（膽結石）： 分類＝Cholesterol（4F：Female, Forty, Fat, Fertility（懷孕））, Pigment（膽色素, Brown＝鈣化（X ray看不到）, Black＝polymer）, Mixed（Mainly, 80%）；",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 434,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 14.38,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 434,
         "specialty": "肝膽腸胃科",
         "topic": "膽囊疾病",
         "subheading": "Cholelithiasis（膽結石）",
-        "content": "Cholelithiasis（膽結石）： 分類＝Cholesterol（4F：Female, Forty, Fat, Fertility（懷孕））, Pigment（膽色素, Brown＝鈣化（X ray看不到）, Black＝polymer）, Mixed（Mainly, 80%）；\n  - SS＝油性食物後右上腹痛, 診斷＝腹部超音波（首選, 可看到結石和膽囊壁增厚）, 治療＝Obs, 止痛藥/切除 if pain"
-      },
-      {
-        "score": 9.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 493,
-        "specialty": "新陳代謝科",
-        "topic": "腎上腺dx（題目多）",
-        "subheading": "Anatomy",
-        "content": "Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona Gramrulosa （絲狀帶, Mineralocorticoid（礦醛）, 又名Aldosterone, 與血壓有關（絲壓 ⭢ 施壓）, 過多＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多＝Cushing, 過少＝Addison's （口訣：愛迪生的酷刑束皮帶））,Zona Reticulosa （網狀帶, Androgen, 口訣＝網路宅男）, 髓質（分泌Catecholamine, Epinephrine/NE（過多＝Pheochromocytoma））\n  - Cushing's（ACTH分泌過多 ⭢ cortisol過盛）：成因＝Cushing dx（80%, 腦垂Adenoma, hyperplasia）, Adrenal tumor（20%, <4cm 良性Adenoma, >6cm惡性Carcinoma, 故腎上腺tumor>4m一概切除）, Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH, 如小細胞肺癌（長低血鉀/代謝鹼中毒））\n    - SS＝Buffalo hump, Central obesity, 皮膚變薄易瘀青, 骨質疏鬆, DM, Hirsutism, Moon face；\n    - DDx＝Cortisol screen（24hr尿游離Cortisol⭡/夜間給1mg Dexamethasone 但Cortisol⭡）； Cortisol Diag（Dexamethasone 0.5mg q6h for 2 days仍無抑制可確診）； ACTH DDx（ACTH<10（Adrenal tumor（排腹部CT）, ACTH independent）, >10（腦垂Adenoma/ Ectopic adenoma, 排腦部MRI）, >200（Small cell lung ca., 排胸部CT））\n    - Tx＝手術切除腫瘤（腦垂/Adrenal tumor） ⭢ 類固醇~3年, 藥物治療（Ketoconazole抑制Cortisol合成, for 其他難手術者）\n  - Adrenal insufficiency（腎上腺功能不全）：\n    - Primary （原發性, Addison's disease）： 1st, 腎本身被破壞（自體免疫攻擊/感染 （幼兒綠膿, 腦膜炎求菌血症）/出血 （成人凝血功能異常）/藥物 （Ketoconazole, Rifampin）/遺傳性 （21-hydroxylase缺乏））\n      - Primary特異SS＝高血鉀, Hyperpigmentation （ACTH過多刺激Melanocyte stimulating hormone）\n    - Secondary（次發性）： 腦垂體無法製造（外部壓迫/Glucocorticoid長期使用）\n    - 共同SS＝疲倦, 體重減輕, 食慾不振, 低血壓, 低血糖, 低血鈉\n    - 診斷＝screen：注射250ug Cosyntropin ⭢ Cortisol仍無法上升, DDx： ACTH stimulation test（primary無反應, secondary有反應）\n    - Tx＝cortisone\n      - 用長效藥物（Dexamenthasone, 可過BBB）可減少生理影響, 另外越長效Glucocorticoid越強, Mineralocorticoid作用越弱）\n      - 副作用：短期脈衝<長期少量投藥； ∴急性狼瘡用脈衝\n    - 特殊狀況＝Adrenal crisis（急性腎上腺危象）： 成因＝感染/手術/外傷/停藥 導致急性Adrenal失能； SS＝休克, 發燒, 嗜睡； Tx＝IV fluids＋IV hydrocortisone； Critical illness related Adrenal insufficiency（Relative AI）： 重症病人腎上腺需求上升6~10x, 術後相對不足, SS＝休克, Tx＝IV hydrocortisone\n  - Pheochromocytoma（＝會分泌Catecholamine的交感神經, 代謝物＝Metanephrine）\n    \\*cf. Paraganglioma（＝分泌Catecholamine的胸腹部交感神經）\n    - Rule of 10： 腎上外10%, 雙側侵犯10%, 家族性10%, 惡性10%）\n    - SS： 5P＝ { Pressure（高血壓）, Pain, Palpitation, Perspiration（多汗）, Pallor（血管收縮蒼白） }\n    - 診斷： 24hr尿Metanephrine⭡（也可Vanillymandelate（VMA）/Catecholamine）, CT/MRI定位, MIBG scan（if 懷疑長在腎上腺外）\n    - Tx： a-blocker/β-blocker控血壓>手術（完整切除為目標）\n  - Adrenal incidentaloma（偶發腎上腺腫瘤, 腎上腺FNA主要用來評估轉移，良惡性區分不佳）： CT/MRI偶發腎上腺腫瘤, 排除Pheochromocytoma且有惡腫hx ⭢ 懷疑轉移（CT guide FNA）；\n    - 功能性腫瘤/ 無功能>6cm/ 惡性特徵（不規則邊界, 密度>10 HU, 增強後washout<50%）建議切除"
+        "content": "Cholelithiasis（膽結石）： 分類＝Cholesterol（4F：Female, Forty, Fat, Fertility（懷孕））, Pigment（膽色素, Brown＝鈣化（X ray看不到）, Black＝polymer）, Mixed（Mainly, 80%）；"
       }
     ]
   },
@@ -205,26 +175,26 @@
       "D": "懷疑冠狀動脈心臟病之病人，於檢查前均應服用aspirin，但因心導管屬無菌操作，所以並不需預防性投與抗 生素"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「中血管炎（記WG/CS）」。可用筆記重點判斷：中血管炎（記WG/CS）   - Wegener's granulomatosis（肉芽腫性血管炎, 又名granulomatosis with polyangiitis（GPA））： SS＝上下呼吸道侵犯, 腎血管炎（主要死因）； Lab＝c-ANCA（中央型, 攻擊anti-PR3 Ab）； Tx＝Prednisolone＋Cyclophosphamide/Rituximab）   - Churg-Strauss syndrome（",
-    "classified_specialty": "風濕免疫科",
-    "classified_topic": "血管炎",
-    "matched_note_subheading": "中血管炎（記WG/CS）",
-    "matched_note_heading_path": "# 風濕免疫科 > ## 血管炎 > - 中血管炎（記WG/CS）",
-    "matched_note_excerpt": "中血管炎（記WG/CS）\n  - Wegener's granulomatosis（肉芽腫性血管炎, 又名granulomatosis with polyangiitis（GPA））： SS＝上下呼吸道侵犯, 腎血管炎（主要死因）； Lab＝c-ANCA（中央型, 攻擊anti-PR3 Ab）； Tx＝Prednisolone＋Cyclophosphamide/Rituximab）\n  - Churg-Strauss syndrome（嗜酸性肉芽腫性多血管炎）：SS＝上下呼吸道（嚴重氣喘）, Mononeuritis multiplex（多發性神經病變）； Lab＝Eosinophilia, p-ANCA（周邊型攻擊anti-MPO Ab）； Tx＝類固醇＋免疫抑制劑）\n  - 其他：Kawasaki（小兒冠狀動脈炎； SS＝發燒出疹）； Polyarteritis nodosa（結節性多血管炎； HBV感染, 睪丸痛, 切片PMN浸潤）； Bahcet's disease（HLA B5； SS＝口腔/genital潰瘍, 葡萄膜炎）",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心肌酵素正常）, NSTEMI, STEMI）",
+    "classified_specialty": "心臟內科",
+    "classified_topic": "Ischemic heart disease",
+    "matched_note_subheading": "分類",
+    "matched_note_heading_path": "# 心臟內科 > ## Ischemic heart disease > - 分類",
+    "matched_note_excerpt": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心肌酵素正常）, NSTEMI, STEMI）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 798,
-    "matched_note_scope": "primary_note",
+    "matched_note_line": 49,
+    "matched_note_scope": "manual_corrected",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 8.0,
+        "score": "manual",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 798,
-        "specialty": "風濕免疫科",
-        "topic": "血管炎",
-        "subheading": "中血管炎（記WG/CS）",
-        "content": "中血管炎（記WG/CS）\n  - Wegener's granulomatosis（肉芽腫性血管炎, 又名granulomatosis with polyangiitis（GPA））： SS＝上下呼吸道侵犯, 腎血管炎（主要死因）； Lab＝c-ANCA（中央型, 攻擊anti-PR3 Ab）； Tx＝Prednisolone＋Cyclophosphamide/Rituximab）\n  - Churg-Strauss syndrome（嗜酸性肉芽腫性多血管炎）：SS＝上下呼吸道（嚴重氣喘）, Mononeuritis multiplex（多發性神經病變）； Lab＝Eosinophilia, p-ANCA（周邊型攻擊anti-MPO Ab）； Tx＝類固醇＋免疫抑制劑）\n  - 其他：Kawasaki（小兒冠狀動脈炎； SS＝發燒出疹）； Polyarteritis nodosa（結節性多血管炎； HBV感染, 睪丸痛, 切片PMN浸潤）； Bahcet's disease（HLA B5； SS＝口腔/genital潰瘍, 葡萄膜炎）"
+        "line": 49,
+        "specialty": "心臟內科",
+        "topic": "Ischemic heart disease",
+        "subheading": "分類",
+        "content": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心肌酵素正常）, NSTEMI, STEMI）"
       }
     ]
   },
@@ -240,26 +210,26 @@
       "D": "有機硝酸鹽類（nitrate）經人體代謝後，可釋放一氧化氮（NO）與血管平滑肌adenylyl cyclase結合，造成血 管擴張"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「中血管炎（記WG/CS）」。可用筆記重點判斷：中血管炎（記WG/CS）   - Wegener's granulomatosis（肉芽腫性血管炎, 又名granulomatosis with polyangiitis（GPA））： SS＝上下呼吸道侵犯, 腎血管炎（主要死因）； Lab＝c-ANCA（中央型, 攻擊anti-PR3 Ab）； Tx＝Prednisolone＋Cyclophosphamide/Rituximab）   - Churg-Strauss syndrome（",
-    "classified_specialty": "風濕免疫科",
-    "classified_topic": "血管炎",
-    "matched_note_subheading": "中血管炎（記WG/CS）",
-    "matched_note_heading_path": "# 風濕免疫科 > ## 血管炎 > - 中血管炎（記WG/CS）",
-    "matched_note_excerpt": "中血管炎（記WG/CS）\n  - Wegener's granulomatosis（肉芽腫性血管炎, 又名granulomatosis with polyangiitis（GPA））： SS＝上下呼吸道侵犯, 腎血管炎（主要死因）； Lab＝c-ANCA（中央型, 攻擊anti-PR3 Ab）； Tx＝Prednisolone＋Cyclophosphamide/Rituximab）\n  - Churg-Strauss syndrome（嗜酸性肉芽腫性多血管炎）：SS＝上下呼吸道（嚴重氣喘）, Mononeuritis multiplex（多發性神經病變）； Lab＝Eosinophilia, p-ANCA（周邊型攻擊anti-MPO Ab）； Tx＝類固醇＋免疫抑制劑）\n  - 其他：Kawasaki（小兒冠狀動脈炎； SS＝發燒出疹）； Polyarteritis nodosa（結節性多血管炎； HBV感染, 睪丸痛, 切片PMN浸潤）； Bahcet's disease（HLA B5； SS＝口腔/genital潰瘍, 葡萄膜炎）",
+    "reference_explanation": "答案為 A。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心肌酵素正常）, NSTEMI, STEMI）",
+    "classified_specialty": "心臟內科",
+    "classified_topic": "Ischemic heart disease",
+    "matched_note_subheading": "分類",
+    "matched_note_heading_path": "# 心臟內科 > ## Ischemic heart disease > - 分類",
+    "matched_note_excerpt": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心肌酵素正常）, NSTEMI, STEMI）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 798,
-    "matched_note_scope": "primary_note",
+    "matched_note_line": 49,
+    "matched_note_scope": "manual_corrected",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 8.0,
+        "score": "manual",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 798,
-        "specialty": "風濕免疫科",
-        "topic": "血管炎",
-        "subheading": "中血管炎（記WG/CS）",
-        "content": "中血管炎（記WG/CS）\n  - Wegener's granulomatosis（肉芽腫性血管炎, 又名granulomatosis with polyangiitis（GPA））： SS＝上下呼吸道侵犯, 腎血管炎（主要死因）； Lab＝c-ANCA（中央型, 攻擊anti-PR3 Ab）； Tx＝Prednisolone＋Cyclophosphamide/Rituximab）\n  - Churg-Strauss syndrome（嗜酸性肉芽腫性多血管炎）：SS＝上下呼吸道（嚴重氣喘）, Mononeuritis multiplex（多發性神經病變）； Lab＝Eosinophilia, p-ANCA（周邊型攻擊anti-MPO Ab）； Tx＝類固醇＋免疫抑制劑）\n  - 其他：Kawasaki（小兒冠狀動脈炎； SS＝發燒出疹）； Polyarteritis nodosa（結節性多血管炎； HBV感染, 睪丸痛, 切片PMN浸潤）； Bahcet's disease（HLA B5； SS＝口腔/genital潰瘍, 葡萄膜炎）"
+        "line": 49,
+        "specialty": "心臟內科",
+        "topic": "Ischemic heart disease",
+        "subheading": "分類",
+        "content": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心肌酵素正常）, NSTEMI, STEMI）"
       }
     ]
   },
@@ -275,46 +245,26 @@
       "D": "除了考慮乙型交感神經阻斷劑（beta blocker），鈣離子阻斷劑（calcium channel blocker）等，還要增加利尿 劑的使用量，避免心臟衰竭"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心機酵素正常）, NSTEMI, STEMI）   - Chronic stable angina（>1條CA 70%梗塞）＝fixed astherosclerosis, 運動時胸痛, CRP, BNP升高者預後差     - DDx：Stress test（運動心電圖, max h",
+    "reference_explanation": "答案為 D。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心肌酵素正常）, NSTEMI, STEMI）",
     "classified_specialty": "心臟內科",
     "classified_topic": "Ischemic heart disease",
     "matched_note_subheading": "分類",
     "matched_note_heading_path": "# 心臟內科 > ## Ischemic heart disease > - 分類",
-    "matched_note_excerpt": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心機酵素正常）, NSTEMI, STEMI）\n  - Chronic stable angina（>1條CA 70%梗塞）＝fixed astherosclerosis, 運動時胸痛, CRP, BNP升高者預後差\n    - DDx：Stress test（運動心電圖, max heart rate要>220-age）, Thallium核醫影像（SPECT（功能性缺血評估, 可能低估診斷））, CT\n      - 補：Coronary steal phenomenon＝灌流正常血管病枝缺血\n    - Tx： 內科（Anti angina＝Nitrate, β-blocker, Vasoprotection＝Aspirin, Clopidogrel）, 外科（PCI, CABG冠狀繞道）\n  - Acute coronary syndrome（ACS）\n    - 缺血心電圖\n      - ST depression：常代表 subendocardial ischemia，常見於 NSTEMI / unstable angina，也可為 reciprocal change。\n      - ST elevation：常代表 transmural injury，典型見於 STEMI。\n      - Q wave：非「缺血」本身，而是 myocardial necrosis / infarction 後的 electrical silence。\n      - T wave inversion：代表 ischemia 或 reperfusion 後變化，不限於前壁，要看導程定位。\n    - 發病順序＝T wave 上升⭢ST上升⭢Ｑ wave出現⭢ST下降⭢T wave inversion\n    - 血管與導極： LV inferior（II, III, aVF）＝RCA（90%）/ LCX（10%）, RV（V4R）＝RCA, Septum（V1-V2）＝LAD\n      （懷疑LV inferior MI, 要加做V4R鑑別RV MI, 若V4R有ST上升, 則為RV MI, 需避免使用利尿劑/ Nitrate）\n    - DDx＝Lab（Troponin（快升慢降, ERoom愛用）, CK（慢升慢降）） , 臨床評估＝TIMI score（AACC＋3） Age>65, Aspirin in 7 days, CAD, CAD factor> 3, anima, EKG, Cardiac enzymes\n    - Tx\n      - 急性＝NTG pump＋Aspirin（證實可減少死亡率）＋Clopidogrel＋LMWH（Heparin）\n      - 慢性＝β-blocker, Statin, ACEi（防止ventricular remodeling）, NSAID, Clipidogrel\n      - tPA（症狀<12hr, D2B<30min, 高齡>75不再是禁忌, 禁忌＝腦出血/高血壓/活動性內出血/疑似主動脈剝離）\n      - PCI（症狀>3hr偏好PCI, shock, D2B<90min）\n    - 併發症＝Ventricular premature contracture（VPC, 常規β-blocker, 維持K>4.5, 不要預防性給Lidocaine）, VT, VF",
+    "matched_note_excerpt": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心肌酵素正常）, NSTEMI, STEMI）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 49,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 20.62,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 49,
         "specialty": "心臟內科",
         "topic": "Ischemic heart disease",
         "subheading": "分類",
-        "content": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心機酵素正常）, NSTEMI, STEMI）\n  - Chronic stable angina（>1條CA 70%梗塞）＝fixed astherosclerosis, 運動時胸痛, CRP, BNP升高者預後差\n    - DDx：Stress test（運動心電圖, max heart rate要>220-age）, Thallium核醫影像（SPECT（功能性缺血評估, 可能低估診斷））, CT\n      - 補：Coronary steal phenomenon＝灌流正常血管病枝缺血\n    - Tx： 內科（Anti angina＝Nitrate, β-blocker, Vasoprotection＝Aspirin, Clopidogrel）, 外科（PCI, CABG冠狀繞道）\n  - Acute coronary syndrome（ACS）\n    - 缺血心電圖\n      - ST depression：常代表 subendocardial ischemia，常見於 NSTEMI / unstable angina，也可為 reciprocal change。\n      - ST elevation：常代表 transmural injury，典型見於 STEMI。\n      - Q wave：非「缺血」本身，而是 myocardial necrosis / infarction 後的 electrical silence。\n      - T wave inversion：代表 ischemia 或 reperfusion 後變化，不限於前壁，要看導程定位。\n    - 發病順序＝T wave 上升⭢ST上升⭢Ｑ wave出現⭢ST下降⭢T wave inversion\n    - 血管與導極： LV inferior（II, III, aVF）＝RCA（90%）/ LCX（10%）, RV（V4R）＝RCA, Septum（V1-V2）＝LAD\n      （懷疑LV inferior MI, 要加做V4R鑑別RV MI, 若V4R有ST上升, 則為RV MI, 需避免使用利尿劑/ Nitrate）\n    - DDx＝Lab（Troponin（快升慢降, ERoom愛用）, CK（慢升慢降）） , 臨床評估＝TIMI score（AACC＋3） Age>65, Aspirin in 7 days, CAD, CAD factor> 3, anima, EKG, Cardiac enzymes\n    - Tx\n      - 急性＝NTG pump＋Aspirin（證實可減少死亡率）＋Clopidogrel＋LMWH（Heparin）\n      - 慢性＝β-blocker, Statin, ACEi（防止ventricular remodeling）, NSAID, Clipidogrel\n      - tPA（症狀<12hr, D2B<30min, 高齡>75不再是禁忌, 禁忌＝腦出血/高血壓/活動性內出血/疑似主動脈剝離）\n      - PCI（症狀>3hr偏好PCI, shock, D2B<90min）\n    - 併發症＝Ventricular premature contracture（VPC, 常規β-blocker, 維持K>4.5, 不要預防性給Lidocaine）, VT, VF"
-      },
-      {
-        "score": 19.5,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 798,
-        "specialty": "風濕免疫科",
-        "topic": "血管炎",
-        "subheading": "中血管炎（記WG/CS）",
-        "content": "中血管炎（記WG/CS）\n  - Wegener's granulomatosis（肉芽腫性血管炎, 又名granulomatosis with polyangiitis（GPA））： SS＝上下呼吸道侵犯, 腎血管炎（主要死因）； Lab＝c-ANCA（中央型, 攻擊anti-PR3 Ab）； Tx＝Prednisolone＋Cyclophosphamide/Rituximab）\n  - Churg-Strauss syndrome（嗜酸性肉芽腫性多血管炎）：SS＝上下呼吸道（嚴重氣喘）, Mononeuritis multiplex（多發性神經病變）； Lab＝Eosinophilia, p-ANCA（周邊型攻擊anti-MPO Ab）； Tx＝類固醇＋免疫抑制劑）\n  - 其他：Kawasaki（小兒冠狀動脈炎； SS＝發燒出疹）； Polyarteritis nodosa（結節性多血管炎； HBV感染, 睪丸痛, 切片PMN浸潤）； Bahcet's disease（HLA B5； SS＝口腔/genital潰瘍, 葡萄膜炎）"
-      },
-      {
-        "score": 17.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 121,
-        "specialty": "心臟內科",
-        "topic": "細菌心內膜炎",
-        "subheading": "診斷",
-        "content": "診斷＝Duke Criteria（2M/ 1M＋3m/ 5m）\n  - Major criteria： Positive blood culture（2次以上, >12hr, 同一菌種）, Evidence of endocardial involvement（心臟超音波有vegetation, new valvular regurgitation）\n  - Minor criteria： Predisposing heart condition（易病的心臟） or IV drug use, Fever>38C, Vascular phenomena（emboli, Janeway lesion）, Immunologic phenomena（Osler's node, Roth spots）, Microbiological evidence（not meeting major criteria）\n  - 高懷疑/風險 ⭢ TTE＋TEE, 低懷疑/風險 ⭢ TTE（經胸腔超音波）"
+        "content": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心肌酵素正常）, NSTEMI, STEMI）"
       }
     ]
   },
@@ -402,46 +352,26 @@
       "D": "colchicine用於治療急性不明原因性心包膜炎（acute idiopathic pericarditis）病人的標準治療期程不可超過兩 週，否則轉變成慢性心包膜炎的機率會增加"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「Acute pericarditis」。可用筆記重點判斷：Acute pericarditis： 病因＝Idiopathic/ COX Viral（最常見）, Bacterial, Autoimmune, Uremia； 症狀＝Chest pain（吸氣加重）, Pericardial friction rub（吸氣時S1後出現）, EKG＝Diffuse ST elevation（所有導程ST上升, PR下降）； Tx＝NSAID, Colchicine（預防復發）, Steroid（NSA",
+    "reference_explanation": "答案為 A。題幹關鍵字最接近「Acute pericarditis」。可用筆記重點判斷：Acute pericarditis： 病因＝Idiopathic/ COX Viral（最常見）, Bacterial, Autoimmune, Uremia； 症狀＝Chest pain（吸氣加重）, Pericardial friction rub（吸氣時S1後出現）, EKG＝Diffuse ST elevation（所有導程ST上升, PR下降）；Tx＝NSAID, Colchicine（預防復發）, Steroid（NSAI",
     "classified_specialty": "心臟內科",
     "classified_topic": "Pericarditis（心包膜疾病）",
     "matched_note_subheading": "Acute pericarditis",
     "matched_note_heading_path": "# 心臟內科 > ## Pericarditis（心包膜疾病） > - Acute pericarditis",
-    "matched_note_excerpt": "Acute pericarditis： 病因＝Idiopathic/ COX Viral（最常見）, Bacterial, Autoimmune, Uremia； 症狀＝Chest pain（吸氣加重）, Pericardial friction rub（吸氣時S1後出現）, EKG＝Diffuse ST elevation（所有導程ST上升, PR下降）； Tx＝NSAID, Colchicine（預防復發）, Steroid（NSAID無效者）",
+    "matched_note_excerpt": "Acute pericarditis： 病因＝Idiopathic/ COX Viral（最常見）, Bacterial, Autoimmune, Uremia； 症狀＝Chest pain（吸氣加重）, Pericardial friction rub（吸氣時S1後出現）, EKG＝Diffuse ST elevation（所有導程ST上升, PR下降）；Tx＝NSAID, Colchicine（預防復發）, Steroid（NSAID無效者）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 136,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 13.75,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 136,
         "specialty": "心臟內科",
         "topic": "Pericarditis（心包膜疾病）",
         "subheading": "Acute pericarditis",
-        "content": "Acute pericarditis： 病因＝Idiopathic/ COX Viral（最常見）, Bacterial, Autoimmune, Uremia； 症狀＝Chest pain（吸氣加重）, Pericardial friction rub（吸氣時S1後出現）, EKG＝Diffuse ST elevation（所有導程ST上升, PR下降）； Tx＝NSAID, Colchicine（預防復發）, Steroid（NSAID無效者）"
-      },
-      {
-        "score": 13.75,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 137,
-        "specialty": "心臟內科",
-        "topic": "Pericarditis（心包膜疾病）",
-        "subheading": "Constrictive pericarditis",
-        "content": "Constrictive pericarditis： 病因＝Idiopathic/ Viral, Bacterial > 慢性心包膜肥厚>scarred； 症狀＝Kussmaul sign（吸氣時中心壓反而上升）, Tx＝唯一開刀"
-      },
-      {
-        "score": 13.75,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 138,
-        "specialty": "心臟內科",
-        "topic": "Pericarditis（心包膜疾病）",
-        "subheading": "Cardiac tamponade",
-        "content": "Cardiac tamponade：SS＝ Pulsus paradoxus, Exam＝Beck's triad（Jason低遙；Hypotension, 心音遙遠, elevated JVP）；DDx＝Beck's, EKG不准（因有水, 位置跑來跑去）； Tx＝Echo引流, 避免利尿劑/ β-blocker/ Nitrate"
+        "content": "Acute pericarditis： 病因＝Idiopathic/ COX Viral（最常見）, Bacterial, Autoimmune, Uremia； 症狀＝Chest pain（吸氣加重）, Pericardial friction rub（吸氣時S1後出現）, EKG＝Diffuse ST elevation（所有導程ST上升, PR下降）；Tx＝NSAID, Colchicine（預防復發）, Steroid（NSAID無效者）"
       }
     ]
   },
@@ -493,7 +423,7 @@
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 23.88,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 19,
@@ -501,26 +431,6 @@
         "topic": "高血壓",
         "subheading": "Evaluation",
         "content": "Evaluation＝腦心腎週眼（TIA, 心肌梗塞, CKD, 周邊動脈阻塞, 視網膜病變）, 心音S2, S4 gallop, 頸動脈雜音"
-      },
-      {
-        "score": 18.38,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 121,
-        "specialty": "心臟內科",
-        "topic": "細菌心內膜炎",
-        "subheading": "診斷",
-        "content": "診斷＝Duke Criteria（2M/ 1M＋3m/ 5m）\n  - Major criteria： Positive blood culture（2次以上, >12hr, 同一菌種）, Evidence of endocardial involvement（心臟超音波有vegetation, new valvular regurgitation）\n  - Minor criteria： Predisposing heart condition（易病的心臟） or IV drug use, Fever>38C, Vascular phenomena（emboli, Janeway lesion）, Immunologic phenomena（Osler's node, Roth spots）, Microbiological evidence（not meeting major criteria）\n  - 高懷疑/風險 ⭢ TTE＋TEE, 低懷疑/風險 ⭢ TTE（經胸腔超音波）"
-      },
-      {
-        "score": 18.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 6,
-        "specialty": "心臟內科",
-        "topic": "高血壓",
-        "subheading": "分類",
-        "content": "分類：\n  - Primary hypertension（Essential HTN, 90-95%）： 多有Family Hx, <50y/o 收縮舒張都升高, >50y/o 只有收縮壓升高（甚至舒張壓可能下降）\n  - Secondary hypertension （5-10%）：<30y/o, >60y/o, 突然惡化, 頑固性高血壓 （口訣＝腎內主神藥）\n    - 腎臟：實質病變（1st Secondary HTN）： Mainly DM, 腎血管性高血壓：young＝Fibromuscular dysplasia, old＝Atherosclerosis\n    - 內分泌疾病（口訣＝CCPG）\n      - Primary aldosteronism（Conn's syndrome）\n      - Cushing's syndrome\n      - Pheochromocytoma （MEN2, NF1, VHL）\n      - Graves' disease\n    - 藥物引起\n  - Acute hypertensive crisis\n    - Hypertensive urgency： BP>180/120, no end-organ damage\n    - Hypertensive emergency： BP>180/120, with end-organ damage, Tx＝CCB（Nicardipine）, β-blocker（Labetalol）, Nitroprusside/NTG（腦中風不用因為會增加腦壓）"
       }
     ]
   },
@@ -536,46 +446,26 @@
       "D": "患者無需每半年接受腹部超音波檢查"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「病因」。可用筆記重點判斷：病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎    - HBV病毒（pattern＝免疫",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「病因」。可用筆記重點判斷：病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎  * 補：肝組織3 zones： Zone",
     "classified_specialty": "肝膽腸胃科",
     "classified_topic": "肝炎（題目多）",
     "matched_note_subheading": "病因",
     "matched_note_heading_path": "# 肝膽腸胃科 > ## 肝炎（題目多） > - 病因",
-    "matched_note_excerpt": "病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎\n\n  - HBV病毒（pattern＝免疫容忍（幼兒, DNA/HBeAg極高） ⭢ 免疫廓清（青年, DNA/HBeAg下降） ⭢ 不活躍期（中年, HBeAg陰性） ⭢ 再活化（急性發作/癌化風險））\n\n    - 血清學：Acute HBV＝HBsAg, HBeAg, IgM HBcAb； Chronic HBV＝HBsAg, HBeAg, IgG/M HBcAb； Vaccinated＝HBsAb； Past infection＝HBsAb, HBcAb, HBeAb\n    - 腎損傷：MGN, MPGN\n    - HBV治療時機：慢性帶原（HBsAg>6個月）, 肝硬化（切片分數>5, echo/CT有食道靜脈曲張或脾腫大）\n    - Tx：抗病毒藥物（for HBV DNA濃度高, Lamivudine（老藥，YMDD易突變）, Entecavir（一線）, Adefovir（二線））,interferon（不可用於肝硬化/移植/免疫低下）\n  - HCV（Mainly血傳）：指標只有HCV-Ab, 有就有慢性感染, 腎損傷＝MGN, MPGN；Tx＝Direct acting anti-viral agent（DAA）, Ribavirin（老藥, 會RBC/Renal insufficiency副作用）, RNA監測（抽血RVR（-）>4 wks＝成功, cEVR（-）<12 wks＝失敗）\n  - 免疫性肝炎（T reg⭣）：\n\n    - 自體免疫性肝炎（AIH, Tx＝predinisolone）＝肝炎＋球蛋白⭡＋自體抗體；type 1（抗體＝ASMA, ANA（＋）；多女, 合併甲狀腺/RA）, type 2（抗體＝Anti-LKM1（＋）；\n    - 原發性膽管炎（PBC）：中年女, AMA（＋）, 眼瞼Xanthelasma, Tx＝Ursodeoxycholic acid（UDCA）；\n    - 原發性硬化性膽管炎（PSC）：中年男, IBD合併症, Tx＝只能肝移植\n  - 代謝性肝炎：Wilson's disease（體隱, 血銅/Ceruloplasmin⭣,尿銅⭡, 肝銅沉積, Kayser-Fleischer ring, Tx＝銅螯合劑（Penicillamine）, 移植）, Hemochromatosis（體隱, 中年男, Ferritin/transferrin saturation ⭡, 肝鐵沉積, HFE基因突變, Tx＝放血療法）, α-1 antitrypsin deficiency（肝蛋白沉積）",
+    "matched_note_excerpt": "病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎\n\n* 補：肝組織3 zones： Zone 1（肝門區, 再生強）, Zone 2（中間區）, Zone 3（中心靜脈區, 易死不易再生, e.g. 酒精, 藥物, 急性肝炎）\n* 補：猛爆型肝炎Acute liver failure＝INR ≥1.5, hepatic encephalopathy, 病程小於 26 週",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 393,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 9.25,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 393,
         "specialty": "肝膽腸胃科",
         "topic": "肝炎（題目多）",
         "subheading": "病因",
-        "content": "病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎\n\n  - HBV病毒（pattern＝免疫容忍（幼兒, DNA/HBeAg極高） ⭢ 免疫廓清（青年, DNA/HBeAg下降） ⭢ 不活躍期（中年, HBeAg陰性） ⭢ 再活化（急性發作/癌化風險））\n\n    - 血清學：Acute HBV＝HBsAg, HBeAg, IgM HBcAb； Chronic HBV＝HBsAg, HBeAg, IgG/M HBcAb； Vaccinated＝HBsAb； Past infection＝HBsAb, HBcAb, HBeAb\n    - 腎損傷：MGN, MPGN\n    - HBV治療時機：慢性帶原（HBsAg>6個月）, 肝硬化（切片分數>5, echo/CT有食道靜脈曲張或脾腫大）\n    - Tx：抗病毒藥物（for HBV DNA濃度高, Lamivudine（老藥，YMDD易突變）, Entecavir（一線）, Adefovir（二線））,interferon（不可用於肝硬化/移植/免疫低下）\n  - HCV（Mainly血傳）：指標只有HCV-Ab, 有就有慢性感染, 腎損傷＝MGN, MPGN；Tx＝Direct acting anti-viral agent（DAA）, Ribavirin（老藥, 會RBC/Renal insufficiency副作用）, RNA監測（抽血RVR（-）>4 wks＝成功, cEVR（-）<12 wks＝失敗）\n  - 免疫性肝炎（T reg⭣）：\n\n    - 自體免疫性肝炎（AIH, Tx＝predinisolone）＝肝炎＋球蛋白⭡＋自體抗體；type 1（抗體＝ASMA, ANA（＋）；多女, 合併甲狀腺/RA）, type 2（抗體＝Anti-LKM1（＋）；\n    - 原發性膽管炎（PBC）：中年女, AMA（＋）, 眼瞼Xanthelasma, Tx＝Ursodeoxycholic acid（UDCA）；\n    - 原發性硬化性膽管炎（PSC）：中年男, IBD合併症, Tx＝只能肝移植\n  - 代謝性肝炎：Wilson's disease（體隱, 血銅/Ceruloplasmin⭣,尿銅⭡, 肝銅沉積, Kayser-Fleischer ring, Tx＝銅螯合劑（Penicillamine）, 移植）, Hemochromatosis（體隱, 中年男, Ferritin/transferrin saturation ⭡, 肝鐵沉積, HFE基因突變, Tx＝放血療法）, α-1 antitrypsin deficiency（肝蛋白沉積）"
-      },
-      {
-        "score": 8.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 424,
-        "specialty": "肝膽腸胃科",
-        "topic": "Liver tumor",
-        "subheading": "分類",
-        "content": "分類：Hemangioma（1st良性, 女多, CT＝Centripetal enhencement, 不會轉惡）, Adenoma（年輕女, 口服避孕藥相關, SS＝Intraperitoneal bleeding, Premalignant, Tx＝切除）, Hepatocellular carcinoma（HCC, 中年男, 1st主要肝細胞癌）, Cholangiocarcinoma（CCA, 膽管癌）"
-      },
-      {
-        "score": 8.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 425,
-        "specialty": "肝膽腸胃科",
-        "topic": "Liver tumor",
-        "subheading": "Hepatocellular carcinoma（HCC, 1st肝細胞癌）",
-        "content": "Hepatocellular carcinoma（HCC, 1st肝細胞癌）： 風險因子＝HBV/HCV感染, 肝硬化, 黃麴毒素； Screening＝Echo（一線screen）, 抽血AFP>400, ； Diag＝CT, MRI（經典Arterial enhencement, venous phase/delayed phase washout）\n  - 治愈＝肝切除/肝移植（預後好指標Milan Criteria：無血管侵犯/ 單顆≤5 cm, 3顆以內<3cm）\n  - 延壽＝栓塞, 標靶治療（Sorafenib可延長2months）, 化放療"
+        "content": "病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎\n\n* 補：肝組織3 zones： Zone 1（肝門區, 再生強）, Zone 2（中間區）, Zone 3（中心靜脈區, 易死不易再生, e.g. 酒精, 藥物, 急性肝炎）\n* 補：猛爆型肝炎Acute liver failure＝INR ≥1.5, hepatic encephalopathy, 病程小於 26 週"
       }
     ]
   },
@@ -591,26 +481,26 @@
       "D": "G6PD deficiency"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「肝指數work up（ALT」。可用筆記重點判斷：肝指數work up（ALT＝GPT（Liver專一）, AST＝GOT, AST/ALT看當下damage（Alkaline Phosphatase看間質）；PT/Albumin/Bili看肝剩餘功能）：   - ALT/40：ALKP/100： >5＝肝細胞損傷, <2＝膽道阻塞, 2-5＝混合型   - γGT/50 > ALKP/100： alcohol, drug, tumor, stone, DM, infection   ",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「肝指數work up（ALT」。可用筆記重點判斷：肝指數work up（ALT＝GPT（Liver專一）, AST＝GOT, AST/ALT看當下damage（Alkaline Phosphatase看間質）；PT/Albumin/Bili看肝剩餘功能）：",
     "classified_specialty": "肝膽腸胃科",
     "classified_topic": "肝功能異常",
     "matched_note_subheading": "肝指數work up（ALT",
     "matched_note_heading_path": "# 肝膽腸胃科 > ## 肝功能異常 > - 肝指數work up（ALT",
-    "matched_note_excerpt": "肝指數work up（ALT＝GPT（Liver專一）, AST＝GOT, AST/ALT看當下damage（Alkaline Phosphatase看間質）；PT/Albumin/Bili看肝剩餘功能）：\n  - ALT/40：ALKP/100： >5＝肝細胞損傷, <2＝膽道阻塞, 2-5＝混合型\n  - γGT/50 > ALKP/100： alcohol, drug, tumor, stone, DM, infection\n  - DBili/TBili >0.5： direct（肝膽受傷）, <0.2： indirect（e.g. 溶血）\n  - Albumin/（Albumin＋Globulin） <0.5： cirrhosis, nephrotic syndrome, chronic inflammation\n  - AST/ALT： <1考慮病毒肝炎, >2考慮酒精肝\n  - 短期肝受傷：PT/ aPTT下降, 長期肝受傷：Albumin下降",
+    "matched_note_excerpt": "肝指數work up（ALT＝GPT（Liver專一）, AST＝GOT, AST/ALT看當下damage（Alkaline Phosphatase看間質）；PT/Albumin/Bili看肝剩餘功能）：",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 368,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 8.5,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 368,
         "specialty": "肝膽腸胃科",
         "topic": "肝功能異常",
         "subheading": "肝指數work up（ALT",
-        "content": "肝指數work up（ALT＝GPT（Liver專一）, AST＝GOT, AST/ALT看當下damage（Alkaline Phosphatase看間質）；PT/Albumin/Bili看肝剩餘功能）：\n  - ALT/40：ALKP/100： >5＝肝細胞損傷, <2＝膽道阻塞, 2-5＝混合型\n  - γGT/50 > ALKP/100： alcohol, drug, tumor, stone, DM, infection\n  - DBili/TBili >0.5： direct（肝膽受傷）, <0.2： indirect（e.g. 溶血）\n  - Albumin/（Albumin＋Globulin） <0.5： cirrhosis, nephrotic syndrome, chronic inflammation\n  - AST/ALT： <1考慮病毒肝炎, >2考慮酒精肝\n  - 短期肝受傷：PT/ aPTT下降, 長期肝受傷：Albumin下降"
+        "content": "肝指數work up（ALT＝GPT（Liver專一）, AST＝GOT, AST/ALT看當下damage（Alkaline Phosphatase看間質）；PT/Albumin/Bili看肝剩餘功能）："
       }
     ]
   },
@@ -662,7 +552,7 @@
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 8.0,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 388,
@@ -670,16 +560,6 @@
         "topic": "腹水",
         "subheading": "SAAG score",
         "content": "SAAG score： Serum/Ascitic Albumin >1.1： portal hypertension（肝硬化, 心衰竭, 肝靜脈阻塞）； <1.1： 發炎/ 癌症（腹膜癌, 結核性腹膜炎, 胰臟炎）"
-      },
-      {
-        "score": 8.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 389,
-        "specialty": "肝膽腸胃科",
-        "topic": "腹水",
-        "subheading": "細菌性腹膜炎（腹水中PMN>250）",
-        "content": "細菌性腹膜炎（腹水中PMN>250）：Spontaneous （SBP）＝ { Ecoli, 克雷, S.pneumoniae, 治療＝第三代頭孢菌素（cefotaxime, 不用cover厭氧菌） } ； Secondary＝ { 腸胃破裂引起（要cover厭氧菌）, 治療＝Ampicillin＋Ciprofloxacin＋Metronidazole }"
       }
     ]
   },
@@ -707,7 +587,7 @@
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 33.25,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 311,
@@ -715,26 +595,6 @@
         "topic": "吞嚥困難",
         "subheading": "成因",
         "content": "成因： Diffuse esophageal spasm（間歇性）, Achalasia（食道弛緩不能症, ∵下括約肌無法放鬆, 伴呼吸道症狀）, Scleroderma（食道蠕動減弱, 伴有heartburn症狀）, Hiatus hernia（sliding＝整個上移一部分, paraesophageal（dysphagia>GERD）＝胃部旁邊有一個囊袋上一到胸腔）"
-      },
-      {
-        "score": 32.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 312,
-        "specialty": "肝膽腸胃科",
-        "topic": "吞嚥困難",
-        "subheading": "Achalasia",
-        "content": "Achalasia：男＝女； 診斷＝CXR主動脈後突起內有air-fluid level, Barrium study 有Bird beak； 治療＝內視鏡肉毒, CCB, Nitrate, pneumatic dilation（氣囊擴張）, Heller myotomy（外科手術切開括約肌）"
-      },
-      {
-        "score": 11.88,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 205,
-        "specialty": "胸腔內科",
-        "topic": "COPD",
-        "subheading": "病理",
-        "content": "病理＝大氣道goblet cell增生>黏液濃痰分泌增加/上皮細胞麟化（抽煙加劇，鱗狀細胞癌風險）>小氣道阻塞>肺實質發炎（被Elastolytic protien破壞）"
       }
     ]
   },
@@ -750,36 +610,26 @@
       "D": "內視鏡檢查要注意胃靜脈瘤（gastric varices）的有無和出血跡象"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「病因」。可用筆記重點判斷：病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎    - HBV病毒（pattern＝免疫",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「Child-Pugh score（預測生存率和手術風險）」。可用筆記重點判斷：Child-Pugh score（預測生存率和手術風險）： 5-6分為A級（預後較好）, 7-9分為B級, 10-15分為C級（預後較差）",
     "classified_specialty": "肝膽腸胃科",
-    "classified_topic": "肝炎（題目多）",
-    "matched_note_subheading": "病因",
-    "matched_note_heading_path": "# 肝膽腸胃科 > ## 肝炎（題目多） > - 病因",
-    "matched_note_excerpt": "病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎\n\n  - HBV病毒（pattern＝免疫容忍（幼兒, DNA/HBeAg極高） ⭢ 免疫廓清（青年, DNA/HBeAg下降） ⭢ 不活躍期（中年, HBeAg陰性） ⭢ 再活化（急性發作/癌化風險））\n\n    - 血清學：Acute HBV＝HBsAg, HBeAg, IgM HBcAb； Chronic HBV＝HBsAg, HBeAg, IgG/M HBcAb； Vaccinated＝HBsAb； Past infection＝HBsAb, HBcAb, HBeAb\n    - 腎損傷：MGN, MPGN\n    - HBV治療時機：慢性帶原（HBsAg>6個月）, 肝硬化（切片分數>5, echo/CT有食道靜脈曲張或脾腫大）\n    - Tx：抗病毒藥物（for HBV DNA濃度高, Lamivudine（老藥，YMDD易突變）, Entecavir（一線）, Adefovir（二線））,interferon（不可用於肝硬化/移植/免疫低下）\n  - HCV（Mainly血傳）：指標只有HCV-Ab, 有就有慢性感染, 腎損傷＝MGN, MPGN；Tx＝Direct acting anti-viral agent（DAA）, Ribavirin（老藥, 會RBC/Renal insufficiency副作用）, RNA監測（抽血RVR（-）>4 wks＝成功, cEVR（-）<12 wks＝失敗）\n  - 免疫性肝炎（T reg⭣）：\n\n    - 自體免疫性肝炎（AIH, Tx＝predinisolone）＝肝炎＋球蛋白⭡＋自體抗體；type 1（抗體＝ASMA, ANA（＋）；多女, 合併甲狀腺/RA）, type 2（抗體＝Anti-LKM1（＋）；\n    - 原發性膽管炎（PBC）：中年女, AMA（＋）, 眼瞼Xanthelasma, Tx＝Ursodeoxycholic acid（UDCA）；\n    - 原發性硬化性膽管炎（PSC）：中年男, IBD合併症, Tx＝只能肝移植\n  - 代謝性肝炎：Wilson's disease（體隱, 血銅/Ceruloplasmin⭣,尿銅⭡, 肝銅沉積, Kayser-Fleischer ring, Tx＝銅螯合劑（Penicillamine）, 移植）, Hemochromatosis（體隱, 中年男, Ferritin/transferrin saturation ⭡, 肝鐵沉積, HFE基因突變, Tx＝放血療法）, α-1 antitrypsin deficiency（肝蛋白沉積）",
+    "classified_topic": "肝硬化（題目多）",
+    "matched_note_subheading": "Child-Pugh score（預測生存率和手術風險）",
+    "matched_note_heading_path": "# 肝膽腸胃科 > ## 肝硬化（題目多） > - Child-Pugh score（預測生存率和手術風險）",
+    "matched_note_excerpt": "Child-Pugh score（預測生存率和手術風險）： 5-6分為A級（預後較好）, 7-9分為B級, 10-15分為C級（預後較差）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 393,
-    "matched_note_scope": "primary_note",
+    "matched_note_line": 413,
+    "matched_note_scope": "manual_corrected",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 13.12,
+        "score": "manual",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 393,
-        "specialty": "肝膽腸胃科",
-        "topic": "肝炎（題目多）",
-        "subheading": "病因",
-        "content": "病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎\n\n  - HBV病毒（pattern＝免疫容忍（幼兒, DNA/HBeAg極高） ⭢ 免疫廓清（青年, DNA/HBeAg下降） ⭢ 不活躍期（中年, HBeAg陰性） ⭢ 再活化（急性發作/癌化風險））\n\n    - 血清學：Acute HBV＝HBsAg, HBeAg, IgM HBcAb； Chronic HBV＝HBsAg, HBeAg, IgG/M HBcAb； Vaccinated＝HBsAb； Past infection＝HBsAb, HBcAb, HBeAb\n    - 腎損傷：MGN, MPGN\n    - HBV治療時機：慢性帶原（HBsAg>6個月）, 肝硬化（切片分數>5, echo/CT有食道靜脈曲張或脾腫大）\n    - Tx：抗病毒藥物（for HBV DNA濃度高, Lamivudine（老藥，YMDD易突變）, Entecavir（一線）, Adefovir（二線））,interferon（不可用於肝硬化/移植/免疫低下）\n  - HCV（Mainly血傳）：指標只有HCV-Ab, 有就有慢性感染, 腎損傷＝MGN, MPGN；Tx＝Direct acting anti-viral agent（DAA）, Ribavirin（老藥, 會RBC/Renal insufficiency副作用）, RNA監測（抽血RVR（-）>4 wks＝成功, cEVR（-）<12 wks＝失敗）\n  - 免疫性肝炎（T reg⭣）：\n\n    - 自體免疫性肝炎（AIH, Tx＝predinisolone）＝肝炎＋球蛋白⭡＋自體抗體；type 1（抗體＝ASMA, ANA（＋）；多女, 合併甲狀腺/RA）, type 2（抗體＝Anti-LKM1（＋）；\n    - 原發性膽管炎（PBC）：中年女, AMA（＋）, 眼瞼Xanthelasma, Tx＝Ursodeoxycholic acid（UDCA）；\n    - 原發性硬化性膽管炎（PSC）：中年男, IBD合併症, Tx＝只能肝移植\n  - 代謝性肝炎：Wilson's disease（體隱, 血銅/Ceruloplasmin⭣,尿銅⭡, 肝銅沉積, Kayser-Fleischer ring, Tx＝銅螯合劑（Penicillamine）, 移植）, Hemochromatosis（體隱, 中年男, Ferritin/transferrin saturation ⭡, 肝鐵沉積, HFE基因突變, Tx＝放血療法）, α-1 antitrypsin deficiency（肝蛋白沉積）"
-      },
-      {
-        "score": 10.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 414,
+        "line": 413,
         "specialty": "肝膽腸胃科",
         "topic": "肝硬化（題目多）",
-        "subheading": "併發症",
-        "content": "併發症＝encephalopathy, 食道vaices（內視鏡ligate, somastatin止血, 交感神經阻斷劑預防再出血）, 胃varices（Fundus最長出血）, hepatorenal syndrome（機轉不明, 尿濃, 尿Na<10）"
+        "subheading": "Child-Pugh score（預測生存率和手術風險）",
+        "content": "Child-Pugh score（預測生存率和手術風險）： 5-6分為A級（預後較好）, 7-9分為B級, 10-15分為C級（預後較差）"
       }
     ]
   },
@@ -831,7 +681,7 @@
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 13.38,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 424,
@@ -839,16 +689,6 @@
         "topic": "Liver tumor",
         "subheading": "分類",
         "content": "分類：Hemangioma（1st良性, 女多, CT＝Centripetal enhencement, 不會轉惡）, Adenoma（年輕女, 口服避孕藥相關, SS＝Intraperitoneal bleeding, Premalignant, Tx＝切除）, Hepatocellular carcinoma（HCC, 中年男, 1st主要肝細胞癌）, Cholangiocarcinoma（CCA, 膽管癌）"
-      },
-      {
-        "score": 13.38,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 425,
-        "specialty": "肝膽腸胃科",
-        "topic": "Liver tumor",
-        "subheading": "Hepatocellular carcinoma（HCC, 1st肝細胞癌）",
-        "content": "Hepatocellular carcinoma（HCC, 1st肝細胞癌）： 風險因子＝HBV/HCV感染, 肝硬化, 黃麴毒素； Screening＝Echo（一線screen）, 抽血AFP>400, ； Diag＝CT, MRI（經典Arterial enhencement, venous phase/delayed phase washout）\n  - 治愈＝肝切除/肝移植（預後好指標Milan Criteria：無血管侵犯/ 單顆≤5 cm, 3顆以內<3cm）\n  - 延壽＝栓塞, 標靶治療（Sorafenib可延長2months）, 化放療"
       }
     ]
   },
@@ -876,7 +716,7 @@
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 11.75,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 414,
@@ -899,46 +739,26 @@
       "D": "轉介照會腎臟科醫師做進一步處置"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：   - Primary hypertension（Essential HTN, 90-95%）： 多有Family Hx, <50y/o 收縮舒張都升高, >50y/o 只有收縮壓升高（甚至舒張壓可能下降）   - Secondary hypertension （5-10%）：<30y/o, >60y/o, 突然惡化, 頑固性高血壓 （口訣＝腎內主神藥）     - 腎臟：實質病變（1st Secondary HTN）： Mai",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：",
     "classified_specialty": "心臟內科",
     "classified_topic": "高血壓",
     "matched_note_subheading": "分類",
     "matched_note_heading_path": "# 心臟內科 > ## 高血壓 > - 分類",
-    "matched_note_excerpt": "分類：\n  - Primary hypertension（Essential HTN, 90-95%）： 多有Family Hx, <50y/o 收縮舒張都升高, >50y/o 只有收縮壓升高（甚至舒張壓可能下降）\n  - Secondary hypertension （5-10%）：<30y/o, >60y/o, 突然惡化, 頑固性高血壓 （口訣＝腎內主神藥）\n    - 腎臟：實質病變（1st Secondary HTN）： Mainly DM, 腎血管性高血壓：young＝Fibromuscular dysplasia, old＝Atherosclerosis\n    - 內分泌疾病（口訣＝CCPG）\n      - Primary aldosteronism（Conn's syndrome）\n      - Cushing's syndrome\n      - Pheochromocytoma （MEN2, NF1, VHL）\n      - Graves' disease\n    - 藥物引起\n  - Acute hypertensive crisis\n    - Hypertensive urgency： BP>180/120, no end-organ damage\n    - Hypertensive emergency： BP>180/120, with end-organ damage, Tx＝CCB（Nicardipine）, β-blocker（Labetalol）, Nitroprusside/NTG（腦中風不用因為會增加腦壓）",
+    "matched_note_excerpt": "分類：",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 6,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 16.0,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 6,
         "specialty": "心臟內科",
         "topic": "高血壓",
         "subheading": "分類",
-        "content": "分類：\n  - Primary hypertension（Essential HTN, 90-95%）： 多有Family Hx, <50y/o 收縮舒張都升高, >50y/o 只有收縮壓升高（甚至舒張壓可能下降）\n  - Secondary hypertension （5-10%）：<30y/o, >60y/o, 突然惡化, 頑固性高血壓 （口訣＝腎內主神藥）\n    - 腎臟：實質病變（1st Secondary HTN）： Mainly DM, 腎血管性高血壓：young＝Fibromuscular dysplasia, old＝Atherosclerosis\n    - 內分泌疾病（口訣＝CCPG）\n      - Primary aldosteronism（Conn's syndrome）\n      - Cushing's syndrome\n      - Pheochromocytoma （MEN2, NF1, VHL）\n      - Graves' disease\n    - 藥物引起\n  - Acute hypertensive crisis\n    - Hypertensive urgency： BP>180/120, no end-organ damage\n    - Hypertensive emergency： BP>180/120, with end-organ damage, Tx＝CCB（Nicardipine）, β-blocker（Labetalol）, Nitroprusside/NTG（腦中風不用因為會增加腦壓）"
-      },
-      {
-        "score": 13.88,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 49,
-        "specialty": "心臟內科",
-        "topic": "Ischemic heart disease",
-        "subheading": "分類",
-        "content": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心機酵素正常）, NSTEMI, STEMI）\n  - Chronic stable angina（>1條CA 70%梗塞）＝fixed astherosclerosis, 運動時胸痛, CRP, BNP升高者預後差\n    - DDx：Stress test（運動心電圖, max heart rate要>220-age）, Thallium核醫影像（SPECT（功能性缺血評估, 可能低估診斷））, CT\n      - 補：Coronary steal phenomenon＝灌流正常血管病枝缺血\n    - Tx： 內科（Anti angina＝Nitrate, β-blocker, Vasoprotection＝Aspirin, Clopidogrel）, 外科（PCI, CABG冠狀繞道）\n  - Acute coronary syndrome（ACS）\n    - 缺血心電圖\n      - ST depression：常代表 subendocardial ischemia，常見於 NSTEMI / unstable angina，也可為 reciprocal change。\n      - ST elevation：常代表 transmural injury，典型見於 STEMI。\n      - Q wave：非「缺血」本身，而是 myocardial necrosis / infarction 後的 electrical silence。\n      - T wave inversion：代表 ischemia 或 reperfusion 後變化，不限於前壁，要看導程定位。\n    - 發病順序＝T wave 上升⭢ST上升⭢Ｑ wave出現⭢ST下降⭢T wave inversion\n    - 血管與導極： LV inferior（II, III, aVF）＝RCA（90%）/ LCX（10%）, RV（V4R）＝RCA, Septum（V1-V2）＝LAD\n      （懷疑LV inferior MI, 要加做V4R鑑別RV MI, 若V4R有ST上升, 則為RV MI, 需避免使用利尿劑/ Nitrate）\n    - DDx＝Lab（Troponin（快升慢降, ERoom愛用）, CK（慢升慢降）） , 臨床評估＝TIMI score（AACC＋3） Age>65, Aspirin in 7 days, CAD, CAD factor> 3, anima, EKG, Cardiac enzymes\n    - Tx\n      - 急性＝NTG pump＋Aspirin（證實可減少死亡率）＋Clopidogrel＋LMWH（Heparin）\n      - 慢性＝β-blocker, Statin, ACEi（防止ventricular remodeling）, NSAID, Clipidogrel\n      - tPA（症狀<12hr, D2B<30min, 高齡>75不再是禁忌, 禁忌＝腦出血/高血壓/活動性內出血/疑似主動脈剝離）\n      - PCI（症狀>3hr偏好PCI, shock, D2B<90min）\n    - 併發症＝Ventricular premature contracture（VPC, 常規β-blocker, 維持K>4.5, 不要預防性給Lidocaine）, VT, VF"
-      },
-      {
-        "score": 12.62,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 5,
-        "specialty": "心臟內科",
-        "topic": "高血壓",
-        "subheading": "定義",
-        "content": "定義：>18y/o, 連兩次收縮壓>＝140mmHg 或 舒張壓>＝90mmHg"
+        "content": "分類："
       }
     ]
   },
@@ -954,46 +774,26 @@
       "D": "mycophenolate mofetil"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。題幹關鍵字最接近「移植後感染」。可用筆記重點判斷：移植後感染： <1月＝Hospital acquired infection（肺炎, 尿路感染）, 1-6月＝病毒伺機感染（長期死亡主因； e.g. CMV, EBV, BK virus）, >6月＝一般人（if移植腎功能正常）, 但癌症率⭡（淋巴癌20x, 腎癌15x）",
+    "reference_explanation": "答案為 B。題幹關鍵字最接近「適應症」。可用筆記重點判斷：適應症＝大部分CKD, 容易再發者＝ { Anti-GBM, IgA, MPGN, FSGS, DM } , 禁忌症＝ { Acute INF, Malignancy, 6個月內還有活性的SLE/血管炎/Anti-GBM }",
     "classified_specialty": "腎臟內科",
     "classified_topic": "Renal Transplantation腎臟移植",
-    "matched_note_subheading": "移植後感染",
-    "matched_note_heading_path": "# 腎臟內科 > ## Renal Transplantation腎臟移植 > - 移植後感染",
-    "matched_note_excerpt": "移植後感染： <1月＝Hospital acquired infection（肺炎, 尿路感染）, 1-6月＝病毒伺機感染（長期死亡主因； e.g. CMV, EBV, BK virus）, >6月＝一般人（if移植腎功能正常）, 但癌症率⭡（淋巴癌20x, 腎癌15x）",
+    "matched_note_subheading": "適應症",
+    "matched_note_heading_path": "# 腎臟內科 > ## Renal Transplantation腎臟移植 > - 適應症",
+    "matched_note_excerpt": "適應症＝大部分CKD, 容易再發者＝ { Anti-GBM, IgA, MPGN, FSGS, DM } , 禁忌症＝ { Acute INF, Malignancy, 6個月內還有活性的SLE/血管炎/Anti-GBM }",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 646,
+    "matched_note_line": 647,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 23.0,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 646,
+        "line": 647,
         "specialty": "腎臟內科",
         "topic": "Renal Transplantation腎臟移植",
-        "subheading": "移植後感染",
-        "content": "移植後感染： <1月＝Hospital acquired infection（肺炎, 尿路感染）, 1-6月＝病毒伺機感染（長期死亡主因； e.g. CMV, EBV, BK virus）, >6月＝一般人（if移植腎功能正常）, 但癌症率⭡（淋巴癌20x, 腎癌15x）"
-      },
-      {
-        "score": 15.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 593,
-        "specialty": "腎臟內科",
-        "topic": "離子平衡",
-        "subheading": "Hyperkalemia（血鉀>5.0, 心律不整, 肌肉無力）",
-        "content": "Hyperkalemia（血鉀>5.0, 心律不整, 肌肉無力）： EKG＝高T平P寬QRS； 成因＝K shift（e.g. Acidosis, β-blocker, Digoxin toxicity）, 腎功能異常（CKD, Tx（靠腸道排鉀）＝樹脂＋瀉劑）, 腎功能正常（TTKG>10（有效水分不足, 心衰肝衰）, TTKG<5（低尿鉀 ⭢ Aldosterone缺乏/抵抗, 見Hypo RAS））, Tx＝Calcium gluconate（速效, 避免心律不整）, Insuline, Hemodyalisis"
-      },
-      {
-        "score": 13.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 636,
-        "specialty": "腎臟內科",
-        "topic": "Renal Replacement Thx（透析）",
-        "subheading": "血液透析",
-        "content": "血液透析\n  - 管路種類：AV fisula（Radial/Brachial a. 接到 Cephalic v.）, AV graft（額外管路, for血管條件不佳者, SE＝高心臟負荷）, double-lumen\n  - 併發症：低血壓（Tx＝調高乾體重, Na濃度（血透比腹透不易低血壓/低血鉀（∵ Na/K多, 用Bicarbonate取代acetate） ）, Dialysis-related Amyloidosis（DRA）, 三級副甲亢（Ca⭡）, Dialyzer reaction（透析開始數分鐘胸痛/背痛/呼吸不適, BP可穩定, 繼續透析可緩解；Tx＝更換不同材質透析器, 避免重複使用/注意消毒劑或膜材反應）"
+        "subheading": "適應症",
+        "content": "適應症＝大部分CKD, 容易再發者＝ { Anti-GBM, IgA, MPGN, FSGS, DM } , 禁忌症＝ { Acute INF, Malignancy, 6個月內還有活性的SLE/血管炎/Anti-GBM }"
       }
     ]
   },
@@ -1021,7 +821,7 @@
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 8.0,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 360,
@@ -1068,46 +868,26 @@
       "D": "建議病人限制低鹽（＜5 g/day）飲食"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「ADPKD（自體顯性PKD, 90%PKD, 1st, Type I為主（16p短臂PKD1突變）, SS」。可用筆記重點判斷：ADPKD（自體顯性PKD, 90%PKD, 1st, Type I為主（16p短臂PKD1突變）, SS＝30-40 y/o單側多囊腫, 腎外常見肝cyst, 血壓高； DDX＝臨床（年輕單側>2cyst, 老人>4cyst）, Tx＝ACEi控壓, 腎衰後透析/移植）； ARPKD（自體隱性PKD, 10%PKD, 小孩為主, 高死亡率, 肝病變）",
+    "reference_explanation": "答案為 A。題幹關鍵字最接近「移植後感染」。可用筆記重點判斷：移植後感染： <1月＝Hospital acquired infection（肺炎, 尿路感染）, 1-6月＝病毒伺機感染（長期死亡主因； e.g. CMV, EBV, BK virus）, >6月＝一般人（if移植腎功能正常）, 但癌症率⭡（淋巴癌20x, 腎癌15x）",
     "classified_specialty": "腎臟內科",
-    "classified_topic": "Polycystic kidney disease（PKD）",
-    "matched_note_subheading": "ADPKD（自體顯性PKD, 90%PKD, 1st, Type I為主（16p短臂PKD1突變）, SS",
-    "matched_note_heading_path": "# 腎臟內科 > ## Polycystic kidney disease（PKD） > - ADPKD（自體顯性PKD, 90%PKD, 1st, Type I為主（16p短臂PKD1突變）, SS",
-    "matched_note_excerpt": "ADPKD（自體顯性PKD, 90%PKD, 1st, Type I為主（16p短臂PKD1突變）, SS＝30-40 y/o單側多囊腫, 腎外常見肝cyst, 血壓高； DDX＝臨床（年輕單側>2cyst, 老人>4cyst）, Tx＝ACEi控壓, 腎衰後透析/移植）； ARPKD（自體隱性PKD, 10%PKD, 小孩為主, 高死亡率, 肝病變）",
+    "classified_topic": "Renal Transplantation腎臟移植",
+    "matched_note_subheading": "移植後感染",
+    "matched_note_heading_path": "# 腎臟內科 > ## Renal Transplantation腎臟移植 > - 移植後感染",
+    "matched_note_excerpt": "移植後感染： <1月＝Hospital acquired infection（肺炎, 尿路感染）, 1-6月＝病毒伺機感染（長期死亡主因； e.g. CMV, EBV, BK virus）, >6月＝一般人（if移植腎功能正常）, 但癌症率⭡（淋巴癌20x, 腎癌15x）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 650,
+    "matched_note_line": 649,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 17.75,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 650,
+        "line": 649,
         "specialty": "腎臟內科",
-        "topic": "Polycystic kidney disease（PKD）",
-        "subheading": "ADPKD（自體顯性PKD, 90%PKD, 1st, Type I為主（16p短臂PKD1突變）, SS",
-        "content": "ADPKD（自體顯性PKD, 90%PKD, 1st, Type I為主（16p短臂PKD1突變）, SS＝30-40 y/o單側多囊腫, 腎外常見肝cyst, 血壓高； DDX＝臨床（年輕單側>2cyst, 老人>4cyst）, Tx＝ACEi控壓, 腎衰後透析/移植）； ARPKD（自體隱性PKD, 10%PKD, 小孩為主, 高死亡率, 肝病變）"
-      },
-      {
-        "score": 9.88,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 632,
-        "specialty": "腎臟內科",
-        "topic": "慢性腎臟病CKD",
-        "subheading": "併發症",
-        "content": "併發症＝Uremia（SS＝食慾不振, 嗜睡, 皮膚搔癢； 濃度與症狀成正比）； Renal Osteodystrophy（腎臟骨病變；e.g Osteitis fibrosa cystica（High PTH（骨更新快）, 腎衰導致鈣低磷高） ,  Adynamic bone disease（Low PTH（骨更新慢）, 成因＝DM, 老人, 鈣吃多）, Osteomalacia（骨軟化症, Tx＝磷螯合劑））； Secondary 副甲亢"
-      },
-      {
-        "score": 8.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 626,
-        "specialty": "腎臟內科",
-        "topic": "慢性腎臟病CKD",
-        "subheading": "分級（依GFR）",
-        "content": "分級（依GFR）：\n  - G1（>90）, G2（60-89）, G3a（45-59）, G3b（30-44, 開始低蛋白飲食, opt＝ { 補鐵, 補鈣, 磷螯合 } ）\n  - 末期（if 尿毒症狀（＋）∩Ccr<10 then Hemodialysis）： G4（15-29）, G5（<15）"
+        "topic": "Renal Transplantation腎臟移植",
+        "subheading": "移植後感染",
+        "content": "移植後感染： <1月＝Hospital acquired infection（肺炎, 尿路感染）, 1-6月＝病毒伺機感染（長期死亡主因； e.g. CMV, EBV, BK virus）, >6月＝一般人（if移植腎功能正常）, 但癌症率⭡（淋巴癌20x, 腎癌15x）"
       }
     ]
   },
@@ -1171,46 +951,26 @@
       "D": "CRP和ESR皆正常"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「疾病活躍度評估」。可用筆記重點判斷：疾病活躍度評估＝DAS28（評估28個關節的腫痛程度, ESR, 病人自覺）； 低活躍<3.2, 高活躍>5.1； 治療每1-3m測一次並調藥，目標是<2.6（臨床緩解））",
+    "reference_explanation": "答案為 D。題幹關鍵字最接近「孕婦」。可用筆記重點判斷：孕婦：持續Predinisolone（胎盤可分解）, 免疫抑制劑可用Azathropine（胎盤可分解）/少量Cyclosporin, 不可用MMF/Cyclophosphamide",
     "classified_specialty": "風濕免疫科",
-    "classified_topic": "RA",
-    "matched_note_subheading": "疾病活躍度評估",
-    "matched_note_heading_path": "# 風濕免疫科 > ## RA > - 疾病活躍度評估",
-    "matched_note_excerpt": "疾病活躍度評估＝DAS28（評估28個關節的腫痛程度, ESR, 病人自覺）； 低活躍<3.2, 高活躍>5.1； 治療每1-3m測一次並調藥，目標是<2.6（臨床緩解））",
+    "classified_topic": "SLE",
+    "matched_note_subheading": "孕婦",
+    "matched_note_heading_path": "# 風濕免疫科 > ## SLE > - 孕婦",
+    "matched_note_excerpt": "孕婦：持續Predinisolone（胎盤可分解）, 免疫抑制劑可用Azathropine（胎盤可分解）/少量Cyclosporin, 不可用MMF/Cyclophosphamide",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 779,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 11.12,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 779,
         "specialty": "風濕免疫科",
-        "topic": "RA",
-        "subheading": "疾病活躍度評估",
-        "content": "疾病活躍度評估＝DAS28（評估28個關節的腫痛程度, ESR, 病人自覺）； 低活躍<3.2, 高活躍>5.1； 治療每1-3m測一次並調藥，目標是<2.6（臨床緩解））"
-      },
-      {
-        "score": 8.5,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 553,
-        "specialty": "新陳代謝科",
-        "topic": "其他",
-        "subheading": "Female",
-        "content": "Female：\n  - 停經給Hormone優缺點：優點＝ { 改善停經症候群, 骨鬆, 降低大腸癌 } , 缺點＝ { 增加子宮內膜癌（if單用estogen, 需加Progesterone）, 乳癌, 卵巢癌, 心血管疾病 }\n  - 多毛症： 成因＝PCOS, Idiopathic hirsutism, 21-hydroxylase缺乏"
-      },
-      {
-        "score": 8.5,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 774,
-        "specialty": "風濕免疫科",
-        "topic": "RA",
-        "subheading": "臨床表現（DIP sparing）",
-        "content": "臨床表現（DIP sparing）：PIP 破壞（ventral plate, 包膜破壞, 魔笛手, Swan neck, Boutonniere defirmity, Z-thumb）, 中軸骨C2脫位（Atlantoaxial Subluxation）, Extra-articular（Osteoporosis（1st, 好發骨突, 肢體伸側, 關節旁（Juxtaarticular））, Rheumatoid nodule皮下結節））"
+        "topic": "SLE",
+        "subheading": "孕婦",
+        "content": "孕婦：持續Predinisolone（胎盤可分解）, 免疫抑制劑可用Azathropine（胎盤可分解）/少量Cyclosporin, 不可用MMF/Cyclophosphamide"
       }
     ]
   },
@@ -1226,46 +986,26 @@
       "D": "頸椎發炎雖然少見，但是通常發生在疾病的早期"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。題幹關鍵字最接近「臨床表現」。可用筆記重點判斷：臨床表現：關節（多關節腫痛, 可矯正之變形, 無骨蛀蝕（＝Jaccoud's deformity/ No bone erosion））； 皮膚（光敏感, Malar rush, reverse Gottron's sign（掌面關節紅斑, cf. DM皮肌炎）, 慢性皮屑（Anti-Ro/SSA）, 口腔潰瘍）； 腎臟（依ISN&RPS分六型）； 心肺（心包炎, 肺炎）； 神經精神（精神病, 癲癇）； 腸胃道（Mesenteric va",
-    "classified_specialty": "風濕免疫科",
-    "classified_topic": "SLE",
-    "matched_note_subheading": "臨床表現",
-    "matched_note_heading_path": "# 風濕免疫科 > ## SLE > - 臨床表現",
-    "matched_note_excerpt": "臨床表現：關節（多關節腫痛, 可矯正之變形, 無骨蛀蝕（＝Jaccoud's deformity/ No bone erosion））； 皮膚（光敏感, Malar rush, reverse Gottron's sign（掌面關節紅斑, cf. DM皮肌炎）, 慢性皮屑（Anti-Ro/SSA）, 口腔潰瘍）； 腎臟（依ISN&RPS分六型）； 心肺（心包炎, 肺炎）； 神經精神（精神病, 癲癇）； 腸胃道（Mesenteric vasculitis（CT＝Double halo sign/comb sign））",
+    "reference_explanation": "答案為 B。題幹關鍵字最接近「暴露前預防」。可用筆記重點判斷：暴露前預防：TDF/FTC",
+    "classified_specialty": "感染科",
+    "classified_topic": "AIDS",
+    "matched_note_subheading": "暴露前預防",
+    "matched_note_heading_path": "# 感染科 > ## AIDS > - 暴露前預防",
+    "matched_note_excerpt": "暴露前預防：TDF/FTC",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 764,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 14.5,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 764,
-        "specialty": "風濕免疫科",
-        "topic": "SLE",
-        "subheading": "臨床表現",
-        "content": "臨床表現：關節（多關節腫痛, 可矯正之變形, 無骨蛀蝕（＝Jaccoud's deformity/ No bone erosion））； 皮膚（光敏感, Malar rush, reverse Gottron's sign（掌面關節紅斑, cf. DM皮肌炎）, 慢性皮屑（Anti-Ro/SSA）, 口腔潰瘍）； 腎臟（依ISN&RPS分六型）； 心肺（心包炎, 肺炎）； 神經精神（精神病, 癲癇）； 腸胃道（Mesenteric vasculitis（CT＝Double halo sign/comb sign））"
-      },
-      {
-        "score": 10.5,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 774,
-        "specialty": "風濕免疫科",
-        "topic": "RA",
-        "subheading": "臨床表現（DIP sparing）",
-        "content": "臨床表現（DIP sparing）：PIP 破壞（ventral plate, 包膜破壞, 魔笛手, Swan neck, Boutonniere defirmity, Z-thumb）, 中軸骨C2脫位（Atlantoaxial Subluxation）, Extra-articular（Osteoporosis（1st, 好發骨突, 肢體伸側, 關節旁（Juxtaarticular））, Rheumatoid nodule皮下結節））"
-      },
-      {
-        "score": 9.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 808,
-        "specialty": "風濕免疫科",
-        "topic": "Seronegative spondyloarthropathy",
-        "subheading": "概論",
-        "content": "概論：無RF的脊椎關節病, e.g AS, ReA, PsA, 多HLA-B27（＋, 病情重）； SS＝中軸（薦髂SIJ關節炎）, 外周（Enthesitis著骨點炎（包含Achilles, Plantar fasciitis）, Dactylitis指炎）, Uveitis\n  - Ankylosing spondylitis（AS, 強直性脊椎炎, 90% HLA-BL27（＋）； 青年男性； SS＝運動可改善之下背痛, 對稱關節炎（中軸＝竹節狀, starting at S1/薦腸關節； 外周＝著骨點, 阿基里斯腱疼痛）, Acute Anterior Uveitis； DDx＝Schober test（量L-spine mobility, LS junction，前後位移<5cm, for screen）, X ray for diagnosis； Tx＝NSAIDs（可延後進展）, TNF-α inhibitor, Sulfasalazine（for周邊關節）\n  - Reactive arthritis（ReA, 反應性關節炎）：腸道（Yersinia, Shigella）/生殖道（Chlamydia）感染後一個月； SS＝不對稱關節炎（不對稱下肢, 周邊著骨點/指炎, 不對稱S1侵犯）, 皮膚炎（Circinate balanitis（龜頭環狀炎）, keratoderma blennorrhagicum（脂漏性腳底紅斑）））, 眼炎（結膜炎）； DDx＝Triad（不對稱關節炎, 尿道炎, 結膜炎）； Tx＝NSAIDs, 抗生素治療原發感染\n  - Psoriatic arthritis（乾癬性關節炎, PsA, 中年（男＝女）, RF（-）； SS＝先Psoriasis皮癬再arthritis, 不對稱關節炎（滑囊發炎/腐蝕（類似RA）, 香腸指）, 眼炎（Chronic Post Uveitis（cf. AS＝Acute Anterior UveitisAAU））； DDx＝X ray（DIP Pencil in cup）； Tx＝同AS, 亦可MTX, amti-IL（ustekinumab, secukinumab））"
+        "specialty": "感染科",
+        "topic": "AIDS",
+        "subheading": "暴露前預防",
+        "content": "暴露前預防：TDF/FTC"
       }
     ]
   },
@@ -1305,26 +1045,26 @@
       "D": "反覆葡萄球菌（Staphylococcus）感染"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。題幹關鍵字最接近「Urticaria（真皮水腫, 24hr消退, 不脫屑不留痕, 專有名詞」。可用筆記重點判斷：Urticaria（真皮水腫, 24hr消退, 不脫屑不留痕, 專有名詞=風疹塊, type I hypersensitivity）：<6wks急性, >6wks慢性（多合併自體免疫dx）；SS＝Wheal風疹塊, Transient pruritic wheal（風團）, Angioedema（血管性淋巴浸潤（≠血管炎）, 好發嘴唇眼周手腳掌, 深而不癢（Mast cell/神經末梢少））；Tx＝移除誘發因子, 抗組織胺   - 免疫",
+    "reference_explanation": "答案為 B。題幹關鍵字最接近「Urticaria（真皮水腫, 24hr消退, 不脫屑不留痕, 專有名詞」。可用筆記重點判斷：Urticaria（真皮水腫, 24hr消退, 不脫屑不留痕, 專有名詞=風疹塊, type I hypersensitivity）：<6wks急性, >6wks慢性（多合併自體免疫dx）；SS＝Wheal風疹塊, Transient pruritic wheal（風團）, Angioedema（血管性淋巴浸潤（≠血管炎）, 好發嘴唇眼周手腳掌, 深而不癢（Mast cell/神經末梢少））；Tx＝移除誘發因子, 抗組織胺",
     "classified_specialty": "皮膚科",
     "classified_topic": "皮膚炎/濕疹",
     "matched_note_subheading": "Urticaria（真皮水腫, 24hr消退, 不脫屑不留痕, 專有名詞",
     "matched_note_heading_path": "# 皮膚科 > ## 皮膚炎/濕疹 > - Urticaria（真皮水腫, 24hr消退, 不脫屑不留痕, 專有名詞",
-    "matched_note_excerpt": "Urticaria（真皮水腫, 24hr消退, 不脫屑不留痕, 專有名詞=風疹塊, type I hypersensitivity）：<6wks急性, >6wks慢性（多合併自體免疫dx）；SS＝Wheal風疹塊, Transient pruritic wheal（風團）, Angioedema（血管性淋巴浸潤（≠血管炎）, 好發嘴唇眼周手腳掌, 深而不癢（Mast cell/神經末梢少））；Tx＝移除誘發因子, 抗組織胺\n  - 免疫性：IgE＝{海鮮, 藥物, 病毒感染}, 補體系統＝{輸血}, 接觸過敏原＝{花草, 動物, 手套}）\n  - 物理性：Dermographism（皮膚壓痕, 迅速消退）, Cold Urticaria（跳泳池/冰塊接觸）, Solar Urticaria, Cholinergic Urticaria（運動洗澡皮膚癢）",
+    "matched_note_excerpt": "Urticaria（真皮水腫, 24hr消退, 不脫屑不留痕, 專有名詞=風疹塊, type I hypersensitivity）：<6wks急性, >6wks慢性（多合併自體免疫dx）；SS＝Wheal風疹塊, Transient pruritic wheal（風團）, Angioedema（血管性淋巴浸潤（≠血管炎）, 好發嘴唇眼周手腳掌, 深而不癢（Mast cell/神經末梢少））；Tx＝移除誘發因子, 抗組織胺",
     "matched_note_path": "01_notes/醫學四/note_4.md",
     "matched_note_line": 408,
     "matched_note_scope": "cross_note_fallback",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 9.25,
+        "score": "refreshed",
         "exam_subject": "醫學四",
         "source_note": "01_notes/醫學四/note_4.md",
         "line": 408,
         "specialty": "皮膚科",
         "topic": "皮膚炎/濕疹",
         "subheading": "Urticaria（真皮水腫, 24hr消退, 不脫屑不留痕, 專有名詞",
-        "content": "Urticaria（真皮水腫, 24hr消退, 不脫屑不留痕, 專有名詞=風疹塊, type I hypersensitivity）：<6wks急性, >6wks慢性（多合併自體免疫dx）；SS＝Wheal風疹塊, Transient pruritic wheal（風團）, Angioedema（血管性淋巴浸潤（≠血管炎）, 好發嘴唇眼周手腳掌, 深而不癢（Mast cell/神經末梢少））；Tx＝移除誘發因子, 抗組織胺\n  - 免疫性：IgE＝{海鮮, 藥物, 病毒感染}, 補體系統＝{輸血}, 接觸過敏原＝{花草, 動物, 手套}）\n  - 物理性：Dermographism（皮膚壓痕, 迅速消退）, Cold Urticaria（跳泳池/冰塊接觸）, Solar Urticaria, Cholinergic Urticaria（運動洗澡皮膚癢）"
+        "content": "Urticaria（真皮水腫, 24hr消退, 不脫屑不留痕, 專有名詞=風疹塊, type I hypersensitivity）：<6wks急性, >6wks慢性（多合併自體免疫dx）；SS＝Wheal風疹塊, Transient pruritic wheal（風團）, Angioedema（血管性淋巴浸潤（≠血管炎）, 好發嘴唇眼周手腳掌, 深而不癢（Mast cell/神經末梢少））；Tx＝移除誘發因子, 抗組織胺"
       }
     ]
   },
@@ -1340,46 +1080,26 @@
       "D": "90%以上OA患者必須先行使用非類固醇抗發炎藥物（NSAID）"
     },
     "answer": "#",
-    "reference_explanation": "答案為 #。題幹關鍵字最接近「Osteoarthritis」。可用筆記重點判斷：Osteoarthritis： 非發炎性, 磨損造成, SS＝單一負重關節, 活動後加重, 休息後緩解； DDx＝骨刺, Heberden's node（DIP）, Bouchard's node（PIP）； X ray（Subchondral cyst, 骨刺, 關節狹窄）； Tx＝減重, 止痛",
+    "reference_explanation": "答案為 #。題幹關鍵字最接近「概論」。可用筆記重點判斷：概論：無RF的脊椎關節病, e.g AS, ReA, PsA, 多HLA-B27（＋, 病情重）； SS＝中軸（薦髂SIJ關節炎）, 外周（Enthesitis著骨點炎（包含Achilles, Plantar fasciitis）, Dactylitis指炎）, Uveitis",
     "classified_specialty": "風濕免疫科",
-    "classified_topic": "Arthritis",
-    "matched_note_subheading": "Osteoarthritis",
-    "matched_note_heading_path": "# 風濕免疫科 > ## Arthritis > - Osteoarthritis",
-    "matched_note_excerpt": "Osteoarthritis： 非發炎性, 磨損造成, SS＝單一負重關節, 活動後加重, 休息後緩解； DDx＝骨刺, Heberden's node（DIP）, Bouchard's node（PIP）； X ray（Subchondral cyst, 骨刺, 關節狹窄）； Tx＝減重, 止痛",
+    "classified_topic": "Seronegative spondyloarthropathy",
+    "matched_note_subheading": "概論",
+    "matched_note_heading_path": "# 風濕免疫科 > ## Seronegative spondyloarthropathy > - 概論",
+    "matched_note_excerpt": "概論：無RF的脊椎關節病, e.g AS, ReA, PsA, 多HLA-B27（＋, 病情重）； SS＝中軸（薦髂SIJ關節炎）, 外周（Enthesitis著骨點炎（包含Achilles, Plantar fasciitis）, Dactylitis指炎）, Uveitis",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 816,
+    "matched_note_line": 818,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 13.25,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 816,
-        "specialty": "風濕免疫科",
-        "topic": "Arthritis",
-        "subheading": "Osteoarthritis",
-        "content": "Osteoarthritis： 非發炎性, 磨損造成, SS＝單一負重關節, 活動後加重, 休息後緩解； DDx＝骨刺, Heberden's node（DIP）, Bouchard's node（PIP）； X ray（Subchondral cyst, 骨刺, 關節狹窄）； Tx＝減重, 止痛"
-      },
-      {
-        "score": 8.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 685,
-        "specialty": "感染科",
-        "topic": "感染性關節炎",
-        "subheading": "分類",
-        "content": "分類＝Non-gonococal（1st, S.aureus（Acute）, MTB（Chronic）, Tx＝引流, 預後差）； Gonococcal（Neisseria gonorrhoeae； 性活躍, 年輕； Tx＝Ceftriaxone）； Lyme disease（Borrelia burgdorferi, SS＝移動紅斑（ECM）； Tx＝Doxycycline）"
-      },
-      {
-        "score": 8.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 808,
+        "line": 818,
         "specialty": "風濕免疫科",
         "topic": "Seronegative spondyloarthropathy",
         "subheading": "概論",
-        "content": "概論：無RF的脊椎關節病, e.g AS, ReA, PsA, 多HLA-B27（＋, 病情重）； SS＝中軸（薦髂SIJ關節炎）, 外周（Enthesitis著骨點炎（包含Achilles, Plantar fasciitis）, Dactylitis指炎）, Uveitis\n  - Ankylosing spondylitis（AS, 強直性脊椎炎, 90% HLA-BL27（＋）； 青年男性； SS＝運動可改善之下背痛, 對稱關節炎（中軸＝竹節狀, starting at S1/薦腸關節； 外周＝著骨點, 阿基里斯腱疼痛）, Acute Anterior Uveitis； DDx＝Schober test（量L-spine mobility, LS junction，前後位移<5cm, for screen）, X ray for diagnosis； Tx＝NSAIDs（可延後進展）, TNF-α inhibitor, Sulfasalazine（for周邊關節）\n  - Reactive arthritis（ReA, 反應性關節炎）：腸道（Yersinia, Shigella）/生殖道（Chlamydia）感染後一個月； SS＝不對稱關節炎（不對稱下肢, 周邊著骨點/指炎, 不對稱S1侵犯）, 皮膚炎（Circinate balanitis（龜頭環狀炎）, keratoderma blennorrhagicum（脂漏性腳底紅斑）））, 眼炎（結膜炎）； DDx＝Triad（不對稱關節炎, 尿道炎, 結膜炎）； Tx＝NSAIDs, 抗生素治療原發感染\n  - Psoriatic arthritis（乾癬性關節炎, PsA, 中年（男＝女）, RF（-）； SS＝先Psoriasis皮癬再arthritis, 不對稱關節炎（滑囊發炎/腐蝕（類似RA）, 香腸指）, 眼炎（Chronic Post Uveitis（cf. AS＝Acute Anterior UveitisAAU））； DDx＝X ray（DIP Pencil in cup）； Tx＝同AS, 亦可MTX, amti-IL（ustekinumab, secukinumab））"
+        "content": "概論：無RF的脊椎關節病, e.g AS, ReA, PsA, 多HLA-B27（＋, 病情重）； SS＝中軸（薦髂SIJ關節炎）, 外周（Enthesitis著骨點炎（包含Achilles, Plantar fasciitis）, Dactylitis指炎）, Uveitis"
       }
     ]
   },
@@ -1395,46 +1115,26 @@
       "D": "化學治療合併trastuzumab，以及抗賀爾蒙治療和放射線治療"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「Breast cancer」。可用筆記重點判斷：Breast cancer: 乳癌； RF＝BRCA1/2, HER2, P53突變； Exam＝乳房攝影X-ray（有鈣化, 年長女首選）, 超音波（實質性腫塊, 年輕女首選）, 癌篩＝45-69, 40-44有家族性, 2年一次   - Tx     - 手術全切for 乳小葉原位癌（LCIS, 因為多發）,     - Lumpectomy（保存性手術）＋放療for 乳管原位癌（DCIS）     - 化療for 三陰 /HER2",
+    "reference_explanation": "答案為 D。題幹關鍵字最接近「G2 phase（Topoisomerase inhibitor）」。可用筆記重點判斷：G2 phase（Topoisomerase inhibitor）    1. Etoposide（for 小細胞肺癌, 骨肉瘤）   2. Irinotecan（target CPT-11（Campto）, 肝臟代謝成 SN-38, for 大腸癌, SE＝急性膽鹼症候群, 腹瀉（9成））",
     "classified_specialty": "腫瘤科",
-    "classified_topic": "腫瘤各論",
-    "matched_note_subheading": "Breast cancer",
-    "matched_note_heading_path": "# 腫瘤科 > ## 腫瘤各論 > - Breast cancer",
-    "matched_note_excerpt": "Breast cancer: 乳癌； RF＝BRCA1/2, HER2, P53突變； Exam＝乳房攝影X-ray（有鈣化, 年長女首選）, 超音波（實質性腫塊, 年輕女首選）, 癌篩＝45-69, 40-44有家族性, 2年一次\n  - Tx\n    - 手術全切for 乳小葉原位癌（LCIS, 因為多發）,\n    - Lumpectomy（保存性手術）＋放療for 乳管原位癌（DCIS）\n    - 化療for 三陰 /HER2＋ /LN＋\n    - 荷爾蒙治療 for ER/PR＋（停經前Tamoxifen, 停經後Aromatase inhibitor）\n  - 補：Occult breast cancer：腋下adenocarcinoma＋乳房影像陰性；DDx＝驗ER/PR/HER2/GATA3；Tx（不用切乳房）＝腋下處理＋全乳放療±全身治療",
+    "classified_topic": "化學治療藥物",
+    "matched_note_subheading": "G2 phase（Topoisomerase inhibitor）",
+    "matched_note_heading_path": "# 腫瘤科 > ## 化學治療藥物 > - G2 phase（Topoisomerase inhibitor）",
+    "matched_note_excerpt": "G2 phase（Topoisomerase inhibitor）\n\n  1. Etoposide（for 小細胞肺癌, 骨肉瘤）\n  2. Irinotecan（target CPT-11（Campto）, 肝臟代謝成 SN-38, for 大腸癌, SE＝急性膽鹼症候群, 腹瀉（9成））",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 974,
+    "matched_note_line": 971,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 18.5,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 974,
+        "line": 971,
         "specialty": "腫瘤科",
-        "topic": "腫瘤各論",
-        "subheading": "Breast cancer",
-        "content": "Breast cancer: 乳癌； RF＝BRCA1/2, HER2, P53突變； Exam＝乳房攝影X-ray（有鈣化, 年長女首選）, 超音波（實質性腫塊, 年輕女首選）, 癌篩＝45-69, 40-44有家族性, 2年一次\n  - Tx\n    - 手術全切for 乳小葉原位癌（LCIS, 因為多發）,\n    - Lumpectomy（保存性手術）＋放療for 乳管原位癌（DCIS）\n    - 化療for 三陰 /HER2＋ /LN＋\n    - 荷爾蒙治療 for ER/PR＋（停經前Tamoxifen, 停經後Aromatase inhibitor）\n  - 補：Occult breast cancer：腋下adenocarcinoma＋乳房影像陰性；DDx＝驗ER/PR/HER2/GATA3；Tx（不用切乳房）＝腋下處理＋全乳放療±全身治療"
-      },
-      {
-        "score": 14.5,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 493,
-        "specialty": "新陳代謝科",
-        "topic": "腎上腺dx（題目多）",
-        "subheading": "Anatomy",
-        "content": "Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona Gramrulosa （絲狀帶, Mineralocorticoid（礦醛）, 又名Aldosterone, 與血壓有關（絲壓 ⭢ 施壓）, 過多＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多＝Cushing, 過少＝Addison's （口訣：愛迪生的酷刑束皮帶））,Zona Reticulosa （網狀帶, Androgen, 口訣＝網路宅男）, 髓質（分泌Catecholamine, Epinephrine/NE（過多＝Pheochromocytoma））\n  - Cushing's（ACTH分泌過多 ⭢ cortisol過盛）：成因＝Cushing dx（80%, 腦垂Adenoma, hyperplasia）, Adrenal tumor（20%, <4cm 良性Adenoma, >6cm惡性Carcinoma, 故腎上腺tumor>4m一概切除）, Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH, 如小細胞肺癌（長低血鉀/代謝鹼中毒））\n    - SS＝Buffalo hump, Central obesity, 皮膚變薄易瘀青, 骨質疏鬆, DM, Hirsutism, Moon face；\n    - DDx＝Cortisol screen（24hr尿游離Cortisol⭡/夜間給1mg Dexamethasone 但Cortisol⭡）； Cortisol Diag（Dexamethasone 0.5mg q6h for 2 days仍無抑制可確診）； ACTH DDx（ACTH<10（Adrenal tumor（排腹部CT）, ACTH independent）, >10（腦垂Adenoma/ Ectopic adenoma, 排腦部MRI）, >200（Small cell lung ca., 排胸部CT））\n    - Tx＝手術切除腫瘤（腦垂/Adrenal tumor） ⭢ 類固醇~3年, 藥物治療（Ketoconazole抑制Cortisol合成, for 其他難手術者）\n  - Adrenal insufficiency（腎上腺功能不全）：\n    - Primary （原發性, Addison's disease）： 1st, 腎本身被破壞（自體免疫攻擊/感染 （幼兒綠膿, 腦膜炎求菌血症）/出血 （成人凝血功能異常）/藥物 （Ketoconazole, Rifampin）/遺傳性 （21-hydroxylase缺乏））\n      - Primary特異SS＝高血鉀, Hyperpigmentation （ACTH過多刺激Melanocyte stimulating hormone）\n    - Secondary（次發性）： 腦垂體無法製造（外部壓迫/Glucocorticoid長期使用）\n    - 共同SS＝疲倦, 體重減輕, 食慾不振, 低血壓, 低血糖, 低血鈉\n    - 診斷＝screen：注射250ug Cosyntropin ⭢ Cortisol仍無法上升, DDx： ACTH stimulation test（primary無反應, secondary有反應）\n    - Tx＝cortisone\n      - 用長效藥物（Dexamenthasone, 可過BBB）可減少生理影響, 另外越長效Glucocorticoid越強, Mineralocorticoid作用越弱）\n      - 副作用：短期脈衝<長期少量投藥； ∴急性狼瘡用脈衝\n    - 特殊狀況＝Adrenal crisis（急性腎上腺危象）： 成因＝感染/手術/外傷/停藥 導致急性Adrenal失能； SS＝休克, 發燒, 嗜睡； Tx＝IV fluids＋IV hydrocortisone； Critical illness related Adrenal insufficiency（Relative AI）： 重症病人腎上腺需求上升6~10x, 術後相對不足, SS＝休克, Tx＝IV hydrocortisone\n  - Pheochromocytoma（＝會分泌Catecholamine的交感神經, 代謝物＝Metanephrine）\n    \\*cf. Paraganglioma（＝分泌Catecholamine的胸腹部交感神經）\n    - Rule of 10： 腎上外10%, 雙側侵犯10%, 家族性10%, 惡性10%）\n    - SS： 5P＝ { Pressure（高血壓）, Pain, Palpitation, Perspiration（多汗）, Pallor（血管收縮蒼白） }\n    - 診斷： 24hr尿Metanephrine⭡（也可Vanillymandelate（VMA）/Catecholamine）, CT/MRI定位, MIBG scan（if 懷疑長在腎上腺外）\n    - Tx： a-blocker/β-blocker控血壓>手術（完整切除為目標）\n  - Adrenal incidentaloma（偶發腎上腺腫瘤, 腎上腺FNA主要用來評估轉移，良惡性區分不佳）： CT/MRI偶發腎上腺腫瘤, 排除Pheochromocytoma且有惡腫hx ⭢ 懷疑轉移（CT guide FNA）；\n    - 功能性腫瘤/ 無功能>6cm/ 惡性特徵（不規則邊界, 密度>10 HU, 增強後washout<50%）建議切除"
-      },
-      {
-        "score": 13.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 480,
-        "specialty": "新陳代謝科",
-        "topic": "Thyroid diseases",
-        "subheading": "Hyperthyroidism（喘, 心悸, 體重減輕, 周邊阻力低（DTR⭡）, 高血鈣, 骨質疏鬆；Exam",
-        "content": "Hyperthyroidism（喘, 心悸, 體重減輕, 周邊阻力低（DTR⭡）, 高血鈣, 骨質疏鬆；Exam＝血中Free T4上升（Thyrotoxicosis））\n  - 成因＝甲狀腺破壞（TSH低, T3/4高∵破壞外漏）, 甲狀腺亢進（TSH低, T3/4高∵過度分泌）, 腦垂腺瘤（TSH/T3/4都高）, 藥物（Amiodarone, 本身含碘又有甲狀腺毒性）, Grave's dx； SS＝焦躁, 出汗, 心悸, 手抖, 食慾大增, 髮質變細, 肌無力（主∵thyrotoxic myopathy, 少部分K shift低血鉀）, Exam＝RAIU scan（可區分製造過多/破壞外漏）\n    - Graves' disease： 1st, 自體免疫攻擊甲狀腺TSH receptor（TSHR Ab⭡）, fT4⭡, TSH⭣, 年輕女性, 瀰漫甲狀腺腫大（Goiter）, 眼球突出（Exophthalmos）, 轉眼睛會痛（Orbitopathy）, 黏液水腫（Pretibial myxedema）\n    - 其他：Toxic adenoma（單一結節亢進, Tx＝手術切除）； Thyroiditis（甲狀腺炎, 急性（細菌）＝皮膚紅腫, 幼兒左側甲狀腺廔管；亞急性（病毒感冒後幾週）＝甲狀腺素會先hyper後hypo, Tx＝NSAIDs, Steroid）； Thyroid storm\n    - Tx＝抗甲狀腺藥物（甲狀腺合成抑制/免疫抑制/全血球抑制（非抑制甲狀釋放）, e.g. Methimazole（＝MMI, 1線, SE畸胎；孕婦不用）, Propylthiouracil（＝PTU, 孕婦才用, SE＝猛爆性肝炎））, β-Blocker, 放射碘/手術（終生補充碘, 放射治療6m內不能懷孕/哺乳）\n  - 補：懷孕時 estrogen 使 TBG 上升，total T3/T4 會升高, 加上胎兒需求，甲低需要補更多levothyroxine\n  - Related syndrome：Jod-Basedow phenomenon（某些有結節的甲狀腺患者, 短時間給過量Iodine（吃, 昆布, 海帶, Amiodarone，打contrast），反而產生甲亢）, Wolff-chaikoff effect（正常人短時間攝入大量碘可抑制甲狀腺功能, s/p PTU半小時（避免Jod-Basedow） ⭢ Lugoi solution（大量碘））, Thyroid storm（甲亢∩一器官功能衰竭/全身失代償；SS＝高燒, 黃疸, 昏迷；Tx＝PTU, MMI, β-Blocker, Lugoi solution（先給PTU半小時））"
+        "topic": "化學治療藥物",
+        "subheading": "G2 phase（Topoisomerase inhibitor）",
+        "content": "G2 phase（Topoisomerase inhibitor）\n\n  1. Etoposide（for 小細胞肺癌, 骨肉瘤）\n  2. Irinotecan（target CPT-11（Campto）, 肝臟代謝成 SN-38, for 大腸癌, SE＝急性膽鹼症候群, 腹瀉（9成））"
       }
     ]
   },
@@ -1510,7 +1210,7 @@
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 16.0,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 305,
@@ -1518,26 +1218,6 @@
         "topic": "Malignant（記NSCLC特徵, 剩下猜SCLC）",
         "subheading": "肋膜惡性腫瘤（Mesothelioma）",
         "content": "肋膜惡性腫瘤（Mesothelioma）： 與石綿暴露有關（與抽菸無關），治療選項有限，預後通常較差"
-      },
-      {
-        "score": 16.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 544,
-        "specialty": "新陳代謝科",
-        "topic": "Calcium metabolism",
-        "subheading": "高血鈣（腸道變慢, 腎源尿崩, 感覺麻痺）",
-        "content": "高血鈣（腸道變慢, 腎源尿崩, 感覺麻痺）：Ddx＝抽PTH, 高＝ { 副甲亢, 1st（佔高血鈣90%）, 成因＝副甲狀Adenoma（急性, 80%副甲亢, 排echo, Tc99m）, 腎衰導致無法排磷（慢性） } ；低＝ { Vit D中毒, 惡性腫瘤（急性, 2nd, 肺/頭頸SCC/乳癌分泌PTHrP嗜骨, Tx＝Bisphosphonate）,利尿劑Thiazide }\n  - Tx＝Saline＋Furosemide（for急性, 可短期加Calcitonin） ⭢ Bisphosphonate（for 慢性長效維持, 1-2天起效）"
-      },
-      {
-        "score": 10.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 493,
-        "specialty": "新陳代謝科",
-        "topic": "腎上腺dx（題目多）",
-        "subheading": "Anatomy",
-        "content": "Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona Gramrulosa （絲狀帶, Mineralocorticoid（礦醛）, 又名Aldosterone, 與血壓有關（絲壓 ⭢ 施壓）, 過多＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多＝Cushing, 過少＝Addison's （口訣：愛迪生的酷刑束皮帶））,Zona Reticulosa （網狀帶, Androgen, 口訣＝網路宅男）, 髓質（分泌Catecholamine, Epinephrine/NE（過多＝Pheochromocytoma））\n  - Cushing's（ACTH分泌過多 ⭢ cortisol過盛）：成因＝Cushing dx（80%, 腦垂Adenoma, hyperplasia）, Adrenal tumor（20%, <4cm 良性Adenoma, >6cm惡性Carcinoma, 故腎上腺tumor>4m一概切除）, Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH, 如小細胞肺癌（長低血鉀/代謝鹼中毒））\n    - SS＝Buffalo hump, Central obesity, 皮膚變薄易瘀青, 骨質疏鬆, DM, Hirsutism, Moon face；\n    - DDx＝Cortisol screen（24hr尿游離Cortisol⭡/夜間給1mg Dexamethasone 但Cortisol⭡）； Cortisol Diag（Dexamethasone 0.5mg q6h for 2 days仍無抑制可確診）； ACTH DDx（ACTH<10（Adrenal tumor（排腹部CT）, ACTH independent）, >10（腦垂Adenoma/ Ectopic adenoma, 排腦部MRI）, >200（Small cell lung ca., 排胸部CT））\n    - Tx＝手術切除腫瘤（腦垂/Adrenal tumor） ⭢ 類固醇~3年, 藥物治療（Ketoconazole抑制Cortisol合成, for 其他難手術者）\n  - Adrenal insufficiency（腎上腺功能不全）：\n    - Primary （原發性, Addison's disease）： 1st, 腎本身被破壞（自體免疫攻擊/感染 （幼兒綠膿, 腦膜炎求菌血症）/出血 （成人凝血功能異常）/藥物 （Ketoconazole, Rifampin）/遺傳性 （21-hydroxylase缺乏））\n      - Primary特異SS＝高血鉀, Hyperpigmentation （ACTH過多刺激Melanocyte stimulating hormone）\n    - Secondary（次發性）： 腦垂體無法製造（外部壓迫/Glucocorticoid長期使用）\n    - 共同SS＝疲倦, 體重減輕, 食慾不振, 低血壓, 低血糖, 低血鈉\n    - 診斷＝screen：注射250ug Cosyntropin ⭢ Cortisol仍無法上升, DDx： ACTH stimulation test（primary無反應, secondary有反應）\n    - Tx＝cortisone\n      - 用長效藥物（Dexamenthasone, 可過BBB）可減少生理影響, 另外越長效Glucocorticoid越強, Mineralocorticoid作用越弱）\n      - 副作用：短期脈衝<長期少量投藥； ∴急性狼瘡用脈衝\n    - 特殊狀況＝Adrenal crisis（急性腎上腺危象）： 成因＝感染/手術/外傷/停藥 導致急性Adrenal失能； SS＝休克, 發燒, 嗜睡； Tx＝IV fluids＋IV hydrocortisone； Critical illness related Adrenal insufficiency（Relative AI）： 重症病人腎上腺需求上升6~10x, 術後相對不足, SS＝休克, Tx＝IV hydrocortisone\n  - Pheochromocytoma（＝會分泌Catecholamine的交感神經, 代謝物＝Metanephrine）\n    \\*cf. Paraganglioma（＝分泌Catecholamine的胸腹部交感神經）\n    - Rule of 10： 腎上外10%, 雙側侵犯10%, 家族性10%, 惡性10%）\n    - SS： 5P＝ { Pressure（高血壓）, Pain, Palpitation, Perspiration（多汗）, Pallor（血管收縮蒼白） }\n    - 診斷： 24hr尿Metanephrine⭡（也可Vanillymandelate（VMA）/Catecholamine）, CT/MRI定位, MIBG scan（if 懷疑長在腎上腺外）\n    - Tx： a-blocker/β-blocker控血壓>手術（完整切除為目標）\n  - Adrenal incidentaloma（偶發腎上腺腫瘤, 腎上腺FNA主要用來評估轉移，良惡性區分不佳）： CT/MRI偶發腎上腺腫瘤, 排除Pheochromocytoma且有惡腫hx ⭢ 懷疑轉移（CT guide FNA）；\n    - 功能性腫瘤/ 無功能>6cm/ 惡性特徵（不規則邊界, 密度>10 HU, 增強後washout<50%）建議切除"
       }
     ]
   },
@@ -1553,48 +1233,17 @@
       "D": "免疫治療的sipuleucel-T"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。題幹關鍵字最接近「Anatomy」。可用筆記重點判斷：Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona Gramrulosa （絲狀帶, Mineralocorticoid（礦醛）, 又名Aldosterone, 與血壓有關（絲壓 ⭢ 施壓）, 過多＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多＝Cushing, 過少＝Addison's （口訣：愛迪生的酷刑束皮帶））,Zona Re",
-    "classified_specialty": "新陳代謝科",
-    "classified_topic": "腎上腺dx（題目多）",
-    "matched_note_subheading": "Anatomy",
-    "matched_note_heading_path": "# 新陳代謝科 > ## 腎上腺dx（題目多） > - Anatomy",
-    "matched_note_excerpt": "Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona Gramrulosa （絲狀帶, Mineralocorticoid（礦醛）, 又名Aldosterone, 與血壓有關（絲壓 ⭢ 施壓）, 過多＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多＝Cushing, 過少＝Addison's （口訣：愛迪生的酷刑束皮帶））,Zona Reticulosa （網狀帶, Androgen, 口訣＝網路宅男）, 髓質（分泌Catecholamine, Epinephrine/NE（過多＝Pheochromocytoma））\n  - Cushing's（ACTH分泌過多 ⭢ cortisol過盛）：成因＝Cushing dx（80%, 腦垂Adenoma, hyperplasia）, Adrenal tumor（20%, <4cm 良性Adenoma, >6cm惡性Carcinoma, 故腎上腺tumor>4m一概切除）, Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH, 如小細胞肺癌（長低血鉀/代謝鹼中毒））\n    - SS＝Buffalo hump, Central obesity, 皮膚變薄易瘀青, 骨質疏鬆, DM, Hirsutism, Moon face；\n    - DDx＝Cortisol screen（24hr尿游離Cortisol⭡/夜間給1mg Dexamethasone 但Cortisol⭡）； Cortisol Diag（Dexamethasone 0.5mg q6h for 2 days仍無抑制可確診）； ACTH DDx（ACTH<10（Adrenal tumor（排腹部CT）, ACTH independent）, >10（腦垂Adenoma/ Ectopic adenoma, 排腦部MRI）, >200（Small cell lung ca., 排胸部CT））\n    - Tx＝手術切除腫瘤（腦垂/Adrenal tumor） ⭢ 類固醇~3年, 藥物治療（Ketoconazole抑制Cortisol合成, for 其他難手術者）\n  - Adrenal insufficiency（腎上腺功能不全）：\n    - Primary （原發性, Addison's disease）： 1st, 腎本身被破壞（自體免疫攻擊/感染 （幼兒綠膿, 腦膜炎求菌血症）/出血 （成人凝血功能異常）/藥物 （Ketoconazole, Rifampin）/遺傳性 （21-hydroxylase缺乏））\n      - Primary特異SS＝高血鉀, Hyperpigmentation （ACTH過多刺激Melanocyte stimulating hormone）\n    - Secondary（次發性）： 腦垂體無法製造（外部壓迫/Glucocorticoid長期使用）\n    - 共同SS＝疲倦, 體重減輕, 食慾不振, 低血壓, 低血糖, 低血鈉\n    - 診斷＝screen：注射250ug Cosyntropin ⭢ Cortisol仍無法上升, DDx： ACTH stimulation test（primary無反應, secondary有反應）\n    - Tx＝cortisone\n      - 用長效藥物（Dexamenthasone, 可過BBB）可減少生理影響, 另外越長效Glucocorticoid越強, Mineralocorticoid作用越弱）\n      - 副作用：短期脈衝<長期少量投藥； ∴急性狼瘡用脈衝\n    - 特殊狀況＝Adrenal crisis（急性腎上腺危象）： 成因＝感染/手術/外傷/停藥 導致急性Adrenal失能； SS＝休克, 發燒, 嗜睡； Tx＝IV fluids＋IV hydrocortisone； Critical illness related Adrenal insufficiency（Relative AI）： 重症病人腎上腺需求上升6~10x, 術後相對不足, SS＝休克, Tx＝IV hydrocortisone\n  - Pheochromocytoma（＝會分泌Catecholamine的交感神經, 代謝物＝Metanephrine）\n    \\*cf. Paraganglioma（＝分泌Catecholamine的胸腹部交感神經）\n    - Rule of 10： 腎上外10%, 雙側侵犯10%, 家族性10%, 惡性10%）\n    - SS： 5P＝ { Pressure（高血壓）, Pain, Palpitation, Perspiration（多汗）, Pallor（血管收縮蒼白） }\n    - 診斷： 24hr尿Metanephrine⭡（也可Vanillymandelate（VMA）/Catecholamine）, CT/MRI定位, MIBG scan（if 懷疑長在腎上腺外）\n    - Tx： a-blocker/β-blocker控血壓>手術（完整切除為目標）\n  - Adrenal incidentaloma（偶發腎上腺腫瘤, 腎上腺FNA主要用來評估轉移，良惡性區分不佳）： CT/MRI偶發腎上腺腫瘤, 排除Pheochromocytoma且有惡腫hx ⭢ 懷疑轉移（CT guide FNA）；\n    - 功能性腫瘤/ 無功能>6cm/ 惡性特徵（不規則邊界, 密度>10 HU, 增強後washout<50%）建議切除",
-    "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 493,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 B。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
-    "candidate_matches": [
-      {
-        "score": 9.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 493,
-        "specialty": "新陳代謝科",
-        "topic": "腎上腺dx（題目多）",
-        "subheading": "Anatomy",
-        "content": "Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona Gramrulosa （絲狀帶, Mineralocorticoid（礦醛）, 又名Aldosterone, 與血壓有關（絲壓 ⭢ 施壓）, 過多＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多＝Cushing, 過少＝Addison's （口訣：愛迪生的酷刑束皮帶））,Zona Reticulosa （網狀帶, Androgen, 口訣＝網路宅男）, 髓質（分泌Catecholamine, Epinephrine/NE（過多＝Pheochromocytoma））\n  - Cushing's（ACTH分泌過多 ⭢ cortisol過盛）：成因＝Cushing dx（80%, 腦垂Adenoma, hyperplasia）, Adrenal tumor（20%, <4cm 良性Adenoma, >6cm惡性Carcinoma, 故腎上腺tumor>4m一概切除）, Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH, 如小細胞肺癌（長低血鉀/代謝鹼中毒））\n    - SS＝Buffalo hump, Central obesity, 皮膚變薄易瘀青, 骨質疏鬆, DM, Hirsutism, Moon face；\n    - DDx＝Cortisol screen（24hr尿游離Cortisol⭡/夜間給1mg Dexamethasone 但Cortisol⭡）； Cortisol Diag（Dexamethasone 0.5mg q6h for 2 days仍無抑制可確診）； ACTH DDx（ACTH<10（Adrenal tumor（排腹部CT）, ACTH independent）, >10（腦垂Adenoma/ Ectopic adenoma, 排腦部MRI）, >200（Small cell lung ca., 排胸部CT））\n    - Tx＝手術切除腫瘤（腦垂/Adrenal tumor） ⭢ 類固醇~3年, 藥物治療（Ketoconazole抑制Cortisol合成, for 其他難手術者）\n  - Adrenal insufficiency（腎上腺功能不全）：\n    - Primary （原發性, Addison's disease）： 1st, 腎本身被破壞（自體免疫攻擊/感染 （幼兒綠膿, 腦膜炎求菌血症）/出血 （成人凝血功能異常）/藥物 （Ketoconazole, Rifampin）/遺傳性 （21-hydroxylase缺乏））\n      - Primary特異SS＝高血鉀, Hyperpigmentation （ACTH過多刺激Melanocyte stimulating hormone）\n    - Secondary（次發性）： 腦垂體無法製造（外部壓迫/Glucocorticoid長期使用）\n    - 共同SS＝疲倦, 體重減輕, 食慾不振, 低血壓, 低血糖, 低血鈉\n    - 診斷＝screen：注射250ug Cosyntropin ⭢ Cortisol仍無法上升, DDx： ACTH stimulation test（primary無反應, secondary有反應）\n    - Tx＝cortisone\n      - 用長效藥物（Dexamenthasone, 可過BBB）可減少生理影響, 另外越長效Glucocorticoid越強, Mineralocorticoid作用越弱）\n      - 副作用：短期脈衝<長期少量投藥； ∴急性狼瘡用脈衝\n    - 特殊狀況＝Adrenal crisis（急性腎上腺危象）： 成因＝感染/手術/外傷/停藥 導致急性Adrenal失能； SS＝休克, 發燒, 嗜睡； Tx＝IV fluids＋IV hydrocortisone； Critical illness related Adrenal insufficiency（Relative AI）： 重症病人腎上腺需求上升6~10x, 術後相對不足, SS＝休克, Tx＝IV hydrocortisone\n  - Pheochromocytoma（＝會分泌Catecholamine的交感神經, 代謝物＝Metanephrine）\n    \\*cf. Paraganglioma（＝分泌Catecholamine的胸腹部交感神經）\n    - Rule of 10： 腎上外10%, 雙側侵犯10%, 家族性10%, 惡性10%）\n    - SS： 5P＝ { Pressure（高血壓）, Pain, Palpitation, Perspiration（多汗）, Pallor（血管收縮蒼白） }\n    - 診斷： 24hr尿Metanephrine⭡（也可Vanillymandelate（VMA）/Catecholamine）, CT/MRI定位, MIBG scan（if 懷疑長在腎上腺外）\n    - Tx： a-blocker/β-blocker控血壓>手術（完整切除為目標）\n  - Adrenal incidentaloma（偶發腎上腺腫瘤, 腎上腺FNA主要用來評估轉移，良惡性區分不佳）： CT/MRI偶發腎上腺腫瘤, 排除Pheochromocytoma且有惡腫hx ⭢ 懷疑轉移（CT guide FNA）；\n    - 功能性腫瘤/ 無功能>6cm/ 惡性特徵（不規則邊界, 密度>10 HU, 增強後washout<50%）建議切除"
-      },
-      {
-        "score": 8.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 351,
-        "specialty": "肝膽腸胃科",
-        "topic": "切胃後遺症",
-        "subheading": "Dumping syndrome",
-        "content": "Dumping syndrome： 胃切除後（Billroth II後, 合併鹼性逆流），食物過快進入小腸，導致腹痛, 腹瀉, 暈眩等症狀。治療包括飲食調整（少量多餐, 避免高糖食物）和藥物治療（如Octreotide）。\n  - 補：Billroth I接法較接近生理, 併發症少"
-      },
-      {
-        "score": 8.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 520,
-        "specialty": "新陳代謝科",
-        "topic": "Diabetes mellitus（題目多）",
-        "subheading": "分類",
-        "content": "分類：Type 1（胰島素依（1）賴, 自體免疫破壞B cell, 青少年, SS＝多尿, 多飲, 體重減輕）, 胰島素治療）, Type 2（胰島素抵抗, 成人,SS＝肥胖, 黑色棘皮症, PCOS； Tx＝生活習慣改善, 口服藥物治療）； Gestational（妊娠糖尿病, 24-28週篩檢, 產後恢復正常但未來DM風險增加）； 其他（e.g. 藥物誘發（Glucocorticoid, Thiazide）, 內分泌疾病（Cushing's, Acromegaly）, 遺傳性疾病（MODY, LADA））"
-      }
-    ]
+    "candidate_matches": []
   },
   {
     "exam_session": "112_2",
@@ -1656,26 +1305,26 @@
       "D": "周邊血液中，在施打granulocyte colony-stimulating factor（G-CSF）數天之後，也可能收集到足夠的造血幹細 胞進行移植。若是收集的數量不足，施打plerixafor（一種CXCR4的拮抗劑），可以幫助收集到更多的造血 幹細胞"
     },
     "answer": "#",
-    "reference_explanation": "答案為 #。題幹關鍵字最接近「Multiple myeloma（MM, 漿細胞惡性增生）」。可用筆記重點判斷：Multiple myeloma（MM, 漿細胞惡性增生）：M protein>3g/dL, Bone marrow>10%Plasma cell, 口訣＝CRAB（Calcium⭡, Renal failure, Anemia, Bone lesion（伴隨骨頭痛/貧血））； DDx＝CT, Xray（Bone scan無效，因為MM bone不take radiation）； Tx＝引導＋自體細胞移植（年輕<65y/o）, M＋P＋",
+    "reference_explanation": "答案為 #。題幹關鍵字最接近「Hodgkin lymphoma（淋巴結有Reed-Sternberg cell（雙核, 2個核仁, from germinal center B cell））」。可用筆記重點判斷：Hodgkin lymphoma（淋巴結有Reed-Sternberg cell（雙核, 2個核仁, from germinal center B cell））：淋巴結順序性傳播； SS＝縱隔/脾臟侵犯, B symptoms（發燒（Pel-Ebstein fever）, 盜汗, 體重減輕）； Tx＝ABVD（Adriamycin, Bleomycin, Vinblastine, Dacarbazine）",
     "classified_specialty": "血液科（考點固定）",
-    "classified_topic": "漿細胞dx",
-    "matched_note_subheading": "Multiple myeloma（MM, 漿細胞惡性增生）",
-    "matched_note_heading_path": "# 血液科（考點固定） > ## 漿細胞dx > - Multiple myeloma（MM, 漿細胞惡性增生）",
-    "matched_note_excerpt": "Multiple myeloma（MM, 漿細胞惡性增生）：M protein>3g/dL, Bone marrow>10%Plasma cell, 口訣＝CRAB（Calcium⭡, Renal failure, Anemia, Bone lesion（伴隨骨頭痛/貧血））； DDx＝CT, Xray（Bone scan無效，因為MM bone不take radiation）； Tx＝引導＋自體細胞移植（年輕<65y/o）, M＋P＋T/L/B（for 年老, Melphalan, Prednisolone, Thalidomide/Lenalidomide/Bortezomib）",
+    "classified_topic": "淋巴瘤",
+    "matched_note_subheading": "Hodgkin lymphoma（淋巴結有Reed-Sternberg cell（雙核, 2個核仁, from germinal center B cell））",
+    "matched_note_heading_path": "# 血液科（考點固定） > ## 淋巴瘤 > - Hodgkin lymphoma（淋巴結有Reed-Sternberg cell（雙核, 2個核仁, from germinal center B cell））",
+    "matched_note_excerpt": "Hodgkin lymphoma（淋巴結有Reed-Sternberg cell（雙核, 2個核仁, from germinal center B cell））：淋巴結順序性傳播； SS＝縱隔/脾臟侵犯, B symptoms（發燒（Pel-Ebstein fever）, 盜汗, 體重減輕）； Tx＝ABVD（Adriamycin, Bleomycin, Vinblastine, Dacarbazine）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 911,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 9.5,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 911,
         "specialty": "血液科（考點固定）",
-        "topic": "漿細胞dx",
-        "subheading": "Multiple myeloma（MM, 漿細胞惡性增生）",
-        "content": "Multiple myeloma（MM, 漿細胞惡性增生）：M protein>3g/dL, Bone marrow>10%Plasma cell, 口訣＝CRAB（Calcium⭡, Renal failure, Anemia, Bone lesion（伴隨骨頭痛/貧血））； DDx＝CT, Xray（Bone scan無效，因為MM bone不take radiation）； Tx＝引導＋自體細胞移植（年輕<65y/o）, M＋P＋T/L/B（for 年老, Melphalan, Prednisolone, Thalidomide/Lenalidomide/Bortezomib）"
+        "topic": "淋巴瘤",
+        "subheading": "Hodgkin lymphoma（淋巴結有Reed-Sternberg cell（雙核, 2個核仁, from germinal center B cell））",
+        "content": "Hodgkin lymphoma（淋巴結有Reed-Sternberg cell（雙核, 2個核仁, from germinal center B cell））：淋巴結順序性傳播； SS＝縱隔/脾臟侵犯, B symptoms（發燒（Pel-Ebstein fever）, 盜汗, 體重減輕）； Tx＝ABVD（Adriamycin, Bleomycin, Vinblastine, Dacarbazine）"
       }
     ]
   },
@@ -1691,46 +1340,26 @@
       "D": "del(17)(p13.1)"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「ALL（急性淋巴性白血病）」。可用筆記重點判斷：ALL（急性淋巴性白血病）：小孩老人雙峰；SS＝骨痛, CNS involvement, 脾腫大； Tx（目標＝MRS（-））＝化療（OPDL, O-Vincristine, P-Predinisolone, D-Daunorubicin, L-L-asparaginase） ⭢ 強固治療即可）   - 預後好＝hyperdiploidy；   - 預後差＝老人, B ALL, t（9；22）, t（4；11）",
+    "reference_explanation": "答案為 A。題幹關鍵字最接近「靜脈血栓dx（DVT, Pulmonery embolism（PE））」。可用筆記重點判斷：靜脈血栓dx（DVT, Pulmonery embolism（PE））：Virchow's triad（血液滯留, 血管壁損傷, 高凝狀態）； Tx＝Warfarin 3 months（目標＝INR 2-3）  * Warfarin Drug-Drug intervention：   * CYP450 inducer（加速代謝, e.g. Rifampin, Barbiturates, Phenobarbital, 口訣＝癲癇病人開車猛",
     "classified_specialty": "血液科（考點固定）",
-    "classified_topic": "急性白血病（Acute Leukemia）",
-    "matched_note_subheading": "ALL（急性淋巴性白血病）",
-    "matched_note_heading_path": "# 血液科（考點固定） > ## 急性白血病（Acute Leukemia） > - ALL（急性淋巴性白血病）",
-    "matched_note_excerpt": "ALL（急性淋巴性白血病）：小孩老人雙峰；SS＝骨痛, CNS involvement, 脾腫大； Tx（目標＝MRS（-））＝化療（OPDL, O-Vincristine, P-Predinisolone, D-Daunorubicin, L-L-asparaginase） ⭢ 強固治療即可）\n  - 預後好＝hyperdiploidy；\n  - 預後差＝老人, B ALL, t（9；22）, t（4；11）",
+    "classified_topic": "血栓",
+    "matched_note_subheading": "靜脈血栓dx（DVT, Pulmonery embolism（PE））",
+    "matched_note_heading_path": "# 血液科（考點固定） > ## 血栓 > - 靜脈血栓dx（DVT, Pulmonery embolism（PE））",
+    "matched_note_excerpt": "靜脈血栓dx（DVT, Pulmonery embolism（PE））：Virchow's triad（血液滯留, 血管壁損傷, 高凝狀態）； Tx＝Warfarin 3 months（目標＝INR 2-3）\n\n* Warfarin Drug-Drug intervention：\n  * CYP450 inducer（加速代謝, e.g. Rifampin, Barbiturates, Phenobarbital, 口訣＝癲癇病人開車猛,看到綠（Ri）燈就加速）\n  * CYP450 inhibitor（減慢代謝, e.g. Cimetidine（H2 blocker）, Statin, Erythromycin, 口訣＝高血脂病人動作慢, 到西門町（Cimetidine）趕紅（紅黴素）綠燈）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 888,
+    "matched_note_line": 884,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 27.25,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 888,
+        "line": 884,
         "specialty": "血液科（考點固定）",
-        "topic": "急性白血病（Acute Leukemia）",
-        "subheading": "ALL（急性淋巴性白血病）",
-        "content": "ALL（急性淋巴性白血病）：小孩老人雙峰；SS＝骨痛, CNS involvement, 脾腫大； Tx（目標＝MRS（-））＝化療（OPDL, O-Vincristine, P-Predinisolone, D-Daunorubicin, L-L-asparaginase） ⭢ 強固治療即可）\n  - 預後好＝hyperdiploidy；\n  - 預後差＝老人, B ALL, t（9；22）, t（4；11）"
-      },
-      {
-        "score": 15.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 895,
-        "specialty": "血液科（考點固定）",
-        "topic": "慢性骨髓增生性疾病（Chronic Myeloproliferative Disorders）",
-        "subheading": "CML（慢性骨髓性白血病）",
-        "content": "CML（慢性骨髓性白血病）：t（9；22）錯位 ⭢ BCR-ABL fusion gene（費城染色體）； SS＝慢性期（疲倦, 脾腫大, Leukocytosis left shift）, 加速期（骨髓blast佔10-20%）, 急性期（骨髓blast >20%, 1/3變ALL, 2/3變AML）； Tx＝TKI（存活率高, 除非加速期/急性期否則不用移植, e.g. Imatinib, nilotinib新藥, Ponatinib（對T315I突變有效））, Hydroxyurea, IFN-α）"
-      },
-      {
-        "score": 11.88,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 882,
-        "specialty": "血液科（考點固定）",
-        "topic": "急性白血病（Acute Leukemia）",
-        "subheading": "血液抹片特徵",
-        "content": "血液抹片特徵：\n  - Acute Leukemia ⭢ 不成熟細胞\n  - Chronic Leukemia ⭢ 各期細胞, Myeloid細胞質有顆粒, Lyphoid細胞核大質乾淨, Blast細胞核仁明顯"
+        "topic": "血栓",
+        "subheading": "靜脈血栓dx（DVT, Pulmonery embolism（PE））",
+        "content": "靜脈血栓dx（DVT, Pulmonery embolism（PE））：Virchow's triad（血液滯留, 血管壁損傷, 高凝狀態）； Tx＝Warfarin 3 months（目標＝INR 2-3）\n\n* Warfarin Drug-Drug intervention：\n  * CYP450 inducer（加速代謝, e.g. Rifampin, Barbiturates, Phenobarbital, 口訣＝癲癇病人開車猛,看到綠（Ri）燈就加速）\n  * CYP450 inhibitor（減慢代謝, e.g. Cimetidine（H2 blocker）, Statin, Erythromycin, 口訣＝高血脂病人動作慢, 到西門町（Cimetidine）趕紅（紅黴素）綠燈）"
       }
     ]
   },
@@ -1746,46 +1375,26 @@
       "D": "serum alpha-1 antitrypsin level"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：Chronic Bronchitis（咳痰>3 months, Wheezing, blue bloater（cyanotic＋腹脹）, Tx＝Roflumilast）, Emphysema（小氣道擴張/肺泡壁破壞, pink puffer（呼吸急促＋消瘦）, Tx＝Oxygen therapy）   症狀：慢性咳嗽, 痰多, 呼吸困難（尤其在活動時加重）。晚期可能出現體重減輕, 疲倦和頻繁的呼吸道感染。",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：Chronic Bronchitis（咳痰>3 months, Wheezing, blue bloater（cyanotic＋腹脹）, Tx＝Roflumilast）, Emphysema（肺氣腫, 小氣道擴張/肺泡壁破壞, pink puffer（呼吸急促＋消瘦）, Tx＝Oxygen therapy）   症狀：慢性咳嗽, 痰多, 呼吸困難（尤其在活動時加重）。晚期可能出現體重減輕, 疲倦和頻繁的呼吸道感染。",
     "classified_specialty": "胸腔內科",
     "classified_topic": "COPD",
     "matched_note_subheading": "分類",
     "matched_note_heading_path": "# 胸腔內科 > ## COPD > - 分類",
-    "matched_note_excerpt": "分類：Chronic Bronchitis（咳痰>3 months, Wheezing, blue bloater（cyanotic＋腹脹）, Tx＝Roflumilast）, Emphysema（小氣道擴張/肺泡壁破壞, pink puffer（呼吸急促＋消瘦）, Tx＝Oxygen therapy）\n  症狀：慢性咳嗽, 痰多, 呼吸困難（尤其在活動時加重）。晚期可能出現體重減輕, 疲倦和頻繁的呼吸道感染。",
+    "matched_note_excerpt": "分類：Chronic Bronchitis（咳痰>3 months, Wheezing, blue bloater（cyanotic＋腹脹）, Tx＝Roflumilast）, Emphysema（肺氣腫, 小氣道擴張/肺泡壁破壞, pink puffer（呼吸急促＋消瘦）, Tx＝Oxygen therapy）\n  症狀：慢性咳嗽, 痰多, 呼吸困難（尤其在活動時加重）。晚期可能出現體重減輕, 疲倦和頻繁的呼吸道感染。",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 203,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 18.0,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 203,
         "specialty": "胸腔內科",
         "topic": "COPD",
         "subheading": "分類",
-        "content": "分類：Chronic Bronchitis（咳痰>3 months, Wheezing, blue bloater（cyanotic＋腹脹）, Tx＝Roflumilast）, Emphysema（小氣道擴張/肺泡壁破壞, pink puffer（呼吸急促＋消瘦）, Tx＝Oxygen therapy）\n  症狀：慢性咳嗽, 痰多, 呼吸困難（尤其在活動時加重）。晚期可能出現體重減輕, 疲倦和頻繁的呼吸道感染。"
-      },
-      {
-        "score": 16.75,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 202,
-        "specialty": "胸腔內科",
-        "topic": "COPD",
-        "subheading": "定義",
-        "content": "定義：慢性咳嗽痰多，呼吸困難，肺功能檢查FEV1/FVC<0.7，且不可完全逆轉。"
-      },
-      {
-        "score": 14.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 206,
-        "specialty": "胸腔內科",
-        "topic": "COPD",
-        "subheading": "症狀",
-        "content": "症狀＝白天嚴重, 不太會Clubbing fingers（有的話要考慮癌症）\n  - cf. 年輕無抽煙/肺氣腫病史 ⭢ 考慮 α-1 antitrypsin deficiency, 抽煙 ⭢ 考慮上肺葉氣腫/ 肺葉癌"
+        "content": "分類：Chronic Bronchitis（咳痰>3 months, Wheezing, blue bloater（cyanotic＋腹脹）, Tx＝Roflumilast）, Emphysema（肺氣腫, 小氣道擴張/肺泡壁破壞, pink puffer（呼吸急促＋消瘦）, Tx＝Oxygen therapy）\n  症狀：慢性咳嗽, 痰多, 呼吸困難（尤其在活動時加重）。晚期可能出現體重減輕, 疲倦和頻繁的呼吸道感染。"
       }
     ]
   },
@@ -1801,46 +1410,26 @@
       "D": "add-on inhaled corticosteroid"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「典型Astma」。可用筆記重點判斷：典型Astma＝咳,喘,胸悶,wheezing（4C2）, 半夜清早加劇, 肺功能變化大（給支氣管擴張劑, FEV1增加>12%且>200ml）",
+    "reference_explanation": "答案為 D。題幹關鍵字最接近「典型Asthma」。可用筆記重點判斷：典型Asthma＝咳,喘,胸悶,wheezing（4C2）, 半夜清早加劇, 肺功能變化大（給支氣管擴張劑, FEV1增加>12%且>200ml）",
     "classified_specialty": "胸腔內科",
     "classified_topic": "氣喘",
-    "matched_note_subheading": "典型Astma",
-    "matched_note_heading_path": "# 胸腔內科 > ## 氣喘 > - 典型Astma",
-    "matched_note_excerpt": "典型Astma＝咳,喘,胸悶,wheezing（4C2）, 半夜清早加劇, 肺功能變化大（給支氣管擴張劑, FEV1增加>12%且>200ml）",
+    "matched_note_subheading": "典型Asthma",
+    "matched_note_heading_path": "# 胸腔內科 > ## 氣喘 > - 典型Asthma",
+    "matched_note_excerpt": "典型Asthma＝咳,喘,胸悶,wheezing（4C2）, 半夜清早加劇, 肺功能變化大（給支氣管擴張劑, FEV1增加>12%且>200ml）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 196,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 19.5,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 196,
         "specialty": "胸腔內科",
         "topic": "氣喘",
-        "subheading": "典型Astma",
-        "content": "典型Astma＝咳,喘,胸悶,wheezing（4C2）, 半夜清早加劇, 肺功能變化大（給支氣管擴張劑, FEV1增加>12%且>200ml）"
-      },
-      {
-        "score": 13.5,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 209,
-        "specialty": "胸腔內科",
-        "topic": "COPD",
-        "subheading": "治療",
-        "content": "治療：預防（Main戒菸是最重要的治療措施）； 藥物＝輕度LABA/LAMA（喘首選）, 嚴重/eosinophil>100要加ICS, PaO2<55給氧, 急性惡化給抗生素/口服steroid, 外科（肺減容手術, 肺移植）"
-      },
-      {
-        "score": 12.75,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 206,
-        "specialty": "胸腔內科",
-        "topic": "COPD",
-        "subheading": "症狀",
-        "content": "症狀＝白天嚴重, 不太會Clubbing fingers（有的話要考慮癌症）\n  - cf. 年輕無抽煙/肺氣腫病史 ⭢ 考慮 α-1 antitrypsin deficiency, 抽煙 ⭢ 考慮上肺葉氣腫/ 肺葉癌"
+        "subheading": "典型Asthma",
+        "content": "典型Asthma＝咳,喘,胸悶,wheezing（4C2）, 半夜清早加劇, 肺功能變化大（給支氣管擴張劑, FEV1增加>12%且>200ml）"
       }
     ]
   },
@@ -1856,36 +1445,26 @@
       "D": "兩側肺門淋巴腺腫"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「診斷」。可用筆記重點判斷：診斷＝Duke Criteria（2M/ 1M＋3m/ 5m）   - Major criteria： Positive blood culture（2次以上, >12hr, 同一菌種）, Evidence of endocardial involvement（心臟超音波有vegetation, new valvular regurgitation）   - Minor criteria： Predisposing heart cond",
-    "classified_specialty": "心臟內科",
-    "classified_topic": "細菌心內膜炎",
-    "matched_note_subheading": "診斷",
-    "matched_note_heading_path": "# 心臟內科 > ## 細菌心內膜炎 > - 診斷",
-    "matched_note_excerpt": "診斷＝Duke Criteria（2M/ 1M＋3m/ 5m）\n  - Major criteria： Positive blood culture（2次以上, >12hr, 同一菌種）, Evidence of endocardial involvement（心臟超音波有vegetation, new valvular regurgitation）\n  - Minor criteria： Predisposing heart condition（易病的心臟） or IV drug use, Fever>38C, Vascular phenomena（emboli, Janeway lesion）, Immunologic phenomena（Osler's node, Roth spots）, Microbiological evidence（not meeting major criteria）\n  - 高懷疑/風險 ⭢ TTE＋TEE, 低懷疑/風險 ⭢ TTE（經胸腔超音波）",
+    "reference_explanation": "答案為 D。題幹關鍵字最接近「肋膜積水（Light's criteria）」。可用筆記重點判斷：肋膜積水（Light's criteria）",
+    "classified_specialty": "胸腔內科",
+    "classified_topic": "肋膜疾病",
+    "matched_note_subheading": "肋膜積水（Light's criteria）",
+    "matched_note_heading_path": "# 胸腔內科 > ## 肋膜疾病 > - 肋膜積水（Light's criteria）",
+    "matched_note_excerpt": "肋膜積水（Light's criteria）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 121,
-    "matched_note_scope": "primary_note",
+    "matched_note_line": 284,
+    "matched_note_scope": "manual_corrected",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 17.75,
+        "score": "manual",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 121,
-        "specialty": "心臟內科",
-        "topic": "細菌心內膜炎",
-        "subheading": "診斷",
-        "content": "診斷＝Duke Criteria（2M/ 1M＋3m/ 5m）\n  - Major criteria： Positive blood culture（2次以上, >12hr, 同一菌種）, Evidence of endocardial involvement（心臟超音波有vegetation, new valvular regurgitation）\n  - Minor criteria： Predisposing heart condition（易病的心臟） or IV drug use, Fever>38C, Vascular phenomena（emboli, Janeway lesion）, Immunologic phenomena（Osler's node, Roth spots）, Microbiological evidence（not meeting major criteria）\n  - 高懷疑/風險 ⭢ TTE＋TEE, 低懷疑/風險 ⭢ TTE（經胸腔超音波）"
-      },
-      {
-        "score": 9.12,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 380,
-        "specialty": "肝膽腸胃科",
-        "topic": "黃疸 （ALKP, GGT, Dbili⭡, cholestasis膽汁滯留）",
-        "subheading": "診斷",
-        "content": "診斷：腹部超音波（首選, 可評估膽道擴張）, CT/MRI（評估腫瘤或結石）, ERCP（內視鏡逆行胰膽管造影, 可同時診斷和治療）\n  - 重要sign：Murphy's sign（右上腹吸氣壓痛/發燒）, Courvoisier's sign（右上腹摸到無痛性黃疸, 腫大不發燒, 惡性特徵）\n  - 尿色\n    - Unconjugated（紅/正常, UGC）： Hemolysis/Gilbert's（切片有liprofusin pigment, 對phenobarbital反應佳）, Crigler-Najjar（會核黃疸）\n    - Conjugated（Direct, 深茶色, DDR）： Dubin-Johnson（切片dark pigment）, Rotor's（沒有pigment）"
+        "line": 284,
+        "specialty": "胸腔內科",
+        "topic": "肋膜疾病",
+        "subheading": "肋膜積水（Light's criteria）",
+        "content": "肋膜積水（Light's criteria）"
       }
     ]
   },
@@ -1913,7 +1492,7 @@
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 23.0,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 202,
@@ -1921,26 +1500,6 @@
         "topic": "COPD",
         "subheading": "定義",
         "content": "定義：慢性咳嗽痰多，呼吸困難，肺功能檢查FEV1/FVC<0.7，且不可完全逆轉。"
-      },
-      {
-        "score": 21.62,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 185,
-        "specialty": "胸腔內科",
-        "topic": "泛論",
-        "subheading": "肺功能檢查",
-        "content": "肺功能檢查：Spirometry（FVC（用力呼氣容積）, FEV1（第一秒用力呼氣容積）, FEV1/FVC（正常>0.7, <0.7為阻塞性肺病）, TLC（總肺容量）, RV（殘氣量）, DLCO（一氧化碳擴散能力, 反映肺泡毛細血管功能, ⭡＝肥胖/氣喘, ⭣＝肺氣腫/肺栓塞））, Arterial blood gas（ABG）, Compliance（張力越小, surfactant越多, 順應越強（Compliance⭣＝限制性肺病, ⭡＝阻塞性肺病（FEV1/FVC<70%）））, Resistance（阻力越大, 氣道越狹窄, 阻力越大（Resistance⭣＝限制性肺病, ⭡＝阻塞性肺病））"
-      },
-      {
-        "score": 9.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 203,
-        "specialty": "胸腔內科",
-        "topic": "COPD",
-        "subheading": "分類",
-        "content": "分類：Chronic Bronchitis（咳痰>3 months, Wheezing, blue bloater（cyanotic＋腹脹）, Tx＝Roflumilast）, Emphysema（小氣道擴張/肺泡壁破壞, pink puffer（呼吸急促＋消瘦）, Tx＝Oxygen therapy）\n  症狀：慢性咳嗽, 痰多, 呼吸困難（尤其在活動時加重）。晚期可能出現體重減輕, 疲倦和頻繁的呼吸道感染。"
       }
     ]
   },
@@ -1956,26 +1515,26 @@
       "D": "9個月的每日一次levofloxacin治療"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「抗病毒藥物」。可用筆記重點判斷：抗病毒藥物＝ { Acyclovir（抑制HSV1/2/VZV）, Ganciclovir（抑制CMV）, Foscarnet（for 有抗藥性的HSV家族, SE＝強腎毒性）, Oseltamivir（抑制Influenza A/B）, Baloxavir（抑制Influenza A/B）, Ribavirin（抑制RNA病毒, e.g. RSV, HCV）, Interferon（免疫調節, e.g. HBV, HCV） }",
-    "classified_specialty": "感染科",
-    "classified_topic": "病毒學",
-    "matched_note_subheading": "抗病毒藥物",
-    "matched_note_heading_path": "# 感染科 > ## 病毒學 > - 抗病毒藥物",
-    "matched_note_excerpt": "抗病毒藥物＝ { Acyclovir（抑制HSV1/2/VZV）, Ganciclovir（抑制CMV）, Foscarnet（for 有抗藥性的HSV家族, SE＝強腎毒性）, Oseltamivir（抑制Influenza A/B）, Baloxavir（抑制Influenza A/B）, Ribavirin（抑制RNA病毒, e.g. RSV, HCV）, Interferon（免疫調節, e.g. HBV, HCV） }",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「病原」。可用筆記重點判斷：病原＝Mycobacterium tuberculosis, 傳染途徑＝飛沫傳染（傳染不易, 要長期接觸）；年輕時primary TB（中下肺葉granuloma＋鈣化＋痊癒, 10% lifetime發病）",
+    "classified_specialty": "胸腔內科",
+    "classified_topic": "Tuberculosis（TB）",
+    "matched_note_subheading": "病原",
+    "matched_note_heading_path": "# 胸腔內科 > ## Tuberculosis（TB） > - 病原",
+    "matched_note_excerpt": "病原＝Mycobacterium tuberculosis, 傳染途徑＝飛沫傳染（傳染不易, 要長期接觸）；年輕時primary TB（中下肺葉granuloma＋鈣化＋痊癒, 10% lifetime發病）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 744,
-    "matched_note_scope": "primary_note",
+    "matched_note_line": 245,
+    "matched_note_scope": "manual_corrected",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 9.25,
+        "score": "manual",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 744,
-        "specialty": "感染科",
-        "topic": "病毒學",
-        "subheading": "抗病毒藥物",
-        "content": "抗病毒藥物＝ { Acyclovir（抑制HSV1/2/VZV）, Ganciclovir（抑制CMV）, Foscarnet（for 有抗藥性的HSV家族, SE＝強腎毒性）, Oseltamivir（抑制Influenza A/B）, Baloxavir（抑制Influenza A/B）, Ribavirin（抑制RNA病毒, e.g. RSV, HCV）, Interferon（免疫調節, e.g. HBV, HCV） }"
+        "line": 245,
+        "specialty": "胸腔內科",
+        "topic": "Tuberculosis（TB）",
+        "subheading": "病原",
+        "content": "病原＝Mycobacterium tuberculosis, 傳染途徑＝飛沫傳染（傳染不易, 要長期接觸）；年輕時primary TB（中下肺葉granuloma＋鈣化＋痊癒, 10% lifetime發病）"
       }
     ]
   },
@@ -1991,36 +1550,26 @@
       "D": "M. abscessus是快速生長菌；此菌引成的肺部感染，藥物治療時間與一般肺炎相同，約需2個星期"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「伺機性感染（CD4<350」。可用筆記重點判斷：伺機性感染（CD4<350：病毒（HSV, VZV）, <200：黴菌（PJP, Candida）, <100（T.gondii）, <50結核菌, CMV））＝ { PCP（肺囊蟲肺炎, 1st感染/1st死因 Tx＝TMP-SMX＋steroid）, Candida（念珠菌感染, 口腔鵝口瘡/食道炎/陰道炎； Tx＝Nystatin（漱口））, Fluconazole（食道/陰道））, Cryptococcus（隱球菌腦膜炎（Ind",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「定義」。可用筆記重點判斷：定義＝HIV感染後CD4<200 or AIDS defining illness（PCP, Kaposi, CMV retinitis, etc.）",
     "classified_specialty": "感染科",
     "classified_topic": "AIDS",
-    "matched_note_subheading": "伺機性感染（CD4<350",
-    "matched_note_heading_path": "# 感染科 > ## AIDS > - 伺機性感染（CD4<350",
-    "matched_note_excerpt": "伺機性感染（CD4<350：病毒（HSV, VZV）, <200：黴菌（PJP, Candida）, <100（T.gondii）, <50結核菌, CMV））＝ { PCP（肺囊蟲肺炎, 1st感染/1st死因 Tx＝TMP-SMX＋steroid）, Candida（念珠菌感染, 口腔鵝口瘡/食道炎/陰道炎； Tx＝Nystatin（漱口））, Fluconazole（食道/陰道））, Cryptococcus（隱球菌腦膜炎（India ink/ 測antigen診斷）, Tx＝Amphotericin B＋5-Flucytosine ⭢ Fluconazole接力for 1 year, 抽脊髓液測腦壓）, Toxoplasma（弓形蟲腦炎, MRI＝eccentric target sign； Tx（SPL）＝Sulfadiazine＋Pyrimethamine＋Lerucovorin（減少骨髓抑制））, CMV（視網膜炎）, Mycobacterium avium complex（分枝桿菌MAC, Tx＝Clarithromycin＋Ethambutol）, Kaposi sarcoma（HHV8）, EBV, HPV16/18 }",
+    "matched_note_subheading": "定義",
+    "matched_note_heading_path": "# 感染科 > ## AIDS > - 定義",
+    "matched_note_excerpt": "定義＝HIV感染後CD4<200 or AIDS defining illness（PCP, Kaposi, CMV retinitis, etc.）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 756,
+    "matched_note_line": 758,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 9.25,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 756,
+        "line": 758,
         "specialty": "感染科",
         "topic": "AIDS",
-        "subheading": "伺機性感染（CD4<350",
-        "content": "伺機性感染（CD4<350：病毒（HSV, VZV）, <200：黴菌（PJP, Candida）, <100（T.gondii）, <50結核菌, CMV））＝ { PCP（肺囊蟲肺炎, 1st感染/1st死因 Tx＝TMP-SMX＋steroid）, Candida（念珠菌感染, 口腔鵝口瘡/食道炎/陰道炎； Tx＝Nystatin（漱口））, Fluconazole（食道/陰道））, Cryptococcus（隱球菌腦膜炎（India ink/ 測antigen診斷）, Tx＝Amphotericin B＋5-Flucytosine ⭢ Fluconazole接力for 1 year, 抽脊髓液測腦壓）, Toxoplasma（弓形蟲腦炎, MRI＝eccentric target sign； Tx（SPL）＝Sulfadiazine＋Pyrimethamine＋Lerucovorin（減少骨髓抑制））, CMV（視網膜炎）, Mycobacterium avium complex（分枝桿菌MAC, Tx＝Clarithromycin＋Ethambutol）, Kaposi sarcoma（HHV8）, EBV, HPV16/18 }"
-      },
-      {
-        "score": 8.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 246,
-        "specialty": "胸腔內科",
-        "topic": "Tuberculosis（TB）",
-        "subheading": "Reactive TB（免疫低下時, e.g HIV（Risk Factor",
-        "content": "Reactive TB（免疫低下時, e.g HIV（Risk Factor＝100）, Recent infection（Risk Factor＝13））\n  - 診斷＝症狀（Cough>3wk, fever, night sweat, weight loss）＋CXR＋痰液檢查\n    - 痰液檢查：CXR正常但痰AFB（＋）⭢優先做NAAT/PCR分MTB/NTM\n\n      - 3套AFB smear：快但只能看acid-fast bacilli, 不能分MTB/NTM\n      - 分枝桿菌培養：最準, 可做藥物感受性；缺點＝慢\n      - NAAT/PCR：快速確認MTB, 初步看Rifampin resistance\n  - 治療 （Goal＝治癒（痰陰性>1m）≠完治（療程走完））：Isoniazid（INH, Neuropathy副作用, 藥交互會增強（I＝Increase）作用）, Rifampin（RMP, 抑制RNA, 紅尿, flu-like, 貧血副作用, 藥交互會Reduce作用）, Ethambutol（EMB, Eye視神經炎, 唯一抑菌性, 唯一腎代謝）, Pyrazinamide（會高尿酸）, Streptomycin（耳毒性副作用）"
+        "subheading": "定義",
+        "content": "定義＝HIV感染後CD4<200 or AIDS defining illness（PCP, Kaposi, CMV retinitis, etc.）"
       }
     ]
   },
@@ -2072,7 +1621,7 @@
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 23.38,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 548,
@@ -2080,26 +1629,6 @@
         "topic": "Calcium metabolism",
         "subheading": "Osteoporosis",
         "content": "Osteoporosis：成因＝primary（停經（第一型, 脊椎, 遠端橈骨骨折）, 老化（第二型, 脊椎, 髖骨骨折））, Secondary（副甲亢/庫欣/DM/藥物（Glucocorticoid/Lithium））； Exam＝DEXA（T>-1正常, -1~-2.5 Osteopenia, <-2.5 Osteoporosis）, QUS（定量超音波足跟測量）；Tx＝運動, 補鈣（1200mg/day）Bisphosphonate, 女性賀爾蒙（SERM副作用較少）, Calcitonin（效果較弱）, Strontium ranelate（鍶鹽, 抑制clast, 促進blast, 歐洲可用）, 脈衝副甲狀腺素, Percutaneous vertebroplasty（骨水泥注射, for壓迫性骨折）"
-      },
-      {
-        "score": 15.88,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 539,
-        "specialty": "新陳代謝科",
-        "topic": "Calcium metabolism",
-        "subheading": "激素協定",
-        "content": "激素協定\n  - Parathyroid hormone（PTH）： 目標＝升血鈣, Main＝ { 促進骨頭釋放鈣, 腎臟留鈣, 腸道吸鈣 ⭢ 升血鈣降血磷 } , if 脈衝施打＝ { 促進骨頭形成 }\n  - Vit D（肝轉成25-（OH）D ⭢ 腎轉成1,25-（OH）2D）：目標＝增加骨質（同時要鈣跟磷） ⭢ 腸道吸鈣吸磷, 腎臟留鈣留磷 ⭢ 升血鈣升血磷\n    - Vit D缺乏：測25-（OH）D （1,25會被TB/ Sarcoidosis存在干擾）, Lab＝Ca⭣, P⭣, ALKP⭡, PTH⭡；\n  - 抑鈣素（Calcitonin, CT, by 甲狀腺）： 目標＝降鈣 ⭢ 抑制骨頭釋放鈣, 增加腎臟排鈣"
-      },
-      {
-        "score": 15.88,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 544,
-        "specialty": "新陳代謝科",
-        "topic": "Calcium metabolism",
-        "subheading": "高血鈣（腸道變慢, 腎源尿崩, 感覺麻痺）",
-        "content": "高血鈣（腸道變慢, 腎源尿崩, 感覺麻痺）：Ddx＝抽PTH, 高＝ { 副甲亢, 1st（佔高血鈣90%）, 成因＝副甲狀Adenoma（急性, 80%副甲亢, 排echo, Tc99m）, 腎衰導致無法排磷（慢性） } ；低＝ { Vit D中毒, 惡性腫瘤（急性, 2nd, 肺/頭頸SCC/乳癌分泌PTHrP嗜骨, Tx＝Bisphosphonate）,利尿劑Thiazide }\n  - Tx＝Saline＋Furosemide（for急性, 可短期加Calcitonin） ⭢ Bisphosphonate（for 慢性長效維持, 1-2天起效）"
       }
     ]
   },
@@ -2115,26 +1644,26 @@
       "D": "死亡率較低"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「Nasopharyngeal Angiofibroma（鼻咽血管纖維瘤）」。可用筆記重點判斷：Nasopharyngeal Angiofibroma（鼻咽血管纖維瘤）：青年男性鼻咽腫瘤, 良性, 但要避免吃到鼻竇/眼匡/頭顱, 成因不明, 可能與雄性激素有關；SS＝單側鼻塞, 鼻出血, 顏面腫脹, 耳鳴, 複視；Dx＝鼻咽鏡（深紅色, 圓形, 表面光滑, 無包膜）, CT（看侵佔範圍）；Tx（易出血）＝手術切除, 血管攝影栓塞",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「Meniere's disease（梅尼爾氏症, 內淋巴水腫）」。可用筆記重點判斷：Meniere's disease（梅尼爾氏症, 內淋巴水腫）：成因不明, 內淋巴吸收abnl；SS＝classic triad（陣發低頻聽損, 耳鳴（脹）, 反覆vertigo）；Tx＝保守治療（鹽分限制, 利尿劑, BZD）, Gentamicin注射（用耳毒性破壞耳蝸內細胞）, 外科手術（endolymphatic sac decompression減壓術, vestibular neurectomy前庭神經切除術）",
     "classified_specialty": "耳鼻喉科",
-    "classified_topic": "喉科",
-    "matched_note_subheading": "Nasopharyngeal Angiofibroma（鼻咽血管纖維瘤）",
-    "matched_note_heading_path": "# 耳鼻喉科 > ## 喉科 > - Nasopharyngeal Angiofibroma（鼻咽血管纖維瘤）",
-    "matched_note_excerpt": "Nasopharyngeal Angiofibroma（鼻咽血管纖維瘤）：青年男性鼻咽腫瘤, 良性, 但要避免吃到鼻竇/眼匡/頭顱, 成因不明, 可能與雄性激素有關；SS＝單側鼻塞, 鼻出血, 顏面腫脹, 耳鳴, 複視；Dx＝鼻咽鏡（深紅色, 圓形, 表面光滑, 無包膜）, CT（看侵佔範圍）；Tx（易出血）＝手術切除, 血管攝影栓塞",
+    "classified_topic": "耳科",
+    "matched_note_subheading": "Meniere's disease（梅尼爾氏症, 內淋巴水腫）",
+    "matched_note_heading_path": "# 耳鼻喉科 > ## 耳科 > - Meniere's disease（梅尼爾氏症, 內淋巴水腫）",
+    "matched_note_excerpt": "Meniere's disease（梅尼爾氏症, 內淋巴水腫）：成因不明, 內淋巴吸收abnl；SS＝classic triad（陣發低頻聽損, 耳鳴（脹）, 反覆vertigo）；Tx＝保守治療（鹽分限制, 利尿劑, BZD）, Gentamicin注射（用耳毒性破壞耳蝸內細胞）, 外科手術（endolymphatic sac decompression減壓術, vestibular neurectomy前庭神經切除術）",
     "matched_note_path": "01_notes/醫學六/note_6.md",
     "matched_note_line": 612,
     "matched_note_scope": "cross_note_fallback",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 11.88,
+        "score": "refreshed",
         "exam_subject": "醫學六",
         "source_note": "01_notes/醫學六/note_6.md",
         "line": 612,
         "specialty": "耳鼻喉科",
-        "topic": "喉科",
-        "subheading": "Nasopharyngeal Angiofibroma（鼻咽血管纖維瘤）",
-        "content": "Nasopharyngeal Angiofibroma（鼻咽血管纖維瘤）：青年男性鼻咽腫瘤, 良性, 但要避免吃到鼻竇/眼匡/頭顱, 成因不明, 可能與雄性激素有關；SS＝單側鼻塞, 鼻出血, 顏面腫脹, 耳鳴, 複視；Dx＝鼻咽鏡（深紅色, 圓形, 表面光滑, 無包膜）, CT（看侵佔範圍）；Tx（易出血）＝手術切除, 血管攝影栓塞"
+        "topic": "耳科",
+        "subheading": "Meniere's disease（梅尼爾氏症, 內淋巴水腫）",
+        "content": "Meniere's disease（梅尼爾氏症, 內淋巴水腫）：成因不明, 內淋巴吸收abnl；SS＝classic triad（陣發低頻聽損, 耳鳴（脹）, 反覆vertigo）；Tx＝保守治療（鹽分限制, 利尿劑, BZD）, Gentamicin注射（用耳毒性破壞耳蝸內細胞）, 外科手術（endolymphatic sac decompression減壓術, vestibular neurectomy前庭神經切除術）"
       }
     ]
   },
@@ -2162,7 +1691,7 @@
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 9.88,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 5,
@@ -2170,26 +1699,6 @@
         "topic": "高血壓",
         "subheading": "定義",
         "content": "定義：>18y/o, 連兩次收縮壓>＝140mmHg 或 舒張壓>＝90mmHg"
-      },
-      {
-        "score": 9.88,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 6,
-        "specialty": "心臟內科",
-        "topic": "高血壓",
-        "subheading": "分類",
-        "content": "分類：\n  - Primary hypertension（Essential HTN, 90-95%）： 多有Family Hx, <50y/o 收縮舒張都升高, >50y/o 只有收縮壓升高（甚至舒張壓可能下降）\n  - Secondary hypertension （5-10%）：<30y/o, >60y/o, 突然惡化, 頑固性高血壓 （口訣＝腎內主神藥）\n    - 腎臟：實質病變（1st Secondary HTN）： Mainly DM, 腎血管性高血壓：young＝Fibromuscular dysplasia, old＝Atherosclerosis\n    - 內分泌疾病（口訣＝CCPG）\n      - Primary aldosteronism（Conn's syndrome）\n      - Cushing's syndrome\n      - Pheochromocytoma （MEN2, NF1, VHL）\n      - Graves' disease\n    - 藥物引起\n  - Acute hypertensive crisis\n    - Hypertensive urgency： BP>180/120, no end-organ damage\n    - Hypertensive emergency： BP>180/120, with end-organ damage, Tx＝CCB（Nicardipine）, β-blocker（Labetalol）, Nitroprusside/NTG（腦中風不用因為會增加腦壓）"
-      },
-      {
-        "score": 9.88,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 19,
-        "specialty": "心臟內科",
-        "topic": "高血壓",
-        "subheading": "Evaluation",
-        "content": "Evaluation＝腦心腎週眼（TIA, 心肌梗塞, CKD, 周邊動脈阻塞, 視網膜病變）, 心音S2, S4 gallop, 頸動脈雜音"
       }
     ]
   },
@@ -2265,7 +1774,7 @@
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 8.0,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 473,
@@ -2273,26 +1782,6 @@
         "topic": "Thyroid diseases",
         "subheading": "背景",
         "content": "背景：單一時間測TSH（pulsatile但半衰期長）最能反映hypo/hyperthyroidism, T4（Thyroxine, 主要的甲狀腺素, 大部分結合態, 只有少量游離 free T4（功能性, 癌症切除甲狀後的復發指標, 懷孕期會⭡, ∵Thyroid binding globulin⭡））, T3（Triiodothyronine, 功能性, T4轉換而來, 濃度1/10, 強度3倍）, Antibody有anti-TPO, TSHR Ab（與甲亢最相關）, Anti-thyroglobulin Ab"
-      },
-      {
-        "score": 8.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 480,
-        "specialty": "新陳代謝科",
-        "topic": "Thyroid diseases",
-        "subheading": "Hyperthyroidism（喘, 心悸, 體重減輕, 周邊阻力低（DTR⭡）, 高血鈣, 骨質疏鬆；Exam",
-        "content": "Hyperthyroidism（喘, 心悸, 體重減輕, 周邊阻力低（DTR⭡）, 高血鈣, 骨質疏鬆；Exam＝血中Free T4上升（Thyrotoxicosis））\n  - 成因＝甲狀腺破壞（TSH低, T3/4高∵破壞外漏）, 甲狀腺亢進（TSH低, T3/4高∵過度分泌）, 腦垂腺瘤（TSH/T3/4都高）, 藥物（Amiodarone, 本身含碘又有甲狀腺毒性）, Grave's dx； SS＝焦躁, 出汗, 心悸, 手抖, 食慾大增, 髮質變細, 肌無力（主∵thyrotoxic myopathy, 少部分K shift低血鉀）, Exam＝RAIU scan（可區分製造過多/破壞外漏）\n    - Graves' disease： 1st, 自體免疫攻擊甲狀腺TSH receptor（TSHR Ab⭡）, fT4⭡, TSH⭣, 年輕女性, 瀰漫甲狀腺腫大（Goiter）, 眼球突出（Exophthalmos）, 轉眼睛會痛（Orbitopathy）, 黏液水腫（Pretibial myxedema）\n    - 其他：Toxic adenoma（單一結節亢進, Tx＝手術切除）； Thyroiditis（甲狀腺炎, 急性（細菌）＝皮膚紅腫, 幼兒左側甲狀腺廔管；亞急性（病毒感冒後幾週）＝甲狀腺素會先hyper後hypo, Tx＝NSAIDs, Steroid）； Thyroid storm\n    - Tx＝抗甲狀腺藥物（甲狀腺合成抑制/免疫抑制/全血球抑制（非抑制甲狀釋放）, e.g. Methimazole（＝MMI, 1線, SE畸胎；孕婦不用）, Propylthiouracil（＝PTU, 孕婦才用, SE＝猛爆性肝炎））, β-Blocker, 放射碘/手術（終生補充碘, 放射治療6m內不能懷孕/哺乳）\n  - 補：懷孕時 estrogen 使 TBG 上升，total T3/T4 會升高, 加上胎兒需求，甲低需要補更多levothyroxine\n  - Related syndrome：Jod-Basedow phenomenon（某些有結節的甲狀腺患者, 短時間給過量Iodine（吃, 昆布, 海帶, Amiodarone，打contrast），反而產生甲亢）, Wolff-chaikoff effect（正常人短時間攝入大量碘可抑制甲狀腺功能, s/p PTU半小時（避免Jod-Basedow） ⭢ Lugoi solution（大量碘））, Thyroid storm（甲亢∩一器官功能衰竭/全身失代償；SS＝高燒, 黃疸, 昏迷；Tx＝PTU, MMI, β-Blocker, Lugoi solution（先給PTU半小時））"
-      },
-      {
-        "score": 8.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 932,
-        "specialty": "腫瘤科",
-        "topic": "腫瘤特徵",
-        "subheading": "Tumor markers（腫瘤標記物）",
-        "content": "Tumor markers（腫瘤標記物）＝ { Calcitonin（Medullary thyroid carcinoma）, β-HCG/PLAP（生殖細胞癌（GCT, GTD））, CA-125（卵巢癌, 月經, 腹膜炎）, CA-153（乳癌）, CA199（胰臟癌）, aFP（肝癌, 睪丸癌, 肝硬化）, PIVKA-II（HCC）, CEA（腺癌（消化道）, 肺癌, 支氣管炎）, B2-microglobulin（多發性骨髓瘤）, Thyroglobulin（甲狀腺癌）, TTF-1（肺癌, 甲狀腺癌）, S100/HMβ-45（黑色素瘤）, Vimentin/Sesmin（Sarcoma）, LCA/CD45（白血病, 淋巴瘤）, Chromogranin/Synaptophysin（神經內分泌腫瘤）, Neuron specific enolase（NSE； 神經內分泌腫瘤, 小細胞肺癌） }"
       }
     ]
   },
@@ -2308,26 +1797,26 @@
       "D": "性功能異常"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：Chronic Bronchitis（咳痰>3 months, Wheezing, blue bloater（cyanotic＋腹脹）, Tx＝Roflumilast）, Emphysema（小氣道擴張/肺泡壁破壞, pink puffer（呼吸急促＋消瘦）, Tx＝Oxygen therapy）   症狀：慢性咳嗽, 痰多, 呼吸困難（尤其在活動時加重）。晚期可能出現體重減輕, 疲倦和頻繁的呼吸道感染。",
+    "reference_explanation": "答案為 A。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：Chronic Bronchitis（咳痰>3 months, Wheezing, blue bloater（cyanotic＋腹脹）, Tx＝Roflumilast）, Emphysema（肺氣腫, 小氣道擴張/肺泡壁破壞, pink puffer（呼吸急促＋消瘦）, Tx＝Oxygen therapy）   症狀：慢性咳嗽, 痰多, 呼吸困難（尤其在活動時加重）。晚期可能出現體重減輕, 疲倦和頻繁的呼吸道感染。",
     "classified_specialty": "胸腔內科",
     "classified_topic": "COPD",
     "matched_note_subheading": "分類",
     "matched_note_heading_path": "# 胸腔內科 > ## COPD > - 分類",
-    "matched_note_excerpt": "分類：Chronic Bronchitis（咳痰>3 months, Wheezing, blue bloater（cyanotic＋腹脹）, Tx＝Roflumilast）, Emphysema（小氣道擴張/肺泡壁破壞, pink puffer（呼吸急促＋消瘦）, Tx＝Oxygen therapy）\n  症狀：慢性咳嗽, 痰多, 呼吸困難（尤其在活動時加重）。晚期可能出現體重減輕, 疲倦和頻繁的呼吸道感染。",
+    "matched_note_excerpt": "分類：Chronic Bronchitis（咳痰>3 months, Wheezing, blue bloater（cyanotic＋腹脹）, Tx＝Roflumilast）, Emphysema（肺氣腫, 小氣道擴張/肺泡壁破壞, pink puffer（呼吸急促＋消瘦）, Tx＝Oxygen therapy）\n  症狀：慢性咳嗽, 痰多, 呼吸困難（尤其在活動時加重）。晚期可能出現體重減輕, 疲倦和頻繁的呼吸道感染。",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 203,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 8.0,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 203,
         "specialty": "胸腔內科",
         "topic": "COPD",
         "subheading": "分類",
-        "content": "分類：Chronic Bronchitis（咳痰>3 months, Wheezing, blue bloater（cyanotic＋腹脹）, Tx＝Roflumilast）, Emphysema（小氣道擴張/肺泡壁破壞, pink puffer（呼吸急促＋消瘦）, Tx＝Oxygen therapy）\n  症狀：慢性咳嗽, 痰多, 呼吸困難（尤其在活動時加重）。晚期可能出現體重減輕, 疲倦和頻繁的呼吸道感染。"
+        "content": "分類：Chronic Bronchitis（咳痰>3 months, Wheezing, blue bloater（cyanotic＋腹脹）, Tx＝Roflumilast）, Emphysema（肺氣腫, 小氣道擴張/肺泡壁破壞, pink puffer（呼吸急促＋消瘦）, Tx＝Oxygen therapy）\n  症狀：慢性咳嗽, 痰多, 呼吸困難（尤其在活動時加重）。晚期可能出現體重減輕, 疲倦和頻繁的呼吸道感染。"
       }
     ]
   },
@@ -2355,7 +1844,7 @@
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 17.25,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 429,
@@ -2363,26 +1852,6 @@
         "topic": "Liver tumor",
         "subheading": "（補）Budd-Chiari syndrome（\"肝靜脈\"阻塞, 中年女）",
         "content": "（補）Budd-Chiari syndrome（\"肝靜脈\"阻塞, 中年女）： 成因＝myeloproliferative dx（50%）, 腫瘤（10%）； 症狀＝腹痛, 腹水, 黃疸； 診斷＝CT/MRI（肝靜脈阻塞）, 肝活檢（中心靜脈區肝細胞壞死）； 治療＝抗凝血劑, 肝移植"
-      },
-      {
-        "score": 8.38,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 393,
-        "specialty": "肝膽腸胃科",
-        "topic": "肝炎（題目多）",
-        "subheading": "病因",
-        "content": "病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎\n\n  - HBV病毒（pattern＝免疫容忍（幼兒, DNA/HBeAg極高） ⭢ 免疫廓清（青年, DNA/HBeAg下降） ⭢ 不活躍期（中年, HBeAg陰性） ⭢ 再活化（急性發作/癌化風險））\n\n    - 血清學：Acute HBV＝HBsAg, HBeAg, IgM HBcAb； Chronic HBV＝HBsAg, HBeAg, IgG/M HBcAb； Vaccinated＝HBsAb； Past infection＝HBsAb, HBcAb, HBeAb\n    - 腎損傷：MGN, MPGN\n    - HBV治療時機：慢性帶原（HBsAg>6個月）, 肝硬化（切片分數>5, echo/CT有食道靜脈曲張或脾腫大）\n    - Tx：抗病毒藥物（for HBV DNA濃度高, Lamivudine（老藥，YMDD易突變）, Entecavir（一線）, Adefovir（二線））,interferon（不可用於肝硬化/移植/免疫低下）\n  - HCV（Mainly血傳）：指標只有HCV-Ab, 有就有慢性感染, 腎損傷＝MGN, MPGN；Tx＝Direct acting anti-viral agent（DAA）, Ribavirin（老藥, 會RBC/Renal insufficiency副作用）, RNA監測（抽血RVR（-）>4 wks＝成功, cEVR（-）<12 wks＝失敗）\n  - 免疫性肝炎（T reg⭣）：\n\n    - 自體免疫性肝炎（AIH, Tx＝predinisolone）＝肝炎＋球蛋白⭡＋自體抗體；type 1（抗體＝ASMA, ANA（＋）；多女, 合併甲狀腺/RA）, type 2（抗體＝Anti-LKM1（＋）；\n    - 原發性膽管炎（PBC）：中年女, AMA（＋）, 眼瞼Xanthelasma, Tx＝Ursodeoxycholic acid（UDCA）；\n    - 原發性硬化性膽管炎（PSC）：中年男, IBD合併症, Tx＝只能肝移植\n  - 代謝性肝炎：Wilson's disease（體隱, 血銅/Ceruloplasmin⭣,尿銅⭡, 肝銅沉積, Kayser-Fleischer ring, Tx＝銅螯合劑（Penicillamine）, 移植）, Hemochromatosis（體隱, 中年男, Ferritin/transferrin saturation ⭡, 肝鐵沉積, HFE基因突變, Tx＝放血療法）, α-1 antitrypsin deficiency（肝蛋白沉積）"
-      },
-      {
-        "score": 8.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 49,
-        "specialty": "心臟內科",
-        "topic": "Ischemic heart disease",
-        "subheading": "分類",
-        "content": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心機酵素正常）, NSTEMI, STEMI）\n  - Chronic stable angina（>1條CA 70%梗塞）＝fixed astherosclerosis, 運動時胸痛, CRP, BNP升高者預後差\n    - DDx：Stress test（運動心電圖, max heart rate要>220-age）, Thallium核醫影像（SPECT（功能性缺血評估, 可能低估診斷））, CT\n      - 補：Coronary steal phenomenon＝灌流正常血管病枝缺血\n    - Tx： 內科（Anti angina＝Nitrate, β-blocker, Vasoprotection＝Aspirin, Clopidogrel）, 外科（PCI, CABG冠狀繞道）\n  - Acute coronary syndrome（ACS）\n    - 缺血心電圖\n      - ST depression：常代表 subendocardial ischemia，常見於 NSTEMI / unstable angina，也可為 reciprocal change。\n      - ST elevation：常代表 transmural injury，典型見於 STEMI。\n      - Q wave：非「缺血」本身，而是 myocardial necrosis / infarction 後的 electrical silence。\n      - T wave inversion：代表 ischemia 或 reperfusion 後變化，不限於前壁，要看導程定位。\n    - 發病順序＝T wave 上升⭢ST上升⭢Ｑ wave出現⭢ST下降⭢T wave inversion\n    - 血管與導極： LV inferior（II, III, aVF）＝RCA（90%）/ LCX（10%）, RV（V4R）＝RCA, Septum（V1-V2）＝LAD\n      （懷疑LV inferior MI, 要加做V4R鑑別RV MI, 若V4R有ST上升, 則為RV MI, 需避免使用利尿劑/ Nitrate）\n    - DDx＝Lab（Troponin（快升慢降, ERoom愛用）, CK（慢升慢降）） , 臨床評估＝TIMI score（AACC＋3） Age>65, Aspirin in 7 days, CAD, CAD factor> 3, anima, EKG, Cardiac enzymes\n    - Tx\n      - 急性＝NTG pump＋Aspirin（證實可減少死亡率）＋Clopidogrel＋LMWH（Heparin）\n      - 慢性＝β-blocker, Statin, ACEi（防止ventricular remodeling）, NSAID, Clipidogrel\n      - tPA（症狀<12hr, D2B<30min, 高齡>75不再是禁忌, 禁忌＝腦出血/高血壓/活動性內出血/疑似主動脈剝離）\n      - PCI（症狀>3hr偏好PCI, shock, D2B<90min）\n    - 併發症＝Ventricular premature contracture（VPC, 常規β-blocker, 維持K>4.5, 不要預防性給Lidocaine）, VT, VF"
       }
     ]
   },
@@ -2398,36 +1867,26 @@
       "D": "Neisseria meningitidis"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「Toxic shock syndrome（中毒性休克症候群）」。可用筆記重點判斷：Toxic shock syndrome（中毒性休克症候群）： 成因＝Staphylococcus aureus（TSS-1毒素, 培養（-）, 不用給抗生素（但皮膚科說給）Clindamycin可以減少S.aureus生成毒素）",
+    "reference_explanation": "答案為 D。題幹關鍵字最接近「Meningitis（腦膜炎）」。可用筆記重點判斷：Meningitis（腦膜炎）： 成因＝細菌（成人常見Streptococcus pneumoniae（合併肺炎中耳炎, Tx＝Ceftriaxone＋Vancomycin）, 小孩常見Neisseria meningitidis（台灣以B group為主（無疫苗）, Tx＝隔離＋Cephalosporin, 接觸者Rifampin）, 新生兒常見Group B Streptococcus）, 病毒（Enterovirus）； SS＝K",
     "classified_specialty": "感染科",
-    "classified_topic": "軟組織感染",
-    "matched_note_subheading": "Toxic shock syndrome（中毒性休克症候群）",
-    "matched_note_heading_path": "# 感染科 > ## 軟組織感染 > - Toxic shock syndrome（中毒性休克症候群）",
-    "matched_note_excerpt": "Toxic shock syndrome（中毒性休克症候群）： 成因＝Staphylococcus aureus（TSS-1毒素, 培養（-）, 不用給抗生素（但皮膚科說給）Clindamycin可以減少S.aureus生成毒素）",
+    "classified_topic": "中樞感染",
+    "matched_note_subheading": "Meningitis（腦膜炎）",
+    "matched_note_heading_path": "# 感染科 > ## 中樞感染 > - Meningitis（腦膜炎）",
+    "matched_note_excerpt": "Meningitis（腦膜炎）： 成因＝細菌（成人常見Streptococcus pneumoniae（合併肺炎中耳炎, Tx＝Ceftriaxone＋Vancomycin）, 小孩常見Neisseria meningitidis（台灣以B group為主（無疫苗）, Tx＝隔離＋Cephalosporin, 接觸者Rifampin）, 新生兒常見Group B Streptococcus）, 病毒（Enterovirus）； SS＝Kernig's sign（伸膝痛）, Brudzinski's sign（屈頸屈膝）； DDx＝Lumbar puncture（CSF分析： 細菌性（高WBC（多核球）, 低糖, 高蛋白）, 病毒性（中等WBC, 正常糖））； Tx＝細菌性（empirial Anti ⭢ Anti acc to culture）, 病毒性（支持）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 665,
+    "matched_note_line": 666,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 9.25,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 665,
+        "line": 666,
         "specialty": "感染科",
-        "topic": "軟組織感染",
-        "subheading": "Toxic shock syndrome（中毒性休克症候群）",
-        "content": "Toxic shock syndrome（中毒性休克症候群）： 成因＝Staphylococcus aureus（TSS-1毒素, 培養（-）, 不用給抗生素（但皮膚科說給）Clindamycin可以減少S.aureus生成毒素）"
-      },
-      {
-        "score": 9.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 911,
-        "specialty": "血液科（考點固定）",
-        "topic": "漿細胞dx",
-        "subheading": "Multiple myeloma（MM, 漿細胞惡性增生）",
-        "content": "Multiple myeloma（MM, 漿細胞惡性增生）：M protein>3g/dL, Bone marrow>10%Plasma cell, 口訣＝CRAB（Calcium⭡, Renal failure, Anemia, Bone lesion（伴隨骨頭痛/貧血））； DDx＝CT, Xray（Bone scan無效，因為MM bone不take radiation）； Tx＝引導＋自體細胞移植（年輕<65y/o）, M＋P＋T/L/B（for 年老, Melphalan, Prednisolone, Thalidomide/Lenalidomide/Bortezomib）"
+        "topic": "中樞感染",
+        "subheading": "Meningitis（腦膜炎）",
+        "content": "Meningitis（腦膜炎）： 成因＝細菌（成人常見Streptococcus pneumoniae（合併肺炎中耳炎, Tx＝Ceftriaxone＋Vancomycin）, 小孩常見Neisseria meningitidis（台灣以B group為主（無疫苗）, Tx＝隔離＋Cephalosporin, 接觸者Rifampin）, 新生兒常見Group B Streptococcus）, 病毒（Enterovirus）； SS＝Kernig's sign（伸膝痛）, Brudzinski's sign（屈頸屈膝）； DDx＝Lumbar puncture（CSF分析： 細菌性（高WBC（多核球）, 低糖, 高蛋白）, 病毒性（中等WBC, 正常糖））； Tx＝細菌性（empirial Anti ⭢ Anti acc to culture）, 病毒性（支持）"
       }
     ]
   },
@@ -2443,46 +1902,26 @@
       "D": "ciprofloxacin"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。題幹關鍵字最接近「革蘭陽性桿菌」。可用筆記重點判斷：革蘭陽性桿菌   - Aerobic嗜氧產孢子（Bacillus）＝ { B. anthracis（炭疽芽孢桿菌, 人畜共通； Location＝皮膚（黑色焦痂）, 肺（羊毛工人病（出血性淋巴炎））, GI； Tx＝PCN）, B.cereus（仙人掌桿菌, 毒素＝嘔吐型（米, 熱穩定, 吐半天）, 腹瀉型（肉汁, 熱不穩定, 拉三天）） }   - Anerobic厭氧產孢子（Clostridium）＝ { C.botulium（肉毒",
+    "reference_explanation": "答案為 B。題幹關鍵字最接近「Asymptomatic bacteruria（無症狀菌尿）」。可用筆記重點判斷：Asymptomatic bacteruria（無症狀菌尿）： 定義＝尿液培養陽性但無UTI症狀； Tx＝孕婦（預防早產）, 侵入性泌尿道處置前, 其他人不治療",
     "classified_specialty": "感染科",
-    "classified_topic": "細菌感染個論",
-    "matched_note_subheading": "革蘭陽性桿菌",
-    "matched_note_heading_path": "# 感染科 > ## 細菌感染個論 > - 革蘭陽性桿菌",
-    "matched_note_excerpt": "革蘭陽性桿菌\n  - Aerobic嗜氧產孢子（Bacillus）＝ { B. anthracis（炭疽芽孢桿菌, 人畜共通； Location＝皮膚（黑色焦痂）, 肺（羊毛工人病（出血性淋巴炎））, GI； Tx＝PCN）, B.cereus（仙人掌桿菌, 毒素＝嘔吐型（米, 熱穩定, 吐半天）, 腹瀉型（肉汁, 熱不穩定, 拉三天）） }\n  - Anerobic厭氧產孢子（Clostridium）＝ { C.botulium（肉毒桿菌； 毒素＝抑制Ach釋放（成人視力模糊, 婴兒呼吸麻痺（in 蜂蜜））； Tx＝Antitoxin）, C.tetani（破傷風桿菌； 毒素＝破傷風溶血素（抑制GABA）； SS＝清醒痙攣； Tx＝Tetanus IG）, C.perfringens（氣性壞疽桿菌, 毒素＝α毒素（傷口碰土, 吃到重複加熱肉）, Tx＝PCN＋Clindamycin）, C.dificile }\n  - Aerobic嗜氧不產孢子＝ { 白喉, 李斯特（乳製品； 新生兒/免疫低下腦膜炎） }\n  - Anerobic厭氧不產孢子＝ { 乳酸桿菌； 正常菌叢, 嬰兒心內膜炎； Tx＝PCN＋Aminoglycoside（不能Vancomycin因為有抗性） }\n  - 絲狀放射線菌＝ { Actinomyces（UGI ulcer, 口腔硫磺顆粒, Tx＝PCN＋清瘡）, Nocardia（fast acid stain（＋）； 像TB, SS＝mycetoma（皮膚菌足腫）, 腦膿瘍）； Tx＝TMP＋SMX }",
+    "classified_topic": "GI感染",
+    "matched_note_subheading": "Asymptomatic bacteruria（無症狀菌尿）",
+    "matched_note_heading_path": "# 感染科 > ## GI感染 > - Asymptomatic bacteruria（無症狀菌尿）",
+    "matched_note_excerpt": "Asymptomatic bacteruria（無症狀菌尿）： 定義＝尿液培養陽性但無UTI症狀； Tx＝孕婦（預防早產）, 侵入性泌尿道處置前, 其他人不治療",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 692,
+    "matched_note_line": 691,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 15.5,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 692,
+        "line": 691,
         "specialty": "感染科",
-        "topic": "細菌感染個論",
-        "subheading": "革蘭陽性桿菌",
-        "content": "革蘭陽性桿菌\n  - Aerobic嗜氧產孢子（Bacillus）＝ { B. anthracis（炭疽芽孢桿菌, 人畜共通； Location＝皮膚（黑色焦痂）, 肺（羊毛工人病（出血性淋巴炎））, GI； Tx＝PCN）, B.cereus（仙人掌桿菌, 毒素＝嘔吐型（米, 熱穩定, 吐半天）, 腹瀉型（肉汁, 熱不穩定, 拉三天）） }\n  - Anerobic厭氧產孢子（Clostridium）＝ { C.botulium（肉毒桿菌； 毒素＝抑制Ach釋放（成人視力模糊, 婴兒呼吸麻痺（in 蜂蜜））； Tx＝Antitoxin）, C.tetani（破傷風桿菌； 毒素＝破傷風溶血素（抑制GABA）； SS＝清醒痙攣； Tx＝Tetanus IG）, C.perfringens（氣性壞疽桿菌, 毒素＝α毒素（傷口碰土, 吃到重複加熱肉）, Tx＝PCN＋Clindamycin）, C.dificile }\n  - Aerobic嗜氧不產孢子＝ { 白喉, 李斯特（乳製品； 新生兒/免疫低下腦膜炎） }\n  - Anerobic厭氧不產孢子＝ { 乳酸桿菌； 正常菌叢, 嬰兒心內膜炎； Tx＝PCN＋Aminoglycoside（不能Vancomycin因為有抗性） }\n  - 絲狀放射線菌＝ { Actinomyces（UGI ulcer, 口腔硫磺顆粒, Tx＝PCN＋清瘡）, Nocardia（fast acid stain（＋）； 像TB, SS＝mycetoma（皮膚菌足腫）, 腦膿瘍）； Tx＝TMP＋SMX }"
-      },
-      {
-        "score": 10.38,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 209,
-        "specialty": "胸腔內科",
-        "topic": "COPD",
-        "subheading": "治療",
-        "content": "治療：預防（Main戒菸是最重要的治療措施）； 藥物＝輕度LABA/LAMA（喘首選）, 嚴重/eosinophil>100要加ICS, PaO2<55給氧, 急性惡化給抗生素/口服steroid, 外科（肺減容手術, 肺移植）"
-      },
-      {
-        "score": 10.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 698,
-        "specialty": "感染科",
-        "topic": "細菌感染個論",
-        "subheading": "革蘭陰性桿菌",
-        "content": "革蘭陰性桿菌\n  - Pseudomonas假單胞菌＝ { P.seruginosa（綠金屬, 葡萄味, 隱眼潰瘍）, B.pseudomallei（類鼻祖桿菌, 積水環境皮膚接觸傳染； Tx＝Ceftazidime 1月） }\n  - Curved rod彎桿菌＝ { Vibrio（cholera（霍亂, 黃菌落, 濤米水瀉）, parahaemolyticus（吃海鮮肚子痛）, vulnufucus（海水接觸傷口感染, 免疫低下者敗血症）； Tx＝Doxycycline＋Ceftriaxone）, Campylobacter（彎曲桿菌（海鷗翅膀狀 Gull's wing）, 吃生肉, SS＝血便, 腹痛, 關節炎）, H.pylori }\n  - Enterobacteriaceae腸桿菌科（Catalase（＋）, Oxidase（-））＝ { E.coli（1st, 腸道正常菌叢, SS＝UTI, 腹瀉（ETEC）, 赤痢（EHEC（Shiga-like toxin）））, KB（病人＝酒鬼, DM（注意眼炎, 肝膿瘍）, 慢性肺病）, Salmonella typhoid（沙門氏菌（二類法定, 單日內通報）；人為唯一宿主（寄生膽囊）, >10^5 才致病； SS＝Typhoid fever（鮭魚斑）, Enteric fever, 軀幹玫瑰疹（Rose spot）, Relative bradycardia（心跳時快時慢）； Tx＝Ciprofloxacin）, Proteus（變形桿菌（Urease（＋））, 可用來診斷立克次體（Weli-Felix test＝Proteus抗體））, Shigella（志賀氏菌； 10隻就致病（cf. Salmonella） SS＝血便（Shiga toxin去活化60S Ribosome, 導致HUS）, 腹痛； Tx＝Ciprofloxacin） }\n  - 呼吸道桿菌＝ { H.influenzae（流感嗜血桿菌； 毒素＝多醣體夾饃, SS＝Epiglottitis（3D： Drooling流口水, Dysphagia, Distress（呼吸窘迫, 焦躁不安））, Meningitis, Stridor； Tx＝Hib疫苗（出生2,4,6,15m施打））, Haemophilus ducreyi（軟下疳桿菌； SS＝痛性生殖器潰瘍（Chancroid））, Bordetella pertussis（百日咳桿菌； 毒素＝百日咳毒素（活化cAMP, 組織胺敏感）, SS＝卡他期（wks, 發燒咳嗽高傳染）>陣發期（無痰咳嗽）>恢復）, Legionella（退伍軍人菌（冷氣空調傳播, 不經人傳人）； SS＝Pontiac fever（年輕肌肉酸痛, 1wk自預）, Legionnaires' disease（老煙槍, 肺炎, 腹瀉）） }"
+        "topic": "GI感染",
+        "subheading": "Asymptomatic bacteruria（無症狀菌尿）",
+        "content": "Asymptomatic bacteruria（無症狀菌尿）： 定義＝尿液培養陽性但無UTI症狀； Tx＝孕婦（預防早產）, 侵入性泌尿道處置前, 其他人不治療"
       }
     ]
   },
@@ -2498,46 +1937,26 @@
       "D": "發生這些併發症的病人，超過80%帶有HLA-B27表現型（phenotype）"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「概論」。可用筆記重點判斷：概論：無RF的脊椎關節病, e.g AS, ReA, PsA, 多HLA-B27（＋, 病情重）； SS＝中軸（薦髂SIJ關節炎）, 外周（Enthesitis著骨點炎（包含Achilles, Plantar fasciitis）, Dactylitis指炎）, Uveitis   - Ankylosing spondylitis（AS, 強直性脊椎炎, 90% HLA-BL27（＋）； 青年男性； SS＝運動可改善之下背痛, 對稱關節",
+    "reference_explanation": "答案為 A。題幹關鍵字最接近「中血管炎（記PAN/Kawasaki）」。可用筆記重點判斷：中血管炎（記PAN/Kawasaki）",
     "classified_specialty": "風濕免疫科",
-    "classified_topic": "Seronegative spondyloarthropathy",
-    "matched_note_subheading": "概論",
-    "matched_note_heading_path": "# 風濕免疫科 > ## Seronegative spondyloarthropathy > - 概論",
-    "matched_note_excerpt": "概論：無RF的脊椎關節病, e.g AS, ReA, PsA, 多HLA-B27（＋, 病情重）； SS＝中軸（薦髂SIJ關節炎）, 外周（Enthesitis著骨點炎（包含Achilles, Plantar fasciitis）, Dactylitis指炎）, Uveitis\n  - Ankylosing spondylitis（AS, 強直性脊椎炎, 90% HLA-BL27（＋）； 青年男性； SS＝運動可改善之下背痛, 對稱關節炎（中軸＝竹節狀, starting at S1/薦腸關節； 外周＝著骨點, 阿基里斯腱疼痛）, Acute Anterior Uveitis； DDx＝Schober test（量L-spine mobility, LS junction，前後位移<5cm, for screen）, X ray for diagnosis； Tx＝NSAIDs（可延後進展）, TNF-α inhibitor, Sulfasalazine（for周邊關節）\n  - Reactive arthritis（ReA, 反應性關節炎）：腸道（Yersinia, Shigella）/生殖道（Chlamydia）感染後一個月； SS＝不對稱關節炎（不對稱下肢, 周邊著骨點/指炎, 不對稱S1侵犯）, 皮膚炎（Circinate balanitis（龜頭環狀炎）, keratoderma blennorrhagicum（脂漏性腳底紅斑）））, 眼炎（結膜炎）； DDx＝Triad（不對稱關節炎, 尿道炎, 結膜炎）； Tx＝NSAIDs, 抗生素治療原發感染\n  - Psoriatic arthritis（乾癬性關節炎, PsA, 中年（男＝女）, RF（-）； SS＝先Psoriasis皮癬再arthritis, 不對稱關節炎（滑囊發炎/腐蝕（類似RA）, 香腸指）, 眼炎（Chronic Post Uveitis（cf. AS＝Acute Anterior UveitisAAU））； DDx＝X ray（DIP Pencil in cup）； Tx＝同AS, 亦可MTX, amti-IL（ustekinumab, secukinumab））",
+    "classified_topic": "血管炎",
+    "matched_note_subheading": "中血管炎（記PAN/Kawasaki）",
+    "matched_note_heading_path": "# 風濕免疫科 > ## 血管炎 > - 中血管炎（記PAN/Kawasaki）",
+    "matched_note_excerpt": "中血管炎（記PAN/Kawasaki）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 808,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 14.62,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 808,
         "specialty": "風濕免疫科",
-        "topic": "Seronegative spondyloarthropathy",
-        "subheading": "概論",
-        "content": "概論：無RF的脊椎關節病, e.g AS, ReA, PsA, 多HLA-B27（＋, 病情重）； SS＝中軸（薦髂SIJ關節炎）, 外周（Enthesitis著骨點炎（包含Achilles, Plantar fasciitis）, Dactylitis指炎）, Uveitis\n  - Ankylosing spondylitis（AS, 強直性脊椎炎, 90% HLA-BL27（＋）； 青年男性； SS＝運動可改善之下背痛, 對稱關節炎（中軸＝竹節狀, starting at S1/薦腸關節； 外周＝著骨點, 阿基里斯腱疼痛）, Acute Anterior Uveitis； DDx＝Schober test（量L-spine mobility, LS junction，前後位移<5cm, for screen）, X ray for diagnosis； Tx＝NSAIDs（可延後進展）, TNF-α inhibitor, Sulfasalazine（for周邊關節）\n  - Reactive arthritis（ReA, 反應性關節炎）：腸道（Yersinia, Shigella）/生殖道（Chlamydia）感染後一個月； SS＝不對稱關節炎（不對稱下肢, 周邊著骨點/指炎, 不對稱S1侵犯）, 皮膚炎（Circinate balanitis（龜頭環狀炎）, keratoderma blennorrhagicum（脂漏性腳底紅斑）））, 眼炎（結膜炎）； DDx＝Triad（不對稱關節炎, 尿道炎, 結膜炎）； Tx＝NSAIDs, 抗生素治療原發感染\n  - Psoriatic arthritis（乾癬性關節炎, PsA, 中年（男＝女）, RF（-）； SS＝先Psoriasis皮癬再arthritis, 不對稱關節炎（滑囊發炎/腐蝕（類似RA）, 香腸指）, 眼炎（Chronic Post Uveitis（cf. AS＝Acute Anterior UveitisAAU））； DDx＝X ray（DIP Pencil in cup）； Tx＝同AS, 亦可MTX, amti-IL（ustekinumab, secukinumab））"
-      },
-      {
-        "score": 11.88,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 360,
-        "specialty": "肝膽腸胃科",
-        "topic": "腸道疾病",
-        "subheading": "Irritable bowel syndrome（IBS, 低纖飲食, 排羊大便）",
-        "content": "Irritable bowel syndrome（IBS, 低纖飲食, 排羊大便）： 每週腹痛 for 3months，無器質性病變，診斷為排除性；分類＝{IBS-C 便秘型, IBS-D 腹瀉型, IBS-M 混合型}；RF＝低纖飲食、壓力、腸胃感染後；Tx＝飲食調整（Low FODMAP diet）、纖維補充；藥物依型態選擇：IBS-C 可用 linaclotide／緩瀉劑，IBS-D 可用 loperamide，腹痛痙攣可用 antispasmodics 如 otilonium bromide（catilon）, hyoscine butylbromide"
-      },
-      {
-        "score": 11.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 321,
-        "specialty": "肝膽腸胃科",
-        "topic": "腹瀉",
-        "subheading": "慢性>3wks, work-up",
-        "content": "慢性>3wks, work-up＝NPO（NPO好＝osmotic diarrhea（吸收不良, 乳糖不耐, 感染（餐後1-6 hr考慮S.aureus, B.cereus））, NPO不好＝secretory diarrhea（villous adenoma, 神經內分泌失調, 瀉劑濫用破壞腸道））"
+        "topic": "血管炎",
+        "subheading": "中血管炎（記PAN/Kawasaki）",
+        "content": "中血管炎（記PAN/Kawasaki）"
       }
     ]
   },
@@ -2553,46 +1972,26 @@
       "D": "Vibrio cholerae所致的腹瀉係因產生enterotoxin，糞便中鮮少或不會出現白血球"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。題幹關鍵字最接近「食物中毒」。可用筆記重點判斷：食物中毒＝用時間Ddx： { 吃完馬上＝化學毒物； 餐後1-6hr＝S.aureus in 奶油/美乃滋, B.cereus in炒飯； >16hr＝細菌感染性腹瀉 }    - 感染性腹瀉：水瀉（病毒（Rotavirus, Norovirus）, 毒素（S. aureus, B.cereus, C.perfringens）, 腸毒素（ETEC））, 赤痢（細胞毒素（E.coli O157）, 細菌感染（Shigella, EIEC, ",
+    "reference_explanation": "答案為 B。題幹關鍵字最接近「定義」。可用筆記重點判斷：定義＝HIV感染後CD4<200 or AIDS defining illness（PCP, Kaposi, CMV retinitis, etc.）",
     "classified_specialty": "感染科",
-    "classified_topic": "GI感染",
-    "matched_note_subheading": "食物中毒",
-    "matched_note_heading_path": "# 感染科 > ## GI感染 > - 食物中毒",
-    "matched_note_excerpt": "食物中毒＝用時間Ddx： { 吃完馬上＝化學毒物； 餐後1-6hr＝S.aureus in 奶油/美乃滋, B.cereus in炒飯； >16hr＝細菌感染性腹瀉 }\n\n  - 感染性腹瀉：水瀉（病毒（Rotavirus, Norovirus）, 毒素（S. aureus, B.cereus, C.perfringens）, 腸毒素（ETEC））, 赤痢（細胞毒素（E.coli O157）, 細菌感染（Shigella, EIEC, Entamoeba, Salmonella））\n  - 偽膜性大腸炎：住院感染C.difficile＋抗生素使用； Ddx＝連續腹瀉＋糞便篩出C.difficile toxin/大腸鏡看到偽膜； Tx＝停用原抗生素, Metronidazole（輕症）, Vancomycin（重症）\n  - Tx＝補水/ 電解質, 發燒血便可給Ciprofloxacin",
+    "classified_topic": "AIDS",
+    "matched_note_subheading": "定義",
+    "matched_note_heading_path": "# 感染科 > ## AIDS > - 定義",
+    "matched_note_excerpt": "定義＝HIV感染後CD4<200 or AIDS defining illness（PCP, Kaposi, CMV retinitis, etc.）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 671,
-    "matched_note_scope": "primary_note",
+    "matched_note_line": 758,
+    "matched_note_scope": "manual_corrected",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 14.5,
+        "score": "manual",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 671,
+        "line": 758,
         "specialty": "感染科",
-        "topic": "GI感染",
-        "subheading": "食物中毒",
-        "content": "食物中毒＝用時間Ddx： { 吃完馬上＝化學毒物； 餐後1-6hr＝S.aureus in 奶油/美乃滋, B.cereus in炒飯； >16hr＝細菌感染性腹瀉 }\n\n  - 感染性腹瀉：水瀉（病毒（Rotavirus, Norovirus）, 毒素（S. aureus, B.cereus, C.perfringens）, 腸毒素（ETEC））, 赤痢（細胞毒素（E.coli O157）, 細菌感染（Shigella, EIEC, Entamoeba, Salmonella））\n  - 偽膜性大腸炎：住院感染C.difficile＋抗生素使用； Ddx＝連續腹瀉＋糞便篩出C.difficile toxin/大腸鏡看到偽膜； Tx＝停用原抗生素, Metronidazole（輕症）, Vancomycin（重症）\n  - Tx＝補水/ 電解質, 發燒血便可給Ciprofloxacin"
-      },
-      {
-        "score": 11.12,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 322,
-        "specialty": "肝膽腸胃科",
-        "topic": "腹瀉",
-        "subheading": "感染性腹瀉",
-        "content": "感染性腹瀉\n  - 會泄痢的：E.coli O157（旅行者下痢, 溶血性尿毒, 腎衰竭）, Shigella, Salmonella（生雞蛋）, V.parahaemolyticus, C.difficile（住院越多天/服用PPI/Antibiotic感染機率越高, PCR比驗Toxin準）\n  - 其他高風險：Norwalk virus（冬季, cruise ship）, Rotavirus（兒童, 冬季）, Giardia lamblia（生水, 野外露營）, S. aureus（蛋黃醬, 奶油）\n  - Tx： 補水電解質，沒發燒/ 血便可以給止瀉（loperamide）/ 嚴重血便未知成因先給ciprofloxacin，確定是C. difficile/Giardia/阿米巴 給Metronidazole"
-      },
-      {
-        "score": 9.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 321,
-        "specialty": "肝膽腸胃科",
-        "topic": "腹瀉",
-        "subheading": "慢性>3wks, work-up",
-        "content": "慢性>3wks, work-up＝NPO（NPO好＝osmotic diarrhea（吸收不良, 乳糖不耐, 感染（餐後1-6 hr考慮S.aureus, B.cereus））, NPO不好＝secretory diarrhea（villous adenoma, 神經內分泌失調, 瀉劑濫用破壞腸道））"
+        "topic": "AIDS",
+        "subheading": "定義",
+        "content": "定義＝HIV感染後CD4<200 or AIDS defining illness（PCP, Kaposi, CMV retinitis, etc.）"
       }
     ]
   },
@@ -2608,46 +2007,26 @@
       "D": "oxacillin"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「概論」。可用筆記重點判斷：概論：無RF的脊椎關節病, e.g AS, ReA, PsA, 多HLA-B27（＋, 病情重）； SS＝中軸（薦髂SIJ關節炎）, 外周（Enthesitis著骨點炎（包含Achilles, Plantar fasciitis）, Dactylitis指炎）, Uveitis   - Ankylosing spondylitis（AS, 強直性脊椎炎, 90% HLA-BL27（＋）； 青年男性； SS＝運動可改善之下背痛, 對稱關節",
-    "classified_specialty": "風濕免疫科",
-    "classified_topic": "Seronegative spondyloarthropathy",
-    "matched_note_subheading": "概論",
-    "matched_note_heading_path": "# 風濕免疫科 > ## Seronegative spondyloarthropathy > - 概論",
-    "matched_note_excerpt": "概論：無RF的脊椎關節病, e.g AS, ReA, PsA, 多HLA-B27（＋, 病情重）； SS＝中軸（薦髂SIJ關節炎）, 外周（Enthesitis著骨點炎（包含Achilles, Plantar fasciitis）, Dactylitis指炎）, Uveitis\n  - Ankylosing spondylitis（AS, 強直性脊椎炎, 90% HLA-BL27（＋）； 青年男性； SS＝運動可改善之下背痛, 對稱關節炎（中軸＝竹節狀, starting at S1/薦腸關節； 外周＝著骨點, 阿基里斯腱疼痛）, Acute Anterior Uveitis； DDx＝Schober test（量L-spine mobility, LS junction，前後位移<5cm, for screen）, X ray for diagnosis； Tx＝NSAIDs（可延後進展）, TNF-α inhibitor, Sulfasalazine（for周邊關節）\n  - Reactive arthritis（ReA, 反應性關節炎）：腸道（Yersinia, Shigella）/生殖道（Chlamydia）感染後一個月； SS＝不對稱關節炎（不對稱下肢, 周邊著骨點/指炎, 不對稱S1侵犯）, 皮膚炎（Circinate balanitis（龜頭環狀炎）, keratoderma blennorrhagicum（脂漏性腳底紅斑）））, 眼炎（結膜炎）； DDx＝Triad（不對稱關節炎, 尿道炎, 結膜炎）； Tx＝NSAIDs, 抗生素治療原發感染\n  - Psoriatic arthritis（乾癬性關節炎, PsA, 中年（男＝女）, RF（-）； SS＝先Psoriasis皮癬再arthritis, 不對稱關節炎（滑囊發炎/腐蝕（類似RA）, 香腸指）, 眼炎（Chronic Post Uveitis（cf. AS＝Acute Anterior UveitisAAU））； DDx＝X ray（DIP Pencil in cup）； Tx＝同AS, 亦可MTX, amti-IL（ustekinumab, secukinumab））",
+    "reference_explanation": "答案為 D。題幹關鍵字最接近「抑制細胞壁合成」。可用筆記重點判斷：抑制細胞壁合成：β-lactam（PCN, Cephalosporin, Carbapenem, Monobactam）, Glycopeptides, Bacitracin（毒性太強僅外敷）",
+    "classified_specialty": "感染科",
+    "classified_topic": "細菌抗生素",
+    "matched_note_subheading": "抑制細胞壁合成",
+    "matched_note_heading_path": "# 感染科 > ## 細菌抗生素 > - 抑制細胞壁合成",
+    "matched_note_excerpt": "抑制細胞壁合成：β-lactam（PCN, Cephalosporin, Carbapenem, Monobactam）, Glycopeptides, Bacitracin（毒性太強僅外敷）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 808,
-    "matched_note_scope": "primary_note",
+    "matched_note_line": 718,
+    "matched_note_scope": "manual_corrected",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 13.75,
+        "score": "manual",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 808,
-        "specialty": "風濕免疫科",
-        "topic": "Seronegative spondyloarthropathy",
-        "subheading": "概論",
-        "content": "概論：無RF的脊椎關節病, e.g AS, ReA, PsA, 多HLA-B27（＋, 病情重）； SS＝中軸（薦髂SIJ關節炎）, 外周（Enthesitis著骨點炎（包含Achilles, Plantar fasciitis）, Dactylitis指炎）, Uveitis\n  - Ankylosing spondylitis（AS, 強直性脊椎炎, 90% HLA-BL27（＋）； 青年男性； SS＝運動可改善之下背痛, 對稱關節炎（中軸＝竹節狀, starting at S1/薦腸關節； 外周＝著骨點, 阿基里斯腱疼痛）, Acute Anterior Uveitis； DDx＝Schober test（量L-spine mobility, LS junction，前後位移<5cm, for screen）, X ray for diagnosis； Tx＝NSAIDs（可延後進展）, TNF-α inhibitor, Sulfasalazine（for周邊關節）\n  - Reactive arthritis（ReA, 反應性關節炎）：腸道（Yersinia, Shigella）/生殖道（Chlamydia）感染後一個月； SS＝不對稱關節炎（不對稱下肢, 周邊著骨點/指炎, 不對稱S1侵犯）, 皮膚炎（Circinate balanitis（龜頭環狀炎）, keratoderma blennorrhagicum（脂漏性腳底紅斑）））, 眼炎（結膜炎）； DDx＝Triad（不對稱關節炎, 尿道炎, 結膜炎）； Tx＝NSAIDs, 抗生素治療原發感染\n  - Psoriatic arthritis（乾癬性關節炎, PsA, 中年（男＝女）, RF（-）； SS＝先Psoriasis皮癬再arthritis, 不對稱關節炎（滑囊發炎/腐蝕（類似RA）, 香腸指）, 眼炎（Chronic Post Uveitis（cf. AS＝Acute Anterior UveitisAAU））； DDx＝X ray（DIP Pencil in cup）； Tx＝同AS, 亦可MTX, amti-IL（ustekinumab, secukinumab））"
-      },
-      {
-        "score": 12.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 636,
-        "specialty": "腎臟內科",
-        "topic": "Renal Replacement Thx（透析）",
-        "subheading": "血液透析",
-        "content": "血液透析\n  - 管路種類：AV fisula（Radial/Brachial a. 接到 Cephalic v.）, AV graft（額外管路, for血管條件不佳者, SE＝高心臟負荷）, double-lumen\n  - 併發症：低血壓（Tx＝調高乾體重, Na濃度（血透比腹透不易低血壓/低血鉀（∵ Na/K多, 用Bicarbonate取代acetate） ）, Dialysis-related Amyloidosis（DRA）, 三級副甲亢（Ca⭡）, Dialyzer reaction（透析開始數分鐘胸痛/背痛/呼吸不適, BP可穩定, 繼續透析可緩解；Tx＝更換不同材質透析器, 避免重複使用/注意消毒劑或膜材反應）"
-      },
-      {
-        "score": 8.88,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 665,
+        "line": 718,
         "specialty": "感染科",
-        "topic": "軟組織感染",
-        "subheading": "Toxic shock syndrome（中毒性休克症候群）",
-        "content": "Toxic shock syndrome（中毒性休克症候群）： 成因＝Staphylococcus aureus（TSS-1毒素, 培養（-）, 不用給抗生素（但皮膚科說給）Clindamycin可以減少S.aureus生成毒素）"
+        "topic": "細菌抗生素",
+        "subheading": "抑制細胞壁合成",
+        "content": "抑制細胞壁合成：β-lactam（PCN, Cephalosporin, Carbapenem, Monobactam）, Glycopeptides, Bacitracin（毒性太強僅外敷）"
       }
     ]
   },
@@ -2663,46 +2042,26 @@
       "D": "預防性抗生素治療"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：已知病因/未知病因/肉芽腫/其他   - 已知病因：藥物（Amiodarone, Bleomycin, Methotrexate）, 結締組織疾病（SLE, RA, Scleroderma）, 職業暴露（Asbestosis（石綿, 侷限性肺病, 肋膜鈣化）, Silicosis）, 放射線治療   - 未知病因（毛玻璃浸潤越多預後越好）：     - Idiopathic pulmonary fibrosis（IPF, 慢性纖維",
+    "reference_explanation": "答案為 D。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：已知病因/未知病因/肉芽腫/其他",
     "classified_specialty": "胸腔內科",
     "classified_topic": "間質性肺病（ILD）",
     "matched_note_subheading": "分類",
     "matched_note_heading_path": "# 胸腔內科 > ## 間質性肺病（ILD） > - 分類",
-    "matched_note_excerpt": "分類：已知病因/未知病因/肉芽腫/其他\n  - 已知病因：藥物（Amiodarone, Bleomycin, Methotrexate）, 結締組織疾病（SLE, RA, Scleroderma）, 職業暴露（Asbestosis（石綿, 侷限性肺病, 肋膜鈣化）, Silicosis）, 放射線治療\n  - 未知病因（毛玻璃浸潤越多預後越好）：\n    - Idiopathic pulmonary fibrosis（IPF, 慢性纖維化, 典型UIP pattern（honeycombing, reticulation, traction bronchiectasis）, 預後差）\n    - Nonspecific interstitial pneumonia（NSIP, 活躍發炎, 多GGO）\n    - COP（類固醇有效）\n    - RB-ILD/DIP（抽菸引起；Tx＝戒菸）\n    - 其他＝Acute interstitial pneumonia（AIP, 急性發作, 預後差）\n  - 肉芽腫（pattern=micronodules）：Hypersensitivity pneumonitis（過敏性肺炎, 阻塞性肺病, Tx＝避免接觸過敏原）, Sarcoidosis（非乾酪性肉芽腫, Tx＝Steroid）",
+    "matched_note_excerpt": "分類：已知病因/未知病因/肉芽腫/其他",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 213,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 17.5,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 213,
         "specialty": "胸腔內科",
         "topic": "間質性肺病（ILD）",
         "subheading": "分類",
-        "content": "分類：已知病因/未知病因/肉芽腫/其他\n  - 已知病因：藥物（Amiodarone, Bleomycin, Methotrexate）, 結締組織疾病（SLE, RA, Scleroderma）, 職業暴露（Asbestosis（石綿, 侷限性肺病, 肋膜鈣化）, Silicosis）, 放射線治療\n  - 未知病因（毛玻璃浸潤越多預後越好）：\n    - Idiopathic pulmonary fibrosis（IPF, 慢性纖維化, 典型UIP pattern（honeycombing, reticulation, traction bronchiectasis）, 預後差）\n    - Nonspecific interstitial pneumonia（NSIP, 活躍發炎, 多GGO）\n    - COP（類固醇有效）\n    - RB-ILD/DIP（抽菸引起；Tx＝戒菸）\n    - 其他＝Acute interstitial pneumonia（AIP, 急性發作, 預後差）\n  - 肉芽腫（pattern=micronodules）：Hypersensitivity pneumonitis（過敏性肺炎, 阻塞性肺病, Tx＝避免接觸過敏原）, Sarcoidosis（非乾酪性肉芽腫, Tx＝Steroid）"
-      },
-      {
-        "score": 13.75,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 185,
-        "specialty": "胸腔內科",
-        "topic": "泛論",
-        "subheading": "肺功能檢查",
-        "content": "肺功能檢查：Spirometry（FVC（用力呼氣容積）, FEV1（第一秒用力呼氣容積）, FEV1/FVC（正常>0.7, <0.7為阻塞性肺病）, TLC（總肺容量）, RV（殘氣量）, DLCO（一氧化碳擴散能力, 反映肺泡毛細血管功能, ⭡＝肥胖/氣喘, ⭣＝肺氣腫/肺栓塞））, Arterial blood gas（ABG）, Compliance（張力越小, surfactant越多, 順應越強（Compliance⭣＝限制性肺病, ⭡＝阻塞性肺病（FEV1/FVC<70%）））, Resistance（阻力越大, 氣道越狹窄, 阻力越大（Resistance⭣＝限制性肺病, ⭡＝阻塞性肺病））"
-      },
-      {
-        "score": 13.75,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 808,
-        "specialty": "風濕免疫科",
-        "topic": "Seronegative spondyloarthropathy",
-        "subheading": "概論",
-        "content": "概論：無RF的脊椎關節病, e.g AS, ReA, PsA, 多HLA-B27（＋, 病情重）； SS＝中軸（薦髂SIJ關節炎）, 外周（Enthesitis著骨點炎（包含Achilles, Plantar fasciitis）, Dactylitis指炎）, Uveitis\n  - Ankylosing spondylitis（AS, 強直性脊椎炎, 90% HLA-BL27（＋）； 青年男性； SS＝運動可改善之下背痛, 對稱關節炎（中軸＝竹節狀, starting at S1/薦腸關節； 外周＝著骨點, 阿基里斯腱疼痛）, Acute Anterior Uveitis； DDx＝Schober test（量L-spine mobility, LS junction，前後位移<5cm, for screen）, X ray for diagnosis； Tx＝NSAIDs（可延後進展）, TNF-α inhibitor, Sulfasalazine（for周邊關節）\n  - Reactive arthritis（ReA, 反應性關節炎）：腸道（Yersinia, Shigella）/生殖道（Chlamydia）感染後一個月； SS＝不對稱關節炎（不對稱下肢, 周邊著骨點/指炎, 不對稱S1侵犯）, 皮膚炎（Circinate balanitis（龜頭環狀炎）, keratoderma blennorrhagicum（脂漏性腳底紅斑）））, 眼炎（結膜炎）； DDx＝Triad（不對稱關節炎, 尿道炎, 結膜炎）； Tx＝NSAIDs, 抗生素治療原發感染\n  - Psoriatic arthritis（乾癬性關節炎, PsA, 中年（男＝女）, RF（-）； SS＝先Psoriasis皮癬再arthritis, 不對稱關節炎（滑囊發炎/腐蝕（類似RA）, 香腸指）, 眼炎（Chronic Post Uveitis（cf. AS＝Acute Anterior UveitisAAU））； DDx＝X ray（DIP Pencil in cup）； Tx＝同AS, 亦可MTX, amti-IL（ustekinumab, secukinumab））"
+        "content": "分類：已知病因/未知病因/肉芽腫/其他"
       }
     ]
   },
@@ -2718,26 +2077,26 @@
       "D": "親和性（Agreeableness）：傾向與其他人合作，較喜歡融洽"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「聽力障礙」。可用筆記重點判斷：聽力障礙：    - Conduction hearing loss（傳導性聽損）：外耳/中耳病變；DDx＝聽力圖（flat）；Tx＝藥物, 手術   - Sensorineural hearing loss（感音神經性聽損）：內耳/聽神經病變（1st內耳聽損, 2nd毛細胞-聽神經核病變（老年聽障/聽神經瘤））；SS＝高頻聽損, 耳鳴, 解析度下降；DDx＝聽力圖（高音漸傾sloping）；Tx＝多永久性, 只能助聽器   - Mix",
-    "classified_specialty": "耳鼻喉科",
-    "classified_topic": "耳科",
-    "matched_note_subheading": "聽力障礙",
-    "matched_note_heading_path": "# 耳鼻喉科 > ## 耳科 > - 聽力障礙",
-    "matched_note_excerpt": "聽力障礙：\n\n  - Conduction hearing loss（傳導性聽損）：外耳/中耳病變；DDx＝聽力圖（flat）；Tx＝藥物, 手術\n  - Sensorineural hearing loss（感音神經性聽損）：內耳/聽神經病變（1st內耳聽損, 2nd毛細胞-聽神經核病變（老年聽障/聽神經瘤））；SS＝高頻聽損, 耳鳴, 解析度下降；DDx＝聽力圖（高音漸傾sloping）；Tx＝多永久性, 只能助聽器\n  - Mixed hearing loss（混合性聽損, 兩者都有）\n  - Functional hearing loss（功能性聽損）：無器質性病變, 可能是心理因素；DDx＝聽力圖（不合理）, ABR正常",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「疼痛名詞」。可用筆記重點判斷：疼痛名詞：     | Term         | 定義                                        |   | ------------ | ------------------------------------------- |   | Allodynia    | 非傷害性刺激也痛（輕觸痛）                  |   | Hyperalgesia | 傷害性刺激疼痛反應加劇  ",
+    "classified_specialty": "麻醉科",
+    "classified_topic": "疼痛",
+    "matched_note_subheading": "疼痛名詞",
+    "matched_note_heading_path": "# 麻醉科 > ## 疼痛 > - 疼痛名詞",
+    "matched_note_excerpt": "疼痛名詞：\n\n\n  | Term         | 定義                                        |\n  | ------------ | ------------------------------------------- |\n  | Allodynia    | 非傷害性刺激也痛（輕觸痛）                  |\n  | Hyperalgesia | 傷害性刺激疼痛反應加劇                      |\n  | Analgesia    | 痛覺消失/降低；cf. Anesthesia＝所有感覺消失 |\n  | Paresthesia  | 異常感覺，不一定不舒服（麻、刺）            |\n  | Dysesthesia  | 不舒服的異常感覺，可自發或誘發              |\n  | Central pain | 中樞病灶造成疼痛（如中風後）                |",
     "matched_note_path": "01_notes/醫學六/note_6.md",
     "matched_note_line": 547,
     "matched_note_scope": "cross_note_fallback",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 10.5,
+        "score": "refreshed",
         "exam_subject": "醫學六",
         "source_note": "01_notes/醫學六/note_6.md",
         "line": 547,
-        "specialty": "耳鼻喉科",
-        "topic": "耳科",
-        "subheading": "聽力障礙",
-        "content": "聽力障礙：\n\n  - Conduction hearing loss（傳導性聽損）：外耳/中耳病變；DDx＝聽力圖（flat）；Tx＝藥物, 手術\n  - Sensorineural hearing loss（感音神經性聽損）：內耳/聽神經病變（1st內耳聽損, 2nd毛細胞-聽神經核病變（老年聽障/聽神經瘤））；SS＝高頻聽損, 耳鳴, 解析度下降；DDx＝聽力圖（高音漸傾sloping）；Tx＝多永久性, 只能助聽器\n  - Mixed hearing loss（混合性聽損, 兩者都有）\n  - Functional hearing loss（功能性聽損）：無器質性病變, 可能是心理因素；DDx＝聽力圖（不合理）, ABR正常"
+        "specialty": "麻醉科",
+        "topic": "疼痛",
+        "subheading": "疼痛名詞",
+        "content": "疼痛名詞：\n\n\n  | Term         | 定義                                        |\n  | ------------ | ------------------------------------------- |\n  | Allodynia    | 非傷害性刺激也痛（輕觸痛）                  |\n  | Hyperalgesia | 傷害性刺激疼痛反應加劇                      |\n  | Analgesia    | 痛覺消失/降低；cf. Anesthesia＝所有感覺消失 |\n  | Paresthesia  | 異常感覺，不一定不舒服（麻、刺）            |\n  | Dysesthesia  | 不舒服的異常感覺，可自發或誘發              |\n  | Central pain | 中樞病灶造成疼痛（如中風後）                |"
       }
     ]
   },
@@ -2777,46 +2136,26 @@
       "D": "預防菸品使用（tobacco use）"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「成人預防保健（>40三年一次, >65一年一次）」。可用筆記重點判斷：成人預防保健（>40三年一次, >65一年一次）：肛門乳房觸診, CBC心肝腎, 尿檢",
+    "reference_explanation": "答案為 A。題幹關鍵字最接近「藥物評估（Beers criteria, >5 drug為多重用藥）」。可用筆記重點判斷：藥物評估（Beers criteria, >5 drug為多重用藥）",
     "classified_specialty": "家庭醫學科",
-    "classified_topic": "預防醫學",
-    "matched_note_subheading": "成人預防保健（>40三年一次, >65一年一次）",
-    "matched_note_heading_path": "# 家庭醫學科 > ## 預防醫學 > - 成人預防保健（>40三年一次, >65一年一次）",
-    "matched_note_excerpt": "成人預防保健（>40三年一次, >65一年一次）：肛門乳房觸診, CBC心肝腎, 尿檢",
+    "classified_topic": "社區醫學",
+    "matched_note_subheading": "藥物評估（Beers criteria, >5 drug為多重用藥）",
+    "matched_note_heading_path": "# 家庭醫學科 > ## 社區醫學 > - 藥物評估（Beers criteria, >5 drug為多重用藥）",
+    "matched_note_excerpt": "藥物評估（Beers criteria, >5 drug為多重用藥）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 1054,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 22.0,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 1054,
         "specialty": "家庭醫學科",
-        "topic": "預防醫學",
-        "subheading": "成人預防保健（>40三年一次, >65一年一次）",
-        "content": "成人預防保健（>40三年一次, >65一年一次）：肛門乳房觸診, CBC心肝腎, 尿檢"
-      },
-      {
-        "score": 17.75,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 1053,
-        "specialty": "家庭醫學科",
-        "topic": "預防醫學",
-        "subheading": "台灣六癌篩檢",
-        "content": "台灣六癌篩檢：乳癌（乳攝40-74女q2y；家族史40-44）, 子宮頸癌（抹片25-29 q3y, ≥30 q1y；HPV test q5y）, 大腸癌（FIT 45-74 q2y；家族史40-44）, 口腔癌（30+菸/檳q2y；原住民檳榔18+）, 肺癌（LDCT q2y, 家族史男45/女40-74或重菸50-74）, 胃癌（45-74 H.pylori糞便抗原, 終身一次）；"
-      },
-      {
-        "score": 17.75,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 1056,
-        "specialty": "家庭醫學科",
-        "topic": "預防醫學",
-        "subheading": "新生兒篩檢指定項目",
-        "content": "新生兒篩檢指定項目：CHT（先天性甲狀腺功能低下症）, GAL（半乳糖血症）, G6PD（葡萄糖-6-磷酸脫氫酶缺乏症）, HCU（同型半胱氨酸尿症）, PKU（苯酮尿症）, CAH（先天性腎上腺增生症）, MSUD（楓糖尿症）, MCAD, GA-1, IVA, MMA"
+        "topic": "社區醫學",
+        "subheading": "藥物評估（Beers criteria, >5 drug為多重用藥）",
+        "content": "藥物評估（Beers criteria, >5 drug為多重用藥）"
       }
     ]
   },
@@ -2832,26 +2171,26 @@
       "D": "流行性腦脊髓膜炎（meningococcus）疫苗為前往沙烏地阿拉伯的旅客所需，建議每10年追加1劑"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「旅遊疫苗」。可用筆記重點判斷：旅遊疫苗：必打＝黃熱病（非洲/南美洲, 10年1次）, 常規性＝A/B肝, 日本腦炎, 白喉百日咳破傷風, 小兒麻痹, 卡介苗, 麻疹, 腮腺, 德麻",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「青少年醫學」。可用筆記重點判斷：青少年醫學：三明治會談法（＝三方一起談話, 再與單獨青年, 最後再三方一起談話）",
     "classified_specialty": "家庭醫學科",
-    "classified_topic": "預防醫學",
-    "matched_note_subheading": "旅遊疫苗",
-    "matched_note_heading_path": "# 家庭醫學科 > ## 預防醫學 > - 旅遊疫苗",
-    "matched_note_excerpt": "旅遊疫苗：必打＝黃熱病（非洲/南美洲, 10年1次）, 常規性＝A/B肝, 日本腦炎, 白喉百日咳破傷風, 小兒麻痹, 卡介苗, 麻疹, 腮腺, 德麻",
+    "classified_topic": "社區醫學",
+    "matched_note_subheading": "青少年醫學",
+    "matched_note_heading_path": "# 家庭醫學科 > ## 社區醫學 > - 青少年醫學",
+    "matched_note_excerpt": "青少年醫學：三明治會談法（＝三方一起談話, 再與單獨青年, 最後再三方一起談話）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 1055,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 12.0,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 1055,
         "specialty": "家庭醫學科",
-        "topic": "預防醫學",
-        "subheading": "旅遊疫苗",
-        "content": "旅遊疫苗：必打＝黃熱病（非洲/南美洲, 10年1次）, 常規性＝A/B肝, 日本腦炎, 白喉百日咳破傷風, 小兒麻痹, 卡介苗, 麻疹, 腮腺, 德麻"
+        "topic": "社區醫學",
+        "subheading": "青少年醫學",
+        "content": "青少年醫學：三明治會談法（＝三方一起談話, 再與單獨青年, 最後再三方一起談話）"
       }
     ]
   },
@@ -2867,26 +2206,26 @@
       "D": "陰性預測值是「檢驗陰性且有患病的比率」"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「Lab」。可用筆記重點判斷：Lab：ANA（screen工具, 敏感度高但特異度低）, Anti-dsDNA（特異度高, 活躍度指標, 可預測腎炎, 血管炎）, Anti-Smith（特異best, 但跟活躍度無關）, Anti-Ro/SSA（可過胎盤, 導致胎兒先天心臟傳導dx）, Anti-ribosomal P（中樞侵犯, 精神病）",
-    "classified_specialty": "風濕免疫科",
-    "classified_topic": "SLE",
-    "matched_note_subheading": "Lab",
-    "matched_note_heading_path": "# 風濕免疫科 > ## SLE > - Lab",
-    "matched_note_excerpt": "Lab：ANA（screen工具, 敏感度高但特異度低）, Anti-dsDNA（特異度高, 活躍度指標, 可預測腎炎, 血管炎）, Anti-Smith（特異best, 但跟活躍度無關）, Anti-Ro/SSA（可過胎盤, 導致胎兒先天心臟傳導dx）, Anti-ribosomal P（中樞侵犯, 精神病）",
+    "reference_explanation": "答案為 A。題幹關鍵字最接近「暴露後預防」。可用筆記重點判斷：暴露後預防：<72hr開始抗病毒藥, for 28 days",
+    "classified_specialty": "感染科",
+    "classified_topic": "AIDS",
+    "matched_note_subheading": "暴露後預防",
+    "matched_note_heading_path": "# 感染科 > ## AIDS > - 暴露後預防",
+    "matched_note_excerpt": "暴露後預防：<72hr開始抗病毒藥, for 28 days",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 765,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 10.25,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 765,
-        "specialty": "風濕免疫科",
-        "topic": "SLE",
-        "subheading": "Lab",
-        "content": "Lab：ANA（screen工具, 敏感度高但特異度低）, Anti-dsDNA（特異度高, 活躍度指標, 可預測腎炎, 血管炎）, Anti-Smith（特異best, 但跟活躍度無關）, Anti-Ro/SSA（可過胎盤, 導致胎兒先天心臟傳導dx）, Anti-ribosomal P（中樞侵犯, 精神病）"
+        "specialty": "感染科",
+        "topic": "AIDS",
+        "subheading": "暴露後預防",
+        "content": "暴露後預防：<72hr開始抗病毒藥, for 28 days"
       }
     ]
   },
@@ -2926,26 +2265,26 @@
       "D": "基層醫療較完善充足的地區，低出生體重（low birth weight）嬰兒比率減少"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「社會取向的基層醫療保健COPC」。可用筆記重點判斷：社會取向的基層醫療保健COPC: 0級（無社區概念）, 1級（只有群體粗糙概念沒有個人概念）, 2級（引入外部資訊, 可開始規劃）, 3級（社區個人資料普查涵蓋9成以上, 可開始實施）, 4級（社區資料普查涵蓋95%以上, 可解決各種問題）",
+    "reference_explanation": "答案為 A。題幹關鍵字最接近「醫病溝通模式」。可用筆記重點判斷：醫病溝通模式：Paternalistic（醫生主導）, Informative（病人主導）, Interpretive（醫生解讀病人價值觀後建議（消極））, Deliberative（醫生引導病人討論價值觀後建議（積極））",
     "classified_specialty": "家庭醫學科",
     "classified_topic": "行為科學",
-    "matched_note_subheading": "社會取向的基層醫療保健COPC",
-    "matched_note_heading_path": "# 家庭醫學科 > ## 行為科學 > - 社會取向的基層醫療保健COPC",
-    "matched_note_excerpt": "社會取向的基層醫療保健COPC: 0級（無社區概念）, 1級（只有群體粗糙概念沒有個人概念）, 2級（引入外部資訊, 可開始規劃）, 3級（社區個人資料普查涵蓋9成以上, 可開始實施）, 4級（社區資料普查涵蓋95%以上, 可解決各種問題）",
+    "matched_note_subheading": "醫病溝通模式",
+    "matched_note_heading_path": "# 家庭醫學科 > ## 行為科學 > - 醫病溝通模式",
+    "matched_note_excerpt": "醫病溝通模式：Paternalistic（醫生主導）, Informative（病人主導）, Interpretive（醫生解讀病人價值觀後建議（消極））, Deliberative（醫生引導病人討論價值觀後建議（積極））",
     "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 1019,
+    "matched_note_line": 1020,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 13.12,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
-        "line": 1019,
+        "line": 1020,
         "specialty": "家庭醫學科",
         "topic": "行為科學",
-        "subheading": "社會取向的基層醫療保健COPC",
-        "content": "社會取向的基層醫療保健COPC: 0級（無社區概念）, 1級（只有群體粗糙概念沒有個人概念）, 2級（引入外部資訊, 可開始規劃）, 3級（社區個人資料普查涵蓋9成以上, 可開始實施）, 4級（社區資料普查涵蓋95%以上, 可解決各種問題）"
+        "subheading": "醫病溝通模式",
+        "content": "醫病溝通模式：Paternalistic（醫生主導）, Informative（病人主導）, Interpretive（醫生解讀病人價值觀後建議（消極））, Deliberative（醫生引導病人討論價值觀後建議（積極））"
       }
     ]
   },
@@ -2961,46 +2300,26 @@
       "D": "給與氣管擴張劑"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「安寧緩和」。可用筆記重點判斷：安寧緩和＝全人全家全程全隊, 末期止痛By the mouth, By the clock, By the ladder （口服morphine起始dose＝5~10mg, q4h, 鴉片藥物沒有高劑量效應, 小心高血鈣, 便秘）   - 補：病人自主權利法＝預立醫療/預立醫療決定；安寧緩和醫療條例＝末期病人 DNR /安寧緩和醫療",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「三段五級預防」。可用筆記重點判斷：三段五級預防：促進健康（第一段, 教育）, 特殊保護（第一段, 打疫苗, 少暴露）, 早診斷早治療（第二段, 體檢）, 限制殘障 ⭢ 復健（第三段）",
     "classified_specialty": "家庭醫學科",
-    "classified_topic": "緩和醫療",
-    "matched_note_subheading": "安寧緩和",
-    "matched_note_heading_path": "# 家庭醫學科 > ## 緩和醫療 > - 安寧緩和",
-    "matched_note_excerpt": "安寧緩和＝全人全家全程全隊, 末期止痛By the mouth, By the clock, By the ladder （口服morphine起始dose＝5~10mg, q4h, 鴉片藥物沒有高劑量效應, 小心高血鈣, 便秘）\n  - 補：病人自主權利法＝預立醫療/預立醫療決定；安寧緩和醫療條例＝末期病人 DNR /安寧緩和醫療",
+    "classified_topic": "預防醫學",
+    "matched_note_subheading": "三段五級預防",
+    "matched_note_heading_path": "# 家庭醫學科 > ## 預防醫學 > - 三段五級預防",
+    "matched_note_excerpt": "三段五級預防：促進健康（第一段, 教育）, 特殊保護（第一段, 打疫苗, 少暴露）, 早診斷早治療（第二段, 體檢）, 限制殘障 ⭢ 復健（第三段）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 1062,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 36.25,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 1062,
         "specialty": "家庭醫學科",
-        "topic": "緩和醫療",
-        "subheading": "安寧緩和",
-        "content": "安寧緩和＝全人全家全程全隊, 末期止痛By the mouth, By the clock, By the ladder （口服morphine起始dose＝5~10mg, q4h, 鴉片藥物沒有高劑量效應, 小心高血鈣, 便秘）\n  - 補：病人自主權利法＝預立醫療/預立醫療決定；安寧緩和醫療條例＝末期病人 DNR /安寧緩和醫療"
-      },
-      {
-        "score": 26.25,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 1022,
-        "specialty": "家庭醫學科",
-        "topic": "行為科學",
-        "subheading": "醫療告知法規（考告知對象）",
-        "content": "醫療告知法規（考告知對象）：\n\n\n  | 法規             | 告知對象重點                             | 國考記法                 |\n  | ---------------- | ---------------------------------------- | ------------------------ |\n  | 醫師法           | 病人或其家屬                             | 醫師對病人/家屬告知      |\n  | 醫療法           | 病人或法定代理人、配偶、親屬或關係人     | 醫療機構告知範圍較寬     |\n  | 安寧緩和醫療條例 | 末期病人或其家屬；病人明確想知道時應告知 | 末期病人若想知情, 要告知 |\n  | 病人自主權利法   | 本人為主, 未反對才可告知關係人           | 最強調病人本人自主       |"
-      },
-      {
-        "score": 20.75,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 1064,
-        "specialty": "家庭醫學科",
-        "topic": "緩和醫療",
-        "subheading": "末期給水給營養觀念",
-        "content": "末期給水給營養觀念: 厭食是末期正常現象, 末期病人不因不給給水/食物而死亡, 勿勉強進食"
+        "topic": "預防醫學",
+        "subheading": "三段五級預防",
+        "content": "三段五級預防：促進健康（第一段, 教育）, 特殊保護（第一段, 打疫苗, 少暴露）, 早診斷早治療（第二段, 體檢）, 限制殘障 ⭢ 復健（第三段）"
       }
     ]
   },
@@ -3040,26 +2359,26 @@
       "D": "肝內膽管結石（intrahepatic bile duct stones）"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「診斷」。可用筆記重點判斷：診斷＝Duke Criteria（2M/ 1M＋3m/ 5m）   - Major criteria： Positive blood culture（2次以上, >12hr, 同一菌種）, Evidence of endocardial involvement（心臟超音波有vegetation, new valvular regurgitation）   - Minor criteria： Predisposing heart cond",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「診斷」。可用筆記重點判斷：診斷＝Duke Criteria（2M/ 1M＋3m/ 5m）",
     "classified_specialty": "心臟內科",
     "classified_topic": "細菌心內膜炎",
     "matched_note_subheading": "診斷",
     "matched_note_heading_path": "# 心臟內科 > ## 細菌心內膜炎 > - 診斷",
-    "matched_note_excerpt": "診斷＝Duke Criteria（2M/ 1M＋3m/ 5m）\n  - Major criteria： Positive blood culture（2次以上, >12hr, 同一菌種）, Evidence of endocardial involvement（心臟超音波有vegetation, new valvular regurgitation）\n  - Minor criteria： Predisposing heart condition（易病的心臟） or IV drug use, Fever>38C, Vascular phenomena（emboli, Janeway lesion）, Immunologic phenomena（Osler's node, Roth spots）, Microbiological evidence（not meeting major criteria）\n  - 高懷疑/風險 ⭢ TTE＋TEE, 低懷疑/風險 ⭢ TTE（經胸腔超音波）",
+    "matched_note_excerpt": "診斷＝Duke Criteria（2M/ 1M＋3m/ 5m）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 121,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 12.0,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 121,
         "specialty": "心臟內科",
         "topic": "細菌心內膜炎",
         "subheading": "診斷",
-        "content": "診斷＝Duke Criteria（2M/ 1M＋3m/ 5m）\n  - Major criteria： Positive blood culture（2次以上, >12hr, 同一菌種）, Evidence of endocardial involvement（心臟超音波有vegetation, new valvular regurgitation）\n  - Minor criteria： Predisposing heart condition（易病的心臟） or IV drug use, Fever>38C, Vascular phenomena（emboli, Janeway lesion）, Immunologic phenomena（Osler's node, Roth spots）, Microbiological evidence（not meeting major criteria）\n  - 高懷疑/風險 ⭢ TTE＋TEE, 低懷疑/風險 ⭢ TTE（經胸腔超音波）"
+        "content": "診斷＝Duke Criteria（2M/ 1M＋3m/ 5m）"
       }
     ]
   },
@@ -3123,46 +2442,26 @@
       "D": "急性心肌炎（acute myocarditis）"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心機酵素正常）, NSTEMI, STEMI）   - Chronic stable angina（>1條CA 70%梗塞）＝fixed astherosclerosis, 運動時胸痛, CRP, BNP升高者預後差     - DDx：Stress test（運動心電圖, max h",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「分類」。可用筆記重點判斷：分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心肌酵素正常）, NSTEMI, STEMI）",
     "classified_specialty": "心臟內科",
     "classified_topic": "Ischemic heart disease",
     "matched_note_subheading": "分類",
     "matched_note_heading_path": "# 心臟內科 > ## Ischemic heart disease > - 分類",
-    "matched_note_excerpt": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心機酵素正常）, NSTEMI, STEMI）\n  - Chronic stable angina（>1條CA 70%梗塞）＝fixed astherosclerosis, 運動時胸痛, CRP, BNP升高者預後差\n    - DDx：Stress test（運動心電圖, max heart rate要>220-age）, Thallium核醫影像（SPECT（功能性缺血評估, 可能低估診斷））, CT\n      - 補：Coronary steal phenomenon＝灌流正常血管病枝缺血\n    - Tx： 內科（Anti angina＝Nitrate, β-blocker, Vasoprotection＝Aspirin, Clopidogrel）, 外科（PCI, CABG冠狀繞道）\n  - Acute coronary syndrome（ACS）\n    - 缺血心電圖\n      - ST depression：常代表 subendocardial ischemia，常見於 NSTEMI / unstable angina，也可為 reciprocal change。\n      - ST elevation：常代表 transmural injury，典型見於 STEMI。\n      - Q wave：非「缺血」本身，而是 myocardial necrosis / infarction 後的 electrical silence。\n      - T wave inversion：代表 ischemia 或 reperfusion 後變化，不限於前壁，要看導程定位。\n    - 發病順序＝T wave 上升⭢ST上升⭢Ｑ wave出現⭢ST下降⭢T wave inversion\n    - 血管與導極： LV inferior（II, III, aVF）＝RCA（90%）/ LCX（10%）, RV（V4R）＝RCA, Septum（V1-V2）＝LAD\n      （懷疑LV inferior MI, 要加做V4R鑑別RV MI, 若V4R有ST上升, 則為RV MI, 需避免使用利尿劑/ Nitrate）\n    - DDx＝Lab（Troponin（快升慢降, ERoom愛用）, CK（慢升慢降）） , 臨床評估＝TIMI score（AACC＋3） Age>65, Aspirin in 7 days, CAD, CAD factor> 3, anima, EKG, Cardiac enzymes\n    - Tx\n      - 急性＝NTG pump＋Aspirin（證實可減少死亡率）＋Clopidogrel＋LMWH（Heparin）\n      - 慢性＝β-blocker, Statin, ACEi（防止ventricular remodeling）, NSAID, Clipidogrel\n      - tPA（症狀<12hr, D2B<30min, 高齡>75不再是禁忌, 禁忌＝腦出血/高血壓/活動性內出血/疑似主動脈剝離）\n      - PCI（症狀>3hr偏好PCI, shock, D2B<90min）\n    - 併發症＝Ventricular premature contracture（VPC, 常規β-blocker, 維持K>4.5, 不要預防性給Lidocaine）, VT, VF",
+    "matched_note_excerpt": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心肌酵素正常）, NSTEMI, STEMI）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 49,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 20.62,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 49,
         "specialty": "心臟內科",
         "topic": "Ischemic heart disease",
         "subheading": "分類",
-        "content": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心機酵素正常）, NSTEMI, STEMI）\n  - Chronic stable angina（>1條CA 70%梗塞）＝fixed astherosclerosis, 運動時胸痛, CRP, BNP升高者預後差\n    - DDx：Stress test（運動心電圖, max heart rate要>220-age）, Thallium核醫影像（SPECT（功能性缺血評估, 可能低估診斷））, CT\n      - 補：Coronary steal phenomenon＝灌流正常血管病枝缺血\n    - Tx： 內科（Anti angina＝Nitrate, β-blocker, Vasoprotection＝Aspirin, Clopidogrel）, 外科（PCI, CABG冠狀繞道）\n  - Acute coronary syndrome（ACS）\n    - 缺血心電圖\n      - ST depression：常代表 subendocardial ischemia，常見於 NSTEMI / unstable angina，也可為 reciprocal change。\n      - ST elevation：常代表 transmural injury，典型見於 STEMI。\n      - Q wave：非「缺血」本身，而是 myocardial necrosis / infarction 後的 electrical silence。\n      - T wave inversion：代表 ischemia 或 reperfusion 後變化，不限於前壁，要看導程定位。\n    - 發病順序＝T wave 上升⭢ST上升⭢Ｑ wave出現⭢ST下降⭢T wave inversion\n    - 血管與導極： LV inferior（II, III, aVF）＝RCA（90%）/ LCX（10%）, RV（V4R）＝RCA, Septum（V1-V2）＝LAD\n      （懷疑LV inferior MI, 要加做V4R鑑別RV MI, 若V4R有ST上升, 則為RV MI, 需避免使用利尿劑/ Nitrate）\n    - DDx＝Lab（Troponin（快升慢降, ERoom愛用）, CK（慢升慢降）） , 臨床評估＝TIMI score（AACC＋3） Age>65, Aspirin in 7 days, CAD, CAD factor> 3, anima, EKG, Cardiac enzymes\n    - Tx\n      - 急性＝NTG pump＋Aspirin（證實可減少死亡率）＋Clopidogrel＋LMWH（Heparin）\n      - 慢性＝β-blocker, Statin, ACEi（防止ventricular remodeling）, NSAID, Clipidogrel\n      - tPA（症狀<12hr, D2B<30min, 高齡>75不再是禁忌, 禁忌＝腦出血/高血壓/活動性內出血/疑似主動脈剝離）\n      - PCI（症狀>3hr偏好PCI, shock, D2B<90min）\n    - 併發症＝Ventricular premature contracture（VPC, 常規β-blocker, 維持K>4.5, 不要預防性給Lidocaine）, VT, VF"
-      },
-      {
-        "score": 12.62,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 5,
-        "specialty": "心臟內科",
-        "topic": "高血壓",
-        "subheading": "定義",
-        "content": "定義：>18y/o, 連兩次收縮壓>＝140mmHg 或 舒張壓>＝90mmHg"
-      },
-      {
-        "score": 12.5,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 493,
-        "specialty": "新陳代謝科",
-        "topic": "腎上腺dx（題目多）",
-        "subheading": "Anatomy",
-        "content": "Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona Gramrulosa （絲狀帶, Mineralocorticoid（礦醛）, 又名Aldosterone, 與血壓有關（絲壓 ⭢ 施壓）, 過多＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多＝Cushing, 過少＝Addison's （口訣：愛迪生的酷刑束皮帶））,Zona Reticulosa （網狀帶, Androgen, 口訣＝網路宅男）, 髓質（分泌Catecholamine, Epinephrine/NE（過多＝Pheochromocytoma））\n  - Cushing's（ACTH分泌過多 ⭢ cortisol過盛）：成因＝Cushing dx（80%, 腦垂Adenoma, hyperplasia）, Adrenal tumor（20%, <4cm 良性Adenoma, >6cm惡性Carcinoma, 故腎上腺tumor>4m一概切除）, Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH, 如小細胞肺癌（長低血鉀/代謝鹼中毒））\n    - SS＝Buffalo hump, Central obesity, 皮膚變薄易瘀青, 骨質疏鬆, DM, Hirsutism, Moon face；\n    - DDx＝Cortisol screen（24hr尿游離Cortisol⭡/夜間給1mg Dexamethasone 但Cortisol⭡）； Cortisol Diag（Dexamethasone 0.5mg q6h for 2 days仍無抑制可確診）； ACTH DDx（ACTH<10（Adrenal tumor（排腹部CT）, ACTH independent）, >10（腦垂Adenoma/ Ectopic adenoma, 排腦部MRI）, >200（Small cell lung ca., 排胸部CT））\n    - Tx＝手術切除腫瘤（腦垂/Adrenal tumor） ⭢ 類固醇~3年, 藥物治療（Ketoconazole抑制Cortisol合成, for 其他難手術者）\n  - Adrenal insufficiency（腎上腺功能不全）：\n    - Primary （原發性, Addison's disease）： 1st, 腎本身被破壞（自體免疫攻擊/感染 （幼兒綠膿, 腦膜炎求菌血症）/出血 （成人凝血功能異常）/藥物 （Ketoconazole, Rifampin）/遺傳性 （21-hydroxylase缺乏））\n      - Primary特異SS＝高血鉀, Hyperpigmentation （ACTH過多刺激Melanocyte stimulating hormone）\n    - Secondary（次發性）： 腦垂體無法製造（外部壓迫/Glucocorticoid長期使用）\n    - 共同SS＝疲倦, 體重減輕, 食慾不振, 低血壓, 低血糖, 低血鈉\n    - 診斷＝screen：注射250ug Cosyntropin ⭢ Cortisol仍無法上升, DDx： ACTH stimulation test（primary無反應, secondary有反應）\n    - Tx＝cortisone\n      - 用長效藥物（Dexamenthasone, 可過BBB）可減少生理影響, 另外越長效Glucocorticoid越強, Mineralocorticoid作用越弱）\n      - 副作用：短期脈衝<長期少量投藥； ∴急性狼瘡用脈衝\n    - 特殊狀況＝Adrenal crisis（急性腎上腺危象）： 成因＝感染/手術/外傷/停藥 導致急性Adrenal失能； SS＝休克, 發燒, 嗜睡； Tx＝IV fluids＋IV hydrocortisone； Critical illness related Adrenal insufficiency（Relative AI）： 重症病人腎上腺需求上升6~10x, 術後相對不足, SS＝休克, Tx＝IV hydrocortisone\n  - Pheochromocytoma（＝會分泌Catecholamine的交感神經, 代謝物＝Metanephrine）\n    \\*cf. Paraganglioma（＝分泌Catecholamine的胸腹部交感神經）\n    - Rule of 10： 腎上外10%, 雙側侵犯10%, 家族性10%, 惡性10%）\n    - SS： 5P＝ { Pressure（高血壓）, Pain, Palpitation, Perspiration（多汗）, Pallor（血管收縮蒼白） }\n    - 診斷： 24hr尿Metanephrine⭡（也可Vanillymandelate（VMA）/Catecholamine）, CT/MRI定位, MIBG scan（if 懷疑長在腎上腺外）\n    - Tx： a-blocker/β-blocker控血壓>手術（完整切除為目標）\n  - Adrenal incidentaloma（偶發腎上腺腫瘤, 腎上腺FNA主要用來評估轉移，良惡性區分不佳）： CT/MRI偶發腎上腺腫瘤, 排除Pheochromocytoma且有惡腫hx ⭢ 懷疑轉移（CT guide FNA）；\n    - 功能性腫瘤/ 無功能>6cm/ 惡性特徵（不規則邊界, 密度>10 HU, 增強後washout<50%）建議切除"
+        "content": "分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心肌酵素正常）, NSTEMI, STEMI）"
       }
     ]
   },
@@ -3178,36 +2477,26 @@
       "D": "在聯絡到病人親屬前不得進行手術"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「低血氧」。可用筆記重點判斷：低血氧： Ddx＝Hypocarpania（換氣不足（A-a gradient正常）, Dead space（e.g Emphysema肺氣腫, Pulmonary emboli, pulmonary fibrosis, ∆ A-a⭡））, Hypoxia（高海拔（步態不穩/意識不清 > 腦水腫, Tx＝立即下山/給純氧/保溫） ∆ A-a正常））, VQ mismatch（∈可校正, e.g： COPD, Asthma, Pulmon",
+    "reference_explanation": "答案為 C。題幹關鍵字最接近「低血氧」。可用筆記重點判斷：低血氧： Ddx＝Hypoventilation（換氣不足（A-a gradient正常）, Dead space（e.g Emphysema肺氣腫, Pulmonary emboli, pulmonary fibrosis, ∆ A-a⭡））, Hypoxia（高海拔（步態不穩/意識不清 > 腦水腫, Tx＝立即下山/給純氧/保溫） ∆ A-a正常））, VQ mismatch（∈可校正, e.g： COPD, Asthma, Pul",
     "classified_specialty": "胸腔內科",
     "classified_topic": "泛論",
     "matched_note_subheading": "低血氧",
     "matched_note_heading_path": "# 胸腔內科 > ## 泛論 > - 低血氧",
-    "matched_note_excerpt": "低血氧： Ddx＝Hypocarpania（換氣不足（A-a gradient正常）, Dead space（e.g Emphysema肺氣腫, Pulmonary emboli, pulmonary fibrosis, ∆ A-a⭡））, Hypoxia（高海拔（步態不穩/意識不清 > 腦水腫, Tx＝立即下山/給純氧/保溫） ∆ A-a正常））, VQ mismatch（∈可校正, e.g： COPD, Asthma, Pulmonary edema, ∆ A-a⭡）, Shunt（∈不可校正, e.g： 肺炎, ARDS, 肺不張, ∆ A-a⭡）\n\n  - 血氧含量公式＝Hbg x SaO2 x 1.3＋PaO2 x 0.003",
+    "matched_note_excerpt": "低血氧： Ddx＝Hypoventilation（換氣不足（A-a gradient正常）, Dead space（e.g Emphysema肺氣腫, Pulmonary emboli, pulmonary fibrosis, ∆ A-a⭡））, Hypoxia（高海拔（步態不穩/意識不清 > 腦水腫, Tx＝立即下山/給純氧/保溫） ∆ A-a正常））, VQ mismatch（∈可校正, e.g： COPD, Asthma, Pulmonary edema, ∆ A-a⭡）, Shunt（∈不可校正, e.g： 肺炎, ARDS, 肺不張, ∆ A-a⭡）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 186,
     "matched_note_scope": "primary_note",
     "searched_primary_note": "01_notes/醫學三/note_3.md",
     "candidate_matches": [
       {
-        "score": 9.25,
+        "score": "refreshed",
         "exam_subject": "醫學三",
         "source_note": "01_notes/醫學三/note_3.md",
         "line": 186,
         "specialty": "胸腔內科",
         "topic": "泛論",
         "subheading": "低血氧",
-        "content": "低血氧： Ddx＝Hypocarpania（換氣不足（A-a gradient正常）, Dead space（e.g Emphysema肺氣腫, Pulmonary emboli, pulmonary fibrosis, ∆ A-a⭡））, Hypoxia（高海拔（步態不穩/意識不清 > 腦水腫, Tx＝立即下山/給純氧/保溫） ∆ A-a正常））, VQ mismatch（∈可校正, e.g： COPD, Asthma, Pulmonary edema, ∆ A-a⭡）, Shunt（∈不可校正, e.g： 肺炎, ARDS, 肺不張, ∆ A-a⭡）\n\n  - 血氧含量公式＝Hbg x SaO2 x 1.3＋PaO2 x 0.003"
-      },
-      {
-        "score": 8.0,
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 767,
-        "specialty": "風濕免疫科",
-        "topic": "SLE",
-        "subheading": "Tx",
-        "content": "Tx：無器官/生命危險＝保守治療（NSAIDs, 防曬, Hydroxychloroquine（抗血栓, 預防皮膚病變惡化））； 器官/生命危險＝類固醇（Induction thx（High dose steroid＋免疫抑制劑（Cyclophosphamide, MMF）, Maintenance thx（停Cyclophosphamide（烷化DNA, SE＝骨髓抑制, 出血膀胱炎, 月經早停）, 改MMF/Azathioprine（輕度） > Cyclosporine（會高尿酸） > Rituximab（重度） for 6 mths）, 持續f/u Anti-dsDNA, C3/C4））"
+        "content": "低血氧： Ddx＝Hypoventilation（換氣不足（A-a gradient正常）, Dead space（e.g Emphysema肺氣腫, Pulmonary emboli, pulmonary fibrosis, ∆ A-a⭡））, Hypoxia（高海拔（步態不穩/意識不清 > 腦水腫, Tx＝立即下山/給純氧/保溫） ∆ A-a正常））, VQ mismatch（∈可校正, e.g： COPD, Asthma, Pulmonary edema, ∆ A-a⭡）, Shunt（∈不可校正, e.g： 肺炎, ARDS, 肺不張, ∆ A-a⭡）"
       }
     ]
   },
