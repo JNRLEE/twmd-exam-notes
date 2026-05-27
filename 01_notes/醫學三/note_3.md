@@ -233,12 +233,12 @@
 - 黴菌感染：
 
 
-  | Fungus             | 特徵                                                                                                                      |
-  | ------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-  | Aspergillosis      | A.fumigatus（Hyphae/ KOH（＋））；septate hyphae acute angle；血管侵犯⭢Halo sign；舊TB/空洞內fungus ball（aspergilloma） |
-  | Histoplasmosis     | Ohio/Mississippi、鳥/蝙蝠糞；巨噬細胞內酵母；肺/縱膈鈣化肉芽腫                                                            |
-  | Coccidioidomycosis | Arizona/California沙漠；spherule with endospores；肺炎、空洞、erythema nodosum                                            |
-  | Cryptococcosis     | C.neoformans；鳥糞/HIV；厚莢膜酵母、India ink/CrAg（＋）；肺結節或腦膜炎                                                  |
+  | Fungus             | 特徵                                                                                                        |
+  | ------------------ | ----------------------------------------------------------------------------------------------------------- |
+  | Aspergillosis      | A.fumigatus（Hyphae/ KOH（＋））；銳角分頁菌絲；血管侵犯⭢Halo sign；舊TB/空洞內fungus ball（aspergilloma） |
+  | Histoplasmosis     | Ohio/Mississippi、鳥/蝙蝠糞；巨噬細胞內酵母；肺/縱膈鈣化肉芽腫                                              |
+  | Coccidioidomycosis | Arizona/California沙漠；spherule with endospores；肺炎、空洞、erythema nodosum                              |
+  | Cryptococcosis     | C.neoformans；鳥糞/HIV；厚莢膜酵母、India ink/CrAg（＋）；肺結節或腦膜炎                                    |
 
 ## Tuberculosis（TB）（考題2）
 
@@ -268,7 +268,7 @@
 - 病程：滲出期（for 1 wks, edema（充滿exudate） ⭢ Hyaline membrane生長） ⭢ 增生期（fibrosis生長）
 - 病理：肺泡上皮細胞受損 ⭢ 肺泡毛細血管受損 ⭢ 肺水腫 ⭢ 透明膜形成 ⭢ 纖維化
 - Ddx： ARDS（四肢溫暖, BNP<100, PAWP<18mmHg）, Cardiogenic pulmonary edema（四肢冰冷, ∵心衰, PAWP>18mmHg）
-- 治療（ARDS可容許高二氧化碳血症, pH>7.2以上即可）：低潮氣量通氣（6-8 ml/kg）, 低氣到高原壓（<30cmHg）, 可降低死亡, PEEP（呼吸末期正呀, 避免塌陷）, 類固醇
+- 治療（肺泡脆弱不要撐太大）：容許高二氧化碳血症（pH>7.2以上即可）, 低潮氣量通氣（6-8 ml/kg）, 低氣道高原壓（<30cmHg）, 可降低死亡, PEEP（呼吸末期正呀, 避免塌陷）, 類固醇
 - 預後：主要與年齡（>75 y/o死亡率60%）, 成因（Sepsis/ Organ failure死亡率>80%）, 肺功能恢復度有關
 
 ## 肺血管栓塞（考題2）
@@ -282,10 +282,10 @@
 ## 肋膜疾病（考題9）
 
 - 肋膜積水（Light's criteria）
-  - Exudate（（PF/ serum）蛋白質>0.5, LDH>0.6, LDH>2/3上限）： 肺炎, 肺栓塞, Malignant（if Glucoase<60∩Cytology證據）, 結核（interferon-γ（＋）, Adenosine Deaminase（ADA）<40 r/o, >70 r/i）
+  - Exudate（（PF/ serum）蛋白質>0.5, LDH>0.6, LDH>2/3上限）： 肺炎, 肺栓塞, Malignant（if Glucose<60∩Cytology證據）, 結核（interferon-γ（＋）, Adenosine Deaminase（ADA）<40 r/o, >70 r/i）
   - Transudate（蛋白質<0.5, LDH<0.6, LDH<2/3上限）： 心衰竭, 肝硬化, 腎病症候群
   - 其他積液問題：Pseudoexudate（心衰竭用利尿劑治療後的積液）, Chylothorax（乳糜胸, 乳糜狀積液, TG>110, 單次引流減緩症狀,但長期會養分流失）, Complicated parapneumonic effusion（需引流, criteria＝肋膜液大量fluid, pus, pH<7.2, glucose<60, positive culture）, Empyema（膿胸, 積液為膿狀, pH<7.2, Glucose<40, LDH>1000, 速速引流）
-- 氣胸（分級無定論, 處置by severity＝抽吸 > pig tail > 肋膜黏連術（Pleural ablation））：好發於年輕瘦高男性, 症狀＝突發胸痛＋呼吸困難, 診斷＝胸部X光（肺邊緣有一條清晰的線, 線外無肺紋理）, 復發率＝50%
+- 氣胸（分級無定論, 處置by severity＝抽吸 ⭢ pig tail ⭢ 肋膜黏連術（Pleural ablation））：好發於年輕瘦高男性, 症狀＝突發胸痛＋呼吸困難, 診斷＝胸部X光（肺邊緣有一條清晰的線, 線外無肺紋理）, 復發率＝50%
 
 ## OSA（考題3）
 
@@ -294,9 +294,10 @@
 ## Malignant（記NSCLC特徵, 剩下猜SCLC）（考題6）
 
 - 分類；
-  - 小細胞（SCLC, 抽菸強相關, 轉移快, 化療（Cisplatin＋Etoposide）放療敏感, CT＝bulky lymphadenopathy；Tx＝局部單側積極（CTx＋RTx）, Extensive純CTx）
+  - 小細胞（SCLC, 抽菸強相關, 轉移快, 化療（Cisplatin＋Etoposide）放療敏感, CT（集中central/hilar mass）＝bulky/hilar lymphadenopathy；Tx＝局部單側積極（CTx＋RTx）, Extensive純CTx）
   - 非小細胞（NSCLC, 轉移慢, 化療放療不敏感, Tx＝手術, EGFR TKI（for Stage IIIB以上EGFR（＋）, e.g. Gefitinib, Erlotinib, Afatinib） ）
     - 腺癌（台灣最常見, 女性多, 對稱性骨關節炎, EGFR突變（標靶好目標, 常見亞洲女, 抽菸者多ras）, CT＝peripheral病灶）
+      - 台灣補助：EGFR、ALK, ROS1、PD-L1
     - 鱗狀細胞癌（SCC, 抽菸男性多, 高血鈣, 肺尖生長（Pancoast tumor, 會肩頸酸痛, Horner's syndome（瞳孔縮小, 眼瞼下垂, 無汗））, CT＝central Cavitation空洞化）
 - 診斷＝症狀/CXR>CT（首選）>組織切片
   - 肺結節影像特徵：
@@ -309,7 +310,7 @@
 ## 吞嚥困難（考題2）
 
 - 成因： Diffuse esophageal spasm（間歇性）, Achalasia（食道弛緩不能症, ∵下括約肌無法放鬆, 伴呼吸道症狀）, Scleroderma（食道蠕動減弱, 伴有heartburn症狀）, Hiatus hernia（sliding＝整個上移一部分, paraesophageal（dysphagia>GERD）＝胃部旁邊有一個囊袋上一到胸腔）
-- Achalasia：男＝女； 診斷＝CXR主動脈後突起內有air-fluid level, Barrium study 有Bird beak； 治療＝內視鏡肉毒, CCB, Nitrate, pneumatic dilation（氣囊擴張）, Heller myotomy（外科手術切開括約肌）
+- Achalasia：男＝女, 癌化=SCC； 診斷＝CXR主動脈後突起內有air-fluid level, Barrium study 有Bird beak； 治療＝內視鏡肉毒, CCB, Nitrate, pneumatic dilation（氣囊擴張）, Heller myotomy（外科手術切開括約肌）
 
 ## 腹痛（考題1）
 
@@ -322,29 +323,30 @@
 - 感染性腹瀉
   - 會泄痢的：ETEC（旅行者下痢）, E.coli O157/EHEC（血便, HUS, 腎衰竭）, Shigella, Salmonella（生雞蛋）, V.parahaemolyticus, C.difficile（住院越多天/服用PPI/Antibiotic感染機率越高, PCR比驗Toxin準）
   - 其他高風險：Norwalk virus（冬季, cruise ship）, Rotavirus（兒童, 冬季）, Giardia lamblia（生水, 野外露營）, S. aureus（蛋黃醬, 奶油）
-  - Tx： 補水電解質，沒發燒/ 血便可以給止瀉（loperamide）/ 嚴重血便未知成因先給ciprofloxacin，確定是C. difficile/Giardia/阿米巴 給Metronidazole
+  - Tx： 補水電解質，沒發燒/ 血便可以給止瀉（loperamide＝μ-opioid receptor agonist）/ 嚴重血便未知成因先給ciprofloxacin，確定是C. difficile/Giardia/阿米巴 給Metronidazole
 
 ## 腸胃道出血 （top goal＝穩定vital sign）（考題4）
 
 - 上消化道出血（UGIB）： DDx＝NG洗出血； Tx：胃鏡（診斷＋止血）, if varice ER就先給Octreotide（減少splanchnic flow, 降低門脈壓）/ if ulcer給PPI
-- 下消化道出血（LGIB）： 成因＝Diverticulosis（最常見, 結腸憩室出血（LLQ, cf. 闌尾炎）, Exam＝CT, Tx＝NPO, anti, angio emboli）, Hemorrhoids（痔瘡）, Colorectal cancer, Angiodysplasia（血管異生）；
+- 下消化道出血（LGIB）： 成因＝Diverticulosis（最常見, 結腸憩室出血（LLQ, cf. 闌尾炎）, Exam＝CT, Tx＝NPO, anti, angio emboli）, Hemorrhoids（痔瘡）, Colorectal cancer, Angiodysplasia血管異生；
   - DDx＝Colonoscopy（首選）, Radio scan（出血量解析度>0.1ml/min）, Angiography（出血量解析度>1ml/min）；
 
 ## GERD（考題5）
 
 - 成因： LES pressure低/ transient relaxation, Hiatal hernia, 副交感神經功能障礙, 胃排空延遲
-  - 藥物： Gastrin, Cholinergic增加壓力； CCB, Fat, Chocolate, Ethanol減壓
+  - 藥物： Gastrin, Cholinergic增加壓力（減輕GERD）； CCB, Fat, Chocolate, Ethanol減壓
 - DDx：病史>胃鏡>24hr pH monitoring（for胃鏡正常但症狀持續）
 - Tx： Lifestyle modification（減重, 避免刺激性食物, 抬高床頭）, Pharmacotherapy（PPI為首選, H2 blocker次之）, Surgery
 - 併發症： Esophagitis（食道炎）, Esophageal stricture（食道狹窄）, Barrett's esophagus（食道黏膜變異, 可能進展為食道癌adenocarcinoma）
 
 ## Peptic ulcer disease（PUD）（考題2）
 
-- 胃生理：G cell 分泌Gastrin刺激Parietal cell分泌胃酸（Atropine抑制M3, Cimetidine抑制H2接收器, Omeprazole抑制H＋/K＋ATPase）
+- 胃生理：G cell 分泌Gastrin刺激Parietal cell分泌胃酸
+  - 抑制＝Atropine（抑制M3）, Cimetidine（抑制H2接收器）, Omeprazole（抑制H＋/K＋ATPase）
 - Ulcer成因： H.pylori感染（最常見, 會造成Multifocal atrophic gastritis（MAG）, Diffuse antral predominant gastritis, MALToma）
 - H.pylori：G（-）curved rod, urease（＋）；相關＝PUD, chronic gastritis, MALT lymphoma, gastric adenocarcinoma
-- Exam： 胃鏡取樣（侵入性, rapid urease test）, urea breath test（非侵入性, 服用標記碳的尿素，H. pylori分解尿素釋放標記碳，呼氣中檢測）
-- Tx： PPI＋Clarithromycin＋Amoxicillin（或Metronidazole if penicillin allergy） 至少10-14天
+  - Exam： 胃鏡取樣（侵入性, rapid urease test）, urea breath test（非侵入性, 服用標記碳的尿素，H. pylori分解尿素釋放標記碳，呼氣中檢測）
+  - Tx： PPI＋Clarithromycin＋Amoxicillin（或Metronidazole if penicillin allergy） 至少10-14天
 
 ## 切胃後遺症（考題3）
 
@@ -356,11 +358,13 @@
 
 ## 腸道疾病（考題13）
 
-- Inflammatory bowel disease（IBD, 猶太人多, 台灣少）：分類={ Crohn's disease（全層, 位置跳躍, rectal sparing, 治不好, Tx＝Steroid）, Ulcerative colitis（抽菸, 切闌尾為保護因子, 位置連續但只侵犯粘膜, 易併發硬化膽管炎, pyoderma gangrenosum（壞疽性膿皮））}；DDx=calprotectin（糞便中白血球蛋白, IBD高敏感檢查）
+- Inflammatory bowel disease（IBD, 猶太人多, 台灣少）：DDx=calprotectin（糞便中白血球蛋白, IBD高敏感檢查）
+  - Crohn's disease：全層, 位置跳躍, rectal sparing, 治不好, 抽菸, 西式飲食惡化；Tx＝Steroid
+  - Ulcerative colitis：抽菸, 切闌尾為保護因子, 位置連續但只侵犯粘膜, 易併發硬化膽管炎, pyoderma gangrenosum（壞疽性膿皮）
 - Irritable bowel syndrome（IBS, 低纖飲食, 排羊大便）： 每週腹痛 for 3months，無器質性病變，診斷為排除性；分類＝{IBS-C 便秘型, IBS-D 腹瀉型, IBS-M 混合型}；RF＝低纖飲食、壓力、腸胃感染後；Tx＝飲食調整（Low FODMAP diet）、纖維補充；藥物依型態選擇：IBS-C 可用 linaclotide／緩瀉劑，IBS-D 可用 loperamide，腹痛痙攣可用 antispasmodics 如 otilonium bromide（catilon）, hyoscine butylbromide
 - Colonic volvulus（大腸扭轉）：RF＝未固定後腹腔＋long mesentery（sigmoid/cecum常見, transverse少見）, 老人/慢性便秘/神經精神病；Xray＝sigmoid coffee bean sign；Tx＝sigmoid先內視鏡減壓後切除, cecal多手術
 - Intestinal obstruction： Mechanical（KUB＝小腸擴張, SS＝Colicky pain絞痛, Tx＝NPO/NG減壓）
-- Paralytic ileus（＝Adynamic ileus）SS＝腹脹為主；DDx=KUB（大小腸都擴張）；Tx＝支持療法, 矯正鉀鎂離子）
+- Paralytic ileus（＝Adynamic ileus）SS＝腹脹為主；DDx=KUB（大小腸都擴張）；Tx＝支持療法, 矯正鉀鎂離子
 - Cancer Related： Familial adenomatous polyposis（APC基因突變, 100%會進展為癌症, Tx＝預防性切除結腸）, Peutz-Jeghers syndrome（hamartomatous polyps, 黏膜黑色素沉著, STK11基因突變, 50%會變 GI cancer）, Lynch syndrome（AD, DNA mismatch repair gene突變, 右側結腸癌多, Tx＝定期結腸鏡檢查）
 
 ## 肝功能異常（考題7）
@@ -385,35 +389,40 @@
 
 ## 腹水（考題5）
 
-- SAAG score： Serum/Ascitic Albumin >1.1： portal hypertension（肝硬化, 心衰竭, 肝靜脈阻塞）； <1.1： 發炎/ 癌症（腹膜癌, 結核性腹膜炎, 胰臟炎）
-- 細菌性腹膜炎（腹水中PMN>250）：Spontaneous （SBP）＝ { Ecoli, 克雷, S.pneumoniae, 治療＝第三代頭孢菌素（cefotaxime, 不用cover厭氧菌） } ； Secondary＝ { 腸胃破裂引起（要cover厭氧菌）, 治療＝Ampicillin＋Ciprofloxacin＋Metronidazole }
+- SAAG score（Serum/Ascitic Albumin）：
+  - > 1.1： portal hypertension（肝硬化, 心衰竭, 肝靜脈阻塞
+    >
+  - <1.1： 發炎/ 癌症（腹膜癌, 結核性腹膜炎, 胰臟炎）
+- 細菌性腹膜炎（腹水中PMN>250）：Spontaneous （SBP）＝ { Ecoli, KB, S.pneumoniae, 治療＝cefotaxime（3rd, 不用cover厭氧菌） } ； Secondary＝ { 腸胃破裂引起（要cover厭氧菌）, 治療＝Ampicillin＋Ciprofloxacin＋Metronidazole }
 
 ## 肝炎（題目多）（考題19）
 
-- 病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎
+- 病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關；Tx underlyging dx）, 免疫性肝炎
 
-* 補：肝組織3 zones： Zone 1（肝門區, 再生強）, Zone 2（中間區）, Zone 3（中心靜脈區, 易死不易再生, e.g. 酒精, 藥物, 急性肝炎）
-* 補：猛爆型肝炎Acute liver failure＝INR ≥1.5, hepatic encephalopathy, 病程小於 26 週
-  - HBV病毒（pattern＝免疫容忍（幼兒, DNA/HBeAg極高） ⭢ 免疫廓清（青年, DNA/HBeAg下降） ⭢ 不活躍期（中年, HBeAg陰性） ⭢ 再活化（急性發作/癌化風險））
+  - 補：肝組織3 zones： Zone 1（肝門區, 再生強）, Zone 2（中間區）, Zone 3（中心靜脈區, 易死不易再生, e.g. 酒精, 藥物, 急性肝炎）
+  - 補：猛爆型肝炎Acute liver failure＝INR ≥1.5, hepatic encephalopathy, 病程小於 26 週
+- HBV病毒（pattern＝免疫容忍（幼兒, DNA/HBeAg極高） ⭢ 免疫廓清（青年, DNA/HBeAg下降） ⭢ 不活躍期（中年, HBeAg陰性） ⭢ 再活化（急性發作/癌化風險））
 
-    - 血清學：Acute HBV＝HBsAg, HBeAg, IgM HBcAb； Chronic HBV＝HBsAg, HBeAg, IgG/M HBcAb； Vaccinated＝HBsAb； Past infection＝HBsAb, HBcAb, HBeAb
-    - 腎損傷：MGN, MPGN
-    - HBV治療時機：慢性帶原（HBsAg>6個月）, 肝硬化（切片分數>5, echo/CT有食道靜脈曲張或脾腫大）
-    - Tx：抗病毒藥物（for HBV DNA濃度高, Lamivudine（老藥，YMDD易突變）, Entecavir（一線）, Adefovir（二線））,interferon（不可用於肝硬化/移植/免疫低下）
-  - HCV（Mainly血傳）：指標只有HCV-Ab, 陽性代表曾感染/暴露, 現症感染需HCV RNA, 腎損傷＝MGN, MPGN；Tx＝Direct acting anti-viral agent（DAA）, Ribavirin（老藥, 會RBC/Renal insufficiency副作用）, RNA監測（抽血RVR（-）>4 wks＝成功, cEVR（-）<12 wks＝失敗）
-  - 免疫性肝炎（T reg⭣）：
+  - 血清學：Acute HBV＝HBsAg, HBeAg, IgM HBcAb； Chronic HBV＝HBsAg, HBeAg, IgG/M HBcAb； Vaccinated＝HBsAb； Past infection＝HBsAb, HBcAb, HBeAb
+  - 腎損傷：MGN, MPGN
+  - HBV治療時機：慢性帶原（HBsAg>6個月）, 肝硬化（切片分數>5, echo/CT有食道靜脈曲張或脾腫大）
+  - Tx：抗病毒藥物（for HBV DNA濃度高, Lamivudine（老藥，YMDD易突變）, Entecavir（一線）, Adefovir（二線））,interferon（不可用於肝硬化/移植/免疫低下）
+- HCV（Mainly血傳）：指標只有HCV-Ab, 陽性代表曾感染/暴露, 現症感染需HCV RNA, 腎損傷＝MGN, MPGN；Tx＝Direct acting anti-viral agent（DAA）, Ribavirin（老藥, 會RBC/Renal insufficiency副作用）；治療追蹤＝HCV RNA, DAA 成功標準＝SVR12（治療結束後12週RNA測不到）；舊指標：RVR＝第4週RNA測不到、EVR＝第12週RNA下降/測不到
+- 免疫性肝炎（T reg⭣）：
 
-    - 自體免疫性肝炎（AIH, Tx＝predinisolone）＝肝炎＋球蛋白⭡＋自體抗體；type 1（抗體＝ASMA, ANA（＋）；多女, 合併甲狀腺/RA）, type 2（抗體＝Anti-LKM1（＋）；
-    - 原發性膽管炎（PBC）：中年女, AMA（＋）, 眼瞼Xanthelasma, Tx＝Ursodeoxycholic acid（UDCA）；
-    - 原發性硬化性膽管炎（PSC）：中年男, IBD合併症, Tx＝只能肝移植
-  - 代謝性肝炎：Wilson's disease（體隱, 血銅/Ceruloplasmin⭣,尿銅⭡, 肝銅沉積, Kayser-Fleischer ring, Tx＝銅螯合劑（Penicillamine）, 移植）, Hemochromatosis（體隱, 中年男, Ferritin/transferrin saturation ⭡, 肝鐵沉積, HFE基因突變, Tx＝放血療法）, α-1 antitrypsin deficiency（肝蛋白沉積）
+  - 自體免疫性肝炎（AIH, Tx＝predinisolone）＝肝炎＋球蛋白⭡＋自體抗體；type 1（抗體＝ASMA, ANA（＋）；多女, 合併甲狀腺/RA）, type 2（抗體＝Anti-LKM1（＋））
+  - 原發性膽管炎（PBC）：中年女, AMA（＋）, 眼瞼黃斑瘤Xanthelasma, Tx＝Ursodeoxycholic acid（UDCA）；
+  - 原發性硬化性膽管炎（PSC）：中年男, IBD合併症, Tx＝只能肝移植
+- 代謝性肝炎：Wilson's disease（體隱, 血銅/Ceruloplasmin⭣,尿銅⭡, 肝銅沉積, Kayser-Fleischer ring, Tx＝銅螯合劑（Penicillamine）, 移植）, Hemochromatosis（體隱, 中年男, Ferritin/transferrin saturation ⭡, 肝鐵沉積, HFE基因突變, Tx＝放血療法）, α-1 antitrypsin deficiency（肝蛋白沉積, 缺A1AT蛋白⭢肺損傷）
 
 ## 肝硬化（題目多）（考題12）
 
-- Child-Pugh score（預測生存率和手術風險）： 5-6分為A級（預後較好）, 7-9分為B級, 10-15分為C級（預後較差）
-- 併發症＝encephalopathy, 食道vaices（內視鏡ligate, somastatin止血, 交感神經阻斷劑預防再出血）, 胃varices（Fundus最長出血）, hepatorenal syndrome（機轉不明, 尿濃, 尿Na<10）
-- encephalopathy（NH3無法代謝, 但血中NH3濃度與嚴重度無關）
-  - Grade of encephalopathy： Grade 1（Prodrome個性改變, 焦躁）, Grade 2（Impending（嗜睡）, Asterixis（Flapping tremor）, Grade 3（昏睡但可喚醒）, Grade 4（coma）
+- Child-Pugh score（預測生存率和手術風險）：指標＝bilirubin, albumin, PT/INR, ascites, encephalopathy（不含ALT/NH3）；5-6分為A級（預後較好）, 7-9分為B級, 10-15分為C級（預後較差）；MELD-Na（bilirubin/INR/Cr/Na）用於肝移植優先順序
+- 失代償（decompensation）＝腹水, 靜脈曲張出血, encephalopathy, 黃疸；新診斷肝硬化約5成已有胃食道靜脈曲張, 不一定等腹水後才出現
+- 靜脈曲張出血：急性先ABC/輸液/必要時插管＋抗生素（ceftriaxone）＋somatostatin/octreotide＋內視鏡band ligation；非選擇性β-blocker（propranolol/nadolol/carvedilol）預防首次/再出血；胃varices（Fundus最常出血）, 難止血可TIPS
+- Hepatorenal syndrome（HRS, 功能性腎衰竭）：晚期肝硬化血管擴張⭢腎血管收縮, 尿濃, 尿Na<10, 腎臟本身無結構病灶；Tx＝albumin＋vasoconstrictor（terlipressin/norepinephrine或midodrine+octreotide）, 肝移植根治
+- Hepatic encephalopathy（NH3無法代謝, 但血中NH3濃度與嚴重度無關）：誘因＝GI bleed, 感染/SBP, 便秘, 低血鉀, 鎮靜藥, 脫水；Tx＝lactulose（目標軟便2-3次/日）± rifaximin
+  - Grade of encephalopathy： Grade 1（Prodrome個性改變, 焦躁）, Grade 2（Impending（嗜睡）, Asterixis（Flapping tremor））, Grade 3（昏睡但可喚醒）, Grade 4（coma）
 
 ## Liver abscess（考題0）
 
@@ -426,7 +435,7 @@
   - 治愈＝肝切除/肝移植（預後好指標Milan Criteria：無血管侵犯/ 單顆≤5 cm, 3顆以內<3cm）
   - 延壽＝栓塞, 標靶治療（Sorafenib可延長2months）, 化放療
 - Cholangiocarcinoma（CCA, 膽管癌）： 風險因子＝Primary Sclerosing Cholangitis, 肝石症, CA19-9⭡, 老男人, 中華肝吸蟲； CT/MRI＝膽管擴張, delayed enhencement； 治療＝手術
-- （補）Budd-Chiari syndrome（"肝靜脈"阻塞, 中年女）： 成因＝myeloproliferative dx（50%）, 腫瘤（10%）； 症狀＝腹痛, 腹水, 黃疸； 診斷＝CT/MRI（肝靜脈阻塞）, 肝活檢（中心靜脈區肝細胞壞死）； 治療＝抗凝血劑, 肝移植
+- Budd-Chiari syndrome（"肝靜脈"阻塞, 中年女）： 成因＝myeloproliferative dx（50%）, 腫瘤（10%）, JAK2； 症狀＝腹痛, 腹水, 肝腫大； 診斷＝CT/MRI（肝靜脈阻塞）, 肝活檢（中心靜脈區肝細胞壞死）； 治療＝抗凝血劑, 肝移植
 - （補）CT：Hemangioma＝Centripetal enhencement, HCC＝Arterial enhencement, CCA＝delayed enhencement
 
 ## 膽囊疾病（考題10）
@@ -445,23 +454,23 @@
   - Tx＝Lactate Ringer（Gold）, oral feeding（3日內開始, 不要NPO太久, 死亡/感染率都增加）, Foy（胰酶抑制劑, 不能改善死亡率）, 止痛藥, Anti（Imipenem for 壞死性胰臟炎）
   - 預後＝Ranson's criteria（入院時（ASS是否乳白）＝ { Age>55, Sugar>200, AST>250, LDH>350, WBC>1W6 } ； 入院後48hr（快上BBS告訴CHO）＝ { Base deficit>4, BUN上升>5, Fluid sequestration>6L, Ca<8, Hematocrit下降>10%, PaO2<60 } ； 11C3代表重症）
   - 併發症（胰臟炎四大腹水；依急慢性/有無necrosis）：APFC（Acute peripancreatic fluid collection, <4週, 間質水腫型, 無wall, pure fluid）, ANC（Acute necrotic collection, <4週, 壞死型, 無wall, fluid+necrotic debris）,Pseudocyst（>4週, 有wall, pure fluid）,  WON（Walled-off necrosis, >4週, 壞死型, 有wall, fluid+necrotic debris）
-- Chronic pancreatitis：成因同急性, X-ray有鈣化點, SS＝Steatorrhea（脂漏症）, DM（但不會惡化DKA, ∵insulin, 升糖素都不足）, Weight loss, Cancer風險
-- Autoimmune pancreatitis（AIP, 慢性為主）：分類＝type 1（老人男, IgG4-related disease, serum IgG4⭡（與嚴重度無關）, 常合併膽道/唾液腺/腎臟/後腹腔病灶, steroid反應佳, 易復發）, type 2（較年輕, 非IgG4相關, 常合併IBD/UC, pathology＝GEL granulocytic epithelial lesion, 較少復發）
+- Chronic pancreatitis：成因同急性, X-ray有鈣化點, SS＝Steatorrhea（脂肪瀉）, DM（但不會惡化DKA, ∵insulin, 升糖素都不足）, Weight loss, Cancer風險
+- Autoimmune pancreatitis（AIP, 慢性為主）：分類＝type 1（老人男, IgG4-related disease, serum IgG4⭡（與嚴重度無關）, 常合併膽道/唾液腺/腎臟/後腹腔病灶, steroid反應佳, 易復發）, type 2（較年輕, 非IgG4相關, 常合併IBD/UC, pathology＝Granulocytic epithelial lesion（GEL）, 較少復發）
 - Pancreatic cancer： 抽菸且胖, 90%與慢性胰臟炎有關, 80% adenocarcinoma, Mainly K-ras mutant, Tx＝手術（放化鏢靶免疫輔助）
   - Periampullary四大癌＝pancreatic head, distal CBD, ampulla of Vater, duodenal cancer；Tx＝可切除多做Whipple；預後pancreatic head最差, ampullary/duodenal較好
   - pancreatic cancer 位置：head（阻塞性黃疸/Courvoisier, Whipple） vs body/tail（晚期才痛/體重減輕/轉移, 可切除做distal pancreatectomy）
-  - pNET/Insulinoma：多良性；小表淺可enucleation；body/tail大或深部/multiple做distal/subtotal pancreatectomy；不因尾部就固定切85%
+  - 胰臟神經內分泌腫瘤pNET/Insulinoma：多良性；小表淺可enucleation；Tx＝distal/subtotal pancreatectomy（for body/tail大或深部/multiple）；不因尾部就固定切85%
 
 # 新陳代謝科
 
-## Pituitary diseases（題目多）（考題8）
+## Pituitary diseases（考題8）
 
 - Anatomy：Sella turcica內, 鄰視叉, 頸動脈竇, CN346, 易Mass effect影響, 前葉受下視丘激素調控, 後葉為下視丘pituitary stalk延伸（ADH, Oxytocin（主要為收縮功能無分泌功能））
 - Panhypopituitarism（全低下）： 分primary（腦腫瘤, 手術）, secondary（外部壓迫）
 - Pituitary被壓迫： 外側GH, PRL（FSH, LH）易受影響
 - Pituitary壓別人（Mass effect）：紅色/顳側上方視野受損＝視交叉, 人格嗅覺改變＝額葉, Opthalmoplegia（眼肌麻痺）/Ptosis（眼瞼下垂）＝海綿竇
 - Exam＝MRI, Lab Data（Trophic（e.g TSH）/ Target（e.g T4） hormone全低）
-- Tx： 下游激素為主（pituitary激素難做）, 短期一概給Glucocorticoid, 不可以單給甲狀腺素（會Adrenal crisis）
+- Tx：下游激素為主（pituitary激素難做）；replacement順序＝先補glucocorticoid再補levothyroxine（甲狀腺素會增加cortisol需求/清除, 單給會誘發adrenal crisis）
 - Apoplexy（垂體出血性中風）： 常見產後（Sheehan's syndrome, estrogen刺激pituitary變大，產後相對血流不足）, 休克, HTN, DM患者, SS＝突發頭痛＋視野缺損＋眼肌麻痺, MRI診斷, 緊急給Glucocorticoid> 手術減壓 if needed
 - Hyperpituitary（Mainly by 腦垂Adenoma, 多無功能）：
   - Prolactinoma（最常見功能性, Prolactin>100 （30-100要懷疑藥物抑制dopamine與甲狀腺低下等成因）, SS＝galactorrhea（乳漏）, Amenorrhea, Tx＝Dopamine agonist（Bromocriptine, Cabergoline；∵Dopamine本身就是prolactin煞車） ⭢ 手術 ⭢ 放射）
