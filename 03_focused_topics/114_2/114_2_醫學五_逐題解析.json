@@ -11,7 +11,7 @@
       "D": "體 表面積"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -19,9 +19,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 4.95,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 1.47,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 208,
+        "specialty": "骨科",
+        "topic": "骨盆與髖部（考題6）"
+      },
+      {
+        "score": 1.18,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
+      },
+      {
+        "score": 1.01,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 104,
+        "specialty": "泌尿科",
+        "topic": "泌尿道功能工程（考題5）"
+      },
+      {
+        "score": 0.99,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 279,
+        "specialty": "骨科",
+        "topic": "小兒骨科（考題10）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（骨腫瘤（考題4）(4.9)、骨盆與髖部（考題6）(1.5)、上臂與前臂（考點多）（考題8）(1.2)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -35,7 +78,7 @@
       "D": "S erum pre-albumin＜40 mg/dL"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -43,9 +86,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 7.77,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 5.05,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 208,
+        "specialty": "骨科",
+        "topic": "骨盆與髖部（考題6）"
+      },
+      {
+        "score": 3.14,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      },
+      {
+        "score": 2.08,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 1.73,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 279,
+        "specialty": "骨科",
+        "topic": "小兒骨科（考題10）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(7.8)、骨盆與髖部（考題6）(5.1)、攝護腺（考題17）(3.1)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -59,28 +145,28 @@
       "D": "小 型肝細胞癌合併門脈分枝腫瘤血栓及末期肝病"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「併發症」。可用筆記重點判斷：併發症：CAPD peritonitis（Staphylococcus中的Coagulase（-））, 管道感染（S. aureus）, Encapsulating peritoneal sclerosis（嚴重腹膜纖維化/鈣化, 腹痛, 腸阻塞, Tx＝改血透/手術）, 血糖血脂異常, 低血鉀（腹膜液不含鉀離子）, 三級副甲亢（Ca⭡）",
-    "classified_specialty": "腎臟內科",
-    "classified_topic": "Renal Replacement Thx（透析）",
-    "matched_note_subheading": "併發症",
-    "matched_note_heading_path": "# 腎臟內科 > ## Renal Replacement Thx（透析） > - 併發症",
-    "matched_note_excerpt": "併發症：CAPD peritonitis（Staphylococcus中的Coagulase（-））, 管道感染（S. aureus）, Encapsulating peritoneal sclerosis（嚴重腹膜纖維化/鈣化, 腹痛, 腸阻塞, Tx＝改血透/手術）, 血糖血脂異常, 低血鉀（腹膜液不含鉀離子）, 三級副甲亢（Ca⭡）",
-    "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 643,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 643,
-        "specialty": "腎臟內科",
-        "topic": "Renal Replacement Thx（透析）",
-        "subheading": "併發症",
-        "content": "併發症：CAPD peritonitis（Staphylococcus中的Coagulase（-））, 管道感染（S. aureus）, Encapsulating peritoneal sclerosis（嚴重腹膜纖維化/鈣化, 腹痛, 腸阻塞, Tx＝改血透/手術）, 血糖血脂異常, 低血鉀（腹膜液不含鉀離子）, 三級副甲亢（Ca⭡）"
+        "score": 5.41,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(5.4)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -94,7 +180,7 @@
       "D": "毒 蛇血清的給與需及時，通常會依據病人的體重來計算應給與劑量"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -104,7 +190,9 @@
     "matched_note_line": null,
     "matched_note_scope": "unmatched",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [],
+    "match_reason": "重新審核後，題幹與選項在 01_notes 找不到足夠相近的整個 ## 段落。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -118,28 +206,60 @@
       "D": "P ulse steroid therapy可能出現高血糖、高血壓、睡眠困擾等症狀"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。題幹關鍵字最接近「其他免疫不全」。可用筆記重點判斷：其他免疫不全：hypogammaglobulinemia（成因＝ALL, MM, Nephrosis, Encapsulated bacteria, enterovirus）, RE系統功能障礙（脾切除> Pneumococci, Salmonella）",
-    "classified_specialty": "感染科",
-    "classified_topic": "AIDS",
-    "matched_note_subheading": "其他免疫不全",
-    "matched_note_heading_path": "# 感染科 > ## AIDS > - 其他免疫不全",
-    "matched_note_excerpt": "其他免疫不全：hypogammaglobulinemia（成因＝ALL, MM, Nephrosis, Encapsulated bacteria, enterovirus）, RE系統功能障礙（脾切除> Pneumococci, Salmonella）",
-    "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 767,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 B。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 767,
-        "specialty": "感染科",
-        "topic": "AIDS",
-        "subheading": "其他免疫不全",
-        "content": "其他免疫不全：hypogammaglobulinemia（成因＝ALL, MM, Nephrosis, Encapsulated bacteria, enterovirus）, RE系統功能障礙（脾切除> Pneumococci, Salmonella）"
+        "score": 4.45,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
+      },
+      {
+        "score": 3.07,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 104,
+        "specialty": "泌尿科",
+        "topic": "泌尿道功能工程（考題5）"
+      },
+      {
+        "score": 3.05,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      },
+      {
+        "score": 2.5,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 1.21,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（男性學（考題69）(4.4)、泌尿道功能工程（考題5）(3.1)、攝護腺（考題17）(3.1)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -153,28 +273,60 @@
       "D": "鋅 離子"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「腎臟移植」。可用筆記重點判斷：腎臟移植：",
-    "classified_specialty": "泌尿科",
-    "classified_topic": "腎臟疾病",
-    "matched_note_subheading": "腎臟移植",
-    "matched_note_heading_path": "# 泌尿科 > ## 腎臟疾病 > - 腎臟移植",
-    "matched_note_excerpt": "腎臟移植：",
-    "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 24,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 8.77,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 24,
+        "line": 3,
         "specialty": "泌尿科",
-        "topic": "腎臟疾病",
-        "subheading": "腎臟移植",
-        "content": "腎臟移植："
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 5.47,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      },
+      {
+        "score": 4.07,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 2.53,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      },
+      {
+        "score": 2.39,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(8.8)、攝護腺（考題17）(5.5)、腎上腺（考題0）(4.1)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -188,28 +340,60 @@
       "D": "嚴 重燒燙傷＞外科手術＞飢餓"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「半月板（Type I collagen, 內大C外小O）」。可用筆記重點判斷：半月板（Type I collagen, 內大C外小O）：好發中年男性, 扭轉, 蹲踞受傷, Commonly內半月板, verticle tear； SS：腫脹, locking感； DDx＝ McMurray test（膝髖收縮再伸直）, Tx＝部分切除, 修補, transplant, 避免全切除",
-    "classified_specialty": "骨科",
-    "classified_topic": "膝關節",
-    "matched_note_subheading": "半月板（Type I collagen, 內大C外小O）",
-    "matched_note_heading_path": "# 骨科 > ## 膝關節 > - 半月板（Type I collagen, 內大C外小O）",
-    "matched_note_excerpt": "半月板（Type I collagen, 內大C外小O）：好發中年男性, 扭轉, 蹲踞受傷, Commonly內半月板, verticle tear； SS：腫脹, locking感； DDx＝ McMurray test（膝髖收縮再伸直）, Tx＝部分切除, 修補, transplant, 避免全切除",
-    "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 196,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 6.5,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 196,
+        "line": 208,
         "specialty": "骨科",
-        "topic": "膝關節",
-        "subheading": "半月板（Type I collagen, 內大C外小O）",
-        "content": "半月板（Type I collagen, 內大C外小O）：好發中年男性, 扭轉, 蹲踞受傷, Commonly內半月板, verticle tear； SS：腫脹, locking感； DDx＝ McMurray test（膝髖收縮再伸直）, Tx＝部分切除, 修補, transplant, 避免全切除"
+        "topic": "骨盆與髖部（考題6）"
+      },
+      {
+        "score": 5.0,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 4.28,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.81,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
+      },
+      {
+        "score": 2.74,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（骨盆與髖部（考題6）(6.5)、腎上腺（考題0）(5.0)、腎臟疾病（考題54）(4.3)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -223,28 +407,60 @@
       "D": "C D34"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「Mycosis fungoides（MF, 皮膚T細胞淋巴瘤, 與fungus無關）」。可用筆記重點判斷：Mycosis fungoides（MF, 皮膚T細胞淋巴瘤, 與fungus無關）：惡性, 早期像非特異性皮膚炎；SS＝皮膚炎, Sezary syndrome（MF晚期, 全身紅皮病, 血液T細胞（Sezary cell）增生, 淋巴內臟入侵）; Tx＝局部治療（Steroid, UVB, PUVA）, 全身治療（化療, 骨髓移植, 干擾素, 單株抗體）",
-    "classified_specialty": "皮膚科",
-    "classified_topic": "皮膚腫瘤/增生",
-    "matched_note_subheading": "Mycosis fungoides（MF, 皮膚T細胞淋巴瘤, 與fungus無關）",
-    "matched_note_heading_path": "# 皮膚科 > ## 皮膚腫瘤/增生 > - Mycosis fungoides（MF, 皮膚T細胞淋巴瘤, 與fungus無關）",
-    "matched_note_excerpt": "Mycosis fungoides（MF, 皮膚T細胞淋巴瘤, 與fungus無關）：惡性, 早期像非特異性皮膚炎；SS＝皮膚炎, Sezary syndrome（MF晚期, 全身紅皮病, 血液T細胞（Sezary cell）增生, 淋巴內臟入侵）; Tx＝局部治療（Steroid, UVB, PUVA）, 全身治療（化療, 骨髓移植, 干擾素, 單株抗體）",
-    "matched_note_path": "01_notes/醫學四/note_4.md",
-    "matched_note_line": 464,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學四",
-        "source_note": "01_notes/醫學四/note_4.md",
-        "line": 464,
-        "specialty": "皮膚科",
-        "topic": "皮膚腫瘤/增生",
-        "subheading": "Mycosis fungoides（MF, 皮膚T細胞淋巴瘤, 與fungus無關）",
-        "content": "Mycosis fungoides（MF, 皮膚T細胞淋巴瘤, 與fungus無關）：惡性, 早期像非特異性皮膚炎；SS＝皮膚炎, Sezary syndrome（MF晚期, 全身紅皮病, 血液T細胞（Sezary cell）增生, 淋巴內臟入侵）; Tx＝局部治療（Steroid, UVB, PUVA）, 全身治療（化療, 骨髓移植, 干擾素, 單株抗體）"
+        "score": 9.18,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 8.9,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 4.62,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 2.81,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 2.32,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎上腺（考題0）(9.2)、腎臟疾病（考題54）(8.9)、骨腫瘤（考題4）(4.6)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -258,28 +474,60 @@
       "D": "重 新量測生命徵象，必要時給與氣管內管插管，維持呼吸道通暢"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「Seizure」。可用筆記重點判斷：Seizure：",
-    "classified_specialty": "小兒科",
-    "classified_topic": "小兒神經系統",
-    "matched_note_subheading": "Seizure",
-    "matched_note_heading_path": "# 小兒科 > ## 小兒神經系統 > - Seizure",
-    "matched_note_excerpt": "Seizure：",
-    "matched_note_path": "01_notes/醫學四/note_4.md",
-    "matched_note_line": 150,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學四",
-        "source_note": "01_notes/醫學四/note_4.md",
-        "line": 150,
-        "specialty": "小兒科",
-        "topic": "小兒神經系統",
-        "subheading": "Seizure",
-        "content": "Seizure："
+        "score": 7.93,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 6.88,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
+      },
+      {
+        "score": 5.92,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 186,
+        "specialty": "骨科",
+        "topic": "足踝關節（考題2）"
+      },
+      {
+        "score": 5.16,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
+      },
+      {
+        "score": 4.86,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(7.9)、膝關節（考題6）(6.9)、足踝關節（考題2）(5.9)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -293,7 +541,7 @@
       "D": "若 病人的瞳孔出現放大的情形，則建議進行開顱減壓手術"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 A。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -303,7 +551,9 @@
     "matched_note_line": null,
     "matched_note_scope": "unmatched",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [],
+    "match_reason": "重新審核後，題幹與選項在 01_notes 找不到足夠相近的整個 ## 段落。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -317,7 +567,7 @@
       "D": "通 常下肢的肌力會比上肢的肌力早回復"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 B。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -325,9 +575,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 2.68,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 1.74,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
+      },
+      {
+        "score": 1.22,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 234,
+        "specialty": "骨科",
+        "topic": "手部（考題8）"
+      },
+      {
+        "score": 1.21,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 208,
+        "specialty": "骨科",
+        "topic": "骨盆與髖部（考題6）"
+      },
+      {
+        "score": 1.19,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎上腺（考題0）(2.7)、上臂與前臂（考點多）（考題8）(1.7)、手部（考題8）(1.2)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -341,7 +634,7 @@
       "D": "最 好發的部位是胸椎"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 A。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -349,9 +642,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 3.32,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 2.6,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 2.41,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 1.86,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 158,
+        "specialty": "骨科",
+        "topic": "脊椎與神經根（考題8）"
+      },
+      {
+        "score": 1.8,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（骨腫瘤（考題4）(3.3)、腎上腺（考題0）(2.6)、腎臟疾病（考題54）(2.4)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -365,7 +701,7 @@
       "D": "神 經管胚細胞瘤（medulloblastoma）"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -373,9 +709,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 4.96,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 2.93,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.5,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      },
+      {
+        "score": 1.77,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 1.66,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎上腺（考題0）(5.0)、腎臟疾病（考題54）(2.9)、內科骨疾病（考題2）(2.5)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -389,28 +768,60 @@
       "D": "小 孩通常以缺血性腦病變表現"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「成人治療目標」。可用筆記重點判斷：成人治療目標：HbA1c<7%, Fasting glucose 80-130, Postprandial glucose <180, BP<140/90（Kidney disease<130/80）, LDL<100（心血管疾病<70）, Triglyceride<150（Total Cholesterol<160>）, HDL>40（女50）, Lifestyle modification（減重, 運動, 飲食控制） \\*住院病人治",
-    "classified_specialty": "新陳代謝科",
-    "classified_topic": "Diabetes mellitus（題目多）",
-    "matched_note_subheading": "成人治療目標",
-    "matched_note_heading_path": "# 新陳代謝科 > ## Diabetes mellitus（題目多） > - 成人治療目標",
-    "matched_note_excerpt": "成人治療目標：HbA1c<7%, Fasting glucose 80-130, Postprandial glucose <180, BP<140/90（Kidney disease<130/80）, LDL<100（心血管疾病<70）, Triglyceride<150（Total Cholesterol<160>）, HDL>40（女50）, Lifestyle modification（減重, 運動, 飲食控制） \\*住院病人治療目標：不論重症/非重症，血糖控制在140-180之間，避免過度控制導致低血糖",
-    "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 521,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 521,
-        "specialty": "新陳代謝科",
-        "topic": "Diabetes mellitus（題目多）",
-        "subheading": "成人治療目標",
-        "content": "成人治療目標：HbA1c<7%, Fasting glucose 80-130, Postprandial glucose <180, BP<140/90（Kidney disease<130/80）, LDL<100（心血管疾病<70）, Triglyceride<150（Total Cholesterol<160>）, HDL>40（女50）, Lifestyle modification（減重, 運動, 飲食控制） \\*住院病人治療目標：不論重症/非重症，血糖控制在140-180之間，避免過度控制導致低血糖"
+        "score": 3.95,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.74,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      },
+      {
+        "score": 2.22,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
+      },
+      {
+        "score": 2.13,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 1.43,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(3.9)、內科骨疾病（考題2）(2.7)、創傷（考題5）(2.2)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -424,28 +835,60 @@
       "D": "三 個月"
     },
     "answer": "#",
-    "reference_explanation": "答案為 #。題幹關鍵字最接近「去髓鞘dx（中樞」。可用筆記重點判斷：去髓鞘dx（中樞＝多發性硬化症, 周邊=AIDP（急性）, CIDP（慢性））",
-    "classified_specialty": "神經內科",
-    "classified_topic": "脊髓, 周邊神經dx",
-    "matched_note_subheading": "去髓鞘dx（中樞",
-    "matched_note_heading_path": "# 神經內科 > ## 脊髓, 周邊神經dx > - 去髓鞘dx（中樞",
-    "matched_note_excerpt": "去髓鞘dx（中樞＝多發性硬化症, 周邊=AIDP（急性）, CIDP（慢性））",
-    "matched_note_path": "01_notes/醫學四/note_4.md",
-    "matched_note_line": 715,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 #。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學四",
-        "source_note": "01_notes/醫學四/note_4.md",
-        "line": 715,
-        "specialty": "神經內科",
-        "topic": "脊髓, 周邊神經dx",
-        "subheading": "去髓鞘dx（中樞",
-        "content": "去髓鞘dx（中樞＝多發性硬化症, 周邊=AIDP（急性）, CIDP（慢性））"
+        "score": 5.88,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
+      },
+      {
+        "score": 4.38,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
+      },
+      {
+        "score": 4.19,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 158,
+        "specialty": "骨科",
+        "topic": "脊椎與神經根（考題8）"
+      },
+      {
+        "score": 2.95,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
+      },
+      {
+        "score": 2.21,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（創傷（考題5）(5.9)、上臂與前臂（考點多）（考題8）(4.4)、脊椎與神經根（考題8）(4.2)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -459,7 +902,7 @@
       "D": "成 人單一手指在屈指淺肌近端處截斷時（amputation at proximal flexor digitorum superficialis of a single finger in adults）"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -469,7 +912,9 @@
     "matched_note_line": null,
     "matched_note_scope": "unmatched",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [],
+    "match_reason": "重新審核後，題幹與選項在 01_notes 找不到足夠相近的整個 ## 段落。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -483,7 +928,7 @@
       "D": "1 00%"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 B。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -491,9 +936,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 1.35,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 186,
+        "specialty": "骨科",
+        "topic": "足踝關節（考題2）"
+      },
+      {
+        "score": 1.18,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
+      },
+      {
+        "score": 1.15,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
+      },
+      {
+        "score": 1.14,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      },
+      {
+        "score": 1.1,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（足踝關節（考題2）(1.4)、上臂與前臂（考點多）（考題8）(1.2)、男性學（考題69）(1.2)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -507,7 +995,7 @@
       "D": "和 唇緣線垂直"
     },
     "answer": "#",
-    "reference_explanation": "答案為 #。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 #。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -515,9 +1003,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 2.44,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 104,
+        "specialty": "泌尿科",
+        "topic": "泌尿道功能工程（考題5）"
+      },
+      {
+        "score": 2.1,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
+      },
+      {
+        "score": 1.34,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 1.15,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 0.25,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（泌尿道功能工程（考題5）(2.4)、創傷（考題5）(2.1)、下泌尿道（考題10）(1.3)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -531,7 +1062,7 @@
       "D": "4 ,900 mL lactated Ringer（LR）輸液"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 A。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -539,9 +1070,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 2.51,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
+      },
+      {
+        "score": 2.15,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 1.57,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 186,
+        "specialty": "骨科",
+        "topic": "足踝關節（考題2）"
+      },
+      {
+        "score": 1.34,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 104,
+        "specialty": "泌尿科",
+        "topic": "泌尿道功能工程（考題5）"
+      },
+      {
+        "score": 1.32,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 279,
+        "specialty": "骨科",
+        "topic": "小兒骨科（考題10）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（男性學（考題69）(2.5)、腎臟疾病（考題54）(2.2)、足踝關節（考題2）(1.6)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -555,28 +1129,60 @@
       "D": "腹 主動脈（abdominal aorta）"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「Acute aortic syndrome」。可用筆記重點判斷：Acute aortic syndrome＝Aortic dissection, Acute aortic intramural hematoma（IMH, vasa vasorum（供應主動脈的小動脈）破裂）, Penetrating aortic ulcer（PAU, 動脈粥樣硬化plaque侵蝕）     -Exam＝TEE（最準）, CXR, CT, CTA, MRA,     -Tx＝β-blocker（目標HR<60）, N",
-    "classified_specialty": "心臟內科",
-    "classified_topic": "大動脈疾病",
-    "matched_note_subheading": "Acute aortic syndrome",
-    "matched_note_heading_path": "# 心臟內科 > ## 大動脈疾病 > - Acute aortic syndrome",
-    "matched_note_excerpt": "Acute aortic syndrome＝Aortic dissection, Acute aortic intramural hematoma（IMH, vasa vasorum（供應主動脈的小動脈）破裂）, Penetrating aortic ulcer（PAU, 動脈粥樣硬化plaque侵蝕）\n    -Exam＝TEE（最準）, CXR, CT, CTA, MRA,\n    -Tx＝β-blocker（目標HR<60）, Nitroprusside（降血壓<120）, Surgery for Stanford A",
-    "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 33,
-    "matched_note_scope": "manual_corrected",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "manual",
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 33,
-        "specialty": "心臟內科",
-        "topic": "大動脈疾病",
-        "subheading": "Acute aortic syndrome",
-        "content": "Acute aortic syndrome＝Aortic dissection, Acute aortic intramural hematoma（IMH, vasa vasorum（供應主動脈的小動脈）破裂）, Penetrating aortic ulcer（PAU, 動脈粥樣硬化plaque侵蝕）\n    -Exam＝TEE（最準）, CXR, CT, CTA, MRA,\n    -Tx＝β-blocker（目標HR<60）, Nitroprusside（降血壓<120）, Surgery for Stanford A"
+        "score": 6.24,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 4.81,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      },
+      {
+        "score": 3.42,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
+      },
+      {
+        "score": 3.31,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 279,
+        "specialty": "骨科",
+        "topic": "小兒骨科（考題10）"
+      },
+      {
+        "score": 3.09,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（外生殖器（考題20）(6.2)、結石（考題15）(4.8)、創傷（考題5）(3.4)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -590,28 +1196,60 @@
       "D": "若 缺血時間越久，則下肢動脈血管打通後下肢腫脹得越厲害"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「攝護腺膿瘍」。可用筆記重點判斷：攝護腺膿瘍：好發於急性攝護腺炎沒治好, 長期導尿, DM； SS＝攝護腺症狀+DRE摸到腫大脈動疼痛攝護腺； DDx＝超音波/CT； Tx＝影像引導引流",
-    "classified_specialty": "泌尿科",
-    "classified_topic": "攝護腺",
-    "matched_note_subheading": "攝護腺膿瘍",
-    "matched_note_heading_path": "# 泌尿科 > ## 攝護腺 > - 攝護腺膿瘍",
-    "matched_note_excerpt": "攝護腺膿瘍：好發於急性攝護腺炎沒治好, 長期導尿, DM； SS＝攝護腺症狀+DRE摸到腫大脈動疼痛攝護腺； DDx＝超音波/CT； Tx＝影像引導引流",
-    "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 87,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 9.15,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 87,
+        "line": 55,
         "specialty": "泌尿科",
-        "topic": "攝護腺",
-        "subheading": "攝護腺膿瘍",
-        "content": "攝護腺膿瘍：好發於急性攝護腺炎沒治好, 長期導尿, DM； SS＝攝護腺症狀+DRE摸到腫大脈動疼痛攝護腺； DDx＝超音波/CT； Tx＝影像引導引流"
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 6.23,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      },
+      {
+        "score": 5.81,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 5.41,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
+      },
+      {
+        "score": 3.93,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（外生殖器（考題20）(9.2)、攝護腺（考題17）(6.2)、腎臟疾病（考題54）(5.8)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -625,28 +1263,60 @@
       "D": "麻 醉鎮定（sedation）"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「耳蝸（管聽覺）」。可用筆記重點判斷：耳蝸（管聽覺）：scala vestibuli + scala tympani + scala media（內淋巴液, 高鉀低鈉, 一排內毛細胞+三排外毛細胞）",
-    "classified_specialty": "耳鼻喉科",
-    "classified_topic": "耳科",
-    "matched_note_subheading": "耳蝸（管聽覺）",
-    "matched_note_heading_path": "# 耳鼻喉科 > ## 耳科 > - 耳蝸（管聽覺）",
-    "matched_note_excerpt": "耳蝸（管聽覺）：scala vestibuli + scala tympani + scala media（內淋巴液, 高鉀低鈉, 一排內毛細胞+三排外毛細胞）",
-    "matched_note_path": "01_notes/醫學六/note_6.md",
-    "matched_note_line": 607,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學六",
-        "source_note": "01_notes/醫學六/note_6.md",
-        "line": 607,
-        "specialty": "耳鼻喉科",
-        "topic": "耳科",
-        "subheading": "耳蝸（管聽覺）",
-        "content": "耳蝸（管聽覺）：scala vestibuli + scala tympani + scala media（內淋巴液, 高鉀低鈉, 一排內毛細胞+三排外毛細胞）"
+        "score": 3.81,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.8,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 1.92,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      },
+      {
+        "score": 1.48,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
+      },
+      {
+        "score": 0.77,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(3.8)、腎上腺（考題0）(2.8)、結石（考題15）(1.9)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -660,28 +1330,52 @@
       "D": "血 管內支架術式（endovascular stenting）已成為治療升主動脈瘤之主流，一般以DeBakey分類來評估是 否適合放置支架及有無影響腦部血流的風險"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「動脈瘤（Aneurysm）」。可用筆記重點判斷：動脈瘤（Aneurysm）：分胸腹兩部, 腹部最常見（Male>Female, >60y/o, 抽菸/高血壓/動脈粥樣硬化/家族史, >5.5cm 建議手術）, 胸多見於Marfan's, Ehlers-Danlos（connective tissue disease, 會有Cystic medial necrosis）, Tx＝β-blocker（減緩擴大）, ACEi（減緩破裂）",
-    "classified_specialty": "心臟內科",
-    "classified_topic": "大動脈疾病",
-    "matched_note_subheading": "動脈瘤（Aneurysm）",
-    "matched_note_heading_path": "# 心臟內科 > ## 大動脈疾病 > - 動脈瘤（Aneurysm）",
-    "matched_note_excerpt": "動脈瘤（Aneurysm）：分胸腹兩部, 腹部最常見（Male>Female, >60y/o, 抽菸/高血壓/動脈粥樣硬化/家族史, >5.5cm 建議手術）, 胸多見於Marfan's, Ehlers-Danlos（connective tissue disease, 會有Cystic medial necrosis）, Tx＝β-blocker（減緩擴大）, ACEi（減緩破裂）",
-    "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 31,
-    "matched_note_scope": "manual_corrected",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "manual",
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 31,
-        "specialty": "心臟內科",
-        "topic": "大動脈疾病",
-        "subheading": "動脈瘤（Aneurysm）",
-        "content": "動脈瘤（Aneurysm）：分胸腹兩部, 腹部最常見（Male>Female, >60y/o, 抽菸/高血壓/動脈粥樣硬化/家族史, >5.5cm 建議手術）, 胸多見於Marfan's, Ehlers-Danlos（connective tissue disease, 會有Cystic medial necrosis）, Tx＝β-blocker（減緩擴大）, ACEi（減緩破裂）"
+        "score": 7.94,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      },
+      {
+        "score": 3.39,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 3.2,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 1.56,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（結石（考題15）(7.9)、骨腫瘤（考題4）(3.4)、外生殖器（考題20）(3.2)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -695,28 +1389,60 @@
       "D": "手 術時，下腸繫膜動脈（inferior mesenteric artery）一定要重新再吻合，以減少腸缺血（ischemic bowel）之合併症"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「動脈瘤（Aneurysm）」。可用筆記重點判斷：動脈瘤（Aneurysm）：分胸腹兩部, 腹部最常見（Male>Female, >60y/o, 抽菸/高血壓/動脈粥樣硬化/家族史, >5.5cm 建議手術）, 胸多見於Marfan's, Ehlers-Danlos（connective tissue disease, 會有Cystic medial necrosis）, Tx＝β-blocker（減緩擴大）, ACEi（減緩破裂）",
-    "classified_specialty": "心臟內科",
-    "classified_topic": "大動脈疾病",
-    "matched_note_subheading": "動脈瘤（Aneurysm）",
-    "matched_note_heading_path": "# 心臟內科 > ## 大動脈疾病 > - 動脈瘤（Aneurysm）",
-    "matched_note_excerpt": "動脈瘤（Aneurysm）：分胸腹兩部, 腹部最常見（Male>Female, >60y/o, 抽菸/高血壓/動脈粥樣硬化/家族史, >5.5cm 建議手術）, 胸多見於Marfan's, Ehlers-Danlos（connective tissue disease, 會有Cystic medial necrosis）, Tx＝β-blocker（減緩擴大）, ACEi（減緩破裂）",
-    "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 31,
-    "matched_note_scope": "manual_corrected",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "manual",
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 31,
-        "specialty": "心臟內科",
-        "topic": "大動脈疾病",
-        "subheading": "動脈瘤（Aneurysm）",
-        "content": "動脈瘤（Aneurysm）：分胸腹兩部, 腹部最常見（Male>Female, >60y/o, 抽菸/高血壓/動脈粥樣硬化/家族史, >5.5cm 建議手術）, 胸多見於Marfan's, Ehlers-Danlos（connective tissue disease, 會有Cystic medial necrosis）, Tx＝β-blocker（減緩擴大）, ACEi（減緩破裂）"
+        "score": 17.79,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      },
+      {
+        "score": 6.22,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 5.94,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 5.38,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.44,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（結石（考題15）(17.8)、外生殖器（考題20）(6.2)、骨腫瘤（考題4）(5.9)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -730,7 +1456,7 @@
       "D": "P ancoast syndrome"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -738,9 +1464,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 4.14,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.74,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      },
+      {
+        "score": 2.57,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      },
+      {
+        "score": 2.06,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 1.53,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(4.1)、內科骨疾病（考題2）(2.7)、攝護腺（考題17）(2.6)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -754,28 +1523,60 @@
       "D": "生 殖細胞腫瘤（germ cell tumor）"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「流行病學考點」。可用筆記重點判斷：流行病學考點：     | 問法                          | 最常見                                  | 第二常見         |   | ----------------------------- | --------------------------------------- | ---------------- |   | 所有顱內腫瘤               ",
-    "classified_specialty": "神經內科",
-    "classified_topic": "腫瘤",
-    "matched_note_subheading": "流行病學考點",
-    "matched_note_heading_path": "# 神經內科 > ## 腫瘤 > - 流行病學考點",
-    "matched_note_excerpt": "流行病學考點：\n\n\n  | 問法                          | 最常見                                  | 第二常見         |\n  | ----------------------------- | --------------------------------------- | ---------------- |\n  | 所有顱內腫瘤                  | Metastasis轉移瘤                        | Meningioma       |\n  | 成人原發性顱內/CNS腫瘤overall | Meningioma                              | Pituitary tumor  |\n  | 原發性惡性CNS腫瘤             | Glioblastoma                            |                  |\n  | 小兒腦瘤（2nd tumor in PEDS） | 實質腦瘤dx（Medulloblastoma=後顱窩1st） | 依天幕上下分類記 |",
-    "matched_note_path": "01_notes/醫學四/note_4.md",
-    "matched_note_line": 662,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學四",
-        "source_note": "01_notes/醫學四/note_4.md",
-        "line": 662,
-        "specialty": "神經內科",
-        "topic": "腫瘤",
-        "subheading": "流行病學考點",
-        "content": "流行病學考點：\n\n\n  | 問法                          | 最常見                                  | 第二常見         |\n  | ----------------------------- | --------------------------------------- | ---------------- |\n  | 所有顱內腫瘤                  | Metastasis轉移瘤                        | Meningioma       |\n  | 成人原發性顱內/CNS腫瘤overall | Meningioma                              | Pituitary tumor  |\n  | 原發性惡性CNS腫瘤             | Glioblastoma                            |                  |\n  | 小兒腦瘤（2nd tumor in PEDS） | 實質腦瘤dx（Medulloblastoma=後顱窩1st） | 依天幕上下分類記 |"
+        "score": 5.31,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 5.05,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 4.41,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 3.91,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 1.21,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 186,
+        "specialty": "骨科",
+        "topic": "足踝關節（考題2）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎上腺（考題0）(5.3)、骨腫瘤（考題4）(5.1)、腎臟疾病（考題54）(4.4)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -789,7 +1590,7 @@
       "D": "局 部的支氣管擴張症適合手術切除"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -797,9 +1598,36 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 2.74,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      },
+      {
+        "score": 1.92,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 1.49,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（內科骨疾病（考題2）(2.7)、腎臟疾病（考題54）(1.9)、結石（考題15）(1.5)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -813,7 +1641,7 @@
       "D": "賁 門弛緩不能（achalasia）治療上，氣球擴張和肉毒桿菌注射效果一樣好"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -821,9 +1649,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 8.45,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 104,
+        "specialty": "泌尿科",
+        "topic": "泌尿道功能工程（考題5）"
+      },
+      {
+        "score": 4.9,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 4.16,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.74,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      },
+      {
+        "score": 1.05,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（泌尿道功能工程（考題5）(8.4)、腎上腺（考題0）(4.9)、腎臟疾病（考題54）(4.2)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -837,7 +1708,7 @@
       "D": "注 意喉部及呼吸道是否暢通"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -845,9 +1716,36 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 1.49,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      },
+      {
+        "score": 1.32,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 0.89,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（結石（考題15）(1.5)、腎臟疾病（考題54）(1.3)、腎上腺（考題0）(0.9)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -861,7 +1759,7 @@
       "D": "阻 塞性之症狀為最常見"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 A。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -869,9 +1767,20 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 1.49,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（結石（考題15）(1.5)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -885,7 +1794,7 @@
       "D": "直 接型疝氣的疝氣囊（sac）直接由Hesselbach's triangle鼓出"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -893,9 +1802,20 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 1.57,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（外生殖器（考題20）(1.6)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -909,28 +1829,60 @@
       "D": "對 於連續出血不止的病患，可以使用血管攝影栓塞術進行止血"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「病因」。可用筆記重點判斷：病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎  * 補：肝組織3 zones： Zone",
-    "classified_specialty": "肝膽腸胃科",
-    "classified_topic": "肝炎（題目多）",
-    "matched_note_subheading": "病因",
-    "matched_note_heading_path": "# 肝膽腸胃科 > ## 肝炎（題目多） > - 病因",
-    "matched_note_excerpt": "病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎\n\n* 補：肝組織3 zones： Zone 1（肝門區, 再生強）, Zone 2（中間區）, Zone 3（中心靜脈區, 易死不易再生, e.g. 酒精, 藥物, 急性肝炎）\n* 補：猛爆型肝炎Acute liver failure＝INR ≥1.5, hepatic encephalopathy, 病程小於 26 週",
-    "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 393,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 393,
-        "specialty": "肝膽腸胃科",
-        "topic": "肝炎（題目多）",
-        "subheading": "病因",
-        "content": "病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關,Tx underlyging dx）, 免疫性肝炎\n\n* 補：肝組織3 zones： Zone 1（肝門區, 再生強）, Zone 2（中間區）, Zone 3（中心靜脈區, 易死不易再生, e.g. 酒精, 藥物, 急性肝炎）\n* 補：猛爆型肝炎Acute liver failure＝INR ≥1.5, hepatic encephalopathy, 病程小於 26 週"
+        "score": 3.24,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.39,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 1.04,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      },
+      {
+        "score": 1.03,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 208,
+        "specialty": "骨科",
+        "topic": "骨盆與髖部（考題6）"
+      },
+      {
+        "score": 0.94,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(3.2)、外生殖器（考題20）(2.4)、結石（考題15）(1.0)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -944,28 +1896,36 @@
       "D": "與 胃潰瘍不同，十二指腸潰瘍沒有惡性腫瘤的機會"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「胃腸道」。可用筆記重點判斷：胃腸道",
-    "classified_specialty": "小兒科",
-    "classified_topic": "小兒GI",
-    "matched_note_subheading": "胃腸道",
-    "matched_note_heading_path": "# 小兒科 > ## 小兒GI > - 胃腸道",
-    "matched_note_excerpt": "胃腸道",
-    "matched_note_path": "01_notes/醫學四/note_4.md",
-    "matched_note_line": 55,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學四",
-        "source_note": "01_notes/醫學四/note_4.md",
+        "score": 2.24,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
         "line": 55,
-        "specialty": "小兒科",
-        "topic": "小兒GI",
-        "subheading": "胃腸道",
-        "content": "胃腸道"
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 1.37,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（外生殖器（考題20）(2.2)、上臂與前臂（考點多）（考題8）(1.4)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -979,7 +1939,7 @@
       "D": "V asoactive intestinal peptide-secreting tumor"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 B。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -987,9 +1947,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 5.04,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 2.41,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.34,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 1.74,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
+      },
+      {
+        "score": 1.56,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎上腺（考題0）(5.0)、腎臟疾病（考題54）(2.4)、骨腫瘤（考題4）(2.3)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1003,7 +2006,7 @@
       "D": "腫 瘤大於5公分"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1011,9 +2014,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 4.01,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 3.83,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
+      },
+      {
+        "score": 3.33,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
+      },
+      {
+        "score": 2.51,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 279,
+        "specialty": "骨科",
+        "topic": "小兒骨科（考題10）"
+      },
+      {
+        "score": 2.24,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（骨腫瘤（考題4）(4.0)、上臂與前臂（考點多）（考題8）(3.8)、創傷（考題5）(3.3)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1027,28 +2073,60 @@
       "D": "與 原發的大腸癌同時發現的肝臟轉移腫瘤（synchronous liver metastasis）"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「低testosterone但想生育」。可用筆記重點判斷：低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T",
-    "classified_specialty": "泌尿科",
-    "classified_topic": "男性學",
-    "matched_note_subheading": "低testosterone但想生育",
-    "matched_note_heading_path": "# 泌尿科 > ## 男性學 > - 低testosterone但想生育",
-    "matched_note_excerpt": "低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T",
-    "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 121,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 19.43,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 121,
+        "line": 123,
         "specialty": "泌尿科",
-        "topic": "男性學",
-        "subheading": "低testosterone但想生育",
-        "content": "低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T"
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 10.9,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 10.31,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 7.03,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 234,
+        "specialty": "骨科",
+        "topic": "手部（考題8）"
+      },
+      {
+        "score": 6.76,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎上腺（考題0）(19.4)、腎臟疾病（考題54）(10.9)、骨腫瘤（考題4）(10.3)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1062,28 +2140,60 @@
       "D": "① ②④⑤"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「抗生素duration」。可用筆記重點判斷：抗生素duration：重點看source control；未穿孔闌尾炎切除後不用延長；未穿孔腸壞死切除後≤24hr；穿孔/複雜腹內感染source control足夠約4天；腹內感染合併敗血症/休克約7-10天",
-    "classified_specialty": "外科",
-    "classified_topic": "腹內感染",
-    "matched_note_subheading": "抗生素duration",
-    "matched_note_heading_path": "# 外科 > ## 腹內感染 > - 抗生素duration",
-    "matched_note_excerpt": "抗生素duration：重點看source control；未穿孔闌尾炎切除後不用延長；未穿孔腸壞死切除後≤24hr；穿孔/複雜腹內感染source control足夠約4天；腹內感染合併敗血症/休克約7-10天",
-    "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 154,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 8.09,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 154,
-        "specialty": "外科",
-        "topic": "腹內感染",
-        "subheading": "抗生素duration",
-        "content": "抗生素duration：重點看source control；未穿孔闌尾炎切除後不用延長；未穿孔腸壞死切除後≤24hr；穿孔/複雜腹內感染source control足夠約4天；腹內感染合併敗血症/休克約7-10天"
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
+      },
+      {
+        "score": 8.03,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 6.4,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
+      },
+      {
+        "score": 6.4,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 208,
+        "specialty": "骨科",
+        "topic": "骨盆與髖部（考題6）"
+      },
+      {
+        "score": 5.43,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 279,
+        "specialty": "骨科",
+        "topic": "小兒骨科（考題10）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（上臂與前臂（考點多）（考題8）(8.1)、外生殖器（考題20）(8.0)、膝關節（考題6）(6.4)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1097,28 +2207,60 @@
       "D": "僅 ③④⑤"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「Acute cholangitis（膽管炎）」。可用筆記重點判斷：Acute cholangitis（膽管炎）： 症狀＝Charcot's triad（右上腹痛, 發燒, 黃疸）；Reynolds pentad＝Charcot triad＋休克＋意識改變； 診斷＝腹部超音波（膽管擴張）, ERCP（內視鏡逆行胰膽管造影, 可同時診斷和治療）； 治療＝抗生素, ERCP引流, 6-8週後切除膽囊",
-    "classified_specialty": "肝膽腸胃科",
-    "classified_topic": "膽囊疾病",
-    "matched_note_subheading": "Acute cholangitis（膽管炎）",
-    "matched_note_heading_path": "# 肝膽腸胃科 > ## 膽囊疾病 > - Acute cholangitis（膽管炎）",
-    "matched_note_excerpt": "Acute cholangitis（膽管炎）： 症狀＝Charcot's triad（右上腹痛, 發燒, 黃疸）；Reynolds pentad＝Charcot triad＋休克＋意識改變； 診斷＝腹部超音波（膽管擴張）, ERCP（內視鏡逆行胰膽管造影, 可同時診斷和治療）； 治療＝抗生素, ERCP引流, 6-8週後切除膽囊",
-    "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 438,
-    "matched_note_scope": "cross_note_stronger",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 438,
-        "specialty": "肝膽腸胃科",
-        "topic": "膽囊疾病",
-        "subheading": "Acute cholangitis（膽管炎）",
-        "content": "Acute cholangitis（膽管炎）： 症狀＝Charcot's triad（右上腹痛, 發燒, 黃疸）；Reynolds pentad＝Charcot triad＋休克＋意識改變； 診斷＝腹部超音波（膽管擴張）, ERCP（內視鏡逆行胰膽管造影, 可同時診斷和治療）； 治療＝抗生素, ERCP引流, 6-8週後切除膽囊"
+        "score": 12.6,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 10.48,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 7.81,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      },
+      {
+        "score": 6.36,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 5.09,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(12.6)、腎上腺（考題0）(10.5)、攝護腺（考題17）(7.8)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1132,7 +2274,7 @@
       "D": "經 常為multi-focal，故手術須將甲狀腺切除乾淨"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1140,9 +2282,44 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 2.66,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 1.28,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 1.27,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 0.26,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(2.7)、下泌尿道（考題10）(1.3)、腎上腺（考題0）(1.3)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1156,28 +2333,60 @@
       "D": "對 於parathyroid adenoma的定位檢查，sestamibi scan的敏感度（sensitivity）大於80%"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「甲狀腺結節」。可用筆記重點判斷：甲狀腺結節：TSH⭣Echo又有結節者 ⭢ RAIU scan, Cold懷疑惡性（做FNA）, 惡性特徵＝低回音, 鈣化, 不規則邊界, 直徑>4cm, 長寬差異大, 男性, 家族史； Tx＝Cold手術切除, Hot給抗甲狀腺藥物",
-    "classified_specialty": "新陳代謝科",
-    "classified_topic": "Thyroid diseases",
-    "matched_note_subheading": "甲狀腺結節",
-    "matched_note_heading_path": "# 新陳代謝科 > ## Thyroid diseases > - 甲狀腺結節",
-    "matched_note_excerpt": "甲狀腺結節：TSH⭣Echo又有結節者 ⭢ RAIU scan, Cold懷疑惡性（做FNA）, 惡性特徵＝低回音, 鈣化, 不規則邊界, 直徑>4cm, 長寬差異大, 男性, 家族史； Tx＝Cold手術切除, Hot給抗甲狀腺藥物",
-    "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 487,
-    "matched_note_scope": "manual_corrected",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "manual",
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 487,
-        "specialty": "新陳代謝科",
-        "topic": "Thyroid diseases",
-        "subheading": "甲狀腺結節",
-        "content": "甲狀腺結節：TSH⭣Echo又有結節者 ⭢ RAIU scan, Cold懷疑惡性（做FNA）, 惡性特徵＝低回音, 鈣化, 不規則邊界, 直徑>4cm, 長寬差異大, 男性, 家族史； Tx＝Cold手術切除, Hot給抗甲狀腺藥物"
+        "score": 6.37,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 1.69,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
+      },
+      {
+        "score": 1.55,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 1.44,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      },
+      {
+        "score": 1.33,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎上腺（考題0）(6.4)、膝關節（考題6）(1.7)、下泌尿道（考題10）(1.5)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1191,28 +2400,60 @@
       "D": "P emberton sign"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「解剖學」。可用筆記重點判斷：解剖學：頭頸部淋巴結分為7群（I-VII, 依照位置命名）     | Level | 名稱/界線                                                                                        | 常考記法                                                             |   | ----- | --",
-    "classified_specialty": "耳鼻喉科",
-    "classified_topic": "頭頸科",
-    "matched_note_subheading": "解剖學",
-    "matched_note_heading_path": "# 耳鼻喉科 > ## 頭頸科 > - 解剖學",
-    "matched_note_excerpt": "解剖學：頭頸部淋巴結分為7群（I-VII, 依照位置命名）\n\n\n  | Level | 名稱/界線                                                                                        | 常考記法                                                             |\n  | ----- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |\n  | IA    | Submental頦下三角：兩側anterior belly of digastric + hyoid bone + midline/mandible               | 題幹出現「anterior belly of digastric + hyoid + midline」＝IA        |\n  | IB    | Submandibular下頷下三角：mandible + anterior/posterior belly of digastric；含submandibular gland | IA在正中頦下；IB在下頷骨下外側                                       |\n  | II    | Upper jugular：顱底/二腹肌後腹附近 to hyoid下緣                                                  | IIA＝spinal accessory n.之前/內側；IIB＝spinal accessory n.之後/外側 |\n  | III   | Middle jugular：hyoid下緣 to cricoid下緣                                                         | 舌骨到環狀軟骨                                                       |\n  | IV    | Lower jugular：cricoid下緣 to clavicle                                                           | 環狀軟骨到鎖骨                                                       |\n  | V     | 後頸三角：前＝SCM後緣, 後＝trapezius前緣, 下＝鎖骨                                               | Va＝cricoid上方；Vb＝cricoid下方                                     |\n  | VI    | Anterior/central compartment：兩側carotid sheath間, hyoid to suprasternal notch                  | 甲狀腺/喉/氣管前旁淋巴                                               |\n  | VII   | Superior mediastinal                                                                             | 胸骨上窩以下到上縱膈                                                 |",
-    "matched_note_path": "01_notes/醫學六/note_6.md",
-    "matched_note_line": 656,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學六",
-        "source_note": "01_notes/醫學六/note_6.md",
-        "line": 656,
-        "specialty": "耳鼻喉科",
-        "topic": "頭頸科",
-        "subheading": "解剖學",
-        "content": "解剖學：頭頸部淋巴結分為7群（I-VII, 依照位置命名）\n\n\n  | Level | 名稱/界線                                                                                        | 常考記法                                                             |\n  | ----- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |\n  | IA    | Submental頦下三角：兩側anterior belly of digastric + hyoid bone + midline/mandible               | 題幹出現「anterior belly of digastric + hyoid + midline」＝IA        |\n  | IB    | Submandibular下頷下三角：mandible + anterior/posterior belly of digastric；含submandibular gland | IA在正中頦下；IB在下頷骨下外側                                       |\n  | II    | Upper jugular：顱底/二腹肌後腹附近 to hyoid下緣                                                  | IIA＝spinal accessory n.之前/內側；IIB＝spinal accessory n.之後/外側 |\n  | III   | Middle jugular：hyoid下緣 to cricoid下緣                                                         | 舌骨到環狀軟骨                                                       |\n  | IV    | Lower jugular：cricoid下緣 to clavicle                                                           | 環狀軟骨到鎖骨                                                       |\n  | V     | 後頸三角：前＝SCM後緣, 後＝trapezius前緣, 下＝鎖骨                                               | Va＝cricoid上方；Vb＝cricoid下方                                     |\n  | VI    | Anterior/central compartment：兩側carotid sheath間, hyoid to suprasternal notch                  | 甲狀腺/喉/氣管前旁淋巴                                               |\n  | VII   | Superior mediastinal                                                                             | 胸骨上窩以下到上縱膈                                                 |"
+        "score": 6.42,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      },
+      {
+        "score": 5.54,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 4.66,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 4.56,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.77,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（內科骨疾病（考題2）(6.4)、腎上腺（考題0）(5.5)、外生殖器（考題20）(4.7)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1226,7 +2467,7 @@
       "D": "纖 維腺瘤（fibroadenoma）"
     },
     "answer": "#",
-    "reference_explanation": "答案為 #。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 #。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1234,9 +2475,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 4.55,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 3.42,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 2.6,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 2.58,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 1.23,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(4.6)、骨腫瘤（考題4）(3.4)、腎上腺（考題0）(2.6)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1250,7 +2534,7 @@
       "D": "乳 癌的預後和其組織學上的亞型有關，包括分化度、荷爾蒙受體（ER、PR）及生長因子受體2（HER2/neu）"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1258,9 +2542,28 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 2.74,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      },
+      {
+        "score": 1.92,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（內科骨疾病（考題2）(2.7)、腎臟疾病（考題54）(1.9)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1274,7 +2577,7 @@
       "D": "會 考慮乳房重建的病患，通常年紀較輕，社經地位較高"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1282,9 +2585,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 3.39,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 3.13,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
+      },
+      {
+        "score": 2.6,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 1.82,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 208,
+        "specialty": "骨科",
+        "topic": "骨盆與髖部（考題6）"
+      },
+      {
+        "score": 1.56,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（外生殖器（考題20）(3.4)、膝關節（考題6）(3.1)、腎臟疾病（考題54）(2.6)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1298,28 +2644,60 @@
       "D": "一 歲以下之幼兒因鼠蹊環較窄，所以發生嵌頓性疝氣（incarceration）之風險較低"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「Retinal artery occlusion」。可用筆記重點判斷：Retinal artery occlusion：男多, 血栓 mainly from 頸動脈/心臟；SS＝突發單眼無痛視力模糊；DDx＝黃斑部cherry red spot；Tx＝眼球按摩/降眼壓/急診眼科與中風評估",
-    "classified_specialty": "眼科",
-    "classified_topic": "視網膜（考點雜, 抓視網膜剝離, 黃斑部病變即可）",
-    "matched_note_subheading": "Retinal artery occlusion",
-    "matched_note_heading_path": "# 眼科 > ## 視網膜（考點雜, 抓視網膜剝離, 黃斑部病變即可） > - Retinal artery occlusion",
-    "matched_note_excerpt": "Retinal artery occlusion：男多, 血栓 mainly from 頸動脈/心臟；SS＝突發單眼無痛視力模糊；DDx＝黃斑部cherry red spot；Tx＝眼球按摩/降眼壓/急診眼科與中風評估",
-    "matched_note_path": "01_notes/醫學六/note_6.md",
-    "matched_note_line": 365,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學六",
-        "source_note": "01_notes/醫學六/note_6.md",
-        "line": 365,
-        "specialty": "眼科",
-        "topic": "視網膜（考點雜, 抓視網膜剝離, 黃斑部病變即可）",
-        "subheading": "Retinal artery occlusion",
-        "content": "Retinal artery occlusion：男多, 血栓 mainly from 頸動脈/心臟；SS＝突發單眼無痛視力模糊；DDx＝黃斑部cherry red spot；Tx＝眼球按摩/降眼壓/急診眼科與中風評估"
+        "score": 12.4,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 279,
+        "specialty": "骨科",
+        "topic": "小兒骨科（考題10）"
+      },
+      {
+        "score": 11.14,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 3.55,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 3.51,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 2.78,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（小兒骨科（考題10）(12.4)、外生殖器（考題20）(11.1)、腎臟疾病（考題54）(3.5)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1333,28 +2711,60 @@
       "D": "因 為腹部臟器在胸腔，會嚴重影響新生兒的呼吸與換氣，因此在出生後要立即安排緊急手術將腹部臟器復位 並修補橫膈缺損"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「病程」。可用筆記重點判斷：病程：滲出期（for 1 wks, edema（充滿exudate） ⭢ Hyaline membrane生長） ⭢ 增生期（fibrosis生長）",
-    "classified_specialty": "胸腔內科",
-    "classified_topic": "急性呼吸窘迫症候群（ARDS）",
-    "matched_note_subheading": "病程",
-    "matched_note_heading_path": "# 胸腔內科 > ## 急性呼吸窘迫症候群（ARDS） > - 病程",
-    "matched_note_excerpt": "病程：滲出期（for 1 wks, edema（充滿exudate） ⭢ Hyaline membrane生長） ⭢ 增生期（fibrosis生長）",
-    "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 268,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 268,
-        "specialty": "胸腔內科",
-        "topic": "急性呼吸窘迫症候群（ARDS）",
-        "subheading": "病程",
-        "content": "病程：滲出期（for 1 wks, edema（充滿exudate） ⭢ Hyaline membrane生長） ⭢ 增生期（fibrosis生長）"
+        "score": 3.28,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 3.06,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 1.57,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 186,
+        "specialty": "骨科",
+        "topic": "足踝關節（考題2）"
+      },
+      {
+        "score": 1.4,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 1.22,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 279,
+        "specialty": "骨科",
+        "topic": "小兒骨科（考題10）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎上腺（考題0）(3.3)、外生殖器（考題20）(3.1)、足踝關節（考題2）(1.6)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1368,28 +2778,60 @@
       "D": "N uss procedure是目前最常運用的手術方式，而最適合的矯正年齡為3歲之前。其置入的矯正板，約在2～ 3年後需再次手術取出"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「抗生素duration」。可用筆記重點判斷：抗生素duration：重點看source control；未穿孔闌尾炎切除後不用延長；未穿孔腸壞死切除後≤24hr；穿孔/複雜腹內感染source control足夠約4天；腹內感染合併敗血症/休克約7-10天",
-    "classified_specialty": "外科",
-    "classified_topic": "腹內感染",
-    "matched_note_subheading": "抗生素duration",
-    "matched_note_heading_path": "# 外科 > ## 腹內感染 > - 抗生素duration",
-    "matched_note_excerpt": "抗生素duration：重點看source control；未穿孔闌尾炎切除後不用延長；未穿孔腸壞死切除後≤24hr；穿孔/複雜腹內感染source control足夠約4天；腹內感染合併敗血症/休克約7-10天",
-    "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 154,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 5.32,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 154,
-        "specialty": "外科",
-        "topic": "腹內感染",
-        "subheading": "抗生素duration",
-        "content": "抗生素duration：重點看source control；未穿孔闌尾炎切除後不用延長；未穿孔腸壞死切除後≤24hr；穿孔/複雜腹內感染source control足夠約4天；腹內感染合併敗血症/休克約7-10天"
+        "line": 279,
+        "specialty": "骨科",
+        "topic": "小兒骨科（考題10）"
+      },
+      {
+        "score": 3.36,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
+      },
+      {
+        "score": 2.14,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 208,
+        "specialty": "骨科",
+        "topic": "骨盆與髖部（考題6）"
+      },
+      {
+        "score": 1.78,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 1.65,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（小兒骨科（考題10）(5.3)、上臂與前臂（考點多）（考題8）(3.4)、骨盆與髖部（考題6）(2.1)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1403,28 +2845,60 @@
       "D": "此 病灶要根除一般需進行手術治療"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。題幹關鍵字最接近「低testosterone但想生育」。可用筆記重點判斷：低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T",
-    "classified_specialty": "泌尿科",
-    "classified_topic": "男性學",
-    "matched_note_subheading": "低testosterone但想生育",
-    "matched_note_heading_path": "# 泌尿科 > ## 男性學 > - 低testosterone但想生育",
-    "matched_note_excerpt": "低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T",
-    "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 121,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 B。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 7.78,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 121,
+        "line": 32,
         "specialty": "泌尿科",
-        "topic": "男性學",
-        "subheading": "低testosterone但想生育",
-        "content": "低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T"
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 4.84,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 3.97,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      },
+      {
+        "score": 2.61,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 234,
+        "specialty": "骨科",
+        "topic": "手部（考題8）"
+      },
+      {
+        "score": 1.72,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（下泌尿道（考題10）(7.8)、腎上腺（考題0）(4.8)、攝護腺（考題17）(4.0)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1438,7 +2912,7 @@
       "D": "若 在較放鬆狀態下檢查左側睪丸在陰囊內，且大小與右側睪丸相當，但因其提睪肌反射較強，仍應安排睪丸 固定手術"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 B。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1446,9 +2920,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 10.14,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 5.45,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
+      },
+      {
+        "score": 3.77,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.53,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      },
+      {
+        "score": 2.09,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（外生殖器（考題20）(10.1)、男性學（考題69）(5.5)、腎臟疾病（考題54）(3.8)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1462,7 +2979,7 @@
       "D": "目 前的大腸直腸癌標靶藥物有針對血管新生因子（VEGF）及上皮細胞受器（EGFR）兩大類"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1470,9 +2987,20 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 1.43,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（攝護腺（考題17）(1.4)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1486,28 +3014,60 @@
       "D": "肛 門瘻管（fistula in ano）"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「低testosterone但想生育」。可用筆記重點判斷：低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T",
-    "classified_specialty": "泌尿科",
-    "classified_topic": "男性學",
-    "matched_note_subheading": "低testosterone但想生育",
-    "matched_note_heading_path": "# 泌尿科 > ## 男性學 > - 低testosterone但想生育",
-    "matched_note_excerpt": "低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T",
-    "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 121,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 5.31,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 121,
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
+      },
+      {
+        "score": 2.65,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 2.51,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
         "specialty": "泌尿科",
-        "topic": "男性學",
-        "subheading": "低testosterone但想生育",
-        "content": "低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T"
+        "topic": "男性學（考題69）"
+      },
+      {
+        "score": 2.08,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      },
+      {
+        "score": 2.08,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（創傷（考題5）(5.3)、骨腫瘤（考題4）(2.6)、男性學（考題69）(2.5)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1521,28 +3081,60 @@
       "D": "安 排患者接受影像學檢查（應包括胸腔，腹腔及骨盆腔），藉此來評估臨床分期"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「低testosterone但想生育」。可用筆記重點判斷：低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T",
+    "reference_explanation": "答案為 C。本題重新對應到「腎上腺（考題0）」，可先用該 ## 段落複習相關考點。",
     "classified_specialty": "泌尿科",
-    "classified_topic": "男性學",
-    "matched_note_subheading": "低testosterone但想生育",
-    "matched_note_heading_path": "# 泌尿科 > ## 男性學 > - 低testosterone但想生育",
-    "matched_note_excerpt": "低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T",
+    "classified_topic": "腎上腺（考題0）",
+    "matched_note_subheading": "腎上腺（考題0）",
+    "matched_note_heading_path": "# 泌尿科 > ## 腎上腺（考題0）",
+    "matched_note_excerpt": "## 腎上腺（考題0）\n\n- Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona glomerulosa （球狀帶, Mineralocorticoid（Grami葛萊美球場）, 又名Aldosterone, 與血壓有關, 過多 ＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多 ＝Cushing（口訣：束庫帶）, 過少 ＝Addison's）,Zona Reticulosa （網狀帶, Androgen 口訣＝網路宅男）, 髓質（分泌Catecholamine, Epinephrine/NE（過多 ＝Pheochromocytoma））\n  - Conn's dx（原發性醛皮質素增多症, 治療預後good）：特徵 ＝ 高壓低鉀頭痛夜尿； DDx＝aldosterone/renin ratio>30（Aldosterone⭡, Renin⭣）, 24 hr尿中Aldosterone⭡； Tx＝手術切除（單側）, 藥物（Spironolactone+ Amiloride for雙側）\n  - Cushing's：成因 ＝Cushing dx（80%, 腦垂Adenoma, hyperplasia）, Adrenal tumor（20%, <4cm 良性Adenoma, >6cm惡性Carcinoma, 故腎上腺tumor>4cm一概切除）, Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH, 如小細胞肺癌（長低血鉀/代謝鹼中毒））\n    - SS ＝ Buffalo hump, Central obesity, 皮膚變薄, 易瘀青, 骨質疏鬆, DM, Hirsutism, Moon face；\n    - DDX  ＝ Cortisol screen（24hr尿游離Cortisol⭡/夜間給1mg Dexamethasone 但Cortisol⭡）； Cortisol Diag（Dexamethasone 0.5mg q6h for 2 days仍無抑制可確診）,  ACTH（<10（Adrenal tumor（排腹部CT）, ACTH independent）, >10（腦垂Adenoma/ Ectopic adenoma, 排腦部MRI）, >200（Small cell lung ca., 排胸部CT））\n    - Tx ＝ 手術切除腫瘤（腦垂/Adrenal tumor, 成功率80%）⭢類固醇~3年, 藥物治療（Ketoconazole抑制Cortisol合成, for 其他難手術者）\n  - Adrenal insufficiency（腎上腺功能不全）：\n    - Primary （原發性, Addison's disease）： 1st, 腎本身被破壞（自體免疫攻擊/感染 （幼兒綠膿, 腦膜炎球菌血症）/出血 （成人凝血功能異常）/藥物 （Ketoconazole, Rifampin）/遺傳性 （21-hydroxylase缺乏））\n      - Primary特異SS ＝高血鉀, Hyperpigmentation （ACTH過多刺激Melanocyte stimulating hormone）\n    - Secondary（次發性）： 腦垂體無法製造（外部壓迫/Glucocorticoid長期使用）\n    - 共同SS ＝疲倦, 體重減輕, 食慾不振, 低血壓, 低血糖, 低血鈉\n    - DDX＝ 注射250ug Cosyntropin（合成的ACTH）⭢primary無反應, secondary早期可有反應、久病可能反應差\n    - Tx ＝cortisone\n      - 用長效藥物（Dexamethasone, 可過BBB）可減少生理影響, 另外越長效Glucocorticoid越強, Mineralocorticoid作用越弱）\n      - 副作用：短期脈衝<長期少量投藥； ∴急性狼瘡用脈衝\n    - 特殊狀況 ＝Adrenal crisis（急性腎上腺危象）： 成因 ＝感染/手術/外傷/停藥 導致急性Adrenal失能； SS ＝休克, 發燒, 嗜睡； Tx ＝IV fluids + IV hydrocortisone； Critical illness related Adrenal insufficiency（Relative AI）： 重症病人腎上腺需求上升6~10x, 無法應付壓力, SS ＝休克, Tx ＝IV hydrocortisone\n  - Pheochromocytoma嗜鉻細胞瘤（＝adrenal medulla chromaffin cell tumor, 常分泌Catecholamine, 代謝物＝Metanephrine）\n    \\*cf. Paraganglioma（＝extra-adrenal paraganglia tumor, 可分泌Catecholamine）\n    - Rule of 10： 腎上外10%, 雙側侵犯10%, 家族性10%, 惡性10%）\n    - SS： 5P ＝{Pressure（高血壓）, Pain, Palpitation, Perspiration（多汗）, Pallor（血管收縮蒼白）}\n    - 診斷： 24hr尿Metanephrine⭡（也可Vanillymandelate（VMA）/Catecholamine）, CT/MRI定位, MIBG scan（if懷疑長在腎上腺外）\n    - Tx（完整切除為目標）： α-blocker/ β-blocker控血壓⭢手術\n  - Adrenal incidentaloma（偶發腎上腺腫瘤,）： 偶發腎上腺腫瘤, 排除Pheochromocytoma且有惡腫hx；DDx＝CT/MRI, CT guide FNA（主要用來評估轉移，良惡性區分不佳）；Tx＝切除 if 功能性腫瘤/ 無功能>6cm/ 惡性特徵（不規則邊界, 密度>10HU, 增強後washout<50%）\n  - Neuroblastoma（神經母細胞瘤, 5成長在腎上腺, 7成發現時已轉移, 預後差）：兒童腎上腺惡性腫瘤, 3rd兒童癌症； SS＝腹部腫塊, 發燒, 骨痛； Dx＝CT/MRI, 24hr尿VMA/HVA⭡； Tx＝手術切除+化療",
     "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 121,
-    "matched_note_scope": "primary_note",
+    "matched_note_line": 123,
+    "matched_note_scope": "primary_reaudited",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 28.28,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 121,
+        "line": 123,
         "specialty": "泌尿科",
-        "topic": "男性學",
-        "subheading": "低testosterone但想生育",
-        "content": "低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T"
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 21.76,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 6.63,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 4.97,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 4.81,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
       }
-    ]
+    ],
+    "match_reason": "重新審核題幹、選項與正答後，此題核心概念和本 ## 段落的標題/內容最相近；本段落為「腎上腺（考題0）」。",
+    "matched_note_full_section": "## 腎上腺（考題0）\n\n- Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona glomerulosa （球狀帶, Mineralocorticoid（Grami葛萊美球場）, 又名Aldosterone, 與血壓有關, 過多 ＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多 ＝Cushing（口訣：束庫帶）, 過少 ＝Addison's）,Zona Reticulosa （網狀帶, Androgen 口訣＝網路宅男）, 髓質（分泌Catecholamine, Epinephrine/NE（過多 ＝Pheochromocytoma））\n  - Conn's dx（原發性醛皮質素增多症, 治療預後good）：特徵 ＝ 高壓低鉀頭痛夜尿； DDx＝aldosterone/renin ratio>30（Aldosterone⭡, Renin⭣）, 24 hr尿中Aldosterone⭡； Tx＝手術切除（單側）, 藥物（Spironolactone+ Amiloride for雙側）\n  - Cushing's：成因 ＝Cushing dx（80%, 腦垂Adenoma, hyperplasia）, Adrenal tumor（20%, <4cm 良性Adenoma, >6cm惡性Carcinoma, 故腎上腺tumor>4cm一概切除）, Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH, 如小細胞肺癌（長低血鉀/代謝鹼中毒））\n    - SS ＝ Buffalo hump, Central obesity, 皮膚變薄, 易瘀青, 骨質疏鬆, DM, Hirsutism, Moon face；\n    - DDX  ＝ Cortisol screen（24hr尿游離Cortisol⭡/夜間給1mg Dexamethasone 但Cortisol⭡）； Cortisol Diag（Dexamethasone 0.5mg q6h for 2 days仍無抑制可確診）,  ACTH（<10（Adrenal tumor（排腹部CT）, ACTH independent）, >10（腦垂Adenoma/ Ectopic adenoma, 排腦部MRI）, >200（Small cell lung ca., 排胸部CT））\n    - Tx ＝ 手術切除腫瘤（腦垂/Adrenal tumor, 成功率80%）⭢類固醇~3年, 藥物治療（Ketoconazole抑制Cortisol合成, for 其他難手術者）\n  - Adrenal insufficiency（腎上腺功能不全）：\n    - Primary （原發性, Addison's disease）： 1st, 腎本身被破壞（自體免疫攻擊/感染 （幼兒綠膿, 腦膜炎球菌血症）/出血 （成人凝血功能異常）/藥物 （Ketoconazole, Rifampin）/遺傳性 （21-hydroxylase缺乏））\n      - Primary特異SS ＝高血鉀, Hyperpigmentation （ACTH過多刺激Melanocyte stimulating hormone）\n    - Secondary（次發性）： 腦垂體無法製造（外部壓迫/Glucocorticoid長期使用）\n    - 共同SS ＝疲倦, 體重減輕, 食慾不振, 低血壓, 低血糖, 低血鈉\n    - DDX＝ 注射250ug Cosyntropin（合成的ACTH）⭢primary無反應, secondary早期可有反應、久病可能反應差\n    - Tx ＝cortisone\n      - 用長效藥物（Dexamethasone, 可過BBB）可減少生理影響, 另外越長效Glucocorticoid越強, Mineralocorticoid作用越弱）\n      - 副作用：短期脈衝<長期少量投藥； ∴急性狼瘡用脈衝\n    - 特殊狀況 ＝Adrenal crisis（急性腎上腺危象）： 成因 ＝感染/手術/外傷/停藥 導致急性Adrenal失能； SS ＝休克, 發燒, 嗜睡； Tx ＝IV fluids + IV hydrocortisone； Critical illness related Adrenal insufficiency（Relative AI）： 重症病人腎上腺需求上升6~10x, 無法應付壓力, SS ＝休克, Tx ＝IV hydrocortisone\n  - Pheochromocytoma嗜鉻細胞瘤（＝adrenal medulla chromaffin cell tumor, 常分泌Catecholamine, 代謝物＝Metanephrine）\n    \\*cf. Paraganglioma（＝extra-adrenal paraganglia tumor, 可分泌Catecholamine）\n    - Rule of 10： 腎上外10%, 雙側侵犯10%, 家族性10%, 惡性10%）\n    - SS： 5P ＝{Pressure（高血壓）, Pain, Palpitation, Perspiration（多汗）, Pallor（血管收縮蒼白）}\n    - 診斷： 24hr尿Metanephrine⭡（也可Vanillymandelate（VMA）/Catecholamine）, CT/MRI定位, MIBG scan（if懷疑長在腎上腺外）\n    - Tx（完整切除為目標）： α-blocker/ β-blocker控血壓⭢手術\n  - Adrenal incidentaloma（偶發腎上腺腫瘤,）： 偶發腎上腺腫瘤, 排除Pheochromocytoma且有惡腫hx；DDx＝CT/MRI, CT guide FNA（主要用來評估轉移，良惡性區分不佳）；Tx＝切除 if 功能性腫瘤/ 無功能>6cm/ 惡性特徵（不規則邊界, 密度>10HU, 增強後washout<50%）\n  - Neuroblastoma（神經母細胞瘤, 5成長在腎上腺, 7成發現時已轉移, 預後差）：兒童腎上腺惡性腫瘤, 3rd兒童癌症； SS＝腹部腫塊, 發燒, 骨痛； Dx＝CT/MRI, 24hr尿VMA/HVA⭡； Tx＝手術切除+化療"
   },
   {
     "exam_session": "114_2",
@@ -1556,28 +3148,60 @@
       "D": "追 蹤過程中若出現肝臟或肺臟單一遠端轉移，在謹慎的評估後，有些患者仍然可以接受轉移腫瘤切除手術"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「胃腸道」。可用筆記重點判斷：胃腸道",
-    "classified_specialty": "小兒科",
-    "classified_topic": "小兒GI",
-    "matched_note_subheading": "胃腸道",
-    "matched_note_heading_path": "# 小兒科 > ## 小兒GI > - 胃腸道",
-    "matched_note_excerpt": "胃腸道",
-    "matched_note_path": "01_notes/醫學四/note_4.md",
-    "matched_note_line": 55,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 A。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學四",
-        "source_note": "01_notes/醫學四/note_4.md",
+        "score": 7.26,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 208,
+        "specialty": "骨科",
+        "topic": "骨盆與髖部（考題6）"
+      },
+      {
+        "score": 4.65,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
         "line": 55,
-        "specialty": "小兒科",
-        "topic": "小兒GI",
-        "subheading": "胃腸道",
-        "content": "胃腸道"
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 4.61,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 4.29,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.55,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（骨盆與髖部（考題6）(7.3)、外生殖器（考題20）(4.7)、下泌尿道（考題10）(4.6)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1591,7 +3215,7 @@
       "D": "腹 腔鏡膽囊切除手術應用於急性膽囊炎，需要較長的手術時間且有較高機率造成膽管損傷"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 A。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1599,9 +3223,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 4.62,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 4.1,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 2.81,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 2.78,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
+      },
+      {
+        "score": 2.74,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（外生殖器（考題20）(4.6)、腎上腺（考題0）(4.1)、骨腫瘤（考題4）(2.8)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1615,28 +3282,28 @@
       "D": "腹 腔鏡手術的腹內氣壓應維持在25mmHg左右，心輸出量（cardiac output）才可以維持穩定"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「神經支配」。可用筆記重點判斷：神經支配：pudendal n.（尿道外括約肌收放）,Hypogastric n.（交感T10-L2, 下腹神經, 留尿＝{α膀胱頸收縮, β膀胱肌肉放鬆}）, Pelvic n.（副交感S2-4, 骨盆神經）",
-    "classified_specialty": "婦科",
-    "classified_topic": "尿路動力學",
-    "matched_note_subheading": "神經支配",
-    "matched_note_heading_path": "# 婦科 > ## 尿路動力學 > - 神經支配",
-    "matched_note_excerpt": "神經支配：pudendal n.（尿道外括約肌收放）,Hypogastric n.（交感T10-L2, 下腹神經, 留尿＝{α膀胱頸收縮, β膀胱肌肉放鬆}）, Pelvic n.（副交感S2-4, 骨盆神經）",
-    "matched_note_path": "01_notes/醫學六/note_6.md",
-    "matched_note_line": 213,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學六",
-        "source_note": "01_notes/醫學六/note_6.md",
-        "line": 213,
-        "specialty": "婦科",
-        "topic": "尿路動力學",
-        "subheading": "神經支配",
-        "content": "神經支配：pudendal n.（尿道外括約肌收放）,Hypogastric n.（交感T10-L2, 下腹神經, 留尿＝{α膀胱頸收縮, β膀胱肌肉放鬆}）, Pelvic n.（副交感S2-4, 骨盆神經）"
+        "score": 1.32,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（外生殖器（考題20）(1.3)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1650,7 +3317,7 @@
       "D": "膝 關節是色素性絨毛結節性滑膜炎（pigmented villonodular synovitis）最常見的侵犯部位"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1658,9 +3325,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 2.6,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 2.41,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.34,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 1.56,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 1.49,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎上腺（考題0）(2.6)、腎臟疾病（考題54）(2.4)、骨腫瘤（考題4）(2.3)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1674,7 +3384,7 @@
       "D": "若 合併大血管斷裂，先將骨折部位穩定再修補血管"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1682,9 +3392,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 1.85,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 186,
+        "specialty": "骨科",
+        "topic": "足踝關節（考題2）"
+      },
+      {
+        "score": 1.79,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      },
+      {
+        "score": 1.73,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 208,
+        "specialty": "骨科",
+        "topic": "骨盆與髖部（考題6）"
+      },
+      {
+        "score": 1.7,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
+      },
+      {
+        "score": 1.49,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（足踝關節（考題2）(1.9)、內科骨疾病（考題2）(1.8)、骨盆與髖部（考題6）(1.7)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1698,28 +3451,60 @@
       "D": "尿 道口有血跡時，置放 Foley氏導尿管（Foley catheter）前應先安排逆行性尿道造影（retrograde urethrogram）檢查"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。題幹關鍵字最接近「一堆classification」。可用筆記重點判斷：一堆classification",
-    "classified_specialty": "骨科",
-    "classified_topic": "骨盆與髖部",
-    "matched_note_subheading": "一堆classification",
-    "matched_note_heading_path": "# 骨科 > ## 骨盆與髖部 > - 一堆classification",
-    "matched_note_excerpt": "一堆classification",
-    "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 210,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 B。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 12.16,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 210,
+        "line": 208,
         "specialty": "骨科",
-        "topic": "骨盆與髖部",
-        "subheading": "一堆classification",
-        "content": "一堆classification"
+        "topic": "骨盆與髖部（考題6）"
+      },
+      {
+        "score": 1.97,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 1.85,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 186,
+        "specialty": "骨科",
+        "topic": "足踝關節（考題2）"
+      },
+      {
+        "score": 1.79,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      },
+      {
+        "score": 1.7,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（骨盆與髖部（考題6）(12.2)、下泌尿道（考題10）(2.0)、足踝關節（考題2）(1.9)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1733,7 +3518,7 @@
       "D": "最 佳的治療方式是以手術復位後骨釘固定"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1741,9 +3526,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 6.25,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
+      },
+      {
+        "score": 5.95,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      },
+      {
+        "score": 5.73,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 104,
+        "specialty": "泌尿科",
+        "topic": "泌尿道功能工程（考題5）"
+      },
+      {
+        "score": 5.51,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
+      },
+      {
+        "score": 3.56,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（上臂與前臂（考點多）（考題8）(6.3)、內科骨疾病（考題2）(6.0)、泌尿道功能工程（考題5）(5.7)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1757,7 +3585,7 @@
       "D": "甲 狀腺激素（thyroid hormone）"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1765,9 +3593,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 4.33,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      },
+      {
+        "score": 3.07,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.99,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 2.62,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 2.33,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（內科骨疾病（考題2）(4.3)、腎臟疾病（考題54）(3.1)、骨腫瘤（考題4）(3.0)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1781,28 +3652,60 @@
       "D": "月 狀骨切除及部分腕關節融合（lunate excision and partial carpal fusion）"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「Cholinesterase inhibitor」。可用筆記重點判斷：Cholinesterase inhibitor：同時作用在副交感神經產生噁心/分泌物變多等副作用；Tx＝解毒時合併Anticholinergic drugs",
-    "classified_specialty": "麻醉科",
-    "classified_topic": "神經肌肉阻斷劑",
-    "matched_note_subheading": "Cholinesterase inhibitor",
-    "matched_note_heading_path": "# 麻醉科 > ## 神經肌肉阻斷劑 > - Cholinesterase inhibitor",
-    "matched_note_excerpt": "Cholinesterase inhibitor：同時作用在副交感神經產生噁心/分泌物變多等副作用；Tx＝解毒時合併Anticholinergic drugs",
-    "matched_note_path": "01_notes/醫學六/note_6.md",
-    "matched_note_line": 524,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 A。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學六",
-        "source_note": "01_notes/醫學六/note_6.md",
-        "line": 524,
-        "specialty": "麻醉科",
-        "topic": "神經肌肉阻斷劑",
-        "subheading": "Cholinesterase inhibitor",
-        "content": "Cholinesterase inhibitor：同時作用在副交感神經產生噁心/分泌物變多等副作用；Tx＝解毒時合併Anticholinergic drugs"
+        "score": 7.16,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 6.93,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 4.51,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      },
+      {
+        "score": 3.52,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 279,
+        "specialty": "骨科",
+        "topic": "小兒骨科（考題10）"
+      },
+      {
+        "score": 3.38,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 234,
+        "specialty": "骨科",
+        "topic": "手部（考題8）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(7.2)、外生殖器（考題20）(6.9)、攝護腺（考題17）(4.5)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1816,7 +3719,7 @@
       "D": "腹 部反射（abdominal reflex）通常是正常的，並可藉此與肌萎縮性脊髓側索硬化症（amyotrophic lateral sclerosis）鑑別診斷"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1824,9 +3727,36 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 6.27,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 158,
+        "specialty": "骨科",
+        "topic": "脊椎與神經根（考題8）"
+      },
+      {
+        "score": 2.84,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 279,
+        "specialty": "骨科",
+        "topic": "小兒骨科（考題10）"
+      },
+      {
+        "score": 1.49,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（脊椎與神經根（考題8）(6.3)、小兒骨科（考題10）(2.8)、結石（考題15）(1.5)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1840,7 +3770,7 @@
       "D": "g emellus"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 B。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1848,9 +3778,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 6.87,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 279,
+        "specialty": "骨科",
+        "topic": "小兒骨科（考題10）"
+      },
+      {
+        "score": 5.89,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 208,
+        "specialty": "骨科",
+        "topic": "骨盆與髖部（考題6）"
+      },
+      {
+        "score": 3.8,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
+      },
+      {
+        "score": 2.26,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 186,
+        "specialty": "骨科",
+        "topic": "足踝關節（考題2）"
+      },
+      {
+        "score": 2.04,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（小兒骨科（考題10）(6.9)、骨盆與髖部（考題6）(5.9)、上臂與前臂（考點多）（考題8）(3.8)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1864,7 +3837,7 @@
       "D": "核 子閃爍尿路攝影（nuclear scintigraphy）"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 A。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1872,9 +3845,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 8.43,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 6.62,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      },
+      {
+        "score": 6.58,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 4.53,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 2.64,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(8.4)、攝護腺（考題17）(6.6)、下泌尿道（考題10）(6.6)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1888,28 +3904,60 @@
       "D": "腎 上腺瘤大部分為影像檢查時意外發現"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「低testosterone但想生育」。可用筆記重點判斷：低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T",
+    "reference_explanation": "答案為 A。本題重新對應到「腎上腺（考題0）」，可先用該 ## 段落複習相關考點。",
     "classified_specialty": "泌尿科",
-    "classified_topic": "男性學",
-    "matched_note_subheading": "低testosterone但想生育",
-    "matched_note_heading_path": "# 泌尿科 > ## 男性學 > - 低testosterone但想生育",
-    "matched_note_excerpt": "低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T",
+    "classified_topic": "腎上腺（考題0）",
+    "matched_note_subheading": "腎上腺（考題0）",
+    "matched_note_heading_path": "# 泌尿科 > ## 腎上腺（考題0）",
+    "matched_note_excerpt": "## 腎上腺（考題0）\n\n- Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona glomerulosa （球狀帶, Mineralocorticoid（Grami葛萊美球場）, 又名Aldosterone, 與血壓有關, 過多 ＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多 ＝Cushing（口訣：束庫帶）, 過少 ＝Addison's）,Zona Reticulosa （網狀帶, Androgen 口訣＝網路宅男）, 髓質（分泌Catecholamine, Epinephrine/NE（過多 ＝Pheochromocytoma））\n  - Conn's dx（原發性醛皮質素增多症, 治療預後good）：特徵 ＝ 高壓低鉀頭痛夜尿； DDx＝aldosterone/renin ratio>30（Aldosterone⭡, Renin⭣）, 24 hr尿中Aldosterone⭡； Tx＝手術切除（單側）, 藥物（Spironolactone+ Amiloride for雙側）\n  - Cushing's：成因 ＝Cushing dx（80%, 腦垂Adenoma, hyperplasia）, Adrenal tumor（20%, <4cm 良性Adenoma, >6cm惡性Carcinoma, 故腎上腺tumor>4cm一概切除）, Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH, 如小細胞肺癌（長低血鉀/代謝鹼中毒））\n    - SS ＝ Buffalo hump, Central obesity, 皮膚變薄, 易瘀青, 骨質疏鬆, DM, Hirsutism, Moon face；\n    - DDX  ＝ Cortisol screen（24hr尿游離Cortisol⭡/夜間給1mg Dexamethasone 但Cortisol⭡）； Cortisol Diag（Dexamethasone 0.5mg q6h for 2 days仍無抑制可確診）,  ACTH（<10（Adrenal tumor（排腹部CT）, ACTH independent）, >10（腦垂Adenoma/ Ectopic adenoma, 排腦部MRI）, >200（Small cell lung ca., 排胸部CT））\n    - Tx ＝ 手術切除腫瘤（腦垂/Adrenal tumor, 成功率80%）⭢類固醇~3年, 藥物治療（Ketoconazole抑制Cortisol合成, for 其他難手術者）\n  - Adrenal insufficiency（腎上腺功能不全）：\n    - Primary （原發性, Addison's disease）： 1st, 腎本身被破壞（自體免疫攻擊/感染 （幼兒綠膿, 腦膜炎球菌血症）/出血 （成人凝血功能異常）/藥物 （Ketoconazole, Rifampin）/遺傳性 （21-hydroxylase缺乏））\n      - Primary特異SS ＝高血鉀, Hyperpigmentation （ACTH過多刺激Melanocyte stimulating hormone）\n    - Secondary（次發性）： 腦垂體無法製造（外部壓迫/Glucocorticoid長期使用）\n    - 共同SS ＝疲倦, 體重減輕, 食慾不振, 低血壓, 低血糖, 低血鈉\n    - DDX＝ 注射250ug Cosyntropin（合成的ACTH）⭢primary無反應, secondary早期可有反應、久病可能反應差\n    - Tx ＝cortisone\n      - 用長效藥物（Dexamethasone, 可過BBB）可減少生理影響, 另外越長效Glucocorticoid越強, Mineralocorticoid作用越弱）\n      - 副作用：短期脈衝<長期少量投藥； ∴急性狼瘡用脈衝\n    - 特殊狀況 ＝Adrenal crisis（急性腎上腺危象）： 成因 ＝感染/手術/外傷/停藥 導致急性Adrenal失能； SS ＝休克, 發燒, 嗜睡； Tx ＝IV fluids + IV hydrocortisone； Critical illness related Adrenal insufficiency（Relative AI）： 重症病人腎上腺需求上升6~10x, 無法應付壓力, SS ＝休克, Tx ＝IV hydrocortisone\n  - Pheochromocytoma嗜鉻細胞瘤（＝adrenal medulla chromaffin cell tumor, 常分泌Catecholamine, 代謝物＝Metanephrine）\n    \\*cf. Paraganglioma（＝extra-adrenal paraganglia tumor, 可分泌Catecholamine）\n    - Rule of 10： 腎上外10%, 雙側侵犯10%, 家族性10%, 惡性10%）\n    - SS： 5P ＝{Pressure（高血壓）, Pain, Palpitation, Perspiration（多汗）, Pallor（血管收縮蒼白）}\n    - 診斷： 24hr尿Metanephrine⭡（也可Vanillymandelate（VMA）/Catecholamine）, CT/MRI定位, MIBG scan（if懷疑長在腎上腺外）\n    - Tx（完整切除為目標）： α-blocker/ β-blocker控血壓⭢手術\n  - Adrenal incidentaloma（偶發腎上腺腫瘤,）： 偶發腎上腺腫瘤, 排除Pheochromocytoma且有惡腫hx；DDx＝CT/MRI, CT guide FNA（主要用來評估轉移，良惡性區分不佳）；Tx＝切除 if 功能性腫瘤/ 無功能>6cm/ 惡性特徵（不規則邊界, 密度>10HU, 增強後washout<50%）\n  - Neuroblastoma（神經母細胞瘤, 5成長在腎上腺, 7成發現時已轉移, 預後差）：兒童腎上腺惡性腫瘤, 3rd兒童癌症； SS＝腹部腫塊, 發燒, 骨痛； Dx＝CT/MRI, 24hr尿VMA/HVA⭡； Tx＝手術切除+化療",
     "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 121,
-    "matched_note_scope": "primary_note",
+    "matched_note_line": 123,
+    "matched_note_scope": "primary_reaudited",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 20.89,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 121,
+        "line": 123,
         "specialty": "泌尿科",
-        "topic": "男性學",
-        "subheading": "低testosterone但想生育",
-        "content": "低testosterone但想生育：禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）；可用SERM（clomiphene）, aromatase inhibitor, hCG刺激內源性T"
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 2.78,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 1.68,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 1.26,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
+      },
+      {
+        "score": 1.09,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
       }
-    ]
+    ],
+    "match_reason": "重新審核題幹、選項與正答後，此題核心概念和本 ## 段落的標題/內容最相近；本段落為「腎上腺（考題0）」。",
+    "matched_note_full_section": "## 腎上腺（考題0）\n\n- Anatomy： 皮質（分三層, 從外到內（GFR, 醛皮性）： Zona glomerulosa （球狀帶, Mineralocorticoid（Grami葛萊美球場）, 又名Aldosterone, 與血壓有關, 過多 ＝Conn's）, Zona Fasciculata （束狀帶, Glucocorticoid, 又名cortisol, 過多 ＝Cushing（口訣：束庫帶）, 過少 ＝Addison's）,Zona Reticulosa （網狀帶, Androgen 口訣＝網路宅男）, 髓質（分泌Catecholamine, Epinephrine/NE（過多 ＝Pheochromocytoma））\n  - Conn's dx（原發性醛皮質素增多症, 治療預後good）：特徵 ＝ 高壓低鉀頭痛夜尿； DDx＝aldosterone/renin ratio>30（Aldosterone⭡, Renin⭣）, 24 hr尿中Aldosterone⭡； Tx＝手術切除（單側）, 藥物（Spironolactone+ Amiloride for雙側）\n  - Cushing's：成因 ＝Cushing dx（80%, 腦垂Adenoma, hyperplasia）, Adrenal tumor（20%, <4cm 良性Adenoma, >6cm惡性Carcinoma, 故腎上腺tumor>4cm一概切除）, Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH, 如小細胞肺癌（長低血鉀/代謝鹼中毒））\n    - SS ＝ Buffalo hump, Central obesity, 皮膚變薄, 易瘀青, 骨質疏鬆, DM, Hirsutism, Moon face；\n    - DDX  ＝ Cortisol screen（24hr尿游離Cortisol⭡/夜間給1mg Dexamethasone 但Cortisol⭡）； Cortisol Diag（Dexamethasone 0.5mg q6h for 2 days仍無抑制可確診）,  ACTH（<10（Adrenal tumor（排腹部CT）, ACTH independent）, >10（腦垂Adenoma/ Ectopic adenoma, 排腦部MRI）, >200（Small cell lung ca., 排胸部CT））\n    - Tx ＝ 手術切除腫瘤（腦垂/Adrenal tumor, 成功率80%）⭢類固醇~3年, 藥物治療（Ketoconazole抑制Cortisol合成, for 其他難手術者）\n  - Adrenal insufficiency（腎上腺功能不全）：\n    - Primary （原發性, Addison's disease）： 1st, 腎本身被破壞（自體免疫攻擊/感染 （幼兒綠膿, 腦膜炎球菌血症）/出血 （成人凝血功能異常）/藥物 （Ketoconazole, Rifampin）/遺傳性 （21-hydroxylase缺乏））\n      - Primary特異SS ＝高血鉀, Hyperpigmentation （ACTH過多刺激Melanocyte stimulating hormone）\n    - Secondary（次發性）： 腦垂體無法製造（外部壓迫/Glucocorticoid長期使用）\n    - 共同SS ＝疲倦, 體重減輕, 食慾不振, 低血壓, 低血糖, 低血鈉\n    - DDX＝ 注射250ug Cosyntropin（合成的ACTH）⭢primary無反應, secondary早期可有反應、久病可能反應差\n    - Tx ＝cortisone\n      - 用長效藥物（Dexamethasone, 可過BBB）可減少生理影響, 另外越長效Glucocorticoid越強, Mineralocorticoid作用越弱）\n      - 副作用：短期脈衝<長期少量投藥； ∴急性狼瘡用脈衝\n    - 特殊狀況 ＝Adrenal crisis（急性腎上腺危象）： 成因 ＝感染/手術/外傷/停藥 導致急性Adrenal失能； SS ＝休克, 發燒, 嗜睡； Tx ＝IV fluids + IV hydrocortisone； Critical illness related Adrenal insufficiency（Relative AI）： 重症病人腎上腺需求上升6~10x, 無法應付壓力, SS ＝休克, Tx ＝IV hydrocortisone\n  - Pheochromocytoma嗜鉻細胞瘤（＝adrenal medulla chromaffin cell tumor, 常分泌Catecholamine, 代謝物＝Metanephrine）\n    \\*cf. Paraganglioma（＝extra-adrenal paraganglia tumor, 可分泌Catecholamine）\n    - Rule of 10： 腎上外10%, 雙側侵犯10%, 家族性10%, 惡性10%）\n    - SS： 5P ＝{Pressure（高血壓）, Pain, Palpitation, Perspiration（多汗）, Pallor（血管收縮蒼白）}\n    - 診斷： 24hr尿Metanephrine⭡（也可Vanillymandelate（VMA）/Catecholamine）, CT/MRI定位, MIBG scan（if懷疑長在腎上腺外）\n    - Tx（完整切除為目標）： α-blocker/ β-blocker控血壓⭢手術\n  - Adrenal incidentaloma（偶發腎上腺腫瘤,）： 偶發腎上腺腫瘤, 排除Pheochromocytoma且有惡腫hx；DDx＝CT/MRI, CT guide FNA（主要用來評估轉移，良惡性區分不佳）；Tx＝切除 if 功能性腫瘤/ 無功能>6cm/ 惡性特徵（不規則邊界, 密度>10HU, 增強後washout<50%）\n  - Neuroblastoma（神經母細胞瘤, 5成長在腎上腺, 7成發現時已轉移, 預後差）：兒童腎上腺惡性腫瘤, 3rd兒童癌症； SS＝腹部腫塊, 發燒, 骨痛； Dx＝CT/MRI, 24hr尿VMA/HVA⭡； Tx＝手術切除+化療"
   },
   {
     "exam_session": "114_2",
@@ -1923,7 +3971,7 @@
       "D": "c entral zone ＞ transition zone ＞ peripheral zone"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -1931,9 +3979,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 7.81,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      },
+      {
+        "score": 3.71,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 2.62,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 2.09,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 186,
+        "specialty": "骨科",
+        "topic": "足踝關節（考題2）"
+      },
+      {
+        "score": 1.86,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（攝護腺（考題17）(7.8)、骨腫瘤（考題4）(3.7)、下泌尿道（考題10）(2.6)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1947,28 +4038,60 @@
       "D": "如 果懷疑是良性腫瘤時，可以暫時不做處理追蹤即可"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。題幹關鍵字最接近「腎臟腫瘤」。可用筆記重點判斷：腎臟腫瘤",
-    "classified_specialty": "泌尿科",
-    "classified_topic": "腎臟疾病",
-    "matched_note_subheading": "腎臟腫瘤",
-    "matched_note_heading_path": "# 泌尿科 > ## 腎臟疾病 > - 腎臟腫瘤",
-    "matched_note_excerpt": "腎臟腫瘤",
-    "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 12,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 14.01,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 12,
+        "line": 3,
         "specialty": "泌尿科",
-        "topic": "腎臟疾病",
-        "subheading": "腎臟腫瘤",
-        "content": "腎臟腫瘤"
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 8.59,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 8.48,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      },
+      {
+        "score": 8.06,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 4.1,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 298,
+        "specialty": "骨科",
+        "topic": "內科骨疾病（考題2）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(14.0)、腎上腺（考題0）(8.6)、攝護腺（考題17）(8.5)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -1982,28 +4105,60 @@
       "D": "膀 胱感覺損傷 （impaired bladder sensation）"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「胚胎冷凍原則」。可用筆記重點判斷：胚胎冷凍原則：細胞越小/越成熟＝好冷凍（精子>囊胚期胚胎>受精卵>卵子）",
-    "classified_specialty": "婦科",
-    "classified_topic": "Infertility",
-    "matched_note_subheading": "胚胎冷凍原則",
-    "matched_note_heading_path": "# 婦科 > ## Infertility > - 胚胎冷凍原則",
-    "matched_note_excerpt": "胚胎冷凍原則：細胞越小/越成熟＝好冷凍（精子>囊胚期胚胎>受精卵>卵子）",
-    "matched_note_path": "01_notes/醫學六/note_6.md",
-    "matched_note_line": 199,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_low_confidence",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學六",
-        "source_note": "01_notes/醫學六/note_6.md",
-        "line": 199,
-        "specialty": "婦科",
-        "topic": "Infertility",
-        "subheading": "胚胎冷凍原則",
-        "content": "胚胎冷凍原則：細胞越小/越成熟＝好冷凍（精子>囊胚期胚胎>受精卵>卵子）"
+        "score": 8.21,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 5.12,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 104,
+        "specialty": "泌尿科",
+        "topic": "泌尿道功能工程（考題5）"
+      },
+      {
+        "score": 4.43,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 2.65,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      },
+      {
+        "score": 1.91,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（下泌尿道（考題10）(8.2)、泌尿道功能工程（考題5）(5.1)、腎臟疾病（考題54）(4.4)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -2017,7 +4172,7 @@
       "D": "n itric oxide"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -2025,9 +4180,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 6.09,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 4.97,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 4.92,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
+      },
+      {
+        "score": 2.44,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 104,
+        "specialty": "泌尿科",
+        "topic": "泌尿道功能工程（考題5）"
+      },
+      {
+        "score": 1.32,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（外生殖器（考題20）(6.1)、下泌尿道（考題10）(5.0)、男性學（考題69）(4.9)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -2041,17 +4239,60 @@
       "D": "單 側三套輸尿管所有分型亦適用Weigert-Meyer rule"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
-    "classified_specialty": "未匹配",
-    "classified_topic": "未匹配",
-    "matched_note_subheading": "未匹配",
-    "matched_note_heading_path": "",
-    "matched_note_excerpt": "",
-    "matched_note_path": "",
-    "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "reference_explanation": "答案為 B。本題重新對應到「下泌尿道（考題10）」，可先用該 ## 段落複習相關考點。",
+    "classified_specialty": "泌尿科",
+    "classified_topic": "下泌尿道（考題10）",
+    "matched_note_subheading": "下泌尿道（考題10）",
+    "matched_note_heading_path": "# 泌尿科 > ## 下泌尿道（考題10）",
+    "matched_note_excerpt": "## 下泌尿道（考題10）\n\n- 解剖\n  - 男：尿道口→陰莖段尿道 / 海綿體尿道→ 球部尿道→ 膜部尿道（尿道外括約肌 external urethral sphincter）→ 前列腺部尿道（精阜 verumontanum / seminal colliculus）→ 肥大的前列腺組織→ 膀胱頸（bladder neck）→ 膀胱\n- 構造異常（多遺傳性, 要手術）：\n  - 輸尿管成因\n\n    - 雙套：女多, 具遺傳性； 分類＝{不完全型（Y, 只有一條接膀胱多無症狀）, 完全型（兩條通道膀；上腎盂輸尿管易異位/ureterocele/阻塞, 下腎盂輸尿管易VUR）}； Tx＝手術\n    - Ureteropelvic junction obx（輸尿管腎盂接口處狹窄）：Mainly男左腎, 多無症狀（infant嘔吐疼痛狀）；Echo, renal scan, voiding cystourethrogram（VCUG）；Tx＝手術, 預後佳\n    - 輸尿管開口異位（女多）\n    - 膀胱輸尿管逆流（Grade I-V, III＝輕微擴大, IV＝輸尿管扭曲, V＝腎乳突壓跡消失）：成因＝瓣膜/肌肉無力（1st）, 結構異常, 發炎； Tx＝手術\n  - 膀胱成因\n\n    - Interstitial cystitis（間質性膀胱炎）：40y/o 女；SS＝頻尿、尿急、骨盆痛； DDx＝動力學膀胱張力強/順應性差, 膀胱鏡粘膜細裂出血； Tx＝飲食控制（少酒咖啡甜味劑）, 藥物（amitriptyline）, 膀胱灌藥（DMSO, lidocaine）, 手術（膀胱灌水擴張, 打肉毒）\n- 外傷\n  - 輸尿管外傷：多穿刺傷（cf. 腎/膀胱多鈍傷）, DDx＝CT（Urinoma尿液腫, 顯影劑外露）；Tx＝雙J導管引流（輸尿管受傷必備）, 手術\n  - 膀胱外傷：多撞擊鈍傷（容器狀的都多鈍傷）, 男多； DDx＝逆行膀胱攝影； Tx＝腹膜外單純破裂導尿, 腹膜內/複雜破裂手術\n- 感染：\n  - Acute Cystitis：女, DM； SS：急尿頻尿惡臭⭢直接Anti TMP-SMX 3-5天（症狀診斷, PCN類普遍抗藥不用, 驗尿/影像skip）\n  - Recurrent Cystitis：女； Tx＝移除感染源（if 尿中持續有菌）, 預防性抗生素（if 反覆治好又感染）\n  - Urinary TB：>30y/o成人, SS＝多無症狀（if 腎/輸尿管/攝護腺感染）, 刺激/血尿（if 膀胱炎）； DDx＝尿檢（持續濃尿+培養陰性）, 觸診（輸精管球狀結節bead chain）, X ray（Moth-Eaten腎盞）, TB培養（fast stain/ 晨尿）； Tx＝抗結核藥物\n- 膀胱癌（2nd泌尿道惡腫, cf. 攝護腺癌）：老白人病, 75％診斷時膀胱局限； RF＝抽菸, 橡膠, 苯, 膀胱受傷, 洗腎； 種類＝移形上皮（90%）, SCC（5%, 伴隨發炎, 血尿, 埃及血吸蟲）, Mixed carcinoma, Papilloma（＝PUNLMP低惡性泌尿乳突瘤）； SS＝間歇性血尿, 頻尿； DDx＝膀胱鏡（確診）, 影像（判斷轉移, X for肺, bone scan for骨）, Lab/cytology不準； Tx＝手術（TURBT）+膀胱灌藥物（Mitomycin C, BCG）⭢radical cystectomy（侵犯肌肉層（T2）, 切骨盆器官, 合併骨盆淋巴廓清）⭢chemo（333 rule, 1/3反應, 1/3縮小, 1/3沒反應）, Immune",
+    "matched_note_path": "01_notes/醫學五/note_5.md",
+    "matched_note_line": 32,
+    "matched_note_scope": "primary_reaudited",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 19.75,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 10.97,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 3.59,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 91,
+        "specialty": "泌尿科",
+        "topic": "結石（考題15）"
+      },
+      {
+        "score": 2.73,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 2.61,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
+      }
+    ],
+    "match_reason": "重新審核題幹、選項與正答後，此題核心概念和本 ## 段落的標題/內容最相近；本段落為「下泌尿道（考題10）」。",
+    "matched_note_full_section": "## 下泌尿道（考題10）\n\n- 解剖\n  - 男：尿道口→陰莖段尿道 / 海綿體尿道→ 球部尿道→ 膜部尿道（尿道外括約肌 external urethral sphincter）→ 前列腺部尿道（精阜 verumontanum / seminal colliculus）→ 肥大的前列腺組織→ 膀胱頸（bladder neck）→ 膀胱\n- 構造異常（多遺傳性, 要手術）：\n  - 輸尿管成因\n\n    - 雙套：女多, 具遺傳性； 分類＝{不完全型（Y, 只有一條接膀胱多無症狀）, 完全型（兩條通道膀；上腎盂輸尿管易異位/ureterocele/阻塞, 下腎盂輸尿管易VUR）}； Tx＝手術\n    - Ureteropelvic junction obx（輸尿管腎盂接口處狹窄）：Mainly男左腎, 多無症狀（infant嘔吐疼痛狀）；Echo, renal scan, voiding cystourethrogram（VCUG）；Tx＝手術, 預後佳\n    - 輸尿管開口異位（女多）\n    - 膀胱輸尿管逆流（Grade I-V, III＝輕微擴大, IV＝輸尿管扭曲, V＝腎乳突壓跡消失）：成因＝瓣膜/肌肉無力（1st）, 結構異常, 發炎； Tx＝手術\n  - 膀胱成因\n\n    - Interstitial cystitis（間質性膀胱炎）：40y/o 女；SS＝頻尿、尿急、骨盆痛； DDx＝動力學膀胱張力強/順應性差, 膀胱鏡粘膜細裂出血； Tx＝飲食控制（少酒咖啡甜味劑）, 藥物（amitriptyline）, 膀胱灌藥（DMSO, lidocaine）, 手術（膀胱灌水擴張, 打肉毒）\n- 外傷\n  - 輸尿管外傷：多穿刺傷（cf. 腎/膀胱多鈍傷）, DDx＝CT（Urinoma尿液腫, 顯影劑外露）；Tx＝雙J導管引流（輸尿管受傷必備）, 手術\n  - 膀胱外傷：多撞擊鈍傷（容器狀的都多鈍傷）, 男多； DDx＝逆行膀胱攝影； Tx＝腹膜外單純破裂導尿, 腹膜內/複雜破裂手術\n- 感染：\n  - Acute Cystitis：女, DM； SS：急尿頻尿惡臭⭢直接Anti TMP-SMX 3-5天（症狀診斷, PCN類普遍抗藥不用, 驗尿/影像skip）\n  - Recurrent Cystitis：女； Tx＝移除感染源（if 尿中持續有菌）, 預防性抗生素（if 反覆治好又感染）\n  - Urinary TB：>30y/o成人, SS＝多無症狀（if 腎/輸尿管/攝護腺感染）, 刺激/血尿（if 膀胱炎）； DDx＝尿檢（持續濃尿+培養陰性）, 觸診（輸精管球狀結節bead chain）, X ray（Moth-Eaten腎盞）, TB培養（fast stain/ 晨尿）； Tx＝抗結核藥物\n- 膀胱癌（2nd泌尿道惡腫, cf. 攝護腺癌）：老白人病, 75％診斷時膀胱局限； RF＝抽菸, 橡膠, 苯, 膀胱受傷, 洗腎； 種類＝移形上皮（90%）, SCC（5%, 伴隨發炎, 血尿, 埃及血吸蟲）, Mixed carcinoma, Papilloma（＝PUNLMP低惡性泌尿乳突瘤）； SS＝間歇性血尿, 頻尿； DDx＝膀胱鏡（確診）, 影像（判斷轉移, X for肺, bone scan for骨）, Lab/cytology不準； Tx＝手術（TURBT）+膀胱灌藥物（Mitomycin C, BCG）⭢radical cystectomy（侵犯肌肉層（T2）, 切骨盆器官, 合併骨盆淋巴廓清）⭢chemo（333 rule, 1/3反應, 1/3縮小, 1/3沒反應）, Immune"
   },
   {
     "exam_session": "114_2",
@@ -2065,28 +4306,60 @@
       "D": "1 0 cm HO 2"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「Urodynamics」。可用筆記重點判斷：Urodynamics： 評估內容＝Urinary flow rate（尿流速圖, 鐘型曲線, 最大流速<15懷疑<10確診阻塞/逼尿功能障礙）, Cystometrogram CMG（膀胱壓力圖； 逼尿肌壓力（Pdet）＝膀胱內壓（Pves）-腹內壓（Pabd）； 膀胱體積＝150ml開始尿意, 450最大容積）, Urethral pressure profile/Sphincter electromyography（尿道壓力圖/括",
-    "classified_specialty": "泌尿科",
-    "classified_topic": "泌尿道功能工程",
-    "matched_note_subheading": "Urodynamics",
-    "matched_note_heading_path": "# 泌尿科 > ## 泌尿道功能工程 > - Urodynamics",
-    "matched_note_excerpt": "Urodynamics： 評估內容＝Urinary flow rate（尿流速圖, 鐘型曲線, 最大流速<15懷疑<10確診阻塞/逼尿功能障礙）, Cystometrogram CMG（膀胱壓力圖； 逼尿肌壓力（Pdet）＝膀胱內壓（Pves）-腹內壓（Pabd）； 膀胱體積＝150ml開始尿意, 450最大容積）, Urethral pressure profile/Sphincter electromyography（尿道壓力圖/括約肌電圖 for括約肌偵測）, Videourodynamic（尿路攝影＝影像＋pressure-flow/CMG）",
-    "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 106,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 A。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 19.11,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 106,
+        "line": 104,
         "specialty": "泌尿科",
-        "topic": "泌尿道功能工程",
-        "subheading": "Urodynamics",
-        "content": "Urodynamics： 評估內容＝Urinary flow rate（尿流速圖, 鐘型曲線, 最大流速<15懷疑<10確診阻塞/逼尿功能障礙）, Cystometrogram CMG（膀胱壓力圖； 逼尿肌壓力（Pdet）＝膀胱內壓（Pves）-腹內壓（Pabd）； 膀胱體積＝150ml開始尿意, 450最大容積）, Urethral pressure profile/Sphincter electromyography（尿道壓力圖/括約肌電圖 for括約肌偵測）, Videourodynamic（尿路攝影＝影像＋pressure-flow/CMG）"
+        "topic": "泌尿道功能工程（考題5）"
+      },
+      {
+        "score": 13.2,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 8.2,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      },
+      {
+        "score": 6.49,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 5.21,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 98,
+        "specialty": "泌尿科",
+        "topic": "泌尿道細菌感染（考題0）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（泌尿道功能工程（考題5）(19.1)、下泌尿道（考題10）(13.2)、攝護腺（考題17）(8.2)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -2100,7 +4373,7 @@
       "D": "張 力性氣胸的特徵通常為少量的空氣漏至肋膜腔"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -2108,9 +4381,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 2.22,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 1.79,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 1.56,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 83,
+        "specialty": "泌尿科",
+        "topic": "攝護腺（考題17）"
+      },
+      {
+        "score": 1.46,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 1.34,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(2.2)、外生殖器（考題20）(1.8)、攝護腺（考題17）(1.6)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -2124,7 +4440,7 @@
       "D": "臏 韌帶（patellar ligament）"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 A。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -2132,9 +4448,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 14.24,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
+      },
+      {
+        "score": 8.15,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 218,
+        "specialty": "骨科",
+        "topic": "上臂與前臂（考點多）（考題8）"
+      },
+      {
+        "score": 4.85,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 3.98,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 186,
+        "specialty": "骨科",
+        "topic": "足踝關節（考題2）"
+      },
+      {
+        "score": 3.9,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（膝關節（考題6）(14.2)、上臂與前臂（考點多）（考題8）(8.1)、外生殖器（考題20）(4.9)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -2148,7 +4507,7 @@
       "D": "a cute appendicitis"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 A。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -2156,9 +4515,28 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 2.59,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 1.52,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎上腺（考題0）(2.6)、外生殖器（考題20）(1.5)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -2172,7 +4550,7 @@
       "D": "1 9歲男性開車車禍前胸撞擊方向盤，到院時心電圖監視器呈現無脈性電氣活動"
     },
     "answer": "C",
-    "reference_explanation": "答案為 C。本題尚未在 01_notes 找到可靠對應段落，需要回到題幹關鍵字人工補齊詳解。",
+    "reference_explanation": "答案為 C。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
     "classified_specialty": "未匹配",
     "classified_topic": "未匹配",
     "matched_note_subheading": "未匹配",
@@ -2180,9 +4558,52 @@
     "matched_note_excerpt": "",
     "matched_note_path": "",
     "matched_note_line": null,
-    "matched_note_scope": "unmatched",
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
-    "candidate_matches": []
+    "candidate_matches": [
+      {
+        "score": 3.4,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
+      },
+      {
+        "score": 2.45,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 2.42,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
+      },
+      {
+        "score": 2.24,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 104,
+        "specialty": "泌尿科",
+        "topic": "泌尿道功能工程（考題5）"
+      },
+      {
+        "score": 2.08,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      }
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（男性學（考題69）(3.4)、下泌尿道（考題10）(2.5)、膝關節（考題6）(2.4)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -2196,28 +4617,60 @@
       "D": "小 腸阻塞很少是因為疝氣或手術後造成的"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「BIS（EEG-based, 監測consciousness/hypnosis；和Stage非一對一, 不能代表analgesia/肌鬆/自主反應）」。可用筆記重點判斷：BIS（EEG-based, 監測consciousness/hypnosis；和Stage非一對一, 不能代表analgesia/肌鬆/自主反應）：100＝清醒, 40-60＝general anesthesia目標/recall低, <40＝過深/可能burst suppression, 0＝EEG silence",
-    "classified_specialty": "麻醉科",
-    "classified_topic": "麻醉監測",
-    "matched_note_subheading": "BIS（EEG-based, 監測consciousness/hypnosis；和Stage非一對一, 不能代表analgesia/肌鬆/自主反應）",
-    "matched_note_heading_path": "# 麻醉科 > ## 麻醉監測 > - BIS（EEG-based, 監測consciousness/hypnosis；和Stage非一對一, 不能代表analgesia/肌鬆/自主反應）",
-    "matched_note_excerpt": "BIS（EEG-based, 監測consciousness/hypnosis；和Stage非一對一, 不能代表analgesia/肌鬆/自主反應）：100＝清醒, 40-60＝general anesthesia目標/recall低, <40＝過深/可能burst suppression, 0＝EEG silence",
-    "matched_note_path": "01_notes/醫學六/note_6.md",
-    "matched_note_line": 492,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 A。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學六",
-        "source_note": "01_notes/醫學六/note_6.md",
-        "line": 492,
-        "specialty": "麻醉科",
-        "topic": "麻醉監測",
-        "subheading": "BIS（EEG-based, 監測consciousness/hypnosis；和Stage非一對一, 不能代表analgesia/肌鬆/自主反應）",
-        "content": "BIS（EEG-based, 監測consciousness/hypnosis；和Stage非一對一, 不能代表analgesia/肌鬆/自主反應）：100＝清醒, 40-60＝general anesthesia目標/recall低, <40＝過深/可能burst suppression, 0＝EEG silence"
+        "score": 2.27,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 104,
+        "specialty": "泌尿科",
+        "topic": "泌尿道功能工程（考題5）"
+      },
+      {
+        "score": 2.0,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
+      },
+      {
+        "score": 1.35,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 199,
+        "specialty": "骨科",
+        "topic": "創傷（考題5）"
+      },
+      {
+        "score": 1.25,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 1.23,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（泌尿道功能工程（考題5）(2.3)、膝關節（考題6）(2.0)、創傷（考題5）(1.3)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -2231,28 +4684,44 @@
       "D": "最 適當的檢查為陰囊核磁共振檢查（MRI）"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「構造異常」。可用筆記重點判斷：構造異常：",
+    "reference_explanation": "答案為 D。本題重新對應到「外生殖器（考題20）」，可先用該 ## 段落複習相關考點。",
     "classified_specialty": "泌尿科",
-    "classified_topic": "外生殖器",
-    "matched_note_subheading": "構造異常",
-    "matched_note_heading_path": "# 泌尿科 > ## 外生殖器 > - 構造異常",
-    "matched_note_excerpt": "構造異常：",
+    "classified_topic": "外生殖器（考題20）",
+    "matched_note_subheading": "外生殖器（考題20）",
+    "matched_note_heading_path": "# 泌尿科 > ## 外生殖器（考題20）",
+    "matched_note_excerpt": "## 外生殖器（考題20）\n\n- 構造異常：\n  - 先天性\n    - post. urethral valve（漏尿, 感染, 水腎）：DDx＝VCUG, Echo（28wks即可見水腎）； Tx＝內視鏡燒灼\n    - Hypospadias（尿道下裂, 多分佈龜頭近端／冠狀溝）：家族遺傳性, 胎兒孕期過度estrogen/progestin暴露； Tx＝拿包皮重建皮瓣（不要行割禮）\n    - Cryptorchidism（卡在睪丸下降路徑, prepubic為主）：RF＝早產/家族史； Tx＝睪丸固定（<1.5y/o）, 睪丸切除（>10 y/o, ∵易睪丸癌（Seminoma））\n    - 異位睪丸：卡在superficial inguinal為主（cf. Cryptorchidism）\n  - 後天性\n    - Priapism（陰莖異常勃起）：持續勃起>4hr, 多缺血型（陰莖硬龜頭軟）, 其他＝白血病, 藥物, 外傷； DDx＝Doppler； Tx＝冰敷, 放血, a-agonist, 動靜脈瘻管\n    - Penile Curvature（彎超過30度）：先天性＝白膜異常,尿道下裂, 後天＝Peyronie's dx（發炎纖維斑塊化）； Tx＝Vit E, 抗纖維藥, 手術\n    - Phimosis（包莖）：併發症＝龜頭炎, 嵌頓式包莖, 陰莖癌, 性病⭡； Tx＝anti, 手術\n    - Urethral stricture（尿道狹窄）：Mainly ∵ INF； Tx＝擴張/重建\n    - Testicular Torsion（睪丸扭轉）：青少年急症, Common seen Bell clapper's病人（沒有睪丸引帶）； SS＝突發性陰囊痛, 腫脹, 上提疼痛（Prehn's sign）, 壓腓腸肌時足部無plantar flexion（Rabinowitz's sign）； DDx＝Doppler（血流減少）, Tc-99m cold； Tx＝手術復位, 6hr內90%有救\n    - Varicocele（1st男不孕）：左側為主（∵nutcracker effect, 左腎靜脈被 SMA /aorta 夾住⭢左側易血尿、varicocele）； DDx＝doppler靜脈>3.5mm, ； Tx＝手術（70%改善精子品質）\n- 感染：\n  - 尿道炎：性傳播； 感染源＝淋病, 非淋病（HSV, Chlamydia, Trichomonas）； SS＝5成無症狀, 尿道分泌物, 排尿疼痛；DDx（不依靠影像學）＝尿道取樣（分泌物取樣不準）； Tx＝抗生素（淋病ceftriaxone, 非淋病doxycycline）, 預防>治療\n  - 睪丸附睪炎：泌尿道感染後上行傳染, 幼童多肺炎/病毒後感染引起； 成因＝E.coli（老人, 小孩, 肛交）, Chlamydia/ Gonorrhea（成人）； SS＝急性睪丸痛, 腫脹, 血精；DDx＝尿/血WBC⭡, 超音波（增強血流, 可ddx torsion）； Tx＝抗生素（ceftriaxone+doxycycline）, NSAIDs消炎, 伴侶一起治療\n  - Warts（性行為傳播）： DDx=膀胱尿道鏡； Tx＝電燒, 5-Fu尿道貫注\n  - Fournier gangrene（會陰部壞死性筋膜炎）： 好發：感染, 局部外陰瘻管, DM； Tx＝立即清瘡（不可少清）, 但睪丸sparing（會陰與睪丸血流不同origin）\n- 外傷： SS＝瘀青（Buck's fascia沒事＝陰莖局限, Buck's fascia破了⭢Colle's, Scarpa's, Dartos fascia都受累（butterfly狀）；Tx＝逆行性尿道攝影, 膀胱造口引流（不可放foley）, 手術\n  - membranous urethra（後段）：最常受傷, 合併血腫&攝護腺上移（high riding prostate）\n  - bulbous（前段）：陰莖前段1st；SS＝Straddle injury（跨座式傷害）\n  - 陰莖骨折：白膜破裂\n- 腫瘤\n  - 睪丸癌：Mainly germ cell tumor（年輕男1st固態腫瘤； seminoma>non-seminoma）； 淋巴擴散路徑＝後腹腔/主動脈旁淋巴結； SS＝無痛腫大（70%）； DDx＝ Lab（HCG+AFP+LDH） + 影像（超音波深色病灶, CXR看肺部轉移, 腹部骨盆CT看淋巴轉移）； Tx＝手術（睪丸必切除）, 化療（全Stage都可輔助, 復發能化療就化療, 不能就努力切）, 放療（for seminoma, 中低Stage才做）\n  - Penile cancer： RF＝>65 y/o, HPV（+）, phimosis（包莖）, 抽菸, SCC為主；SS： Balanitis xerotica obliterans（BXO, 閉鎖硬化龜頭, DM常見）, 陰莖無痛腫塊/潰瘍, 腹股溝淋巴腫（發炎, 非侵犯）, Bowen's dx（紅色結痂）, Erythroplasia of queyrat（紅皮潰瘍）； DDx＝病理最準（leukoplakia）, Lab/影像都不準； 分級＝Jackson分級（1-4, 1龜頭, 2主幹, 3淋巴結, 4遠端）； Tx（if 無淋巴轉移8成可治癒, 目標為保留陰莖）＝局部化療（Tis）, 手術⭢電燒⭢放療（T2）⭢抗生素（淋巴腫）",
     "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 57,
-    "matched_note_scope": "primary_note",
+    "matched_note_line": 55,
+    "matched_note_scope": "primary_reaudited",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 14.77,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 57,
+        "line": 55,
         "specialty": "泌尿科",
-        "topic": "外生殖器",
-        "subheading": "構造異常",
-        "content": "構造異常："
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 3.61,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 115,
+        "specialty": "泌尿科",
+        "topic": "男性學（考題69）"
+      },
+      {
+        "score": 1.29,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
       }
-    ]
+    ],
+    "match_reason": "重新審核題幹、選項與正答後，此題核心概念和本 ## 段落的標題/內容最相近；本段落為「外生殖器（考題20）」。",
+    "matched_note_full_section": "## 外生殖器（考題20）\n\n- 構造異常：\n  - 先天性\n    - post. urethral valve（漏尿, 感染, 水腎）：DDx＝VCUG, Echo（28wks即可見水腎）； Tx＝內視鏡燒灼\n    - Hypospadias（尿道下裂, 多分佈龜頭近端／冠狀溝）：家族遺傳性, 胎兒孕期過度estrogen/progestin暴露； Tx＝拿包皮重建皮瓣（不要行割禮）\n    - Cryptorchidism（卡在睪丸下降路徑, prepubic為主）：RF＝早產/家族史； Tx＝睪丸固定（<1.5y/o）, 睪丸切除（>10 y/o, ∵易睪丸癌（Seminoma））\n    - 異位睪丸：卡在superficial inguinal為主（cf. Cryptorchidism）\n  - 後天性\n    - Priapism（陰莖異常勃起）：持續勃起>4hr, 多缺血型（陰莖硬龜頭軟）, 其他＝白血病, 藥物, 外傷； DDx＝Doppler； Tx＝冰敷, 放血, a-agonist, 動靜脈瘻管\n    - Penile Curvature（彎超過30度）：先天性＝白膜異常,尿道下裂, 後天＝Peyronie's dx（發炎纖維斑塊化）； Tx＝Vit E, 抗纖維藥, 手術\n    - Phimosis（包莖）：併發症＝龜頭炎, 嵌頓式包莖, 陰莖癌, 性病⭡； Tx＝anti, 手術\n    - Urethral stricture（尿道狹窄）：Mainly ∵ INF； Tx＝擴張/重建\n    - Testicular Torsion（睪丸扭轉）：青少年急症, Common seen Bell clapper's病人（沒有睪丸引帶）； SS＝突發性陰囊痛, 腫脹, 上提疼痛（Prehn's sign）, 壓腓腸肌時足部無plantar flexion（Rabinowitz's sign）； DDx＝Doppler（血流減少）, Tc-99m cold； Tx＝手術復位, 6hr內90%有救\n    - Varicocele（1st男不孕）：左側為主（∵nutcracker effect, 左腎靜脈被 SMA /aorta 夾住⭢左側易血尿、varicocele）； DDx＝doppler靜脈>3.5mm, ； Tx＝手術（70%改善精子品質）\n- 感染：\n  - 尿道炎：性傳播； 感染源＝淋病, 非淋病（HSV, Chlamydia, Trichomonas）； SS＝5成無症狀, 尿道分泌物, 排尿疼痛；DDx（不依靠影像學）＝尿道取樣（分泌物取樣不準）； Tx＝抗生素（淋病ceftriaxone, 非淋病doxycycline）, 預防>治療\n  - 睪丸附睪炎：泌尿道感染後上行傳染, 幼童多肺炎/病毒後感染引起； 成因＝E.coli（老人, 小孩, 肛交）, Chlamydia/ Gonorrhea（成人）； SS＝急性睪丸痛, 腫脹, 血精；DDx＝尿/血WBC⭡, 超音波（增強血流, 可ddx torsion）； Tx＝抗生素（ceftriaxone+doxycycline）, NSAIDs消炎, 伴侶一起治療\n  - Warts（性行為傳播）： DDx=膀胱尿道鏡； Tx＝電燒, 5-Fu尿道貫注\n  - Fournier gangrene（會陰部壞死性筋膜炎）： 好發：感染, 局部外陰瘻管, DM； Tx＝立即清瘡（不可少清）, 但睪丸sparing（會陰與睪丸血流不同origin）\n- 外傷： SS＝瘀青（Buck's fascia沒事＝陰莖局限, Buck's fascia破了⭢Colle's, Scarpa's, Dartos fascia都受累（butterfly狀）；Tx＝逆行性尿道攝影, 膀胱造口引流（不可放foley）, 手術\n  - membranous urethra（後段）：最常受傷, 合併血腫&攝護腺上移（high riding prostate）\n  - bulbous（前段）：陰莖前段1st；SS＝Straddle injury（跨座式傷害）\n  - 陰莖骨折：白膜破裂\n- 腫瘤\n  - 睪丸癌：Mainly germ cell tumor（年輕男1st固態腫瘤； seminoma>non-seminoma）； 淋巴擴散路徑＝後腹腔/主動脈旁淋巴結； SS＝無痛腫大（70%）； DDx＝ Lab（HCG+AFP+LDH） + 影像（超音波深色病灶, CXR看肺部轉移, 腹部骨盆CT看淋巴轉移）； Tx＝手術（睪丸必切除）, 化療（全Stage都可輔助, 復發能化療就化療, 不能就努力切）, 放療（for seminoma, 中低Stage才做）\n  - Penile cancer： RF＝>65 y/o, HPV（+）, phimosis（包莖）, 抽菸, SCC為主；SS： Balanitis xerotica obliterans（BXO, 閉鎖硬化龜頭, DM常見）, 陰莖無痛腫塊/潰瘍, 腹股溝淋巴腫（發炎, 非侵犯）, Bowen's dx（紅色結痂）, Erythroplasia of queyrat（紅皮潰瘍）； DDx＝病理最準（leukoplakia）, Lab/影像都不準； 分級＝Jackson分級（1-4, 1龜頭, 2主幹, 3淋巴結, 4遠端）； Tx（if 無淋巴轉移8成可治癒, 目標為保留陰莖）＝局部化療（Tis）, 手術⭢電燒⭢放療（T2）⭢抗生素（淋巴腫）"
   },
   {
     "exam_session": "114_2",
@@ -2266,28 +4735,60 @@
       "D": "應 告知家屬可能的嚴重後遺症，建議家屬不為病人施行手術"
     },
     "answer": "A",
-    "reference_explanation": "答案為 A。題幹關鍵字最接近「三段五級預防」。可用筆記重點判斷：三段五級預防：促進健康（第一段, 教育）, 特殊保護（第一段, 打疫苗, 少暴露）, 早診斷早治療（第二段, 體檢）, 限制殘障 ⭢ 復健（第三段）",
-    "classified_specialty": "家庭醫學科",
-    "classified_topic": "預防醫學",
-    "matched_note_subheading": "三段五級預防",
-    "matched_note_heading_path": "# 家庭醫學科 > ## 預防醫學 > - 三段五級預防",
-    "matched_note_excerpt": "三段五級預防：促進健康（第一段, 教育）, 特殊保護（第一段, 打疫苗, 少暴露）, 早診斷早治療（第二段, 體檢）, 限制殘障 ⭢ 復健（第三段）",
-    "matched_note_path": "01_notes/醫學三/note_3.md",
-    "matched_note_line": 1062,
-    "matched_note_scope": "cross_note_fallback",
+    "reference_explanation": "答案為 A。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
-        "exam_subject": "醫學三",
-        "source_note": "01_notes/醫學三/note_3.md",
-        "line": 1062,
-        "specialty": "家庭醫學科",
-        "topic": "預防醫學",
-        "subheading": "三段五級預防",
-        "content": "三段五級預防：促進健康（第一段, 教育）, 特殊保護（第一段, 打疫苗, 少暴露）, 早診斷早治療（第二段, 體檢）, 限制殘障 ⭢ 復健（第三段）"
+        "score": 4.59,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 123,
+        "specialty": "泌尿科",
+        "topic": "腎上腺（考題0）"
+      },
+      {
+        "score": 3.92,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 192,
+        "specialty": "骨科",
+        "topic": "膝關節（考題6）"
+      },
+      {
+        "score": 3.67,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 3.02,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
+      },
+      {
+        "score": 2.89,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 208,
+        "specialty": "骨科",
+        "topic": "骨盆與髖部（考題6）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎上腺（考題0）(4.6)、膝關節（考題6）(3.9)、腎臟疾病（考題54）(3.7)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -2301,28 +4802,60 @@
       "D": "請 其未婚妻前來，一起解釋"
     },
     "answer": "B",
-    "reference_explanation": "答案為 B。題幹關鍵字最接近「性功能障礙（早洩, 遲洩, 逆行射精, 無高潮症, 勃起障礙）」。可用筆記重點判斷：性功能障礙（早洩, 遲洩, 逆行射精, 無高潮症, 勃起障礙）",
-    "classified_specialty": "泌尿科",
-    "classified_topic": "男性學",
-    "matched_note_subheading": "性功能障礙（早洩, 遲洩, 逆行射精, 無高潮症, 勃起障礙）",
-    "matched_note_heading_path": "# 泌尿科 > ## 男性學 > - 性功能障礙（早洩, 遲洩, 逆行射精, 無高潮症, 勃起障礙）",
-    "matched_note_excerpt": "性功能障礙（早洩, 遲洩, 逆行射精, 無高潮症, 勃起障礙）",
-    "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 117,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 B。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 14.19,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 117,
+        "line": 115,
         "specialty": "泌尿科",
-        "topic": "男性學",
-        "subheading": "性功能障礙（早洩, 遲洩, 逆行射精, 無高潮症, 勃起障礙）",
-        "content": "性功能障礙（早洩, 遲洩, 逆行射精, 無高潮症, 勃起障礙）"
+        "topic": "男性學（考題69）"
+      },
+      {
+        "score": 9.51,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 5.52,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 3,
+        "specialty": "泌尿科",
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 4.01,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 3.42,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（男性學（考題69）(14.2)、外生殖器（考題20）(9.5)、腎臟疾病（考題54）(5.5)），先不硬配。",
+    "matched_note_full_section": ""
   },
   {
     "exam_session": "114_2",
@@ -2336,27 +4869,51 @@
       "D": "甲 醫師在乙醫院僅可摘取但不可移植心臟"
     },
     "answer": "D",
-    "reference_explanation": "答案為 D。題幹關鍵字最接近「腎臟移植」。可用筆記重點判斷：腎臟移植：",
-    "classified_specialty": "泌尿科",
-    "classified_topic": "腎臟疾病",
-    "matched_note_subheading": "腎臟移植",
-    "matched_note_heading_path": "# 泌尿科 > ## 腎臟疾病 > - 腎臟移植",
-    "matched_note_excerpt": "腎臟移植：",
-    "matched_note_path": "01_notes/醫學五/note_5.md",
-    "matched_note_line": 24,
-    "matched_note_scope": "primary_note",
+    "reference_explanation": "答案為 D。目前 01_notes 沒有可靠整段對應；建議回到題幹與標準答案補人工詳解。",
+    "classified_specialty": "未匹配",
+    "classified_topic": "未匹配",
+    "matched_note_subheading": "未匹配",
+    "matched_note_heading_path": "",
+    "matched_note_excerpt": "",
+    "matched_note_path": "",
+    "matched_note_line": null,
+    "matched_note_scope": "unmatched_no_anchor",
     "searched_primary_note": "01_notes/醫學五/note_5.md",
     "candidate_matches": [
       {
-        "score": "refreshed",
+        "score": 11.96,
         "exam_subject": "醫學五",
         "source_note": "01_notes/醫學五/note_5.md",
-        "line": 24,
+        "line": 3,
         "specialty": "泌尿科",
-        "topic": "腎臟疾病",
-        "subheading": "腎臟移植",
-        "content": "腎臟移植："
+        "topic": "腎臟疾病（考題54）"
+      },
+      {
+        "score": 1.49,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 55,
+        "specialty": "泌尿科",
+        "topic": "外生殖器（考題20）"
+      },
+      {
+        "score": 1.4,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 248,
+        "specialty": "骨科",
+        "topic": "骨腫瘤（考題4）"
+      },
+      {
+        "score": 1.34,
+        "exam_subject": "醫學五",
+        "source_note": "01_notes/醫學五/note_5.md",
+        "line": 32,
+        "specialty": "泌尿科",
+        "topic": "下泌尿道（考題10）"
       }
-    ]
+    ],
+    "match_reason": "重新審核後，候選段落分數接近或不夠高（腎臟疾病（考題54）(12.0)、外生殖器（考題20）(1.5)、骨腫瘤（考題4）(1.4)），先不硬配。",
+    "matched_note_full_section": ""
   }
 ]
