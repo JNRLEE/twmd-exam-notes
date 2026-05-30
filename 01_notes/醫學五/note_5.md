@@ -153,6 +153,14 @@
 
 - 抗生素duration：重點看source control；未穿孔闌尾炎切除後不用延長；未穿孔腸壞死切除後≤24hr；穿孔/複雜腹內感染source control足夠約4天；腹內感染合併敗血症/休克約7-10天
 
+## 整形外科重建（考題0）
+
+- Reconstruction ladder：primary closure ⭢ skin graft ⭢ local/regional flap ⭢ free flap；骨/肌腱/血管外露、感染/放療後受床差時偏向flap
+- Skin graft：無自帶血流, 靠受床存活；split-thickness較易存活/donor可再生但secondary contraction與色差較多, full-thickness外觀較好/收縮少但需血流好且donor需縫合
+- Flap：自帶血流；local/regional保留pedicle, free flap需microvascular anastomosis；random靠皮下血管叢, axial有明確血管
+- Breast reconstruction：autologous（DIEP/TRAM, 自體組織重建）較自然但手術大, free flap受區血管常用internal mammary
+- 常考血供：PMMC胸大肌＝thoracoacromial a. pectoral branch（不是internal mammary）；submental flap＝submental a.（from facial a.）；supraclavicular flap＝supraclavicular a.；latissimus dorsi＝thoracodorsal a.（Mathes-Nahai type V）；TRAM/DIEP＝deep inferior epigastric系統
+
 # 骨科（考題33）
 
 ## 脊椎與神經根（考題2）
@@ -248,10 +256,10 @@
 ## 骨腫瘤（考題7）
 
 - 概論：
-  - 1st原發惡腫＝MM（症狀＝CRAB, hyperCalcemia, Renal impair, Anemia, Bone pain）, 原發好發Metaphysis
+  - 1st原發惡腫＝MM（症狀＝CRAB, hyperCalcemia, Renal impair, Anemia, Bone pain；好發紅骨髓/軸骨如脊椎、肋骨、骨盆、顱骨；長骨位置口訣歸diaphysis）
   - 1st良性骨腫＝OC
   - 1st青年惡腫＝OS（2nd Ewing's sarcoma）
-  - 1st成人惡腫＝CS
+  - 1st成人惡性骨肉瘤＝CS
   - Meta進來（>50%骨腫）＝肺乳前列腺甲狀肝癌, 前列腺是osteoblastic/mixed, 其他osteolytic
   - Meta出去＝血行微轉移, skip leision跳躍式發病
   - 原發生長位置：
@@ -267,7 +275,7 @@
   - OC＝1st良腫；if 多發＝顯性遺傳；DDx＝Xray（長骨表面sessile一塊台地）, pedunculated（細蒂）骨突起）； Tx＝obs}
 - Cartilaginous bone tumor：
   - Chrondroma：良性, 好發年輕男, 長骨中央（enchondroma）, 長很慢但建議切
-  - CS：1st成人惡腫, primary in老人, secondary in中年； 好發pelvis, scapular, femur；DDx＝Xray（分頁透明化, 邊緣scalloping弧形變胖）, Tx＝手術（High grade周圍組織一併切）
+  - CS：1st成人惡性骨肉瘤, primary in老人, secondary in中年； 好發pelvis, scapular, femur；DDx＝Xray（分頁透明化, 邊緣scalloping弧形變胖）, Tx＝手術（High grade周圍組織一併切）
   - CB＝生長板關閉前才會長（cf. GCT）
 - Fibrous tumor：
   - Giant cell tumor（GCT）：良性, 中年女（epiphyseal line癒合才會長, 青年sparing）； Xray＝大空洞； Tx＝刮除, 冷凝

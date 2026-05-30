@@ -429,9 +429,11 @@
   - Winging Scapula（肩胛骨外翻）：肩胛骨內側緣突出；分類＝{內側凸起（前鋸肌無力（長胸神經））, 外側凸起（斜方肌無力（副神經）, 菱形肌無力（背神經））}
   - Trendelenburg gait：臀部外展肌無力（臀中肌臀小肌）, 骨盆健側傾斜, 走路重心落在患側
 - 脊髓損傷：台灣（1st 機車事故）＝Paraplegia下半身癱瘓（T12為主）> Tetraplegia四肢癱瘓（C5為主）；併發症＝姿勢性心跳上升/可能血壓上升（T6以上受損；Tx＝束腹帶, 彈力襪, 姿勢改變慢一點）, 自主反射異常（T6以上完全性損傷, 漲尿便無法上傳（改成交感大爆發）⭢HTN crisis/上紅下白（上方表皮血管擴張代償, 下方沒有）, 致命；SS＝血壓⭡20mmHg, 頭痛, 視力模糊, 損傷部位以上潮紅；Tx＝減少所有刺激（e.g大小便）, 口服CCB/Nitrate降壓）
+  - ASIA impairment scale：A＝complete無S/M, B＝sensory only, C＝motor preserved但多數key muscle<3, D＝motor preserved且多數key muscle≥3, E＝normal
   - 完全損傷：無運動/感覺功能；
   - 不完全損傷：有部分運動/感覺功能, e.g sacral sparing（corticospinal/spinothalamic未完全受損, 運動有機會恢復）；
-    - Central cord syndrome：1st, , Mainly老年頸椎過度伸展hyperextension；SS＝披肩狀感覺異常, 四肢無力（上肢癱瘓 > 下肢癱瘓）
+
+    - Central cord syndrome：1st, , Mainly老年頸椎過度伸展hyperextension；SS＝肩膀以下（披肩狀）感覺異常, 四肢無力（上肢癱瘓 > 下肢癱瘓）
     - Brown-Sequard syndrome（半側損傷）：同側運動/位置覺受損, 對側痛覺溫覺受損
     - Anterior cord syndrome（前索受損）：ant. spinal a.梗塞, 脊椎flexion壓迫導致；SS＝雙側運動/痛溫覺受損
 
@@ -441,6 +443,7 @@
   - 損傷高度：C1-2（可咀嚼吞嚥, 需要呼吸器）, C4（要機械手餵食, 有機會自行呼吸）, C5（自行呼吸, 自主咳痰）, C6（肩肘可動, 手腕無力）, C8-T1（肩肘手腕手指可動）, T2-T6（日常生活不需輔具, 短程行走）
   - 呼吸功能（T12以下損傷不涉及呼吸）：C3-5（膈神經）, T1-11（肋間肌）；Tx（目標改善換氣, 咳痰, 減少併發症）＝呼吸帶, 束腹, 深呼吸運動, 舌咽式呼吸
   - 性功能：
+
     - 勃起：副交感S2-4/視聽觸T11-L2 ⭢ 副交感神經節後（乙醯膽鹼） ⭢ 血管充血（NO）；Tx＝口服藥物（威而鋼）, 陰莖注射（Alprostadil（Prostaglandin E1）, α-blocker）, 真空裝置, 陰莖假體植入
     - 高潮/射精：交感T11-L2 ⭢ hypogastric plexus；Tx＝人工取精
 

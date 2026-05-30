@@ -47,7 +47,7 @@
 ## Ischemic heart disease（考題15）
 
 - 分類：分Chronic stable angina, Acute coronary syndrome（ACS, 又可再分＝Unstable angina（心肌酵素正常）, NSTEMI, STEMI）
-  - Chronic stable angina（>1條CA 70%梗塞）＝fixed atherosclerosis, 運動時胸痛, CRP, BNP升高者預後差
+  - Chronic stable angina（>1條CA 70%梗塞）＝fixed atherosclerosis, 運動時才胸痛, 休息會好, CRP, BNP升高者預後差（cf. if troponin/CK上升＝MI, 不再是angina）
     - DDx：Stress test（運動心電圖, max heart rate要>220-age）, Thallium核醫影像（SPECT（功能性缺血評估, 可能低估診斷））, CT
       - 補：Coronary steal phenomenon＝灌流正常血管病枝缺血
     - Tx： 內科（Anti angina＝Nitrate, β-blocker, Vasoprotection＝Aspirin, Clopidogrel）, 外科（PCI, CABG冠狀繞道）
@@ -60,11 +60,12 @@
     - 發病順序＝T wave 上升⭢ST上升⭢Ｑ wave出現⭢ST下降⭢T wave inversion
     - 血管與導極： LV inferior（II, III, aVF）＝RCA（90%）/ LCX（10%）, RV（V4R）＝RCA, Septum（V1-V2）＝LAD
       （懷疑LV inferior MI, 要加做V4R鑑別RV MI, 若V4R有ST上升, 則為RV MI, 需避免使用利尿劑/ Nitrate）
-    - DDx＝Lab（Troponin（快升慢降, ERoom愛用）, CK（慢升慢降）） , 臨床評估＝TIMI score（AACC＋3） Age>65, Aspirin in 7 days, CAD, CAD factor> 3, angina, EKG, Cardiac enzymes
-      - NSTE-ACS：Troponin↑＝NSTEMI（CK可正常）；DAPT（Aspirin+P2Y12）+抗凝, GPIIb/IIIa非所有人常規；高危險（血流不穩/持續胸痛/GRACE>140）⭢早期心導管
+    - DDx＝ECG＋Lab（Troponin（快升慢降, ERoom愛用）, CK（慢升慢降））：Troponin正常＝Unstable angina, Troponin↑＝MI（ST elevation＝STEMI, 無ST elevation＝NSTEMI；CK可正常）
+    - 風險評估＝TIMI score（AACC＋3） Age>65, Aspirin in 7 days, CAD, CAD factor>3, angina, EKG, Cardiac enzymes；GRACE>140＝高危險
     - Tx
-      - 急性＝NTG pump＋Aspirin（證實可減少死亡率）＋Clopidogrel＋LMWH（Heparin）
-      - 慢性＝β-blocker, Statin, ACEi（防止ventricular remodeling）, NSAID, Clopidogrel
+      - ACS急性藥物＝NTG pump＋Aspirin（證實可減少死亡率）＋P2Y12（Clopidogrel等）＋抗凝（LMWH/Heparin）；GPIIb/IIIa非所有人常規
+      - NSTE-ACS侵入策略＝高危險（血流不穩/持續胸痛/GRACE>140）⭢早期心導管
+      - 慢性次級預防＝β-blocker, Statin, ACEi（防止ventricular remodeling）, Aspirin/Clopidogrel
       - tPA（症狀<12hr, door-to-needle<30min, 高齡>75不再是禁忌, 禁忌＝腦出血/高血壓/活動性內出血/疑似主動脈剝離）
       - PCI（症狀>3hr偏好PCI, shock, D2B<90min）
     - 併發症＝Premature ventricular contraction（VPC, 常規β-blocker, 維持K>4.5, 不要預防性給Lidocaine）, VT, VF
@@ -114,6 +115,7 @@
     - cf. 目前牙科要常規給抗生素的理由：人工瓣膜, 曾經有心內膜炎, 先天性心臟病（未修補或修補後有殘留缺陷）
   - AS（老男（退化鈣化）, bicuspid aortic valve（先天性, @主動脈根部）, 風濕熱） Tx＝防脫水, 手術（有症狀者都開, 無症者EF<50就開）, TAVI（適合手術高風險患者）口訣＝開爆AS老雙風
   - AR（風濕熱, 動脈剝離, Marfan's, Ehlers-Danlos）, Tx＝手術（除了無症狀EF>50, 其他都開）
+  - 人工瓣膜選擇：年輕/可長期抗凝→機械瓣（耐用, 需終身Warfarin）；高齡/出血風險高/不適合抗凝→生物瓣（免長期抗凝, 會退化需再介入）
   - 補：近年感染性心內膜炎發生率 ⭡（∵高齡化, 侵入處置變多）
 
 ## 細菌心內膜炎（考題1）
@@ -271,7 +273,7 @@
 - 病程：滲出期（for 1 wks, edema（充滿exudate） ⭢ Hyaline membrane生長） ⭢ 增生期（fibrosis生長）
 - 病理：肺泡上皮細胞受損 ⭢ 肺泡毛細血管受損 ⭢ 肺水腫 ⭢ 透明膜形成 ⭢ 纖維化
 - Ddx： ARDS（四肢溫暖, BNP<100, PAWP<18mmHg）, Cardiogenic pulmonary edema（四肢冰冷, ∵心衰, PAWP>18mmHg）
-- 治療（肺泡脆弱不要撐太大）：容許高二氧化碳血症（pH>7.2以上即可）, 低潮氣量通氣（6-8 ml/kg）, 低氣道高原壓（<30cmHg）, 可降低死亡, PEEP（呼吸末期正呀, 避免塌陷）, 類固醇
+- 治療（肺泡脆弱不要撐太大）：lung-protective ventilation＝低潮氣量通氣（4-8 ml/kg PBW, 常起始6）, 低氣道高原壓（Pplat<30cmH2O）, PEEP（呼氣末正壓, 避免塌陷）, 可降低死亡；容許高二氧化碳血症permissive hypercapnia（為了避免volutrauma/barotrauma, pH>7.2通常可接受；cf. TBI/IICP不可亂套）
 - 預後：主要與年齡（>75 y/o死亡率60%）, 成因（Sepsis/ Organ failure死亡率>80%）, 肺功能恢復度有關
 
 ## 肺血管栓塞（考題0）
@@ -287,7 +289,7 @@
 - 肋膜積水（Light's criteria）
   - Exudate（（PF/ serum）蛋白質>0.5, LDH>0.6, LDH>2/3上限）： 肺炎, 肺栓塞, Malignant（if Glucose<60∩Cytology證據）, 結核（interferon-γ（＋）, Adenosine Deaminase（ADA）<40 r/o, >70 r/i）
   - Transudate（蛋白質<0.5, LDH<0.6, LDH<2/3上限）： 心衰竭, 肝硬化, 腎病症候群
-  - 其他積液問題：Pseudoexudate（心衰竭用利尿劑治療後的積液）, Chylothorax（乳糜胸, 乳糜狀積液, TG>110, 單次引流減緩症狀,但長期會養分流失）, Complicated parapneumonic effusion（需引流, criteria＝肋膜液大量fluid, pus, pH<7.2, glucose<60, positive culture）, Empyema（膿胸, 積液為膿狀, pH<7.2, Glucose<40, LDH>1000, 速速引流）
+  - 其他積液問題：Pseudoexudate（心衰竭用利尿劑治療後的積液）, Chylothorax（乳糜胸, 乳白或澄清, TG>110/Chylomicron＋, lymphocyte主導非eosinophil；常見胸部食道/縱隔手術後；少量可MCT diet或NPO+TPN, 單次引流減緩症狀但長期會養分流失）, Complicated parapneumonic effusion（需引流, criteria＝肋膜液大量fluid, pus, pH<7.2, glucose<60, positive culture）, Empyema（膿胸, 積液為膿狀, pH<7.2, Glucose<40, LDH>1000, 速速引流）
 - 氣胸（分級無定論, 處置by severity＝抽吸 ⭢ pig tail ⭢ 肋膜黏連術（Pleural ablation））：好發於年輕瘦高男性, 症狀＝突發胸痛＋呼吸困難, 診斷＝胸部X光（肺邊緣有一條清晰的線, 線外無肺紋理）, 復發率＝50%
 
 ## OSA（考題0）
@@ -300,11 +302,11 @@
   - 小細胞（SCLC, 抽菸強相關, 轉移快, 化療（Cisplatin＋Etoposide）放療敏感, CT（集中central/hilar mass）＝bulky/hilar lymphadenopathy；Tx＝局部單側積極（CTx＋RTx）, Extensive純CTx）
   - 非小細胞（NSCLC, 轉移慢, 化療放療不敏感, Tx＝手術, EGFR TKI（for Stage IIIB以上EGFR（＋）, e.g. Gefitinib, Erlotinib, Afatinib） ）
     - 腺癌（台灣最常見, 女性多, 對稱性骨關節炎, EGFR突變（標靶好目標, 常見亞洲女, 抽菸者多ras）, CT＝peripheral病灶）
-      - 台灣補助：EGFR、ALK, ROS1、PD-L1
+      - 台灣補助：EGFR, ALK, ROS1, PD-L1
     - 鱗狀細胞癌（SCC, 抽菸男性多, 高血鈣, 肺尖生長（Pancoast tumor, 會肩頸酸痛, Horner's syndome（瞳孔縮小, 眼瞼下垂, 無汗））, CT＝central Cavitation空洞化）
 - 診斷＝症狀/CXR>CT（首選）>組織切片
   - 肺結節影像特徵：
-    - 偏良性＝central/diffuse/laminated/popcorn calcification, fat-containing nodule（hamartoma）, 長期穩定>2年
+    - 偏良性＝central/diffuse/laminated/popcorn calcification, fat-containing nodule（hamartoma＝1st肺良性腫瘤, 中老年男, cartilage/脂肪成熟組織, 慢慢長）, 長期穩定>2年
     - 偏惡性＝>8mm, spiculated/irregular margin, upper lobe, 成長變大, part-solid/GGN持續存在（adenocarcinoma spectrum）, 無良性鈣化
 - 肋膜惡性腫瘤（Mesothelioma）： 與石綿暴露有關（與抽菸無關），治療選項有限，預後通常較差
 
@@ -313,7 +315,8 @@
 ## 吞嚥困難（考題1）
 
 - 成因： Diffuse esophageal spasm（間歇性）, Achalasia（食道弛緩不能症, ∵下括約肌無法放鬆, 伴呼吸道症狀）, Scleroderma（食道蠕動減弱, 伴有heartburn症狀）, Hiatus hernia（sliding＝整個上移一部分, paraesophageal（dysphagia>GERD）＝胃部旁邊有一個囊袋上一到胸腔）
-- Achalasia：男＝女, 癌化=SCC； 診斷＝CXR主動脈後突起內有air-fluid level, Barrium study 有Bird beak； 治療＝內視鏡肉毒, CCB, Nitrate, pneumatic dilation（氣囊擴張）, Heller myotomy（外科手術切開括約肌）
+- Achalasia：男＝女, 癌化=SCC； DDX＝Manometry（蠕動壓力測量, gold）, CXR主動脈後突起內有air-fluid level, Barrium study 有Bird beak； 治療＝內視鏡肉毒, CCB, Nitrate, pneumatic dilation（氣囊擴張）, Heller myotomy（外科手術切開括約肌）
+  - 食道淋巴：submucosa淋巴網豐富, 縱向引流>橫向引流, 比動脈網更發達；食道癌易skip/遠端LN轉移, 不只局部LN
 
 ## 腹痛（考題0）
 
@@ -335,7 +338,7 @@
 ## 腸胃道出血 （top goal＝穩定vital sign）（考題1）
 
 - 上消化道出血（UGIB）： DDx＝NG洗出血； Tx：胃鏡（診斷＋止血）, if varice ER就先給Octreotide（減少splanchnic flow, 降低門脈壓）/ if ulcer給PPI
-- 下消化道出血（LGIB）： 成因＝Diverticulosis（最常見, 結腸憩室出血（LLQ, cf. 闌尾炎）, Exam＝CT, Tx＝NPO, anti, angio emboli）, Hemorrhoids（痔瘡）, Colorectal cancer, Angiodysplasia血管異生；
+- 下消化道出血（LGIB）： 成因＝Diverticulosis（最常見, 結腸憩室出血（LLQ, cf. 闌尾炎）, Exam＝CT, Tx＝NPO, anti, angio emboli）, Hemorrhoids（痔瘡）, Colorectal cancer, Angiodysplasia血管異生（小腸出血常見原因, 老人/血管擴張）；
   - DDx＝Colonoscopy（首選）, Radio scan（出血量解析度>0.1ml/min）, Angiography（出血量解析度>1ml/min）；
 
 ## GERD（考題0）
@@ -438,9 +441,9 @@
 
 ## Liver tumor（考題7）
 
-- 分類：Hemangioma（1st良性, 女多, CT＝Centripetal enhencement, 不會轉惡）, Adenoma（年輕女, 口服避孕藥相關, SS＝Intraperitoneal bleeding, Premalignant, Tx＝切除）, Hepatocellular carcinoma（HCC, 中年男, 1st主要肝細胞癌）, Cholangiocarcinoma（CCA, 膽管癌）
+- 分類：Hemangioma（1st良性, 女多, CT＝Centripetal enhencement, central fill-in pattern, 不會轉惡）, Adenoma（年輕女, 口服避孕藥相關, SS＝Intraperitoneal bleeding, Premalignant, Tx＝切除）, Hepatocellular carcinoma（HCC, 中年男, 1st主要肝細胞癌）, Cholangiocarcinoma（CCA, 膽管癌）
 - Hepatocellular carcinoma（HCC, 1st肝細胞癌）： 風險因子＝HBV/HCV感染, 肝硬化, 黃麴毒素； Screening＝Echo（一線screen）, 抽血AFP>400； Diag＝高風險背景（肝硬化/慢性HBV）＋腫瘤≥1cm＋CT/MRI典型影像（arterial enhancement＋portal/delayed washout）可不切片診斷；非高風險背景或影像不典型才需pathology（RCC影像類似但仍需pathology）
-  - 治愈＝肝切除/肝移植（預後好指標Milan Criteria：無血管侵犯/ 單顆≤5 cm, 3顆以內<3cm）
+  - 治愈＝肝切除/肝移植（預後好指標Milan Criteria：無血管侵犯/肝外轉移/ 單顆≤5 cm, 3顆以內<3cm）
   - 延壽＝栓塞, 標靶治療（Sorafenib可延長2months）, 化放療
 - Cholangiocarcinoma（CCA, 膽管癌）： 風險因子＝Primary Sclerosing Cholangitis, 肝石症, CA19-9⭡, 老男人, 中華肝吸蟲； CT/MRI＝膽管擴張, delayed enhencement； 治療＝手術
 - Budd-Chiari syndrome（"肝靜脈"阻塞, 中年女）： 成因＝myeloproliferative dx（50%）, 腫瘤（10%）, JAK2； 症狀＝腹痛, 腹水, 肝腫大； 診斷＝CT/MRI（肝靜脈阻塞）, 肝活檢（中心靜脈區肝細胞壞死）； 治療＝抗凝血劑, 肝移植
@@ -459,7 +462,7 @@
 
 - Acute pancreatitis： 成因＝Gallstone（台灣1st）, Alcohol（外國1st）,
   - DDx＝amylase/lipase⭡ 3x（Lipase專一性高）, Echo, CT（首選, 可評估嚴重度）, BISAP score（預測死亡率, BUN>25, Impaired mental status, SIRS, Age>60, Pleural effusion, 0-1mild, 2 moderate, 3 severe）
-  - Tx＝Lactate Ringer（Gold）, oral feeding（3日內開始, 不要NPO太久, 死亡/感染率都增加）, Foy（胰酶抑制劑, 不能改善死亡率）, 止痛藥, Anti（Imipenem for 壞死性胰臟炎）
+  - Tx＝Lactate Ringer（Gold）, 止痛藥, early oral/enteral feeding（嘔吐改善後/3日內開始, 不要NPO太久, 死亡/感染率都增加）, Foy（胰酶抑制劑, 不能改善死亡率）, Anti（不常規預防性使用；疑感染性壞死/膽管炎/敗血症才給, e.g. Imipenem）
   - 預後＝Ranson's criteria（入院時（ASS是否乳白）＝ { Age>55, Sugar>200, AST>250, LDH>350, WBC>1W6 } ； 入院後48hr（快上BBS告訴CHO）＝ { Base deficit>4, BUN上升>5, Fluid sequestration>6L, Ca<8, Hematocrit下降>10%, PaO2<60 } ； 11C3代表重症）
   - 併發症（胰臟炎四大腹水；依急慢性/有無necrosis）：APFC（Acute peripancreatic fluid collection, <4週, 間質水腫型, 無wall, pure fluid）, ANC（Acute necrotic collection, <4週, 壞死型, 無wall, fluid+necrotic debris）,Pseudocyst（>4週, 有wall, pure fluid）,  WON（Walled-off necrosis, >4週, 壞死型, 有wall, fluid+necrotic debris）
 - Chronic pancreatitis：成因同急性, X-ray有鈣化點, SS＝Steatorrhea（脂肪瀉）, DM（但不會惡化DKA, ∵insulin, 升糖素都不足）, Weight loss, Cancer風險
@@ -467,7 +470,7 @@
 - Pancreatic cancer： 抽菸且胖, 90%與慢性胰臟炎有關, 80% adenocarcinoma, Mainly K-ras mutant, Tx＝手術（放化鏢靶免疫輔助）
   - Periampullary四大癌＝pancreatic head, distal CBD, ampulla of Vater, duodenal cancer；Tx＝可切除多做Whipple；預後pancreatic head最差, ampullary/duodenal較好
   - pancreatic cancer 位置：head（阻塞性黃疸/Courvoisier, Whipple） vs body/tail（晚期才痛/體重減輕/轉移, 可切除做distal pancreatectomy）
-  - 胰臟神經內分泌腫瘤pNET/Insulinoma：多良性；小表淺可enucleation；Tx＝distal/subtotal pancreatectomy（for body/tail大或深部/multiple）；不因尾部就固定切85%
+  - 胰臟神經內分泌腫瘤pNET/Insulinoma：多良性；小表淺可enucleation腫瘤摘除術；Tx＝distal/subtotal pancreatectomy（for body/tail大或深部/multiple）
 
 # 新陳代謝科（考題56）
 
@@ -599,8 +602,6 @@
   - Hyper RAAS＝ { Primary（Aldo：renin>20, CT/MRI找lesion）, Secondary（Aldo：renin<10, 成因＝心/肝/腎dx, Batter's syndrome, Gitelman syndrome） } ,
   - Hypo RAAS＝ { 都低 （HIV, NSAIDs, β-blocker, Mineralocorticoid excess（成因＝Cushing's syndrome, CAH））, Renin正常＝ { Addison's, ACEi, ARB, Heparin } , Aldo正常＝ { Spironolactone, Trimethoprim（PJP肺囊蟲用藥） }
 
-## 書籤（考題0）
-
 ## 離子平衡（考題13）
 
 - Hyponatremia（血鈉<135）： 先判斷血漿滲透壓（Serum osmolality＝2Na＋Glucose/20＋BUN/3, 正常275-295）, 再判斷Volume status, 最後判斷尿鈉（Urine Na）
@@ -614,7 +615,7 @@
 - Hypernatremia（血鈉>145）： 判斷Volume status, 再判斷尿滲透壓（Urine osmolality）, 最後判斷尿鈉（Urine Na）
 
   - Hypervolemic： 成因＝醫源性給太多
-  - Euvolemic： 成因＝Diabetes insipidus（中樞性尿崩症（ADH分泌不足, Tx＝DDAVP）, 腎性尿崩症（ADH阻抗, DDAVP沒用（可鑑別中樞性）, Tx＝Thiazide））, 可依尿滲透壓分parital<800/ complete<300, DI通常喝水可代償故Euvolemic
+  - Euvolemic： 成因＝Diabetes insipidus（中樞性尿崩症（ADH分泌不足, Tx＝DDAVP）, 腎性尿崩症（ADH阻抗, DDAVP沒用（可鑑別中樞性）, Tx＝低鈉飲食＋Thiazide（輕微低血容⭢近端Na/H2O重吸收↑⭢尿量反降）））, 可依尿滲透壓分parital<800/ complete<300, DI通常喝水可代償故Euvolemic
   - Hypovolemic： 成因＝dehydration（if 尿滲透壓>800 favor GI loss）； Tx＝補水/等張氯化鈉
 - Hypokalemia（血鉀<3.5, 肌肉無力嘔吐便秘, 增加毛地黃中毒機率）： DDx＝EKG（U波）,Gas, TTKG（Uk/Uosm//Pk/Posm, 尿太濃, 尿鈉太高不準）, FENa（UNa/Ucr/PNa/Pcr）； 成因＝K shift（e.g. Insulin, β-agonist, Alkalosis, 甲狀腺亢進, hypokalemic periodic paralysis（HPP, Ca離子通道異常））, 腸道流失（TTKG<3, 腹瀉, 嘔吐）, 腎臟流失（TTKG>7； FENa>1： { 腎因性, hyperaldosterone（會高血壓）, Batter's, Gitelman syndrome } , FENA<1： { 腎前性 } ）, Tx＝補鉀（如果是HHP要小心K反彈）, 避免給Glucose
 
@@ -686,7 +687,7 @@
 ## Sepsis（敗血症）（考題1）
 
 - 定義：infection + organ dysfunction；Septic shock＝需vasopressor維持MAP≥65且lactate>2（已補液後）
-- Tx：早期抗生素（shock/高度懷疑1hr內, 先抽culture但不延誤）, source control, crystalloid resuscitation（shock或lactate≥4常先30ml/kg）, norepinephrine維持MAP≥65, glucose控制<180
+- Tx：早期抗生素（shock/高度懷疑1hr內, 先抽culture但不延誤）, source control, crystalloid resuscitation（shock/lactate≥4⭢先30ml/kg）, norepinephrine維持MAP≥65, glucose控制<180
 - 不推薦：舊式EGDT固定protocol/MAP>90, intensive insulin壓正常血糖, high-dose steroid, renal-dose dopamine
 - Steroid：只考慮refractory septic shock（足量fluid＋vasopressor仍不穩）用low-dose hydrocortisone
 
@@ -699,9 +700,9 @@
 ## 軟組織感染（考題3）
 
 - Cellulitis（蜂窩性組織炎）： 成因＝Streptococcus pyogenes（PCN）, Staphylococcus aureus（Oxacillin）, 咬傷/糖尿病足（Augmentin）； SS＝Dermis/皮下脂肪紅腫熱痛（邊界不清）
-- Necrotizing fasciitis（壞死性筋膜炎, facia（superficial-deep））： 成因＝Streptococcus pyogenes（＝GAS, Tx＝PCN＋Clindamycin）, Vibrio（Doxycycline＋Ceftriaxone, RF＝海水暴露）； SS＝出血性水泡, 痛超過傷口範圍； Exam＝CT blurring fascia； Tx＝緊急外科清瘡＋Broad-spectrum antibiotics
+- Necrotizing fasciitis（壞死性筋膜炎, facia（superficial-deep））： 成因＝Streptococcus pyogenes（＝GAS, Tx＝PCN＋Clindamycin）, Vibrio（Doxycycline＋Ceftriaxone, RF＝海水暴露）； SS＝出血性水泡, 痛超過傷口範圍； Exam＝CT blurring fascia； Tx＝緊急外科清瘡＋Broad-spectrum antibiotics（高壓氧只是輔助）
 - Erysipelas（丹毒）： SS＝明確邊界清楚紅色隆起； 成因＝Streptococcus pyogenes； Tx＝PCN
-- Gas gangrene（骨骼肌感染）：Mainly Clostridium perfringens； SS＝古銅色皮膚, 氣泡, 惡臭； Exam＝Gram（＋）, X-ray皮下氣體,；Tx＝緊急外科清瘡＋PCN＋Clindamycin
+- Gas gangrene（骨骼肌感染）：Mainly Clostridium perfringens； SS＝古銅色皮膚, 氣泡, 惡臭； Exam＝Gram（＋）, X-ray皮下氣體；Tx＝緊急外科清瘡＋PCN＋Clindamycin
 - Toxic shock syndrome（中毒性休克症候群）： 成因＝Staphylococcus aureus（TSST-1毒素, 培養（-））；Tx＝source control＋anti-staph antibiotics＋clindamycin（減少毒素生成）
 - Streptococcus pyogenes（STSS, deep-seated foci, 培養（＋））； SS＝發燒, 低血壓, 多器官衰竭, 皮疹（全身紅斑）； Tx＝緊急外科清瘡＋PCN＋clindamycin
 
@@ -714,11 +715,12 @@
   - 偽膜性大腸炎：住院感染C.difficile＋抗生素使用； Ddx＝連續腹瀉＋糞便篩出C.difficile toxin/大腸鏡看到偽膜； Tx＝停用原抗生素, Metronidazole（輕症）, Vancomycin（重症）
   - Tx＝補水/ 電解質, 發燒血便可給Ciprofloxacin
 - 泌尿道感染
-- 名詞定義：Lower UTI （Tx＝TMP-SMX）＝ { Urethritis（尿道炎, Caftriaxone for Nsesseria）, Cystitis（膀胱炎）, Prostatitis（前列腺炎） } , Upper UTI（Tx＝Quinolone, cefazolin（1代））＝ { Pyelonephritis（腎盂腎炎）, Renal abscess（腎膿瘍） } , Complicated UTI＝ { 男生/孕婦的任何UTI, 女生的任何Upper UTI, 有結構/神經異常的UTI }
-- 1st 致病菌：Ecoli in complicated UTI（30%）, and uncomplicated UTI（80%）； Yeast in 男性導尿管, Enterococci in 女性導尿管
 
-  - Complicated UTI＝E.coli（30%）, Enterococci, 綠膿, Uncomplicated UTI＝E.coli（80%）, Proteus, KB
-- Asymptomatic bacteruria（無症狀菌尿）： 定義＝尿液培養陽性但無UTI症狀； Tx＝孕婦（預防早產）, 侵入性泌尿道處置前, 其他人不治療
+  - 名詞定義：Lower UTI （Tx＝TMP-SMX）＝ { Urethritis（尿道炎, Caftriaxone for Nsesseria）, Cystitis（膀胱炎）, Prostatitis（前列腺炎） } , Upper UTI（Tx＝Quinolone, cefazolin（1代））＝ { Pyelonephritis（腎盂腎炎）, Renal abscess（腎膿瘍） } , Complicated UTI＝ { 男生/孕婦的任何UTI, 女生的任何Upper UTI, 有結構/神經異常的UTI }
+  - 1st 致病菌：Ecoli in complicated UTI（30%）, and uncomplicated UTI（80%）； Yeast in 男性導尿管, Enterococci in 女性導尿管
+
+    - Complicated UTI＝E.coli（30%）, Enterococci, 綠膿, Uncomplicated UTI＝E.coli（80%）, Proteus, KB
+  - Asymptomatic bacteruria（無症狀菌尿）： 定義＝尿液培養陽性但無UTI症狀； 治療對象＝孕婦（預防早產）, 要做侵入性泌尿道處置者
 
 ## 感染性關節炎（考題0）
 
@@ -727,14 +729,14 @@
 ## 細菌感染個論（考題6）
 
 - 革蘭陽性球菌（Tx＝PCN, Ceftriaxone）：
-  - Catalase（＋, in cluster）＝ { Staphylococcus, 根據Coagulase細分葡萄球菌（＋, β溶血）, 表皮 in 人工瓣膜/腐生 in 性活躍女性泌尿（-, γ無溶血） } ；
+  - Catalase（＋, in cluster）＝ { Staphylococcus, 根據Coagulase凝固酶細分葡萄球菌（＋, β溶血）, 表皮 in 人工瓣膜；腐生 in 性活躍女性泌尿（-, γ無溶血） }
   - Catalase（-）＝ { 鏈球菌, 根據Hemolysis細分α（部分溶血, in pair）＝S.pneumoniae（毒性＝多醣體莢膜, 抗吞噬）, β（完全溶血）＝Group A Streptococcus（化膿鏈球（S.pyogenes）, SS＝猩紅熱（Dick test（＋）, 草莓舌）, 風溼熱； 毒性＝M protein）, Group B Streptococcus（無乳鏈球（S.agalactiae）, 新生兒腦膜炎）, γ（無溶血）＝Enterococcus }
 - 革蘭陽性桿菌
   - Aerobic嗜氧產孢子（Bacillus）＝ { B. anthracis（炭疽芽孢桿菌, 人畜共通； Location＝皮膚（黑色焦痂）, 肺（羊毛工人病（出血性淋巴炎））, GI； Tx＝PCN）, B.cereus（仙人掌桿菌, 毒素＝嘔吐型（米, 熱穩定, 吐半天）, 腹瀉型（肉汁, 熱不穩定, 拉三天）） }
-  - Anerobic厭氧產孢子（Clostridium）＝ { C.botulium（肉毒桿菌； 毒素＝抑制Ach釋放（成人視力模糊, 婴兒呼吸麻痺（in 蜂蜜））； Tx＝Antitoxin）, C.tetani（破傷風桿菌； 毒素＝tetanospasmin（抑制GABA/glycine）； SS＝清醒痙攣； Tx＝Tetanus IG）, C.perfringens（氣性壞疽桿菌, 毒素＝α毒素（傷口碰土, 吃到重複加熱肉）, Tx＝PCN＋Clindamycin）, C.dificile }
+  - Anerobic厭氧產孢子（Clostridium）＝ { C.botulium（肉毒桿菌； 毒素＝抑制Ach釋放（成人視力模糊, 婴兒呼吸麻痺（in 蜂蜜））； Tx＝Antitoxin）, C.tetani（破傷風桿菌； 毒素＝tetanospasmin（抑制GABA/glycine）； SS＝清醒痙攣； Tx＝Tetanus IG）, C.perfringens（氣性壞疽桿菌, 毒素＝α毒素（傷口碰土, 吃到重複加熱肉）, Tx＝PCN＋Clindamycin）, C.difficile }
   - Aerobic嗜氧不產孢子＝ { 白喉, 李斯特（乳製品； 新生兒/免疫低下腦膜炎） }
   - Anerobic厭氧不產孢子＝ { 乳酸桿菌； 正常菌叢, 嬰兒心內膜炎； Tx＝PCN＋Aminoglycoside（不能Vancomycin因為有抗性） }
-  - 絲狀放射線菌＝ { Actinomyces（UGI ulcer, 口腔硫磺顆粒, Tx＝PCN＋清瘡）, Nocardia（fast acid stain（＋）； 像TB, SS＝mycetoma（皮膚菌足腫）, 腦膿瘍）； Tx＝TMP＋SMX }
+  - 絲狀放射線菌＝ { Actinomyces（UGI ulcer, 口腔硫磺顆粒, Tx＝PCN＋清瘡）, Nocardia（fast acid stain（＋）； 像TB, SS＝mycetoma皮膚菌足腫, 腦膿瘍）； Tx＝TMP＋SMX }
 - 革蘭陰性桿菌
   - Pseudomonas假單胞菌＝ { P. aeruginosa（綠金屬, 葡萄味, 隱眼潰瘍）, B.pseudomallei（類鼻祖桿菌, 積水環境皮膚接觸傳染； Tx＝Ceftazidime 1月） }
   - Curved rod彎桿菌＝ { Vibrio（cholera（霍亂, 黃菌落, 濤米水瀉）, parahaemolyticus（吃海鮮肚子痛）, vulnufucus（海水接觸傷口感染, 免疫低下者敗血症）； Tx＝Doxycycline＋Ceftriaxone）, Campylobacter（彎曲桿菌（海鷗翅膀狀 Gull's wing）, 吃生肉, SS＝血便, 腹痛, 關節炎）, H.pylori }
@@ -787,14 +789,23 @@
 
 - 定義＝HIV感染後CD4<200 or AIDS defining illness（PCP, Kaposi, CMV retinitis, etc.）
 - 流病＝Mainly type 1, type2（西非為主）, 75% acute retroviral syndrome（發燒, 淋巴腫大, 咽喉痛, 肌肉痛）
-- DDx＝ELISA（Screen； 高風險者每年篩, 孕婦, Acute TB感染者也建議）, HAAT/PCR（早期急症即可確診）, Western blot（早期不準）, LAb（CD4 count, 免疫功能, 3-6個月一次（穩定者可延長））, HIV RNA load（治療反應, 用藥目標是測不到（<20 copies/mL））
+- 感染細胞＝帶CD4 receptor的T helper cell, macrophage, dendritic cell；需coreceptor（CCR5早期/巨噬細胞向性, CXCR4晚期/T cell向性）
+- DDx＝ELISA（Screen； 高風險者每年篩, 孕婦, Acute TB感染者也建議）, HAAT/PCR（早期急症即可確診）, Western blot（早期不準）, Lab（CD4 count, 免疫功能, 3-6個月一次（穩定者可延長））, HIV RNA load（治療反應, 用藥目標是測不到（<20 copies/mL））
 - Tx
   - 疫苗（HAV, HBV, pnemonococcal, influenza, 水痘/MMR（活性減毒, CD4>200才能打））
   - HAART（抗逆轉錄病毒治療, 一但確診就用, 不用等CD4⭣； 功能＝⭣viral, ⭡CD4, ⭡survival rate, 避免進入AIDS； 3種以上藥物組合, e.g. 2 NRTI（-vudine）＋1 NNRTI（-virdine）/PI（navir）/INSTI）
   - 暴露前預防（PrEP）：TDF/FTC
   - 暴露後預防（PEP）：<72hr開始抗病毒藥, for 28 days
-- 伺機性感染（CD4<350：病毒（HSV, VZV）, <200：黴菌（PJP, Candida）, <100（T.gondii）, <50結核菌, CMV））＝ { PCP（肺囊蟲肺炎, 1st感染/1st死因 Tx＝TMP-SMX＋steroid）, Candida（念珠菌感染, 口腔鵝口瘡/食道炎/陰道炎； Tx＝Nystatin（漱口））, Fluconazole（食道/陰道））, Cryptococcus（隱球菌腦膜炎（India ink/ 測antigen診斷）, Tx＝Amphotericin B＋5-Flucytosine ⭢ Fluconazole接力for 1 year, 抽脊髓液測腦壓）, Toxoplasma（弓形蟲腦炎, MRI＝eccentric target sign； Tx（SPL）＝Sulfadiazine＋Pyrimethamine＋Lerucovorin（減少骨髓抑制））, CMV（視網膜炎）, Mycobacterium avium complex（分枝桿菌MAC, Tx＝Clarithromycin＋Ethambutol）, Kaposi sarcoma（HHV8）, EBV, HPV16/18 }
-- 其他免疫不全：hypogammaglobulinemia（成因＝ALL, MM, Nephrosis, Encapsulated bacteria, enterovirus）, RE系統功能障礙（脾切除> Pneumococci, Salmonella）
+- 伺機性感染：CD4<350：病毒（HSV, VZV）, <200：黴菌（PJP, Candida）, <100：T.gondii, <50：結核菌, CMV
+  - PCP（肺囊蟲肺炎, 1st感染/1st死因；Tx＝TMP-SMX＋steroid）
+  - Candida（念珠菌感染）：口腔鵝口瘡/食道炎/陰道炎；Tx＝Nystatin（漱口）, Fluconazole（食道/陰道）
+  - Cryptococcus（隱球菌腦膜炎）：DDx=India ink/測antigen（診斷）；Tx＝Amphotericin B＋5-Flucytosine ⭢ Fluconazole接力for 1 year, 抽脊髓液測腦壓
+  - Toxoplasma（弓形蟲腦炎）；DDx＝eccentric target sign（MRI）；Tx（SPL）＝Sulfadiazine＋Pyrimethamine＋Leucovorin（減少骨髓抑制）
+  - CMV（視網膜炎）
+  - Mycobacterium avium complex（分枝桿菌MAC）：Tx＝Clarithromycin＋Ethambutol
+- 其他免疫不全：hypogammaglobulinemia（成因＝ALL, MM, Nephrosis, Encapsulated bacteria, enterovirus）, mononuclear phagocyte system（單核吞噬細胞系統）功能障礙（脾切除> Pneumococci, Salmonella）
+
+## 書籤
 
 # 風濕免疫科（考題32）
 
@@ -804,7 +815,7 @@
 - 臨床表現：關節（多關節腫痛, 可矯正之變形, 無骨蛀蝕（＝Jaccoud's deformity/ No bone erosion））； 皮膚（光敏感, Malar rush, reverse Gottron's sign（掌面關節紅斑, cf. DM皮肌炎）, 慢性皮屑（Anti-Ro/SSA）, 口腔潰瘍）； 腎臟（依ISN&RPS分六型）； 心肺（心包炎, 肺炎）； 神經精神（精神病, 癲癇）； 腸胃道（Mesenteric vasculitis（CT＝Double halo sign/comb sign））
 - Lupus nephritis（狼瘡腎炎, immune complex deposition）：Class II＝mesangial proliferative；Class III/IV＝focal/diffuse proliferative（<50%/≥50% glomeruli, subendothelial deposit, IV最嚴重常見wire-loop/crescent）；Class V＝membranous（subepithelial deposit, nephrotic）；Class VI＝advanced sclerosing（>90%硬化）；cf. FSGS是podocyte disease, 非典型SLE分類
 - Lab：ANA（screen工具, 敏感度高但特異度低）, Anti-dsDNA（特異度高, 活躍度指標, 可預測腎炎, 血管炎）, Anti-Smith（特異best, 但跟活躍度無關）, Anti-Ro/SSA（可過胎盤, 導致胎兒先天心臟傳導dx）, Anti-ribosomal P（中樞侵犯, 精神病）
-- Diag：11C4（SOAP BRAIN MD＝Serositis（包含各種pleuritis, effusion）, Oral ulcer, non-erosive Arthritis（>2, 對稱）, Photosensitivity, Blood disorder（紅白小）, Renal disorder（蛋白尿（>500mg/day）, ANA（+）, Immunologic disorder（Anti-XXX）, Neurologic disorder, Malar rash, Discoid rash）, Lymphopenia淋巴細胞減少, Thromnocytopenia血小板減少, ANA（＋）, ANti-dsDNA/Anti-phospholipid/ANti-Smith（＋））
+- Diag：11C4（SOAP BRAIN MD＝Serositis（包含各種pleuritis, effusion）, Oral ulcer, non-erosive Arthritis（>2, 對稱）, Photosensitivity, Blood disorder（紅白小下降＝溶血性貧血/leukopenia或lymphopenia/thrombocytopenia）, Renal disorder（蛋白尿（>500mg/day）, ANA（+）, Immunologic disorder（Anti-XXX）, Neurologic disorder, Malar rash, Discoid rash）, ANA（＋）, ANti-dsDNA/Anti-phospholipid/ANti-Smith（＋））
 - Tx：無器官/生命危險＝保守治療（NSAIDs, 防曬, Hydroxychloroquine（抗血栓, 預防皮膚病變惡化））； 器官/生命危險＝類固醇（Induction thx（High dose steroid＋免疫抑制劑（Cyclophosphamide, MMF）, Maintenance thx（停Cyclophosphamide（烷化DNA, SE＝骨髓抑制, 出血膀胱炎, 月經早停）, 改MMF/Azathioprine（輕度） > Cyclosporine（會高尿酸） > Rituximab（重度） for 6 mths）, 持續f/u Anti-dsDNA, C3/C4））
 - 併發症：抗磷脂抗體症候群（APS, >1次血管thrombus＋間隔≥12週兩次驗到aPL ⭢ 終身抗凝治療）
 - 孕婦：持續Predinisolone（胎盤可分解）, 免疫抑制劑可用Azathropine（胎盤可分解）/少量Cyclosporin, 不可用MMF/Cyclophosphamide
@@ -1047,6 +1058,8 @@
 - 家庭圈：每個圈可以代表一個人, 越大圈權力越大
 - 家系圖: 男正方、女圓圈、死了畫一撇
 - Family APGAR score：評估家庭功能正常度, 五項（各0-2分）, 7-10無障礙, 4-6中度障礙, 0-3重度功能不足
+- 家庭功能評估選題權重：反覆身體症狀＋多次檢查正常＋重大生活事件/家庭壓力/照顧負擔線索＋認知判斷正常 ⭢ 先評估家庭支持/功能；若自殺意念, 精神病症狀, 明顯重鬱焦慮或功能嚴重受損 ⭢ 精神科
+- 燒傷輸液Parkland formula：LR＝4 mL × BW(kg) × %TBSA燒傷面積（只算二/三度, 不算一度）；24hr總量, 前8hr給一半（從燒傷時間算）
 - 基層健保醫療五特性＝Comprehensiveness, Continuity, Coordination（轉介功能）, Accessibility, Accountability
 - LEARN以病人為中心：Listen, Explain, Acknowledge（容許, 相互溝通弭平資訊差）, Recommend, Negotiate（協商, 最重要step, 根據醫病雙方考量）
 
@@ -1094,7 +1107,7 @@
 
 ## 預防醫學（考題1）
 
-- 三段五級預防：促進健康（第一段, 教育）, 特殊保護（第一段, 打疫苗, 少暴露）, 早診斷早治療（第二段, 體檢）, 限制殘障 ⭢ 復健（第三段）
+- 三段五級預防：初段primary＝促進健康（衛生教育, 運動飲食）＋特殊保護（疫苗, 安全帽, 少暴露）；次段secondary＝早期發現早期治療（篩檢, 體檢）；三段tertiary＝已生病後減少併發症/失能（高血壓服藥防中風, 糖尿病控糖防腎病, 中風後復健）
 - 台灣六癌篩檢：乳癌（乳攝40-74女q2y；家族史40-44）, 子宮頸癌（抹片25-29 q3y, ≥30 q1y；HPV test q5y）, 大腸癌（FIT 45-74 q2y；家族史40-44）, 口腔癌（30+菸/檳q2y；原住民檳榔18+）, 肺癌（LDCT q2y, 家族史男45/女40-74或重菸50-74）, 胃癌（45-74 H.pylori糞便抗原, 終身一次）；
 - 成人預防保健（>40三年一次, >65一年一次）：肛門乳房觸診, CBC心肝腎, 尿檢
 - 旅遊疫苗：必打＝黃熱病（非洲/南美洲, 10年1次）, 常規性＝A/B肝, 日本腦炎, 白喉百日咳破傷風, 小兒麻痹, 卡介苗, 麻疹, 腮腺, 德麻
