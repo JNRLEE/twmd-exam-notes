@@ -1,4 +1,4 @@
-# 產科（考題48）
+# 產科（考題47）
 
 ## Ante-Partum產前時期（考題28）
 
@@ -41,7 +41,7 @@
 - 早期破水（PROM, 50%兩天內分娩）：RF＝PROM hx, 生殖道感染, 產前出血, smoking；DDx＝Nitrazine test（pH test, 羊水pH>6.5呈藍色）, Amino-dye infusion（indigo carmine打入羊水, 30min後陰道有染劑, 舊gold-standard）, PAMG-1（AmniSure test, 棉棒採樣快篩, 當今最準且無周數限制）；Tx＝安胎（tocolytics for<32wks）, 抗生素（預防感染）, Betamethasone（促肺成熟）
 - 安胎藥物：Ritodrine（Yutopar, 唯一FDA, 但SE多（心悸喘, 心跳上升/可能血壓上升, 低血鉀, 高血糖）, Nifedipine（Ca blocker, >32wks一線, 不可並用MgSO4）, MgSO4（only FDA for子癲前預防, 安胎∈off-label, SE＝低壓低鈣水腫燥熱）, Indomethacin（NSAID, 抑制子宮收縮, <32wks一線, 不可用於>32wks（會關PDA））, Atosiban（專注子宮, 不喘）
 
-## Delivery分娩（考題8）
+## Delivery分娩（考題7）
 
 - 骨盆生產評估
   - Pelvic types（骨盆類型）＝Gynecoid（女性型, 50%, 最適合生產, 圓形）, Android（男性型, 心形, 預後差）, Anthropoid（猿人型, 橢圓形）, Platypelloid（扁平型, 扁圓形）
@@ -83,9 +83,9 @@
   - Tx：飲食運動（第一線）, 藥物（第二線, Insulin；口服血糖藥物如Glyburide, Metformin需個案評估（可過胎盤））
 - 懷孕甲狀腺dx：成因＝Graves' disease（甲亢）, hCG-mediated hyperthyroidism；SS＝焦慮手抖, 孕婦增重變慢, 劇吐, TSH⭣, free T4⭡；Tx＝PTU（孕期首選, SE＝肝毒性）, β-blocker（控制心搏過速, SE＝胎兒生長遲緩）
 
-# 婦科（考題110）
+# 婦科（考題121）
 
-## Embryology and Anatomy（題目少）（考題1）
+## Embryology and Anatomy（題目少）（考題2）
 
 - Anatomy：
   - 前庭腺體：Skene's gland（尿道前庭腺, ＝♂攝護腺）, Bartholin's gland（大陰唇前庭腺, ＝♂Bulbourethral （Cowper's） gland）, Bulb of the vestibule（♂bulb of penis）}
@@ -94,7 +94,7 @@
   - 輸尿管走勢（下上下）：卵巢血管下（上段）⭢內髂動脈上（中段）⭢卵巢/子宮動脈下（下段, 小橋流水）
   - 淋巴回流：子宮（外髂lymph）, 陰道（內髂lymph）, 卵巢（主動脈旁lymph）, 陰唇（淺腹股溝lymph）
 
-## 婦科Tumor（考題69）
+## 婦科Tumor（考題71）
 
 - 卵巢：SS＝無特定, 腹痛, 頻尿；併發症＝腫瘤扭轉（Mainly teratoma）, 囊腫破裂（Mainly黃體囊腫）；DDx＝內診, 超音波（惡性＝非高回音, 分葉, 有血流）, marker（上皮細胞＝CA125/CA199/CEA, 生殖細胞＝AFP/β-HCG/LDH）；Tx＝ 切片, 觀察（for 功能性卵巢）, 手術（for 其他）
   - ovarian cyst（1st 卵巢良性病灶）：
@@ -162,7 +162,7 @@
 - 卵巢扭轉（1st 婦科急症, 育齡女性）：成因＝卵巢囊腫/tumor（90%）；SS＝ Triad（下腹痛, 噁心, adnexal mass）；DDx＝超音波/CT/MRI（血流減少, 敏感度低）； Tx＝手術（卵巢復位, 卵巢切除）
 - 間質性膀胱炎（慢性dx, 機轉不明, 與mast cell有關）：女/男＝5, 特定食物活動加劇（咖啡, 酒精, 運動, 性交）；SS＝慢性膀胱不悅>6wks, 下泌尿道陣狀, 性交疼痛；DDx（臨床診斷為主）＝urine routine, 尿路動力學, 膀胱鏡切片（Hunner's lesion膀胱粘膜放射狀紅血管, Glomerulation腎絲球點狀出血, mast cell增加）, Potassium sensitivity test（+, 膀胱注射KCl高敏感）, Anesthetic bladder test（+, 膀胱注射局麻藥症狀改善）； Tx＝Mainly支持性, 口服藥物（TCA, Pentosan polysulfate sodium（PPS, 唯一FDA核准口服藥））, 膀胱灌注藥物（合併lidocaine, heparin等藥物）, 嚴重治療（打botox, 薦椎神經調節, 口服cyclosporine A, 尿道改道手術）
 
-## Female Endocrinology（考題15）
+## Female Endocrinology（考題16）
 
 - 生理週期：Two-cell two-gonadotropin model（LH刺激theca cell分泌androgen, FSH刺激granulosa cell將androgen轉化為estrogen）；激素作用＝Estrogen（刺激子宮內膜增生, 促進LH surge, 陰道表皮細胞角化, 乳房stroma/duct增生, 長高防骨鬆, 心血管保護）；Progesterone（刺激子宮內膜分泌, 抑制子宮內膜增生, 負回饋抑制LH/FSH, 乳房小葉增生, 心血管保護）
   - 月經週期：平均28天⭢濾泡期（1-14天, 末期estrogen第一高峰）⭢排卵期（14天, LH/FSH高峰）⭢黃體期（固定14天, 中期estrogen第二高峰＋progesterone高峰, 子宮頸細胞ferning pattern（羊齒狀））；
@@ -182,7 +182,7 @@
   - 子宮因素：Mainly∵子宮中隔（生殖預後最差的成因, 中隔越長預後越差）
   - 染色體異常：Mainly balanced translocation（父母染色體正常但子代染色體異常）
 
-## Infertility（考題10）
+## Infertility（考題16）
 
 - Infertility（不孕症, 1年內無避孕措施仍無法懷孕, 35歲以上6m, >40y/o想懷孕者要積極介入）：成因＝男性因素（30%）, 女性因素（50%）, 不明原因（20%）
   - 檢查項目：
@@ -220,13 +220,13 @@
 - Pelvic organ prolapse（骨盆器官往陰道脫垂）：RF＝同尿失禁；SS＝Adnexal下墜感, 應力尿失禁, 膀胱過動, 排便困難；分級＝Baden-Walker system（0-4, 0無脫垂, 2在陰道口, 4完全脫垂）；Tx＝保守治療（骨盆底肌肉訓練, Pessary陰道托, 雌激素）, 手術（骨盆底重建, 薦骨子宮固定, colpocleisis（陰道閉合術, for 無性行為者））
 - UTI：見note3
 
-## 內視鏡（考題0）
+## 內視鏡（考題1）
 
 - 腹腔鏡（Laparoscopy）：適應症＝骨盆疾病診斷（子宮內膜異位, 不明原因不孕）, 婦科病灶治療；禁忌症＝心肺功能不佳, 腹腔嚴重粘連, 懷孕；
-  - 填充氣體（CO2）：優點＝不易燃, embolism風險低（溶解度高）；缺點＝尿量減少, 腹壓上升, 心血管影響（CO2吸收⭢酸中毒, 心輸出⭣）
+  - 填充氣體（CO2）：優點＝不易燃, embolism風險低（溶解度高）；缺點＝尿量減少, 腹壓上升, 心血管影響（CO2吸收⭢酸中毒, 心輸出⭣）；氣腹壓力＝成人常用12-15 mmHg, 小兒更低壓（約8-12或依體重）, 25 mmHg過高
 - 子宮鏡（Hysteroscopy, 月經排空到排卵前做最好）：禁忌症＝骨盆腔活動性感染, 懷孕, 子宮頸癌/內膜癌；術前準備＝GnRH（縮小肌瘤）, Misoprostol（口服/塞劑, 軟化子宮頸）；併發症＝子宮穿孔, 電解質不平衡（解方＝isotonic fluid（需使用雙極電燒, 避免thermal injury））
 
-# 眼科（考題49）
+# 眼科（考題58）
 
 大量解剖學知識是為了能看懂，不是考點
 
@@ -267,7 +267,7 @@
   - Dacryocystitis淚囊炎（1st）：Mainly S.aureus/Streptococci感染；SS＝紅腫熱痛（急性期）, 無痛壓迫分泌物（慢性期）；Tx＝熱敷, 抗生素, 切開引流
   - Canaliculitis淚管炎（Actinomyces israelii感染）：SS＝單側溢淚, 火山口紅腫（內有含硫顆粒）；Tx（抗生素反應不佳）＝切開引流
 - 乾眼症（＝Keratoconjunctivitis sicca）：成因＝淚液分泌不足（Sjogren syn, VitA缺乏, Blepharitis（慢性眼瞼炎, 脂肪層分泌不足）, coffee, atropine）, 淚液蒸發過多（面部神經麻痺, 工作眨眼次數不足）； SS＝tear film abnl, keratopathy（角膜病變, e.g斑點病變（punctate epithelopathy）, 角膜上皮filament附著, 黏液狀斑塊mucous plaques）；DDx＝Schirmer's test, Rose bengal stain（染色角膜上皮細胞, 乾眼症會染色增加）, TBUT；Tx＝人工淚液, 抗炎藥物（Cyclosporine A）, 黏液分解藥物（N-acetylcysteine）
-- Lacrimal gland tumor（上皮變異為主, 良惡都切）：分類＝{pleomorphic adenoma（良性混合瘤, 切不乾淨會惡化）, Adenoid cystic carcinoma（1st惡性, 侵襲性強, 易復發轉移）}；SS＝上眼瞼顳側疼痛, 眼球突, 複視；Tx＝手術+放療（良惡都切）
+- Lacrimal gland tumor（上外側眼眶⭢眼球前下內移位）：分類＝{pleomorphic adenoma（良性混合瘤, 圓整/邊界清楚/慢性無痛；Tx＝完整en bloc excision, 避免incisional biopsy破壞pseudocapsule造成復發/惡化）, Adenoid cystic carcinoma（1st惡性, 侵襲性強, perineural invasion⭢劇痛, 易復發轉移；Tx＝biopsy後手術+放療）, Lymphoma（可侵犯淚腺/眼眶）}
 
 ## 結膜（著重沙眼/春季結膜炎）（考題1）
 
@@ -280,7 +280,7 @@
 - 退化性疾病：Pinguecula（結膜贅, limbus無害白色沉積, ∵紫外光）, Pterygium（Bowman's層斷裂, 翼狀胬肉沉積角膜上皮；∵紫外光, 切除仍然易復發）
 - Tumor（多良性）：Conjunctiva papilloma（HPV6,11；良性）, Conjunctiva corneal intraepithelial neoplasia（CCIN, 良性緩慢；∵HPV6,11/紫外光））
 
-## 角膜（考題1）
+## 角膜（考題8）
 
 - 角膜（Cornea, 透明無血管淋巴（除了limbus）, 主要折射介質, 交界處limbus再生力強）：分為五層＝{上皮層（無角質上皮, 底部basement membrane ∈ Type 4 collagen）, Bowman's layer（CN5-1通過, 無細胞死層, 受傷易留疤）, stroma（最厚, 膠質纖維組成）, Descemet's membrane（Type 4 collagen）, 內皮層（pump排水/保持角膜透明, 無再生能力）}
   - 角膜檢查：Pachymetry（Echo厚度測量）, Specular microscopy（內皮細胞密度,形狀測量）, Corneal topography（角膜曲率, 檢查圓錐角膜）, 切片（KOH）
@@ -308,7 +308,7 @@
   - 鞏膜炎（Scleritis, 鞏膜變薄, 血管變形）：女多, 血流少, 病程慢, 藥難到, 不易好, 易復發；Mainly前鞏膜炎（98%）, 合併免疫性（RA（1st）, SLE））/角膜INF（綠膿, 肺炎練球）；SS＝劇烈疼痛（夜間加重）, 紅眼, 畏光, 流淚；DDx＝光照（血管明顯變形（紫色）, 葡萄膜明顯（Necrotizing Scleritis w/o INF導致鞏膜變薄（RA相關）, 黃色膠狀結節淨潤））；Tx＝underlying dx, NSAIDs, atropine（散瞳, 減少疼痛）
   - 鞏膜變色：暗灰卵圓形（老化透明化）, 棕黑色（黑尿症alkaptonuria）, 藍灰色（minocycline藥物副作用）, 鏽棕色（hemochromatosis鐵血沉著症）, 藍色（變薄露出葡萄膜, ∵osteogenesis imperfecta骨發育不全, Turner's, Ehlers-Danlos syn, Marfan's syn）
 
-## 葡萄膜（考點＝自體免疫uveitis, 僵直性脊椎炎, Choroid melanoma tumor）（考題5）
+## 葡萄膜（考點＝自體免疫uveitis, 僵直性脊椎炎, Choroid melanoma tumor）（考題7）
 
 - 葡萄膜（Uvea）：眼球血管層, 供給眼球營養, 調節光線進入, 產生房水, 黑色葡萄樣, Mainly前葡萄膜炎（90%, 虹彩部分）
   - 前葡萄膜炎＝HLA-B27相關；SS＝睫狀充血, 角膜後沉澱物（keratic precipitate）, 房水cell⭡, 前房蓄膿（hypopyon）, 前房輝塵（aqueous flare, 蛋白質⭡廷德爾效應）, Low intraocular pressure（Iris癒合後便眼壓上升）, Iris nodules（慢性肉芽腫）
@@ -350,12 +350,12 @@
 - 玻璃體剝離（vitreous detachment, VD, 後玻璃為主, 嚴重合併視網膜剝離）：RF＝老化, 近視, DM；SS＝飛蚊症, photopsia（閃光感）, 視力模糊；DDx＝散瞳（間接眼底鏡, 視神經懸浮物增加）, B-scan echo（玻璃體與視網膜距離⭡）, OCT（最準）；Tx＝觀察, 冷凍/雷射（視網膜受損）
 - 玻璃體出血（vitreous hemorrhage）：RF＝DM, 玻璃體剝離；SS＝無痛vision loss, 飛蚊症, 溶血性青光眼（出血過久, 碎片/鐵離子導致前房隅角受損）；Tx＝雷射凝固（預防, 抑制血管新生）, 觀察（輕微出血）, 玻璃體切除+視網膜復位（視網膜受損）, 玻璃體手術（經睫狀體扁平部Pars plana移除血塊）
 
-## 視網膜（考點雜, 抓視網膜剝離, 黃斑部病變即可）（考題20）
+## 視網膜（考點雜, 抓視網膜剝離, 黃斑部病變即可）（考題19）
 
 - 視網膜解剖（十層，脾氣先何從何從節違憲）：色素上皮層（Retinal Pigment Barrier, 吸收光線, 供養）-光感受器層（視桿+視錐, 黃斑部只有視錐）-外限-外核-外叢-內核（4細胞核＝水平/雙極/Muller/無軸突細胞）-內叢-神經節層-神經纖維層-內限層（Muller cell基底膜）
   - 視網膜水平分佈（內-外）：視神經盤（盲點, 無視桿視錐, 血管分布）, 黃斑（中央＝中心凹, 只有視錐, 色覺）, 鋸齒緣（視網膜與脈絡膜相接最鬆處, 玻璃體最緊處）
 - 黃斑部病變（Macular degeneration）：成因＝老白肥, 遺傳（ABCR基因）, 環境（吸菸）；已開發國家>50%不可逆vision loss；SS＝物體變形/變大/變小/變亮；分類＝{非滲出性（＝乾性, 90%, 漸進雙眼不對稱, Drusen黃斑部沉積物, 無有效治療）, 滲出性（濕性, 10%, 新生血管滲漏, 色素上皮剝離, 急速視力下降；Tx＝光動態治療, 抗VEGF藥物（Ranibizumab, Bevacizumab））}；DDx＝視力（近視）, 裂隙燈（內限膜褶皺,水腫）, Amsler grid（中心變形）, fundus angiography（分乾性濕性）；
-- 視網膜剝離（Retinal detachment, RD）：上皮-感光層間retinal break⭢液體進入（subretinal fluid）⭢剝離；RF＝老化, 近視, 白內障手術摘除水晶體, 眼外傷；分類＝{Rhegmatogenous裂孔型（最常見；玻璃體剝離⭢視網膜孔洞⭢液體進入⭢剝離（常合併retinal tear, 玻璃體出血）；SS＝上顳側格子狀變性）, Tractional牽引型（糖尿病/早產兒視網膜病變⭢纖維組織牽引）, Exudative滲漏型（眼睛疾病/腫瘤導致液體積聚）}；SS＝突發單眼視力模糊, 閃光感, 飛蚊症, 視野缺損；DDx＝眼底鏡（視網膜皺褶, 玻璃體混濁）, B-scan echo（視網膜與玻璃體距離⭡）, OCT；Tx＝雷射凝固（預防, 有裂孔, 有小部分剝離, 對側眼很嚴重者）, Rhegmatogenous＝氣體注入+冷凍/雷射封洞+鞏膜扣帶術, Tractional＝玻璃體切除
+- 視網膜剝離（Retinal detachment, RD）：上皮-感光層間retinal break⭢液體進入（subretinal fluid）⭢剝離；RF＝老化, 近視, 白內障手術摘除水晶體, 眼外傷；分類＝{Rhegmatogenous裂孔型（最常見；玻璃體剝離⭢視網膜孔洞⭢液體進入⭢剝離（常合併retinal tear, 玻璃體出血）；SS＝上顳側格子狀變性）, Tractional牽引型（糖尿病/早產兒視網膜病變⭢纖維組織牽引）, Exudative滲漏型（眼睛疾病/腫瘤導致液體積聚）}；SS＝突發單眼視力模糊, 閃光感, 飛蚊症, 視野缺損；DDx＝眼底鏡（視網膜皺褶, 玻璃體混濁）, B-scan echo（視網膜與玻璃體距離⭡）, OCT；Tx＝目標封孔/解除牽拉/復位, 雷射凝固（預防, 有裂孔尚未大片剝離）, Rhegmatogenous＝pneumatic retinopexy（氣體視網膜固定）/scleral buckle（鞏膜扣帶）/pars plana vitrectomy（PPV, 玻璃體切除）±冷凍/雷射封洞, Tractional＝PPV解除纖維牽拉；Photodynamic therapy不是RD治療
   - Rhegmatogenous RD signs：IOP常偏低/正常（非升高）, extensive RD可Marcus Gunn pupil/RAPD（覺得光線afferent變少⭢瞳孔收縮變差）, 輕微iritis常見, anterior vitreous可見Shafer sign/tobacco dust（RPE色素細胞）
 - 視網膜血管dx
   - Diabetic retinopathy（DR, 1st. 視網膜疾病）：高血糖⭢capillary pericyte loss（早期）, 基底膜/內皮增生（晚期）；RF＝DM duration, 糖化血色素HbA1c, 高血壓；Tx＝控制血糖/血壓/血脂, 雷射光凝固（預防增生, 玻璃體出血, 牽引性剝離）, 抗VEGF藥物（增生）
@@ -371,6 +371,8 @@
 ## 光學屈光（太專科, 背考古即可）（考題0）
 
 - S, C, A ＝ S+C, -C, A+90°
+- Retinoscopy（網膜鏡/檢影鏡）：客觀驗光, 看retinal red reflex移動來估屈光度/散光（e.g. 圓錐角膜scissoring reflex）；不是主要看視網膜病灶（cf. funduscopy/OCT看眼底/視網膜）
+- 近視的主要光學因素是眼軸過長造成影像落在視網膜前，眼軸長度通常比角膜屈折率更關鍵
 
 ## 斜弱視（抓大方向, 檢查方法很亂）（考題5）
 
@@ -384,7 +386,7 @@
   - 臨床分類：
     - 內斜視（esotropia, 多半跟遠視有關）＝{假性內斜視（東方嬰兒, 鼻樑寬眼距短看起來像斜視）, 先天內斜視, 調節性內斜視（∵高度遠視, 眼鏡矯正後改善）, 非調節性內斜視（∵其他原因（白內障, 視網膜母細胞瘤）, 眼鏡矯正後無改善）},
     - 外斜視（exotropia）＝{假性外斜視, 先天外斜視（少見）, 間歇性外斜視（Tx＝戴眼鏡, 內聚力訓練, 遮蓋治療訓練）}
-    - 垂直斜視＝{上斜肌麻痺（最常見, 眼球上升）, 眼眶底骨折（下直肌卡住, 限制上視）}
+    - 垂直斜視＝{上斜肌麻痺（最常見, 眼球上升）, 眼眶底骨折（下直肌嵌頓, 限制上視）}
     - 甲狀腺病變（Mainly 下斜視/內斜視）：自體免疫攻擊, 淋巴球浸潤, 眼外直肌侵犯順序＝下內上外
 - 弱視（無法透過矯正讓視力>0.7）：crowd phenomenon（目標物旁有別的東西就看不清楚）；分類＝{斜視性弱視, 不等視弱視（兩眼屈光度差太多）, 刺激剝奪弱視（白內障等病灶剝奪視力）}；預後＝雙眼弱視>單眼弱視（不會早期就好眼依賴）, 近視不等視>遠視遠視不等視；Tx（視力定型前要治好）＝移除成因病灶, 眼鏡矯正區光, 弱化好眼（遮蓋, 點atropine散瞳）
 
@@ -401,16 +403,16 @@
 - 先天青光眼：男多, 雙側, Triad＝流淚, 畏光, 眼瞼痙攣；SS＝牛眼, 角膜直徑>13mm, Haab's striae（Descemet氏膜裂開）；Tx＝Mainly手術, 藥物輔助
 - Retinoblastoma：RB1基因缺乏（抑癌基因）, 腫瘤易鈣化；SS＝leukocoria（白瞳）, 視力差, hypopyon, rubeosis iridis（虹膜血管新生）；DDx＝CT（腫瘤鈣化點）, 病理（Rosette structure）；Tx＝雷射/冷凍治療（for<3mm）, 放療/眼球摘除（for 嚴重）
 
-## 眼科急症（考題0）
+## 眼科急症（考題1）
 
 - 立即處理：中心視網膜動脈阻塞, 急性青光眼, 甲醇中毒（視野縮小, AG＆OG增加, 代謝酸中毒, 鼓膜膨出/充血⭢蒼白萎縮⭢失明）, 重度外傷（化學（酸症狀明顯, 鹼嚴重度高有惡化可能；Tx＝大量沖水, 抗膠原酶for 鹼）, 熱（anti+保濕）, 眼挫傷, 穿刺傷（金屬保護罩, 摘除防交感眼炎））
   - 次緊急（數小時處理） ：角結膜異物, 角膜糜爛, 急性虹彩睫狀體炎
 
-# 復健科（考題17）
+# 復健科（考題21）
 
 我只讀了神經復健, 骨科復健與心肺復健，其他的就背考古學習了
 
-## 神經復健（考題13）
+## 神經復健（考題17）
 
 - 大腦血管與支配：ACA（額葉內側（下肢運動皮質）, 頂葉內側；中風＝對側下肢無力, 尿失禁）, MCA（額葉/頂葉外側, 顳葉；中風＝左側失語症, 右側空間感病覺缺失）, PCA（枕葉, 顳內側；中風＝病灶對側雙眼偏盲）
   - 功能傳遞（預後：表達能力好 > 語言理解能力好, ∵理解力通常比較好恢復）
@@ -516,6 +518,7 @@
   - Partition coefficient（血氣分配係數, blood/gas）：麻醉劑在血液中的溶解度；⭡＝起效/甦醒慢；效價看MAC
 - 個論
   - N2O（laughing gas, 笑氣）：MAC大（104%, 弱效）, 作用快, 恢復快, 不影響心臟；副作用＝氣體栓塞（禁用氣胸/腸阻塞病人）, 噁心嘔吐, 骨髓抑制（長期使用）
+    - cf. NO（nitric oxide, 一氧化氮）≠N2O：吸入NO為selective pulmonary vasodilator（進血液後被Hb失活, 非全身血管擴張）, 可改善ARDS/pulmonary HTN氧合/VQ matching, 不作麻醉
   - Desflurane：MAC小（6.0%）；副作用＝氣管痙攣（咳嗽, 喘鳴）, 心跳血壓上升
   - Sevoflurane：MAC小（2.0%）, 不易氣管痙攣/心悸, 小兒可用induction；副作用＝腎毒性
   - Isoflurane：MAC小（1.2%）, 便宜；副作用＝冠狀物動脈擴張（心血管阻塞會有Coronary steal syndrome）
@@ -526,12 +529,15 @@
 - 概論：Neuromuscular junction以synaptic cleft分開, 透過Acetylcholine傳遞訊號；阻斷Ach receptor分兩類＝{Depolarizing（持續性去極化受器, e.g. Succinylcholine）, Non-depolarizing（競爭性拮抗aka占著茅坑不拉屎, 不過BBB⭢要合用麻醉藥避免鬼壓床/溺水感 e.g. Rocuronium, Vecuronium, Pancuronium；解藥＝Neostigmine（Cholinesterase inhibitor, 增加Ach濃度））}
   - Cholinesterase inhibitor：同時作用在副交感神經產生噁心/分泌物變多等副作用；Tx＝解毒時合併Anticholinergic drugs
   - Anticholinergic drugs：副交感, 中樞抑制（會過BBB）：Atropine（口乾, 氣管擴張，瞳孔擴張, 心跳過快, 幻覺）, Glycopyrrolate（減少口腔分泌物, 四級胺, 唯一不過BBB）, Scopolamine（暈車藥）
+- Reversal：Neostigmine＝acetylcholinesterase inhibitor, 增加ACh和Non-depolarizing NMBD競爭receptor, 需已有spontaneous recovery/TOF twitch才給（deep block無效, ceiling effect）；Sugammadex＝包住steroidal/aminosteroid NMBD（rocuronium, vecuronium）, 不逆轉benzylisoquinolinium（cisatracurium/atracurium）
 - 個論
   - Succinylcholine（Suc De）：超短效, for嗆入/需要快速插管（外傷, 懷孕, 肥胖）；副作用＝惡性高熱, 高血鉀（禁用燒傷/神經損傷病人）, 眼內壓/顱內壓上升（禁用顱內病灶）, 橫紋肌溶解, 心律不整；禁忌症＝惡性高熱, 燒傷, 高血鉀
   - Pancuronium（腎代謝, 長效ND）： for長時間手術；副作用＝vagolytic⭢心跳上升/可能血壓上升
-  - Rocuronium/ Vecuronium（膽汁/腎代謝, 中效ND）：onset快, 組織胺釋放少, 心血管影響少
+  - Rocuronium/Vecuronium（aminosteroid中效ND）：Rocuronium主要hepatic/biliary, Vecuronium hepatic＋部分renal；onset快（Rocuronium較快）, 組織胺釋放少, 可用Sugammadex reversal
+  - Cisatracurium/Atracurium（benzylisoquinolinium ND）：Hofmann elimination/ester hydrolysis, 適合肝腎功能差；不用sugammadex reversal
 - 監測：電刺激周邊神經（ulnar nerve-內收拇指肌）, Train-of-four（TOF, 四次刺激測肌肉反應）
-  - TOF ratio：每10秒給4個2Hz電刺激（twitches）, 0/4完全阻斷, 4/4無阻斷, 3/4以上可手術（block>75%）；麻醉pattern＝{ND有fade, D phase I無fade等幅下降}；拔管評估＝第4twitch高度與第1twitch的比值, >0.9才安全拔管）
+  - TOF ratio：每10秒給4個2Hz電刺激（twitches）, 0/4完全阻斷, 4/4無阻斷, 3/4以上可手術（block>75%）；麻醉pattern＝{ND有fade, D phase I無fade等幅下降}；拔管評估＝第4twitch高度與第1twitch的比值, >0.9才安全拔管, <0.9＝residual neuromuscular blockade（缺氧/呼吸道阻塞/吸入風險⭡）
+  - Residual blockade RF：吸入性麻醉會potentiate Non-depolarizing NMBD（比純TIVA更容易殘留）, 高齡/肝腎功能差/低溫/酸鹼電解質異常
 
 ## 局部麻醉藥（考題10）
 
@@ -568,6 +574,7 @@
 ## 術中維持與併發症（考題1）
 
 - 惡性高熱：risk of all吸入性麻醉/去極化肌肉鬆弛劑；遺傳性鈣調控異常（Ryanodine receptor mutation）導致肌肉過度收縮（肌肉代謝亢進, 產熱過多, 全身代謝亢進）；SS＝前期（CO2堆積, 心律不整）, 後期（高熱, 橫紋肌溶解, 酸中毒, 全身僵硬, 高血鉀）, 骨骼肌/咬肌痙攣（Mainly Succinylcholine）；Tx＝停用誘發藥物, Dantrolene, 支持性治療（降溫, 糖水補充）, 矯正electrolyte, BZD/opioid/propofol維持麻醉
+- Prone position（趴臥, 常用脊椎後路）：肺＝FRC/VQ/oxygenation可優於supine/lateral；循環＝避免腹部受壓, 否則IVC壓迫⭢venous return/CO下降；擺位＝上臂外展可接受但<90度, 避免brachial plexus injury；併發症＝postoperative visual loss（POVL, 眼未受壓仍可因ischemic optic neuropathy, RF＝長手術/大量失血/低血壓/貧血）、顏面水腫/壓瘡、ET tube dislodgement
 
 # 耳鼻喉科（考題59）
 
@@ -578,23 +585,26 @@
   - Rinne test：音叉先貼耳後再放耳旁, 陽性才正常（同側AC>BC, AC氣導經中耳放大較清楚）
   - Weber test：音叉放頭頂, 正常＝骨導無偏向, 傳導聽損＝患側大聲（氣導會抑制骨導）, 感音聽損＝健側大聲（患側氣骨都弱）
   - Pure Tone Audiometry（PTA, 最準的聽檢, Hz＝250-8000）：測氣導/骨導聽力閾值（閾值＝大眾氣導/骨導最小能量中位數, 氣導0dB≠骨導0dB）；正常＝氣骨差<10dB, 傳導聽損＝氣骨差>10dB（10-40懷疑外耳, >40懷疑聽小骨）, 感音聽損＝氣骨差<10dB且氣骨都弱
-    - 符號：右耳AC＝O, BC＝<；左耳AC＝X, BC＝>
+    - 符號：右耳紅色(red, right)AC＝O, BC＝<；左耳AC＝X, BC＝>
   - Impedance audiometry（鼓室圖, 塞緊耳道加壓繪製鼓室圖）：測中耳功能；A正常, As低峰（耳膜硬化, 鐙骨固著）, Ad高峰（聽小骨斷裂）, B平坦（積水, 耳道堵塞）, C波峰位移（鼓膜負壓, 耳咽管功能不全）
   - Acoustic reflex（AR, 鐙骨反射檢查, CN7）：10秒1000Hz80分貝聲音刺激, 測聽小骨反射（閾值70-100）, 鐙骨收縮後10秒聲音不衰退＝正常, 衰退＝聽小骨肌肉疲勞（神經病變）
   - Auditory brainstem response（ABR, 聽性腦幹反射）：測腦波, for 無法說話, 騙子, 腦幹病變, 聽神經瘤診斷；波分類（7類, E.Coli）＝{I＝Eight nerve（CN8）, II＝Cochlear nucleus, III＝Superior Olive, IV＝Lateral lemniscus, V＝Inferior colliculus（臨床上重要）, VI＝medial geniculate body, VII＝auditory radiation}；
   - Interaural latency difference（ILD）＝波V雙耳時間差, >0.2ms懷疑retrocochlear lesion（e.g. 聽神經瘤）
 - 聽力障礙：
 
-  - Conduction hearing loss（傳導性聽損）：外耳/中耳病變；DDx＝聽力圖（flat）；Tx＝藥物, 手術
-  - Sensorineural hearing loss（感音神經性聽損）：內耳/聽神經病變（1st內耳聽損, 2nd毛細胞-聽神經核病變（老年聽障/聽神經瘤））；SS＝高頻聽損, 耳鳴, 解析度下降；DDx＝聽力圖（高音漸傾sloping）；Tx＝多永久性, 只能助聽器
+  - Conduction hearing loss（傳導性聽損）：外耳/中耳病變；DDx＝聽力圖（flat）；Tx＝藥物/手術優先, 特殊狀況可BAHA（骨錨式助聽器）
+  - Sensorineural hearing loss（感音神經性聽損）：內耳/聽神經病變（1st內耳聽損, 2nd毛細胞-聽神經核病變（老年聽障/聽神經瘤））；SS＝高頻聽損, 耳鳴, 解析度下降；DDx＝聽力圖（高音漸傾sloping）；Tx＝輕中度助聽器, 雙側重度/極重度且助聽器效果差⭢cochlear implant（CI, 人工電子耳）
+    - CI高收益族群＝嬰幼兒雙側重度SNHL（語言critical period 2-3y/o前, 越早植入越好；新生兒聽篩可早診斷）；台灣健保＝2017未滿18歲嚴重聽損給付單側CI, 2023/7起放寬第二耳/雙側CI給付
+  - Ototoxicity/hearing loss RF：藥物＝aminoglycoside（gentamicin等）, platinum（cisplatin/carboplatin）, loop diuretics（furosemide）, salicylate/NSAID,, 頭頸部放療後（內耳/中耳直接傷害）, NPC治療後耳咽管功能不良⭢OME反覆中耳積液
   - Mixed hearing loss（混合性聽損, 兩者都有）
   - Functional hearing loss（功能性聽損）：無器質性病變, 可能是心理因素；DDx＝聽力圖（不合理）, ABR正常
 - Sudden Sensorineural Hearing Loss（SSNHL, ∈ 突發性感音神經性聽損）：Rule of 3（3天內, 3個頻率, 30dB以上聽損, 1/3自愈, 1/3改善, 1/3無幫助）, 90%單側, 成因不明；SS＝耳聾, 耳鳴, 頭暈, URI hx；Tx（可逆, 7-14日積極治療）＝類固醇（口服/注射）, 高壓氧治療；預後好＝低頻聽損（代表跟內耳/神經無關）, 早期給類固醇
 - 外耳疾病
 
-  - 解剖：2-3cm, 外1/3軟骨（皮脂腺/汗腺分佈＝cerumen gland耵聹腺）, 內2/3骨頭（僅薄表皮）；血液供應＝外耳動脈/耳後動脈（外頸動脈分支）；神經供應＝耳大神經（C2-3）
+  - 解剖：總長2-3cm, 外1/3軟骨（皮脂腺/汗腺分佈＝cerumen gland耵聹腺）, 內2/3骨頭（僅薄表皮）；血液供應＝外耳動脈/耳後動脈（外頸動脈分支）；神經供應＝耳大神經（C2-3）
   - Cerumen impaction（耳屎堵塞, by cerumen gland）：Tx＝耳垢軟化劑（礦物油, 甘油, 過氧化氫）, 溫水貫注
   - Otitis externa（外耳道炎, swimmer's ear, 先猜Pseudomonas）：Tx＝清潔耳道, 抗生素滴劑（Ciprofloxacin（e.g ofloxacin, 耳膜破可用）, Neomycin, Polymyxin B（耳膜破不可用））；併發症＝auricula perichondritis（耳廓軟骨炎, 不會侵犯耳垂（耳垂沒軟骨））, 蜂窩性組織炎（耳垂involve）, 壞死外耳炎（免疫低下病人, 要排CT/MRI確認有無腦部侵犯）
+  - External auditory canal exostosis（外耳道骨疣, surfer's ear）：長期冷水刺激（晨泳/衝浪）, 多發/雙側/光滑廣基底骨性隆起, 嚴重狹窄可反覆外耳炎/傳導聽損；Tx＝觀察, 嚴重狹窄（>70%）/反覆感染⭢canalplasty；cf. Osteoma（骨瘤）＝多單發/有蒂/病因不明
 - 中耳疾病
 
   - 解剖：外側鼓膜, 內涵槌砧鐙（MIS, 聲音增大17倍）, 鼓膜張肌（連handle of malleus/ Eustachian tube耳咽管）, chorda tympani nerve（味覺, CN7分支）
@@ -629,6 +639,7 @@
 - 鼻出血：成因＝局部（外傷, 鼻腔腫瘤, 鼻竇炎）, 全身（凝血異常, 高血壓, SLE）；DDx＝CBC, PT/aPTT, X-ray, CT；Tx＝定位止血（4% lidocaine棉花＋粘膜血管收縮劑（Otrivin）, Silver Nitrate（化學腐蝕））, 手術ligation
 - 鼻炎：最常見過敏性鼻炎, 血管運動性鼻炎
   - Allergic rhinitis（過敏性鼻炎, IgE介導的type I 過敏反應）：SS＝鼻塞, 鼻水, 打噴嚏, 鼻癢；Tx＝避免過敏原, 抗組織胺藥（口服/鼻噴霧）, 類固醇鼻噴霧（減少發炎）, Leukotriene receptor antagonist（減少發炎）
+    - Pathophys：sensitization（初次接觸無症狀：APC⭢Th2⭢IL-4/13⭢B cell class switch產生IgE, IgE黏mast cell/basophil FcεRI）⭢early reaction（再次接觸5-30min：IgE cross-link⭢mast cell degranulation, histamine/leukotriene⭢鼻癢/噴嚏/水鼻）⭢late inflammation（4-8hr：eosinophil/Th2浸潤⭢鼻塞/慢性發炎）
   - Vasomotor rhinitis（血管運動性鼻炎, 非過敏性鼻炎）：成因＝副交感旺盛, 溫度改變, 壓力, 激素；SS＝水性陣發鼻水, 鼻粘膜腫脹；Tx＝運動, 抗副交感（Atrovent nasal spray）, 類固醇, 手術（鼻夾粘膜電燒雷射, 副交感神經阻斷）
   - Atrophic rhinitis（萎縮性鼻炎）：成因＝全年齡（中年女多）, 感染, 內分泌, VitA/D缺乏, 術後；SS＝鼻腔擴大, 鼻假萎縮, 黃綠惡臭膿痂, 鼻甲骨暴露；Tx＝感染控制, 減少化學刺激, 補VitA, 女性動情素, 手術（減少病側鼻孔氣體通過）
 - 鼻竇炎
@@ -639,6 +650,7 @@
       - Allergic fungal rhinosinusitis（AFRS, 非侵犯性）＝allergic mucin + eosinophils/Charcot-Leyden crystals（非neutrophil）；DDx＝CT病灶hyperattenuation（影像極白）, bone remodeling/erosion
       - Invasive fungal rhinosinusitis＝免疫低下, Mucorales/Aspergillus, 組織/血管侵犯, 可過篩竇侵入眼眶/腦
     - 併發症：眼窩蜂窩性組織炎（pathogen經篩竇攻擊眼球）, 海綿靜脈竇栓塞（Ophthalmic/Angular vein血栓；SS＝單側深部眼睛疼痛畏光, CN3,4,6麻痹, 硬腦膜abscess（急症, 給抗生素+引流））
+      - Chandler classification（急性鼻竇炎眼眶併發症）：I preseptal（眼瞼紅腫, 眶內正常）, II orbital cellulitis（眶脂肪模糊無膿）, III subperiosteal abscess（骨壁-骨膜間膿, 眼球外推）, IV orbital abscess（眶脂肪內膿, 眼球固定）, V cavernous sinus thrombosis（雙眼/CN3,4,6/高燒意識變）；Tx＝引流/手術（III大或視力差/24hr無效、IV-V需）
   - 黏液囊腫：術後狹窄, 1st額竇, 2nd篩竇；SS＝眼窩無痛性腫脹（額竇）, 視神經壓迫（蝶竇）；Tx＝手術引流
 
 ## 喉科（考題5）
@@ -649,6 +661,7 @@
     - 神經支配：迷走分出＝（上喉神經（環甲肌）, 喉返神經（其他肌肉, 右走鎖骨下動脈, 左走主動脈弓（較長易受傷））
 - Acute Epiglottitis（＝Acute supraglottitis, 急性會厭炎, 急症）：聲門上區（會咽軟骨, 杓狀軟骨）蜂窩性組織炎（by H.influenzae type B）, Mainly 2-4y/o；SS＝躁動難睡, 嘴巴吐舌頭, 發燒, 流口水, 小兒3D（流口水（drooling）, 吞嚥困難（dysphagia）, 呼吸窘迫（distress））；DDx＝FEES（鼻咽fiery cherry red）, X-ray（側面thumb sign, cf.哮吼）；Tx＝緊急插管, 抗生素（Ampicillin）
 - Vocal fold paralysis（聲帶麻痺, 左側喉返神經損傷）：成因＝手術（甲狀腺, 頸部）, 腫瘤（肺尖, 食道）, DM；SS＝單側（聲音沙啞, 吞嚥困難）, 雙側（呼吸困難, 嗆咳）； Tx＝語言治療, 手術（for復健6m無果, Thyroplasty甲狀軟骨成形術, Injection（玻尿酸, 自體脂肪, PRP濃縮血小板））
+- Pediatric tracheostomy（小兒氣切）：常見適應症＝長期插管/ventilator dependence；進氣管前先放stay sutures（早期脫管可拉開氣管口重插）；術後早期tract未成熟, 脫管/阻塞風險高⭢ICU/密切監測, 不直接一般病房；stoma maturation可做但非必做
 - Obstructive sleep apnea（OSA, 阻塞性睡眠呼吸暫停症候群）：暫停>10sec；RF＝胖男, 鼻中膈彎曲, 家族性；分類＝阻塞性（90%）, 中樞性, 混合性（初期中樞性, 後期阻塞性）；SS＝打鼾, 白天嗜睡, 注意力不集中；併發症＝高血壓, 心律不整, 心衰竭；DDx＝側面X-ray, Muller maneuver（鼻腔FEES, 吸氣時咽部塌陷）, Polysomnography（多項生理參數監測, gold；AHI＝每小時apnea+hypopnea次數, <5 normal, 5-15 mild, 15-30 moderate, >30 severe）；Tx＝生活習慣改變（減重, 側睡, 戒酒）, CPAP（持續正壓呼吸器）, 手術（LAUP止鼾雷射（縮Uvula）, UPPP軟顎懸雍垂咽腔成形術）
 - Laryngomalacia（喉軟化症, 喉部軟骨發育不全導致聲門上區塌陷, 新生兒1st喘鳴成因）：先天性, 1w/o開始；SS＝吸氣性喘鳴, 餵食困難, 生長遲滯；Tx＝觀察（2y/o內自愈）, 嚴重者手術（supraglottoplasty）
 - Herpetic Stomatitis（單純皰疹口炎, HSV-1感染）：潛伏期7天；SS＝口腔前半多發性小水泡, 破掉後形成潰瘍, 牙齦紅腫惡臭；Tx＝抗病毒藥物（Acyclovir）
@@ -657,6 +670,8 @@
 ## 頭頸科（考題23）
 
 - 解剖學：頭頸部淋巴結分為7群（I-VII, 依照位置命名）
+
+  ![Neck lymph node levels I-VII](../assets/neck_lymph_node_levels.jpeg)
 
 
   | Level | 名稱/界線                                                                                        | 常考記法                                                             |
@@ -671,7 +686,19 @@
   | VII   | Superior mediastinal                                                                             | 胸骨上窩以下到上縱膈                                                 |
 
   - 淋巴廓清：radical（傳統, 全部切除；for大範圍轉移）, modified radical（保留SCM/副神經/頸內靜脈）, selective（只切特定level）
+  - 頭頸癌淋巴轉移考題反射：
+
+
+    | 原發部位                           | 常考/常規清掃level     | 選項判斷                        |
+    | ---------------------------------- | ---------------------- | ------------------------------- |
+    | 口腔癌（唇、舌前部、口底、頰黏膜） | I-III                  | 有Level I才合理                 |
+    | 口咽癌、下咽癌、喉癌               | II-IV（lateral neck）  | 下咽癌單側病灶＝同側II、III、IV |
+    | 鼻咽癌                             | retropharyngeal、II、V | 常以頸部腫塊/耳悶表現           |
+    | 甲狀腺、聲門下、頸段食道           | VI ± VII              | 中央區/上縱膈                   |
+
+    - 陷阱：Level I偏口腔；Level V偏後三角/鼻咽；VI-VII不是單側下咽癌最高風險。考「hypopharyngeal cancer淋巴轉移最高風險」先選II-III-IV。
   - Deep Neck（S.pyogenes（GAS）, Streptococcus, Bacteroides感染為主）
+
     - 分層：
       - Superficial layer＝platysma
       - Deep Layer
@@ -696,6 +723,8 @@
     - *cf. Warthon duct下頷線
 - 頭頸癌（都是SCC dominant, HPV相關＝喉癌, 口咽癌, EBV＝鼻咽癌）
 
+  ![Pyriform sinus anatomy](../assets/pyriform_sinus_anatomy.jpg)
+
   - 口腔癌（90%SCC, 1st頭頸癌）：
     - 分八區（Lips, Buccal頰黏膜, Upper gingiva上齒齦, Lower gingiva下齒齦, Tongue舌頭（1st）, Hard palate硬顎, Retromolar trigone臼齒後區, Floor of mouth口底）
     - RF＝ABC（合起來30-123x）, 吃太燙, 牙齒沒顧好SS＝無痛不癒潰瘍>2wks/腫塊（早期）, 頸部淋巴腫（後期）
@@ -714,6 +743,7 @@
   - Hypopharyngeal cancer（下咽癌, SCC為主, 淋巴結豐富易轉移）：
     - RF＝中壯年男性, ABC, VitA/B缺乏, Plummer-Vinson syn（女性缺鐵, postcricoid癌症）
     - 三區＝{pyriform sinus（80% cancer）, postcricoid area, post. pharyngeal}
+    - 淋巴轉移：單側病灶最常同側Level II、III、IV（深頸/內頸靜脈鏈）；Level I偏口腔
     - SS＝初期症狀輕微, 聲音沙啞
     - DDx＝理學檢查, 喉內視鏡, X-ray, Echo, 骨掃描
     - Tx（重術後聲音復健）：手術+CCRT

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Extension-type supracondylar humerus fracture</title>
+  <desc id="desc">Side-view schematic showing posterior displacement of the distal fragment and anterior neurovascular risk.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#1f2937"/>
+    </marker>
+    <marker id="redArrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#b91c1c"/>
+    </marker>
+    <style>
+      .bone { fill: #f4dfbd; stroke: #6b4f2a; stroke-width: 4; }
+      .joint { fill: #f7ead3; stroke: #6b4f2a; stroke-width: 4; }
+      .fx { stroke: #b91c1c; stroke-width: 6; stroke-linecap: round; stroke-dasharray: 10 8; fill: none; }
+      .arrow { stroke: #1f2937; stroke-width: 4; fill: none; marker-end: url(#arrow); }
+      .risk { stroke: #b91c1c; stroke-width: 4; fill: none; marker-end: url(#redArrow); }
+      .nerve { stroke: #2563eb; stroke-width: 6; fill: none; stroke-linecap: round; }
+      .artery { stroke: #dc2626; stroke-width: 6; fill: none; stroke-linecap: round; }
+      .label { font-family: Arial, Helvetica, sans-serif; font-size: 24px; fill: #111827; }
+      .small { font-size: 20px; fill: #374151; }
+      .title { font-size: 31px; font-weight: 700; }
+      .caption { font-size: 22px; font-weight: 700; fill: #b91c1c; }
+    </style>
+  </defs>
+
+  <rect width="900" height="520" fill="#ffffff"/>
+  <text x="40" y="48" class="label title">Extension-type supracondylar humerus fracture</text>
+  <text x="40" y="84" class="label small">FOOSH / hyperextension: distal fragment moves posterior, proximal spike threatens anterior neurovascular bundle.</text>
+
+  <!-- Proximal humerus shaft -->
+  <path class="bone" d="M365 105 C338 180, 334 252, 348 328 C356 370, 386 391, 426 391 C462 391, 487 372, 495 334 C508 268, 496 190, 470 105 Z"/>
+
+  <!-- Anterior spike of proximal fragment -->
+  <path class="bone" d="M350 305 L475 324 L381 383 Z"/>
+
+  <!-- Fracture line -->
+  <path class="fx" d="M334 305 C376 290, 425 296, 488 323"/>
+
+  <!-- Distal fragment displaced posteriorly -->
+  <g transform="translate(118, 28) rotate(-12 418 392)">
+    <path class="joint" d="M345 350 C312 373, 298 423, 333 456 C360 482, 398 470, 418 444 C438 474, 480 487, 510 456 C544 421, 526 373, 493 350 C450 326, 386 327, 345 350 Z"/>
+    <path class="bone" d="M386 337 C400 307, 452 307, 466 337 L452 373 C435 359, 403 359, 386 337 Z"/>
+  </g>
+
+  <!-- Posterior displacement arrow -->
+  <path class="arrow" d="M590 395 C665 365, 710 329, 745 275"/>
+  <text x="635" y="245" class="label small">distal fragment posterior</text>
+
+  <!-- Anterior neurovascular bundle -->
+  <path class="artery" d="M285 182 C278 245, 286 312, 316 381"/>
+  <path class="nerve" d="M255 185 C248 255, 255 324, 292 392"/>
+  <text x="52" y="185" class="label small">brachial a.</text>
+  <text x="52" y="217" class="label small">median n.</text>
+  <path class="risk" d="M334 350 C300 340, 285 327, 274 298"/>
+  <text x="62" y="342" class="caption">anterior risk</text>
+
+  <!-- Orientation -->
+  <text x="710" y="450" class="label small">posterior</text>
+  <path class="arrow" d="M700 420 L795 420"/>
+  <text x="68" y="450" class="label small">anterior</text>
+  <path class="arrow" d="M190 420 L95 420"/>
+
+  <!-- Joint reference -->
+  <text x="370" y="493" class="label small">elbow joint</text>
+</svg>
