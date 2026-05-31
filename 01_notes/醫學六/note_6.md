@@ -6,12 +6,13 @@
   - Cardiovascular system
     - 心輸出量上升（早期心搏量增加, 後期心率增加）
     - 胎兒循環：umbilical vein（1x）⭢ductus venosus（靜脈導管）⭢IVC⭢RA⭢foramen ovale⭢LA⭢LV⭢aorta⭢umbilical arteries（2x）⭢placenta
-  - Metabolism：HPL（人體胎盤泌乳素）⭢降低胰島素敏感⭢孕婦飯前低血糖, 飯後高血糖/高胰島素
+  - Metabolism：HPL（人體胎盤泌乳素, 胎盤分泌（cf. progesterone））⭢降低胰島素敏感⭢孕婦飯前低血糖, 飯後高血糖/高胰島素（飯後血糖與巨嬰, 新生兒低血糖等預後高相關）
+    - 補：progesterone, <8wks by 黃體, >8wks by胎盤
   - Respiratory system：黃體素⭢CO2敏感上升⭢relative hyperventilation, tidal volume增加⭢呼吸性鹼中毒
   - Hematologic system＝總血量上升（足月達40%）, 生理性貧血（血漿增加>紅血球增加）, WBC增加, 凝血因子增加, 血小板減少
 - Prenatal exam（共10次）
   - 1st trimester（<17週, 2次）＝確認懷孕, 預產期（M+9, D+7）, 產前檢查（血型, 感染, 德麻疫苗）, 例行產檢
-    - 自費＝絨毛取樣（10-12wk, 用絨毛細胞分析胎兒染色體）, NIPT（11-14wk唐篩, 媽媽血中cell-free DNA）, 第一孕期組套（11-14wk唐篩；內容＝超音波頸部透明帶+β-HCG+PAPP-A；90%準確率）, SMA/fragileX（10-20wk）, 羊膜穿刺（16-20wk, 羊水分析；內容＝肺成熟度（L/S比值）, 感染survey, NTD, 染色體異常）
+    - 自費＝絨毛取樣（10-12wk, 用絨毛細胞分析胎兒染色體）, NIPT（11-14wk唐篩, 媽媽血中cell-free DNA）, 第一孕期三件套（11-14wk唐篩；內容＝超音波頸部透明帶+β-HCG+PAPP-A；90%準確率）, SMA/fragileX（10-20wk）, 羊膜穿刺（16-20wk, 羊水分析；內容＝肺成熟度（L/S比值）, 感染survey, NTD, 染色體異常）
   - 2nd trimester（17-28週, 2次）＝Echo（胎兒畸形篩檢, 橫徑/頭圍/腹圍/股骨長）, 例行產檢；
     - 自費＝高層次超音波（18-24wk, abnl＝{spinal bifida（脊柱裂）, Lemon sign（額骨塌陷）, Banana sign（小腦結構變異）}）, GDM（24-28wk）, 四指標唐篩（15-20wk, AFP（⭣Trisomy, ⭡NTD（Neural Tube Defects））+β-HCG（⭡Down's, ⭣Edwards）+uE3⭣+inhibin A⭡；準確率83%）
   - 3rd trimester（29-40週, 6次）＝32wk VDRL梅毒檢查, 36wk GBS檢查, 例行產檢
@@ -54,7 +55,13 @@
   - 變異性減少：睡著, 缺氧, 酸血症, 中樞抑制劑
 - 正常分娩與產程遲滯
   - 正常分娩：產兆＝破水, Bloody show（血性分泌物）, True labor（規律漸強陣痛, 止痛劑無效）
-  - 產程遲滯：3P Abnl（Power子宮收縮, Passenger胎兒, Passage骨盆）；Tx（催產藥物）＝Oxytocin（IV, 促子宮收縮；SE＝水中毒）, Prostaglandin E2（＝Cervidil, 陰道塞劑, 促子宮頸成熟；SE＝噁心嘔吐頭暈發燒腹瀉）
+  - 產程異常：先分期再處理；共通先評估3P（Power子宮收縮, Passenger胎兒, Passage骨盆）
+    - Prolonged latent phase（潛伏期太久）：初產婦>20hr（經產婦>14hr）；Tx＝休息/鎮痛鎮靜/觀察 ± amniotomy, 非緊急不首選oxytocin
+    - Protraction disorders（進展太慢）：active phase子宮頸擴張/胎頭下降過慢（初產婦擴張<1.2cm/hr）；Tx＝觀察支持, 評估3P
+    - Arrest disorders（進展停止）：可發生於active phase或第二產程；先排除CPD（頭盆不對稱, 有CPD不催生→剖腹）, 無CPD且宮縮不足才amniotomy/oxytocin
+      - 第二產程arrest（子宮頸全開後仍生不出）：無epidural止痛>2hr, 有epidural>3hr
+  - 催產藥物：Oxytocin（IV, 促子宮收縮；SE＝水中毒）, Prostaglandin E2（＝Cervidil, 陰道塞劑, 促子宮頸成熟；SE＝噁心嘔吐頭暈發燒腹瀉）
+  - TOLAC/VBAC（剖腹產後嘗試陰道產）：TOLAC（trial of labor after cesarean, 剖腹產後試產）＝過程, 成功＝VBAC（vaginal birth after cesarean, 剖腹產後陰道產）；適合＝前次子宮下段橫切（low transverse cesarean）；禁忌＝古典式縱切（classical incision）/曾子宮破裂（uterine rupture）/前置胎盤等不可陰道產；併發症＝子宮破裂/疤痕裂開（uterine rupture/dehiscence；感染/輸血↑）
   - 過期妊娠：>42wks, RF＝過期hx, 初產婦, 肥胖產婦；併發症＝胎兒窘迫, 胎便吸入, 羊水過少, 胎兒過大（>4000g）；Tx＝催生（for >41wks能⭣死亡率）
     - 催生：oxytocin（for子宮成熟）, oxytocin+手術（for子宮頸不成熟）
     - 其他催生Indication＝過期妊娠, 早期破水, 子癲前症；
@@ -65,19 +72,20 @@
 
 ## Postpartum產後時期（考題1）
 
-- 產後出血（Postpartum hemorrhage, PPH, <24hr（Primary）, 24hr-12wks（Secondary））：>500ml陰道分娩, >1000ml剖腹產；RF＝4T（Tone無力（70%, 多胎, 巨嬰, 羊水過少）, Trauma, Tissue（植入性胎盤）, Thrombin）；Tx＝子宮按摩, 宮縮藥物（Oxytocin, PGE1, ergonovine）, 手術（氣球填塞, 子宮動脈栓塞術, 子宮切除術）；併發症＝Hypovolemic shock, Anemia, Sheehan syndrome（產後垂體功能不全, ∵PPH導致垂體缺血壞死, 乳汁分泌減少, 月經不來, 低血糖, 心跳上升/可能血壓上升）
+- 產後出血（Postpartum hemorrhage, PPH, <24hr（Primary）, 24hr-12wks（Secondary））：>500ml陰道分娩, >1000ml剖腹產；RF＝4T（Tone無力（70%, 多胎, 巨嬰, 羊水過少, 急產）, Trauma, Tissue（植入性胎盤）, Thrombin）；Tx＝子宮按摩, 宮縮藥物（Oxytocin, PGE1, ergonovine）, 手術（氣球填塞, 子宮動脈栓塞術, 子宮切除術）；併發症＝Hypovolemic shock, Anemia, Sheehan syndrome（產後垂體功能不全, ∵PPH導致垂體缺血壞死, 乳汁分泌減少, 月經不來, 低血糖, 心跳上升/可能血壓上升）
   - 植入性胎盤（Placenta accreta, 胎盤直接附著子宮肌層, 臨床上無症狀）：RF＝前置胎盤, 剖腹產Hx；分類＝Accreta（附著肌層表面, 80%）, Increta（侵入肌層）, Percreta（穿透子宮壁, 可能侵犯膀胱）；DDx＝Echo；Tx＝ >34wks剖腹產+子宮切除術
 - Newborn：
   - 穩定度評估：Apgar score（Appearance, Pulse, Grimace, Activity, Respiration）＝0-2分（每項0-2分, 5項總分0-10分, >7分正常）
   - 肺成熟度評估：L/S ratio（卵磷脂/鞘磷脂比值, >2成熟）, PG（肺泡表面活性物質, presence成熟）, Shake test（羊水酒精震盪試驗, presence成熟（＝有介面活性劑））
 - Puerperium（產褥期, 分娩後6週）：生理變化＝子宮復舊（1000g縮小到50-100g）, Lochia（惡露, 共200-500cc., Rubra（紅色）⭢Serosa（粉色, <2wks）⭢Alba（白色, 2wks後））, 乳房變化（漲奶, 哺乳性乳腺炎（Mainly S. aureus））, 賀爾蒙復原（β-HCG⭣, 性激素⭣ in 3wks, 月經恢復in 6months）, 產褥熱（>38℃, 產後24hr-10days, RF＝泌尿道感染（1st）, 子宮內膜炎（∵剖腹產））
-  - Obstetric sepsis：常見來源＝UTI/pyelonephritis, chorioamnionitis, endometritis, wound infection；常見菌＝E. coli（最常見）, GBS/GAS, S. aureus, anaerobes, Enterococcus, Klebsiella；Listeria可見於孕期感染但產科敗血症相對少見
+  - Obstetric sepsis：常見來源＝UTI/pyelonephritis, chorioamnionitis絨毛膜羊膜炎, endometritis, wound infection；常見菌＝E. coli（最常見）, GBS/GAS, S. aureus, anaerobes, Enterococcus, Klebsiella；Listeria可見於孕期感染但產科敗血症相對少見
   - 母乳特徵：初乳（colostrum, 產後3-5天, 黃色富含免疫球蛋白）, 成乳（mature milk, 產後2週, 有IgA, cytokine, 缺K, ∴出生要打Vit K）
 
 ## High-risk pregnancy高危險妊娠（考題11）
 
-- Preeclampsia：機轉unknown, 可能與胎盤血管生成異常（sFlt-1⭡, VEGF/PlGF⭣）有關；RF＝GDM, HTN, 多胞胎, 自體免疫Dx；DDx＝蛋白尿（24hr尿蛋白>300mg, 尿蛋白/肌酐比>0.3, dipstick≥2+）, SBP/DBP>140/90, 器官失能；併發症＝腦出血, 腦中風, 胎兒遲緩, 胎盤剝離；Tx（生產/避免母親缺氧/HTN/復發）＝引產（>34wks, 唯一根治方法）, MgSO4（預防子癲症, 不可用於MG, 肺水腫, SE＝心跳上升/可能血壓上升頭痛肺水腫鎂中毒（使用要規律側）DTR）, 降壓（Labetalol（急性用, 氣喘不用）, Nicardipine（急性用）, Methyldopa（慢性安全, cf. ACEi/ARB絕不可用）, 目標＝130-150/80-100, 太低胎兒會沒血）, Aspirin（最有效預防, 12-28wk給予）
+- Preeclampsia：機轉unknown, 可能與胎盤血管生成異常（sFlt-1⭡, VEGF/PlGF⭣）有關；RF＝GDM, HTN, 多胞胎, 自體免疫Dx；DDx＝蛋白尿（24hr尿蛋白>300mg, 尿蛋白/肌酐比>0.3, dipstick≥2+）, SBP/DBP>140/90, 器官失能；併發症＝腦出血, 腦中風, 胎兒遲緩, 胎盤剝離；Tx（生產/避免母親缺氧/HTN/復發）＝引產（>34wks, 唯一根治方法）, MgSO4（預防子癲症, 不可用於MG, 肺水腫, SE＝心跳上升/可能血壓上升頭痛肺水腫鎂中毒（使用要規律側DTR））, 降壓（Labetalol（急性用, 氣喘不用）, Nicardipine（急性用）, Methyldopa（慢性安全, cf. ACEi/ARB絕不可用）, 目標＝130-150/80-100, 太低胎兒會沒血）, Aspirin（最有效預防, 12-28wk給予）
   - 孕期高血壓相關定義：Gestational hypertension（妊娠高血壓, >20wks, 無蛋白尿/器官失能）, Preeclampsia（子癲前症, >20wks, 高血壓∩蛋白尿, 90% >34wks發病（if late onset, 預後佳））, Eclampsia（子癲症, 子癲前症+Seizure）, HELLP syndrome（Triad＝Hemolysis溶血+Elevated Liver enzymes肝酶升高+Low Platelet count血小板減少）
+- Intrahepatic cholestasis of pregnancy（ICP, 妊娠肝內膽汁淤積症）：晚孕期搔癢（手掌/腳掌, 無皮疹）；DDx＝血清膽汁酸（serum bile acids↑最能預測胎兒窘迫/早產/胎死（>100 μmol/L風險高））, ALT/AST↑, ALP不準（孕期本來就會高）；Tx＝ursodeoxycholic acid（UDCA, 改善孕婦搔癢）+ 胎兒監測/適時生產
 - Gestational diabetes mellitus（GDM, 妊娠糖尿病, 50%孕婦20年內DM, 子女多肥胖）：RF＝非裔美國人, 肥胖, GDM hx, 多胞胎, 多囊卵巢；DDx＝OGTT（口服75g葡萄糖水血糖>180（1hr）, >153（2hr）, >92（fasting））
   - SE：Materal DKA（DM I）/HHNK（DM II）, 流產, 畸形, 巨嬰（LGA, 同周數體重過重）, NB三高二低（高：呼吸rate, 紅球, 膽紅素, 低：血鈣, 血糖（∵胎兒高胰島素血症））
   - Tx：飲食運動（第一線）, 藥物（第二線, Insulin；口服血糖藥物如Glyburide, Metformin需個案評估（可過胎盤））
@@ -102,14 +110,14 @@
     - 發炎性（endometrioma＝巧克力囊腫, 沙沙狀質地 in sono）
     - 感染性（abscess）
   - ovarian tumor（95%原發性）：分類＝{epithelial tumor（上皮細胞瘤, 70%）, sex cord-stromal tumor（性索間質瘤, 10%）, germ cell tumor（生殖細胞瘤, 10%）, Meta（＝Krukenberg, from 胃（1st）腸胸；DDx＝組織（signet-ring cell））}
-    - Ovarian epithelial tumor（75%發現時已>Stage III, 預後差, 復發率高）：RF＝老, 初經早, 停經晚, 無生育, BRCA1/2, Lynch syndrome（HNPCC）；保護因子＝口服避孕藥, 結紮, 多產, 哺乳；DDx＝內診（adnexa mass）, Echo, 腫瘤marker；分期＝FIGO staging system（I局限於卵巢, II局限於骨盆, III腹腔播散, IV遠處轉移）；Tx＝手術（分期減積debulking）+ 化療（Stage IC以上, 以Carboplatin + Paclitaxel為主）, 預防性切除（if 不生了）+規律回診（for 已知基因突變）；預後好＝stage低, 年輕, 術後CA125快速下降, PR（+）, HER2（+）, BRCA突變
-      - 病理
-        - 預後好：Endometrioid（子宮內膜樣, Lynch syn相關）, Clear cell（亞洲, 子宮內膜異位, Lynch syn相關）, Mucinous（腸轉移型, Stage I即發現）
-        - 預後差：High-grade serous（80%卵巢上皮tumor）, Low-grade serous
-      - 補：Hereditary Nonpolyposis Colorectal Cancer（HNPCC＝ Lynch syn）：Commonly by DNA mismatch（MLH1, MSH2, MSH6, PMS2 or EPCAM）
-    - Ovarian germ tumor（多良性, 年輕, 多單側, 惡性者常快速生長/有症狀）：Tx＝fertility-sparing surgery（單側切除+分期；對側卵巢不常規切片, 除非高度懷疑）＋BEP（for惡性, 化療敏感）
+    - Ovarian epithelial carcinoma（上皮性卵巢癌, 最常見卵巢惡性, 常晚期/預後差）：最常見＝serous carcinoma漿液性癌, 尤其high-grade serous carcinoma高級別漿液性癌；RF＝老, 初經早, 停經晚, 無生育, BRCA1/2, Lynch syndrome（HNPCC, 遺傳性非息肉性大腸癌）；保護因子＝OCP口服避孕藥, 結紮, 多產, 哺乳
+      - Type I（低惡性度, 階段式進展, 常早期）：low-grade serous（低級別漿液性, KRAS/BRAF）, mucinous（黏液性, KRAS）, endometrioid/clear cell（子宮內膜樣/透明細胞, 常與endometriosis子宮內膜異位相關, PTEN/ARID1A/PIK3CA）；不是estrogen-related（那是子宮內膜癌Type I概念）
+      - Type II（高惡性度, 常晚期）：high-grade serous（高級別漿液性, TP53, BRCA/HRD同源重組修復缺陷, 常源自輸卵管傘端STIC輸卵管漿液性上皮內癌）；BRCA主要連high-grade serous, 不是mucinous
+      - DDx/分期＝內診（adnexa mass附件腫塊）, Echo超音波, 腫瘤marker（CA-125等）；FIGO＝I卵巢內, II骨盆內, III骨盆外腹膜/後腹腔淋巴, IV遠端
+      - Tx/預後＝手術分期/減積（debulking）+ platinum-taxane化療（常Carboplatin+Paclitaxel；早期低風險不一定需化療）；預後好＝stage低, 年輕, 術後CA-125快速下降
+    - Ovarian germ tumor（多良性, 年輕, 多單側, 惡性者常快速生長/有症狀）：Tx＝fertility-sparing surgery生育保留手術（單側切除+分期；對側卵巢不常規切片, 除非高度懷疑）＋BEP（for惡性, 化療敏感）
       - 分類
-        - Mature cystic teratoma（＝dermoid cyst, 1st, <1%轉成惡性SCC）
+        - Mature cystic teratoma（成熟囊性畸胎瘤＝dermoid cyst皮樣囊腫, 生殖細胞腫瘤1st；<1%惡性轉化, 最常見＝squamous cell carcinoma鱗狀細胞癌）
         - Immature teratoma（惡性, 年輕, 依grade決定風險）,
         - Dysgerminoma（1st惡性, LDH↑）
         - Yolk sac tumor（＝Endodermal sinus tumor, 2nd惡性, AFP↑, 年輕/單側/快速）
@@ -126,16 +134,21 @@
   - Uterine myoma（子宮肌瘤, Leiomyoma, 1st良性, 1/3育齡女子）：分類＝{Submucosal（type 0-2, 出血主因, 最影響生育）, intramural（3-4）, subserous（5-7, 疼痛主因, 較少不孕）}；DDx＝內診（不規則腫塊）, Echo,子宮鏡（懷疑submucosal/intracavitary lesion）, MRI（最準, 鑑別惡性）；Tx＝Obs（無症狀）, GnRH agonist/antagonsit（唯一可縮小肌瘤的賀爾蒙治療；for 術前減積/快停經一路打到停經；SE＝骨鬆）, Progestin-releasing intrauterine devices（IUDs）, UAE（uterine artery embolization；想懷孕者慎用）, 手術（Myomectomy子宮肌瘤切除術, 保留生育能力；Hysterectomy子宮切除術, 不保留生育能力）；孕期red degeneration＝急性疼痛, 多保守治療（止痛/休息）, 通常不手術
   - Endometrial hyperplasia（子宮內膜增生, 考題少）：分類＝{Complex atypical hyperplasia（複雜增生, 有Atypia惡性率3成）, 其他都良性}；DDx＝Echo（for 停經前>15mm, 後>5mm）, 子宮內膜取樣；Tx＝Progestin（無Atypia者, Atypia if需生育）, 手術（Hysterectomy子宮切除術 for Atypia）
   - Endometrial cancer（子宮內膜癌, Mainly adenocarcinoma, 1st惡性, 60-70歲, 多早期診斷）：RF＝肥胖, DM, HTN, PCOS, Lynch syn；SS＝異常子宮出血（停經後出血最典型）；DDx＝Echo（if >5mm）, 切片, Marker（CA125, CA199, CEA）, MRI（gold）；分期＝FIGO staging system（I局限於子宮, II侵犯子宮頸, III骨盆/腹腔播散, IV遠處轉移）；Tx＝手術（>Stage II要先debulking）, 化療（Stage II以上）, 化/放/賀爾蒙（Stage III以上）
-    - Histology/Type：Type I＝estrogen-related（肥胖/PCOS）, Endometrioid（80%, grade 1-2, 分化好, 預後好, 常異常出血）；Type II＝non-estrogen-related, Serous/Clear cell（grade 3, p53, 分化差, 預後差）
+    - Histology/Type：
+      - Type I：estrogen-related（肥胖/PCOS）, Endometrioid（80%, grade 1-2, 分化好, 預後好, 常異常出血）
+      - Type II：non-estrogen-related, Serous/Clear cell（grade 3, p53, 分化差, 預後差）
     - Sarcoma of uterus（中胚層, 易血行轉移, 10%已肺癌轉移）：分類＝{預後差＝High grade Endometrial stromal sarcoma＝Undifferentiated uterine sarcoma；預後好＝Leiomyosarcoma, Adenosarcoma, Low grade（Endometrial stromal sarcoma）；Tx＝手術（Hysterectomy子宮切除術+雙側輸卵管切除+淋巴取樣化驗）, 輔助放化療
 - HPV：DNA virus, 大量製造E6/E7（抑制抑癌基因p53, Rb）, 性傳播/垂直傳染（新生兒多半能完全清除病毒）, 潛伏於分裂旺盛basal cell, 80%女性曾感染；分類＝{Low risk（6&11（菜花）, 40, 42）, High risk（16 & 58 in Taiwan, 18（子宮頸腺癌最相關）, 31）}；SS＝Condyloma acuminatum（尖銳濕疣, HPV 6/11）, Cervical intraepithelial neoplasia（CIN, 子宮頸上皮內瘤變）, Cervical cancer（子宮頸癌, SCC為主）；DDx＝內診, Pap smear（子宮頸抹片檢查）, Colposcopy（陰道鏡檢查）； Tx＝vaccine（預防, target HPV L1蛋白, 九價＝（6,11,16,18,31,33,45,52,58））, Condyloma acuminatum（局部藥物治療或手術切除）, CIN（觀察或手術切除）, Cervical cancer（手術切除+化放療）
-- Cervical intraepithelial lesion（癌前病變）：鱗柱上皮交接SCJ（transformation zone）為主；DDx＝抹片（篩檢用,  koilocytosis, 核質比上升, mitosis⭡, 開始性行為後三年一次）；Tx＝局部治療（ablation, conization錐狀切除（治療兼診斷）；10%復發率）, 陰道鏡切片（if 懷孕時, 不可子宮頸刮除術）, 子宮切除
+  - Cervical intraepithelial lesion（CIN, 子宮頸上皮內瘤變/癌前病變）：鱗柱上皮交接SCJ（transformation zone）為主；自然史＝多數HPV 1-2年清除, CIN1兩年內60-90%消退（觀察為主）, CIN3/CIS未治療有癌化風險, HPV16最常見於CIN2/3與侵犯癌；DDx＝抹片（篩檢用, koilocytosis, 核質比上升, mitosis⭡, 開始性行為後三年一次）；Tx＝局部治療（ablation, conization錐狀切除（治療兼診斷, 可治CIN3/AIS腺原位癌）；10%復發率）, 陰道鏡切片（if 懷孕時, 不可子宮頸刮除術）, 子宮切除
 - Cervical cancer（99.7%∵HPV）：SCC（70%）/Adenocarcinoma（25%）為主；RF＝多重性伴侶, 過早性行為, 多產, 社經地位低, 抽菸；分期＝FIGO staging system（I局限子宮頸, II侵犯子宮, III侵犯骨盆/淋巴結, IV侵犯膀胱/直腸或遠處轉移, cf. ovarian tumor）；Tx＝手術（早期, Stage I-IIA, 包括子宮切除術、淋巴切除術、盆腔清掃術）, 化放療（Stage IIB-IV）, 骨盆腔器官刨除術（exenteration）
+  - 保留生育：IA1（基質侵犯≤3mm）且無LVSI（lymphovascular space invasion, 淋巴血管空間侵犯）/切緣陰性→conization錐狀切除；IA2（>3-5mm）或小IB1/有LVSI需淋巴結評估, 可radical trachelectomy（根除性子宮頸切除術）；radical hysterectomy/放療會失去生育能力
   - 懷孕（VS一般孕婦）：早產風險高, 存活率正常；Tx（不可子宮頸刮除術）＝第二孕程conization（IA, IB1）, 化放療（IB2以上）；生產＝剖腹產（避免會陰切開）
 - Vaginal cancer（原發少, Mainly轉移）：SCC為主, 好發陰道後壁上1/3；SS＝陰道出血分泌物, 後期膀胱直腸骨盆侵犯；DDx＝抹片（篩檢）, 切片（診斷）；分期＝FIGO staging system（I局限於陰道粘膜, II侵犯paravaginal器官（未到骨盆）, III侵犯骨盆壁/鼠蹊淋巴結, IV侵犯膀胱/直腸或遠處轉移）；Tx＝手術（for陰道上1/3 Stage I）, 化放療（Stage III-IV）
-- Vulvar cancer（4th婦癌）：SCC為主, 少數Paget's disease（intraepithelial adenocarcinoma, 通常非HPV相關, SS＝外陰紅斑/濕疹樣病灶/搔癢, <1%）；Tx＝手術+摘淋巴（只有Vulvar（Stage I）不用摘淋巴）
+- Vulvar cancer（外陰癌, 4th婦癌）：SCC為主；RF/路徑＝{HPV-related（HPV16/18, 年輕, 抽菸, 免疫低下, usual VIN/HSIL, 常多發）, HPV-independent（老年, lichen sclerosus/lichen planus慢性發炎, differentiated VIN, 較易進展）}；SS＝外陰搔癢/疼痛, 不癒潰瘍或腫塊
+  - Paget's disease of vulva（少數, intraepithelial adenocarcinoma, 通常非HPV相關）：外陰紅斑/濕疹樣病灶/搔癢, 易誤認皮膚炎
+  - Tx＝手術切除為主 ± 鼠蹊/股淋巴評估（sentinel node或淋巴切除；Stage IA且侵犯≤1mm通常不需淋巴處理）, 晚期加放化療
 - Gestational trophoblastic disease（GTD, 胎盤中滋養層增生）：SS＝陰道出血, 子宮骨盆壓痛, 貧血, β-HCG⭡；DDx＝超音波（snow-storm pattern）, β-HCG（>10w mIU/ml＝惡性度高, 葡萄胎治療後仍惡性＝{β-HCG⭡, 6m後仍有β-HCG}）； Tx（葡萄胎）＝suction curettage（內膜刮除）, 子宮切除（if不生了）, Tx（惡性）＝化療（MTX/Act-D, for Choriocarcinoma）, 手術切除；F/U：每週測量β-HCG直到正常
-  - 良性：Hydatidiform mole（90%, 葡萄胎, pure良）：Complete mole＝46XX/XY（父源only）, 無胎兒組織, β-hCG較高, 惡性/侵襲風險較高；Partial mole＝triploid（三倍體, 多一套父源）, 可見胎兒組織, β-hCG較低, 惡性風險較低
+  - 良性：Hydatidiform mole（90%, 葡萄胎, pure良）：Complete mole＝46XX/XY（父源only）, 無胎兒組織, β-hCG較高, 惡性/侵襲風險較高；Partial mole＝triploid（69XXY/XXX三倍體, 父源x2 母源x1）, 可見胎兒組織, β-hCG較低, 惡性風險較低
   - 惡性：Invasive mole, Choriocarcinoma（易轉移, Mainly肺, 化療反應佳）, Placental site trophoblastic tumors, Epithelioid trophoblastic tumor}
 
 ## 一般婦科學（考題10）
@@ -153,7 +166,7 @@
     - HSV（1st.）：SS＝周圍皮膚炎, 神經過動, 腦炎；DDx＝ELISA/病毒培養；Tx＝冰敷, 局麻, NSAIDs, acyclovir（非根治性, 只能縮短病程）
     - Syphilis（2nd）：SS＝無痛性潰瘍, 伴有硬下疳；DDx＝RPR/VDRL（非特異性）, FTA-ABS（特異性）；Tx＝Penicillin G
     - 其他熱帶病：Chancroid軟性下疳（痛, 潰瘍, H.ducreyi）, Lymphogranuloma venereum（花柳病, by Chlamydia, 無痛性潰瘍）, Granuloma inguinale（腹股溝肉芽腫, 無痛性潰瘍, by Klebsiella granulomatis）
-- Endometriosis（內膜組織異處增生, 雌激素依賴性）：好發＝70% of 青少女嚴重經痛, 50% of 不孕婦女；機轉＝經血逆流（sampson's theory）, 免疫缺損, 遺傳, 血液淋巴傳播；種類＝{Adenomyosis（子宮肌層）, Endometrioma（卵巢＝巧克力囊腫）, DIE（＝Deep infiltrating endometriosis, 浸潤腹膜>5mm）}；SS＝疼痛（1st.）, 不孕；DDx＝超音波（1st line）, 內診, Lab（CA125⭡）, 腹腔鏡（gold standard）；分期＝ASRM staging system（I minimal（1-5）, II mild（6-15）, III moderate（16-40）, IV severe（>40））；Tx（∈慢性病, 長期治療）＝NSAIDs（疼痛）, 口服避孕藥（雌激素+黃體素）, GnRH angonist/antagonist, Danazol（抑制腦垂線）, aromatase inhibitor（抑制雌激素合成）, 手術（for嚴重症狀, 惡性可能, <40y/o盡量保留卵巢, 術後藥要繼續吃∵50% 5年復發）
+- Endometriosis（內膜組織異處增生, 雌激素依賴性, 左側常見/復發率高）：好發＝70% of 青少女嚴重經痛, 50% of 不孕婦女；機轉＝經血逆流（sampson's theory）, 免疫缺損, 遺傳, 血液淋巴傳播；種類＝{Adenomyosis（子宮肌層）, Endometrioma（卵巢＝巧克力囊腫）, DIE（＝Deep infiltrating endometriosis, 浸潤腹膜>5mm）}；SS＝疼痛（1st.）, 不孕；DDx＝超音波（1st line）, 內診, Lab（CA125⭡）, 腹腔鏡（gold standard）；分期＝ASRM staging system（by位置大小深淺沾黏（與疼痛無關）, III-IV較影響生育）；Tx（∈慢性病, 長期治療）＝NSAIDs（疼痛）, 口服避孕藥（雌激素+黃體素）, GnRH angonist/antagonist, Danazol（抑制腦垂線）, aromatase inhibitor（抑制雌激素合成）, 手術（for嚴重症狀, 惡性可能, <40y/o盡量保留卵巢, 術後藥要繼續吃∵50% 5年復發）
 - Ectopic pregnancy（1st 第一孕程母親死因）：輸卵管為主（95%, Mainly壺腹）；RF＝外孕hx, 輸卵管手術hx, 試管嬰兒, IUD使用；SS＝下腹痛, 陰道出血；DDx＝β-HCG+超音波（無子宮孕囊, 輸卵管腫塊）； Tx＝MTX（穩定無症狀, <3.5cm, β-HCG<5000, 胎兒無心跳）, 手術（不穩定有症狀, >3.5cm, β-HCG>5000, MTX無效）；注意＝MTX不可合用NSAIDs, 藥物治療期間禁止內診/性行為, 治療後6m禁止懷孕（MTX毒性）
   - 手術種類（兩種手術預後懷孕/外孕復發率相同）＝Salpingostomy（切開輸卵管取出胚胎, 保留輸卵管, 有組織殘留風險, 要追蹤β-HCG）, Salpingectomy（切除輸卵管）
 - Oral contraceptive pill（口服避孕藥）：成分＝estrogen（乙炔化強效, 低劑量（∵副作用高））+progestin（新劑型＝spironoactone類似物, 雄性素副作用少）；機轉＝estrogen抑制排卵, progestin增加子宮頸黏液稠度（抑制精子穿透/受精卵著床））；適應症＝避孕, 痛經, 婦科疾病（子宮肌瘤, 內膜異位）, 降低內膜癌/卵巢癌風險；禁忌症＝血栓病史, 乳癌, 肝病, 未控制的高血壓；SE＝血栓形成（深靜脈血栓形成DVT/肺栓塞PE）
@@ -171,10 +184,10 @@
   - Precocious puberty（性早熟, <8y/o第二性徵/<10y/o初經）：分類＝Central（下視丘GnRH依賴性, 80%原因不明；Tx＝GnRH agonist）, Peripheral（下視丘GnRH非依賴性, by Granulosa cell tumor, 外源estrogen, McCune-Albright syn（骨纖維異常增生, cafe-au-lait斑, 性早熟））, 雄性腫瘤（Leydig cell tumor）, 腎CAH（見小兒）；Tx＝切除為主）
   - Delayed puberty（性發育遲緩, >13歲無第二性徵/>16無初經）：分類＝Hypogonadotropic hypogonadism（下視丘/垂體功能不全）,Hypergonadotropic hypogonadism（卵巢功能不全）
   - Amenorrhea（無經）：分類＝Primary（初級, 從未有過月經, >16y/o）, Secondary（次級, 曾有月經, >6m無月經）；成因＝Pregnancy（1st）, pituitary adenoma（多良性, <10mm＝microadenoma, >10mm＝macroadenoma（易壓迫optic chiasm導致顳側偏盲）；Tx＝dopamine agonist（Bromocriptine, cabergoline）, 垂體切除（for 大型腫瘤））, Turner's syndrome（45XO為主, SS＝卵巢異常, 短小, 頸部皮膚皺褶, 骨質疏鬆, 不孕；Tx＝生長激素+雌激素, if Turner 有Y染色體要切性線）；DDx＝排除懷孕/解剖異常⭢驗FSH（hypergonadotropic卵巢異常會⭡（e.g Turner）, hypogonadotropic中樞異常會⭣）, Prolactin（腦垂瘤會⭡）, 甲低
-    - Androgen insensitivity syndrome（AIS, 46XY, X-linked AR mutation）：testis有AMH（Sertoli cells 分泌，使子宮、輸卵管上段退化）⭢無子宮/輸卵管上段；androgen無效⭢女性外陰, 陰毛/腋毛少；testosterone aromatize⭢乳房發育；SS＝primary amenorrhea/inguinal hernia；Tx＝青春期後gonadectomy性腺切除（避免gonadal tumor）+ estrogen replacement
+    - Androgen insensitivity syndrome（AIS, 46XY, X-linked AR mutation, 有女性外部特徵的男生）：testis有AMH（Sertoli cells 分泌，使子宮、輸卵管上段退化）⭢無子宮/輸卵管上段；androgen無效⭢女性外陰, 陰毛/腋毛少；testosterone aromatize⭢乳房發育；SS＝primary amenorrhea/inguinal hernia；Tx＝青春期後gonadectomy性腺切除（避免gonadal tumor）+ estrogen replacement
   - Polycystic ovary syndrome（PCOS, 多囊卵巢症候群）：成因＝不明, 可能與胰島素抵抗/Sex hormone binding globulin⭣（SHBG⭣, 雄性素上升）有關；
     SS＝Hyperandrogenism（多毛, 痤瘡, 黑色棘皮）, Ovulatory dysfunction（慢性不排卵,月經不規則, 不孕症）, Polycystic ovaries（超音波顯示卵巢周圍多個小囊腫）, LH/FSH ratio上升（Two-cell two-gonadotropin model）；併發症＝DM, 代謝症候群, 子宮內膜癌, Acanthosis nigricans（褶皺處黑色棘皮, 胰島素阻抗特徵）；DDx＝Rotterdam ultrasound criteria（Echo看到>12顆2-9mm濾泡）； Tx＝生活習慣改變（減重！！）, 調整月經（避孕藥（輔以metformin）, 蜜蕊那；for不想懷孕）, 誘導排卵（clomiphene, letrozole（輔以metformin）, 手術, 人工生殖；for想懷孕）, 治療高雄性素（首選避孕藥, 除毛）, DM藥物
-- Menopause（停經, 12m無月經, 90% 45-55y/o）：成因＝卵巢功能衰退⭢雌激素缺乏；激素＝更年期（inhibin B⭣, FSH＝⭡（25上下, ∵E2負回饋）, E2正常）, menopause（停經（FSH>40, E2⭣）；SS＝Vasomotor symptoms（熱潮紅, 夜間盜汗）, Urogenital萎縮（陰道乾澀, 性交疼痛）, Psychological symptoms（情緒不穩, 失眠）, Osteoporosis（骨質疏鬆）, Cardiovascular disease（心血管疾病）；Tx（緩解更年期症狀）＝荷爾蒙療法（HRT, Hormone replacement therapy, 雌激素（合併黃體素if子宮未切除））, 禁忌＝乳癌, 高風險子宮內膜癌，心血管栓塞hx
+- Menopause（停經, 12m無月經, 90% 45-55y/o）：成因＝卵巢功能衰退⭢雌激素缺乏；激素＝更年期（inhibin B⭣, FSH＝⭡（25上下, ∵E2負回饋）, E2正常）, menopause（停經（FSH>40, E2⭣）；SS＝Vasomotor symptoms（熱潮紅, 夜間盜汗）, Urogenital萎縮（陰道乾澀, 性交疼痛）, Psychological symptoms（情緒不穩, 失眠）, Osteoporosis（骨質疏鬆）, Cardiovascular disease（心血管疾病）；Tx（緩解更年期症狀）＝荷爾蒙療法（HRT, Hormone replacement therapy, 雌激素（合併黃體素 if子宮未切除））, 禁忌＝乳癌, 高風險子宮內膜癌，心血管栓塞hx
   - 補：P+E會增加乳癌風險, 但單獨用E可降低乳癌發生率；
   - 補：Transdermal E導致缺血性腦中風較P+E低, vaginal給藥可降低反覆泌尿道感染（oral不行）
 - Osteoporosis（骨質疏鬆, 見note3）
@@ -201,7 +214,7 @@
     - F/U：取卵後3天補充黃體素, 植入後14天驗孕
   - Ovarian hyperstimulation syndrome（OHSS, 促排卵藥物副作用）：RF＝<35y/o, PCOS, hCG破卵, 長療程；OHSS預測因子（⭡：差）＝AMH, E2, 取卵數；成因＝促排卵藥物（hCG刺激granulosa cell（LH receptor）分泌VEGF⭢血管通透性增加⭢腹水/胸水/血栓形成）；分類＝{Early onset（取卵9天內, 破卵針造成）, Late onset（>9天, 懷孕內生性hCG造成）；SS＝噁心, 嘔吐, 呼吸困難, 血壓下降, 寡尿, 鈉低鉀高；Tx＝輕度（止吐止痛補水）, 重度（Vital monitor, D5S+Albumin補充, 利尿劑, 積極抽腹水, 預防血栓（彈性襪, heparin））；預防＝antagonist protocol（避免長療程）, GnRH agonist trigger（避免hCG trigger）, freeze-all（取卵後先冷凍不在當週期使用）
 - 女性不孕症（25%卵巢（PCOS為主）, 25%輸卵管, 25%子宮內膜沾黏/異位（1st 子宮中隔）, 25%其他（e.g. 子宮頸））；DDx＝同Infertility, Clomiphene citrate test（月經三天後抽FSH/E2, 接著每天給100mg Clomiphen（促進FSH分泌）, FSH皆被抑制＝卵巢庫存正常（分泌E2會抑制FSH））
-  - 卵巢無排卵WHO分類：class 1（Hypogonadotropic hypogonadism, 下視丘分泌不足；Tx＝生活方式, Gonadotropin）, class 2（Normogonadotropic Normoestrogenic, 1st（85%）, Mainly PCOS；Tx＝控制體重, 誘導排卵）, class 3（Hypergonadotropic hypogonadism, Mainly卵巢衰退/性線發育不良；Tx＝卵子捐贈）
+  - 卵巢無排卵WHO分類：class 1（Hypogonadotropic hypogonadism, 下視丘分泌不足；Tx＝生活方式, Gonadotropin）, class 2（Normogonadotropic Normoestrogenic（激素正常但失調）, 1st（85%）, Mainly PCOS；Tx＝控制體重, 誘導排卵）, class 3（Hypergonadotropic hypogonadism, Mainly卵巢衰退/性線發育不良；Tx＝卵子捐贈）
   - 輸卵管異常：prefer輸卵管切除+試管嬰兒（∵試管嬰兒技術成熟, 保留輸卵管正常懷孕風險更大）
   - 補：Clomiphene citrate（促排卵藥物, SERM類藥物, 下視丘＝抑制estrogen負回饋, 腦垂體＝促使LH/FSH上升刺激排卵, 子宮/陰道＝分泌物antagonist；SE＝生殖道黏液不足, 多胞胎妊娠, 卵巢過度刺激症候群（OHSS））
 - 男性不孕症：成因＝Hypogonadotropic hypogonadism（先天＝Kallmann syn（SS＝嗅覺喪失））, Hypergonadotropic hypogonadism（先天＝Klinefelter syn）, Post-testicular defects（Epididymis, vas deferens, ejaculatory disorders）；DDx＝精液分析（體積>1.5ml, 濃度>1.5x10^7/ml, 活力>40%, 型態>4%正常）, 內分泌檢查（FSH, LH, testosterone, prolactin）, 染色體檢查（KLINFELTER SYN, 47XXY）, Y染色體微缺失檢查
@@ -213,9 +226,9 @@
 - 神經支配：pudendal n.（尿道外括約肌收放）,Hypogastric n.（交感T10-L2, 下腹神經, 留尿＝{α膀胱頸收縮, β膀胱肌肉放鬆}）, Pelvic n.（副交感S2-4, 骨盆神經）
 - 檢查項目：Cystometry（CMG, 膀胱壓力測量, 充水測試）, Uroflowmetry（尿流率測量）, Pressure-flow study（尿流速與壓力變化, DDx阻塞/逼尿肌無力, if 逼尿肌Pdet>50cmH20無尿 favor阻塞）, Urethral pressure profilometry（UPP, 測量尿道壓力/功能性長度, DDx功能性無力/應力尿失禁）, Leak point pressure（<60cmH20為內因性括約肌無力）
   - 正常參數：尿道關閉壓力最大值Pclose（＝尿道內壓Pure-膀胱內壓Pves, 90（25y/o）, 65（65y/o））, 逼尿肌壓力Pdet（＝膀胱內壓力Pves-腹壓Pabd, <20cmH20）, 尿容積（150-250有尿意, 2倍左右最大容積）, 尿流率Qmax（12-20ml/s）
-- 尿失禁：RF＝高齡, 多產, 肥胖, 便秘, 咳嗽, DM, OSA, 喝酒；分類＝Stress（45%（1st）, Urethral關不緊, ∵尿道/括約肌受損）, Urge（30%, 膀胱detrusor不自主收縮, ∵中風, MS...）, Mixed（兩者混合）, Overflow（逼尿肌無力/出口堵塞）； SS＝FUNWISE（Frequency頻尿, Urgency急尿, Nocturia夜尿, Weak stream尿流弱, Incomplete emptying排尿不盡, Stress incontinence壓力性尿失禁, Extra urine漏尿）；
-  - Stress incontinence：SS＝咳嗽/打噴嚏/運動時漏尿；DDx＝CMG（咳嗽∩無detrusor收縮時漏尿）；Tx＝Kegel exercise（骨盆底肌肉訓練, 1st）, 藥物（SNRI＝Duloxetine千憂解）, 手術（Mid-urethral sling最有效）
-  - Urge incontinence：SS＝突然尿急, 夜尿；DDx＝CMG（Pdet有週期壓力波）；Tx＝Bladder training（膀胱訓練, 固定時間排尿, 1st）, 藥物（Anticholinergic＝Oxybutynin/tolterodine（SE＝口乾, 視力模糊, 心跳加速, 便秘）, TCA（imipramine）, 電刺激
+- 尿失禁：整體RF＝高齡, 多產, 肥胖, 便秘, 咳嗽, DM, OSA, 喝酒；分類＝Stress（45%（1st）, Urethral關不緊, ∵尿道/括約肌受損）, Urge（30%, 膀胱detrusor不自主收縮, ∵中風, MS...）, Mixed（兩者混合）, Overflow（逼尿肌無力/出口堵塞）； SS＝FUNWISE（Frequency頻尿, Urgency急尿, Nocturia夜尿, Weak stream尿流弱, Incomplete emptying排尿不盡, Stress incontinence壓力性尿失禁, Extra urine漏尿）；
+  - Stress incontinence：Epi/RF＝白種人較高, 多產影響較大, 盛行率約50y/o高峰（非年紀越大越高；老年UUI/Mixed比例增加）；SS＝咳嗽/打噴嚏/運動時漏尿；DDx＝CMG（咳嗽∩無detrusor收縮時漏尿）；Tx＝Kegel exercise（骨盆底肌肉訓練, 1st）, 藥物（SNRI＝Duloxetine千憂解）, 手術（Mid-urethral sling最有效）
+  - Urge incontinence：RF＝胎次影響較小（非主要RF）, 較偏高齡/神經疾病；SS＝突然尿急, 夜尿；DDx＝CMG（Pdet有週期壓力波）；Tx＝Bladder training（膀胱訓練, 固定時間排尿, 1st）, 藥物（Anticholinergic＝Oxybutynin/tolterodine（SE＝口乾, 視力模糊, 心跳加速, 便秘）, TCA（imipramine）, 電刺激
   - Overflow incontinence：Tx＝手術解決堵塞, 藥物治療收縮不全（bethanechol, α-blocker）, CIC（間歇性自我導尿）
 - Pelvic organ prolapse（骨盆器官往陰道脫垂）：RF＝同尿失禁；SS＝Adnexal下墜感, 應力尿失禁, 膀胱過動, 排便困難；分級＝Baden-Walker system（0-4, 0無脫垂, 2在陰道口, 4完全脫垂）；Tx＝保守治療（骨盆底肌肉訓練, Pessary陰道托, 雌激素）, 手術（骨盆底重建, 薦骨子宮固定, colpocleisis（陰道閉合術, for 無性行為者））
 - UTI：見note3
@@ -425,17 +438,22 @@
   - Brunnstrom stage（中風後肢體障礙評估, 分六期）：I（低張力, 無DTR, 無自主運動；Tx＝誘發動作訓練）, II（spasticity developing, clonus, DTR開始出現；Tx＝誘發synergic pattern運動, e.g. 坐姿平衡練習）, III（自主運動出現, 只能synergy pattern協同運動, e.g 肩上舉⭢肘會彎曲；Tx＝增加voluntary movement）, IV（獨立關節運動）, V（細動作）, VI（協調平衡訓練）
   - 吞嚥困難：口腔期⭢咽喉期⭢食道期；Tx＝口腔運動訓練, 含檸檬冰塊（刺激前咽門弓反射敏感）, chin tuck（縮下巴再進食, 減少氣管大小, 增加vallecula空間）, supraglottic swallow（吞嚥前深吸一口氣, 吞嚥兩口, 吞嚥後咳嗽清喉嚨再呼吸）, Mendelsohn maneuver（吞嚥時刻意停頓＋手指壓迫, 增加舌骨提升, 增加食道入口開啟）
   - 中風後肩膀疼痛：85%發生在痙攣期；成因＝肩關節半脫位, 肩關節囊炎, 複雜性區域疼痛症候群（第一型）, 旋轉肌肌腱損傷；Tx（首重上肢擺位）＝Shoulder slings（肩膀外展外旋, 手肘伸直）, 物理治療（神經肌肉電刺激）, 類固醇注射
+- Cerebral palsy（腦性麻痺, CP）：發育中腦非進行性傷害；RF＝早產, LBW低出生體重, 多胞胎, 胎內/新生兒腦傷感染（多數非單純產程窒息）；Tx＝復健, orthosis矯具, Botox/Baclofen降張力, 手術多>7y（髖關節可早期監測/介入）
+  - 分型＝Spastic痙攣型（1st）{Diplegia雙下肢麻痺＝早產/PVL腦室旁白質軟化, 下肢>上肢；Hemiplegia半邊麻痺＝足月/局部腦傷, 多可獨立走路, seizure較多；Quadriplegia四肢麻痺＝廣泛腦病變}, Athetoid/Dyskinetic徐動/動作障礙型＝核黃疸/基底核傷害（查聽損）, Ataxic運動失調型＝小腦少見
+  - 肌骨續發變形（多見痙攣型/不能行走者）：spasticity痙攣⭢肌腱攣縮, scissoring剪刀步態；hip joint後脫位（1st CP脫位）；踝/足equinus deformity馬蹄足（最需矯正）；nonambulatory不能行走者⭢C形脊椎側彎+pelvic obliquity骨盆傾斜（brace支撐為主, 難阻止惡化）
+  - Comp＝認知/語言/癲癇/視聽吞嚥, 骨質缺乏（少負重+抗癲癇藥）, 肌骨提早老化
 - 常見內科症狀
   - Drop foot（足下垂）：腓總神經損傷（最常見, 腓骨頭/腓骨頸處受壓或外傷、腓骨頭骨折）, 坐骨神經腓側分支損傷（較少見, 髖部外傷/手術）, 腰椎神經根病變（L4-5 disc herniation, 常影響L5 nerve root）
   - Gower's sign（Duchenne）：易跌到, 站起要雙膝後頂+膝蓋伸直+肚子前頂, 頭肩膀上揚再慢慢站起；Tx＝類固醇減緩肌肉破壞, 游泳增加心肺
   - Winging Scapula（肩胛骨外翻）：肩胛骨內側緣突出；分類＝{內側凸起（前鋸肌無力（長胸神經））, 外側凸起（斜方肌無力（副神經）, 菱形肌無力（背神經））}
   - Trendelenburg gait：臀部外展肌無力（臀中肌臀小肌）, 骨盆健側傾斜, 走路重心落在患側
 - 脊髓損傷：台灣（1st 機車事故）＝Paraplegia下半身癱瘓（T12為主）> Tetraplegia四肢癱瘓（C5為主）；併發症＝姿勢性心跳上升/可能血壓上升（T6以上受損；Tx＝束腹帶, 彈力襪, 姿勢改變慢一點）, 自主反射異常（T6以上完全性損傷, 漲尿便無法上傳（改成交感大爆發）⭢HTN crisis/上紅下白（上方表皮血管擴張代償, 下方沒有）, 致命；SS＝血壓⭡20mmHg, 頭痛, 視力模糊, 損傷部位以上潮紅；Tx＝減少所有刺激（e.g大小便）, 口服CCB/Nitrate降壓）
+  - 壓力損傷分級（NPUAP 2016）：1＝皮膚完整+不可褪色紅斑, 2＝部分皮層缺損/水泡, 3＝全皮層缺損見脂肪/肉芽（無肌腱骨暴露）, 4＝肌腱/軟骨/骨暴露；另＝無法分期（焦痂壞死蓋住）, 深部組織損傷（完整皮膚下紫褐色）
   - ASIA impairment scale：A＝complete無S/M, B＝sensory only, C＝motor preserved但多數key muscle<3, D＝motor preserved且多數key muscle≥3, E＝normal
   - 完全損傷：無運動/感覺功能；
   - 不完全損傷：有部分運動/感覺功能, e.g sacral sparing（corticospinal/spinothalamic未完全受損, 運動有機會恢復）；
 
-    - Central cord syndrome：1st, , Mainly老年頸椎過度伸展hyperextension；SS＝肩膀以下（披肩狀）感覺異常, 四肢無力（上肢癱瘓 > 下肢癱瘓）
+    - Central cord syndrome：1st, Mainly老年頸椎過度伸展hyperextension；SS＝肩膀以下（披肩狀）感覺異常, 四肢無力（上肢癱瘓 > 下肢癱瘓）；預後相對佳, 90%可恢復行走
     - Brown-Sequard syndrome（半側損傷）：同側運動/位置覺受損, 對側痛覺溫覺受損
     - Anterior cord syndrome（前索受損）：ant. spinal a.梗塞, 脊椎flexion壓迫導致；SS＝雙側運動/痛溫覺受損
 
@@ -452,6 +470,9 @@
 ## 骨科復健（考題2）
 
 - Osgood-Schlatter dx：青少年膝蓋生長板炎, 脛骨粗隆牽拉性骨骺炎；Tx＝休息, 冰敷, 伸展運動, 手術拿掉發炎組織
+- 肌骨軟組織Echo速記：正常肌腱/韌帶＝均質高回音纖維束, 肌肉＝羽狀低回音肌束+高回音筋膜, 神經＝蜂巢狀；液體/囊腫＝無回音或低回音+後方增強, 水腫/發炎＝低回音+腫脹（Doppler可有血流↑）, tendinopathy＝低回音+增厚+纖維紋理混亂/新生血管, 撕裂＝低/無回音裂隙或缺口, 血腫/膿瘍＝混合回音, 鈣化/骨皮質/異物＝高回音+後方聲影；注意anisotropy（探頭角度不垂直會讓正常肌腱假性低回音）
+- 急性軟組織損傷PEACE：Protect, Elevate, Avoid anti-inflammatory modalities不過度抗發炎用藥/類固醇（不是avoid movement；可安全活動）, Compress（外壓限制滲出/出血與腫脹, 促進靜脈/淋巴回流, 但勿過緊）, Educate
+- 肘外側上髁炎（網球肘）：病灶＝總伸肌腱, 尤其ECRB（extensor carpi radialis brevis）；Tx＝避免重複過度使用, NSAIDs, 伸展/離心訓練
 - 髖關節手術後：避免FAIR（Hip Flexion, Adduction, Internal Rotation, e.g站立時不要腳掌內旋轉）
 - 膝關節手術後：疼痛控制, 避免DVT, PE, 適當活動
 - 膝截肢照護：術後墊高患肢, 彈繃幫助塑形, 直視/拍打殘肢減少幻肢痛, 膝上截肢避免hip flexion/abduction contracture（仰躺抬腿訓練, 夾腿縮肛）, 膝下截肢避免knee flexion contracture（壓直, 仰躺抬腿訓練）

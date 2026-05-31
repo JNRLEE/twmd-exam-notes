@@ -20,6 +20,7 @@
       - Meta（來源：肺（20%）>乳>胃）
       - Wilms tumor（兒童）：多無症狀, 太大才被發現, Tx＝主手術, 放化療都有反應
   - Renal Cell Carcinoma（黃富含脂質）： 好發老黑男； 病因＝ 體顯遺傳病（VHL dx, Hereditary renal carcinoma）, 環境因素（抽菸, 石棉）； 病理＝mixed carcinoma； SS＝無症狀（>50%）, 副腫瘤症候群（高壓高鈣）；DDx＝抽血（ESR⭡, 血尿, 貧血）, Echo（準度高）, CT（arterial enhancement, venous early washout（HCC也會））, 其他進階影像學/膀胱鏡都有效； Tx＝手術（唯一cure方法）, 標靶治療（for 轉移性clear cell RCC）
+
     - Metastatic RCC risk model：International Metastatic Kidney Cancer Database Consortium（IMDC, 轉移性RCC預後分層）＝Karnofsky performance status低、Dx-to-Tx<1yr、Hb低、corrected Ca高、neutrophil高、platelet高；lactate dehydrogenase（LDH）屬Memorial Sloan Kettering Cancer Center（MSKCC）舊模型, 不是IMDC
   - Renal pelvic/ ureteral tumor（腎盂/輸尿管腫瘤）： 40%合併膀胱癌（尿路上皮細胞癌1st部位）； RF＝橡膠/苯暴露, 濫用止痛藥, 中藥馬兜鈴酸, 埃及血吸蟲；種類＝Transitional Cell carcinoma移形細胞癌（90%）, SCC（8%）, Adenoma（1%）, Fibroepithelial polyp（1st良性）；DDx＝CT/MRI/Sono（鈣化，papillary necrosis）, 輸尿管鏡（filling defect/切片, 非必要, 會低估且不影響處置）；Tx（放療無效）＝手術, 雷射, 化學治療（cisplatin for 遠端轉移, palliative, 對延長生命無效）
 - 腎臟移植：
@@ -238,7 +239,7 @@
 
 ## 肩、上臂與前臂（考點多）（考題3）
 
-- Acromioclavicular injury： 男運動員, 肩關節著地碰撞, 包含Acromioclavicular lig.（AC, 水平）, Coracoclavicular lig（CC, 垂直）, Coracoacromial lig； DDx＝ AP Xray（coracoid上端 to clavicle下端⭡＝coracoclavicular lig.拉扯）； 分類＝ Rockwood classification（1-6, I AC sprain/II AC torn+CC sprain/III AC+CC torn；Tx＝sling, 冰敷；IV-VI關節錯位；Tx＝開放式復位）
+- Acromioclavicular injury： 男運動員, 肩關節著地碰撞, 包含Acromioclavicular lig.（AC, 水平）, Coracoclavicular lig（CC, 垂直）, Coracoacromial lig； DDx＝ AP Xray（coracoid上端 to clavicle下端⭡＝coracoclavicular lig.拉扯）； 分類＝ Rockwood classification（1-6, I AC sprain/II AC torn+CC sprain/III AC+CC torn；Tx＝sling, 冰敷；開放式復位（IV-VI關節錯位））
   - 圖：![Right shoulder AC ligaments](../assets/right_shoulder_ac_ligaments.jpg)
   - 圖源：Koachinyung / Wikimedia Commons, CC BY-SA 3.0 or GFDL
 - 肩關節脫位：1st關節脫位（9成前脫位, 傷到前方axillary n.）, 支撐結構＝ 3x lig（上中下glenohumeral lig（構成capsule））+4x 肌肉（棘上棘下小圓肩胛下（SItS, 只有肩胛下載關節前方防止後脫位）, 構成rotator cuff）； DDx＝ AP Xray （light bulb sign後脫位, 肱骨頭像燈泡外露）, Y view Xray（肱骨頭不在glenoid fossa內）； Tx＝close reduction為主, 手術 for 軟組織受傷/fx
@@ -251,7 +252,7 @@
 - Supracondylar fx：1st fx in kids, 合併神經血管受損；Extension Fx為主（95%, FOOSH；distal fragment往後移, proximal humerus相對往前頂⭢brachial a./median n. injury）；Tx（Gartland classification）＝Sling（Type I, 沒脫位）, close reduction（II, 後骨膜完整）, Open reduction（完全脫位骨折）；併發症＝brachial a damage, median n. injury
   - 圖：![Extension-type supracondylar fracture](../assets/supracondylar_fx_extension.svg)
   - 圖源：self-made schematic
-  - Xray：fat pad sign（前脂肪墊sail sign/後脂肪墊可見）提示occult fracture；無位移骨折初始可不明顯，約1wk後因骨吸收/骨膜反應較清楚；骨釘旁lucency考慮鬆動/感染
+  - Xray：fat pad sign（前脂肪墊sail sign/後脂肪墊可見）提示occult fracture隱性骨折；無位移骨折初始可不明顯，約1wk後因骨吸收/骨膜反應較清楚；骨釘旁lucency考慮鬆動/感染
 - Epicondylitis肱骨上髁炎： Lateral＝網球肘（壓到extensor radial carpi brevis（ECRB）⭢肌腱發炎）；Medial＝高爾夫球肘
 - 肘關節脫位：2nd 脫位（cf. 肩關節）, Mainly posterior/posterolateral（指ulna/radius相對移動方向（其實跟Supracondylar fx一樣只是主受詞相反）, anterior少見）；Simple dislocation＝無骨折, closed reduction後多穩定、慢性再脫臼少；Tx＝復位後穩定則短期固定＋早期ROM（避免僵硬, 不固定2個月）, 不穩定/terrible triad（lat. ulnar collater lig.（LUCL）+radial head fx + coronoid fx））則手術
   - c.f 膝關節 unhappy triad＝ACL前十字韌帶＋medial collateral lig內側副韌帶＋medial meniscus內半月板
@@ -319,7 +320,6 @@
 - Klippel-Feil syndrome（先天性頸椎融合）：胚胎3-8wk cervical segmentation failure；Triad＝short neck＋low posterior hairline＋limited neck ROM；常合併泌尿/神經/心肺/聽力異常
 - Congenital radioulnar synostosis先天性尺橈骨融：80%雙側, 前臂pronation defomity； Tx＝Obs, 嚴重＝五歲前開刀
 - Slipped capital femoral epiphysis（SCFE, 股骨頭骨骺滑脫症）：肥胖男孩, Mainly左側, 股骨頭骨骺後下位移＋external rotation； Tx＝single-screw fixation, 併發症＝avascular necrosis
-- Cerebral palsy骨病變：痙攣型CP最常見； SS＝大腿剪刀腳+內轉, 膝蓋僵硬, hip joint後脫位（1st CP脫位）, 踝/足equinus deformity馬蹄足（最需矯正）
 - Developmental dysplasia of hip（DDH）：1st新生兒骨科病； RF＝第一胎, 女, 足位生產（Breech presentation）, 家族史； SS＝患髖abduction受限； DDx： Ortolani test（外展髖關節評估可否復位）, Barlow test（測試髖關節是否可被推出髖臼）, Galeazzi test（患側膝蓋較低）, Echo（6m內）, Xray（>6m, 已骨化）； Tx＝Pavlik harness（6m內）, Reduction（6m後）, Osteotomy（>2y/o）
 - Legg-Calve-Perthes disease（股骨頭缺血壞死）：4-10歲男孩, 股骨頭epiphysis不明原因壞死； RF＝低社經二手菸男孩, Protein S/C deficiency； SS＝跛行, Trendelenburg gait（髖部外展內旋角度⭣, 走路健側tilt）； DDx＝ X-ray（Waldenstrom/ Herring lateral pillar classification）, MRI（femoral head缺血）； Tx＝保守（<8y/o, type A（lateral pillar（股骨頭構造）高度正常））, 手術（>8 y/o, type B/C（lateral pillar 高度減少））
 
