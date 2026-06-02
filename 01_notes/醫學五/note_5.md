@@ -172,6 +172,14 @@
 
 ## 脊椎與神經根（考題7）
 
+- 上頸椎骨折快分：
+
+| Fracture | 位置 / 本質 | 常見機轉 | 影像與穩定性考點 | 考題一句話 |
+| --- | --- | --- | --- | --- |
+| Jefferson fracture | C1 atlas burst fracture，前後弓/環狀結構破裂 | Axial loading（跳水、頭頂受力） | C1 lateral mass向外分開；重點看transverse atlantal ligament是否斷，斷了就不穩 | C1爆裂＝Jefferson；因環往外爆，單純型較少神經缺損 |
+| Odontoid fracture | C2 dens（齒突）骨折 | 老人跌倒低能量或年輕高能量；flexion/extension都可 | Anderson-D'Alonzo：Type I尖端較穩；Type II齒突基底最常見且nonunion風險高；Type III延伸進C2 body較易癒合 | C2齒突＝Odontoid；考Type II不癒合 |
+| Hangman fracture | C2 pars interarticularis / pedicle雙側骨折，traumatic spondylolisthesis of axis | Hyperextension + axial load/distraction，車禍/吊刑型機轉 | C2相對C3前移；看C2-3 disc/ligament injury與位移角度，穩定型多可外固定 | C2 pars斷＋C2 on C3＝Hangman；神經缺損也常不明顯，因椎管被拉寬 |
+
 - Spinal nerve roots出孔規則：Cervical有8條root但只有7節vertebra，故C1-C7 root從同名椎骨上方出，C8從C7-T1出；T1以下root從同名椎骨下方出
 
 
@@ -266,7 +274,7 @@
   - cf. Scaphoid旁拇指指掌關節＝1st 扭傷關節
 - Lunate bone AVN（Kienbock's dx）：中年男, 反覆腕部受傷, ulnar variance⭣（韌帶緊繃lunate壓力上升而缺血）；DDx＝X-ray（sclerotic change蒼白化, ulnar variance⭣）； Tx＝外固定（無位移）, 局部減壓手術
 - 肌腱受損：
-  - Mallet finger（吃蘿蔔）：DIP彎曲； Tx＝急性期鋁板, 慢性期手術
+  - Mallet finger（吃蘿蔔, 長得像Swan neck但成因不同）：DIP彎曲； Tx＝急性期鋁板, 慢性期手術
   - Boutonniere deformity（扣子手）：PIP彎曲, DIP過伸
   - de Quercain's dx（媽媽手）：拇指外展疼痛
   - Snuff box內肌肉發炎：外展拇長肌（APL）＋ 伸姆短（EPB）； DDx＝Finkelstein's test（握拳把拇指包在裡面, ulnar deviation會痛）； Tx＝消炎, 手術切開減壓

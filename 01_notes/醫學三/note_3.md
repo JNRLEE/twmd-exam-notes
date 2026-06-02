@@ -6,7 +6,7 @@
 - 分類：
   - Primary hypertension（Essential HTN, 90-95%）： 多有Family Hx, <50y/o 收縮舒張都升高, >50y/o 只有收縮壓升高（甚至舒張壓可能下降）
   - Secondary hypertension （5-10%）：<30y/o, >60y/o, 突然惡化, 頑固性高血壓 （口訣＝腎內主神藥）
-    - 腎臟：實質病變（1st Secondary HTN）： Mainly DM, 腎血管性高血壓：young＝Fibromuscular dysplasia, old＝Atherosclerosis
+    - 腎臟：實質病變（1st Secondary HTN）： Mainly DM, 腎血管性高血壓：young＝Fibromuscular dysplasia（肌纖維發育不全, 中年女, 腎動脈>頸/椎動脈, 血管攝影string of beads串珠狀狹窄/擴張；頸動脈在顱外ICA中遠端）, old＝Atherosclerosis
     - 內分泌疾病（口訣＝CCPG）
       - Primary aldosteronism（Conn's syndrome）
       - Cushing's syndrome
@@ -66,9 +66,10 @@
       - ACS急性藥物＝NTG pump＋Aspirin（證實可減少死亡率）＋P2Y12（Clopidogrel等）＋抗凝（LMWH/Heparin）；GPIIb/IIIa非所有人常規
       - NSTE-ACS侵入策略＝高危險（血流不穩/持續胸痛/GRACE>140）⭢早期心導管
       - 慢性次級預防＝β-blocker, Statin, ACEi（防止ventricular remodeling）, Aspirin/Clopidogrel
-      - tPA（症狀<12hr, door-to-needle<30min, 高齡>75不再是禁忌, 禁忌＝腦出血/高血壓/活動性內出血/疑似主動脈剝離）
-      - PCI（症狀>3hr偏好PCI, shock, D2B<90min）
-    - 併發症＝Premature ventricular contraction（VPC, 常規β-blocker, 維持K>4.5, 不要預防性給Lidocaine）, VT, VF
+      - STEMI再灌流：Primary PCI優先（FMC-to-device目標≤90min；若無法≤120min完成PCI且症狀<12hr，才考慮fibrinolysis/溶栓，door-to-needle≤30min）
+      - PCI強適應：cardiogenic shock、持續缺血/胸痛、溶栓失敗（rescue PCI）、症狀>12hr但仍有ongoing ischemia；DAWN/DEFUSE-3是腦中風EVT條件，不是心肌梗塞
+    - 電氣性併發症＝Premature ventricular contraction（VPC, 常規β-blocker, 維持K>4.5, 不要預防性給Lidocaine）, VT, VF
+    - MI後機械性併發症＝papillary muscle rupture（急性MR/肺水腫/休克, cf. 主動脈問題多IE造成）, ventricular septal rupture（新holosystolic murmur＋thrill, acute VSD）, LV free wall rupture（tamponade/PEA/猝死）, LV pseudoaneurysm（被心包包住的contained rupture, 破裂風險高；cf. true aneurysm＝較晚、persistent ST elevation/HF/血栓/VT, 壁含心肌）
 
 ## Cardiogram and Arrhythmia（考題9）
 
@@ -112,7 +113,7 @@
 
   - MS（風濕熱, 僧帽瓣嚴重鈣化）： 嚴重＝MV早開早關（S1大聲，到最嚴重會無聲）, Tx＝β-blocker, CCB防HF, 抗生素房心內膜炎（目前建議MS看牙不用投藥）, MV修補優於置換
   - MR（急性＝心肌梗塞>post. papillary m. tear, 慢性＝Myxomatous degeneration（黏液退化）, 風濕熱）： Tx＝Acute（降Preload）：IV NTG, Balloon, Chronic：內科治療（β-blocker, ACEi）, 開刀（無症狀＋心臟不好（End-systolic Dimension（ESD）>40） or 有症狀＋心臟好（ESD<55）） MV修補優於置換
-    - cf. 目前牙科要常規給抗生素的理由：人工瓣膜, 曾經有心內膜炎, 先天性心臟病（未修補或修補後有殘留缺陷）
+    - cf. 目前牙科要常規給抗生素的理由：人工瓣膜, 曾經有心內膜炎, 發紺先天性心臟病（未修補或修補in 6 m）
   - AS（老男（退化鈣化）, bicuspid aortic valve（先天性, @主動脈根部）, 風濕熱） Tx＝防脫水, 手術（有症狀者都開, 無症者EF<50就開）, TAVI（適合手術高風險患者）口訣＝開爆AS老雙風
   - AR（風濕熱, 動脈剝離, Marfan's, Ehlers-Danlos）, Tx＝手術（除了無症狀EF>50, 其他都開）
   - 人工瓣膜選擇：年輕/可長期抗凝→機械瓣（耐用, 需終身Warfarin）；高齡/出血風險高/不適合抗凝→生物瓣（免長期抗凝, 會退化需再介入）
@@ -144,13 +145,17 @@
 
 ## Heart Failure（考題7）
 
-- 分類：Systolic HF（收縮功能下降＝HFrEF, EF<40%, 用藥＝ACEi/ARB, β-blocker, Aldosterone antagonist, SGLT2）, Diastolic HF（＝HFpEF, EF>50%, 老胖女）, Mixed HF（EF 40-50%）
-- 病因：coronary disease（>50%）, Hypertension, Cardiomyopathy, DM
+- 分類：
+  - 依LVEF表型：HFrEF（EF≤40%, 收縮功能下降, 常見MI/病毒性心肌炎/DCM）, HFmrEF（EF 41-49%）, HFpEF（EF≥50%且左心室充填壓上升, 舒張功能下降/心室僵硬, 常見老年/女性/肥胖/多年高血壓LVH, AF, DM, CKD）
+  - 依血流動力：High-output HF（CO高但仍不夠周邊需求, SVR低/需求↑；原因＝甲亢, 嚴重貧血, AV fistula, beriberi, 肥胖, 肝病；不是HFpEF同義詞）
+- 病因：coronary disease（>50%, 多偏HFrEF）, Hypertension（長期嚴重HTN可造成HFpEF）, Cardiomyopathy, DM
+- 考點：HFpEF典型＝多年高血壓病史的老年人；急性MI/病毒性心肌炎急性期多偏急性收縮功能下降（HFrEF）；甲亢早期多是high-output HF
 - 症狀：左心衰竭＝肺水腫（咳嗽, 喘, 肺部濕囉音）, 右心衰竭＝周邊水腫, 肝腫大, 頸靜脈怒張
 - DDx：CBC, 生化, NT-proBNP（多>300（Criteria>125）, <100可排除）, EKG, Echo, X ray
 - 分級： NYHA（症狀分級, 1無症狀, 4嚴重活動受限）, ACC/AHA（治療策略分級, A高風險但無結構異常（ACEi）, D末期（心臟移植））
-- Tx （根據ACC/AHA）：Stage A＝ACEi/ ARB（高血壓一線）； Stage B＝β-blocker； Stage C＝Diuretics/ Digoxin/ Aldosterone antagonist（Spironolactone）； Stage D＝Cardiac resynchronization therapy再同步節律器（CRT, for LBBB, 傳導阻礙）, 心律調節器（LVEF<35%）, 心臟移植（末期）
-- 補：ACEi/ARB為高血壓一線, 但AS, 肥厚心肌病變, 高血鉀, 孕婦要, 雙側腎動脈狹窄要避免
+- Tx：HFrEF四大柱＝ARNI/ACEi/ARB＋β-blocker＋MRA（Spironolactone）＋SGLT2i, 鬱血給diuretics；HFpEF＝利尿緩解鬱血＋控血壓/AF/DM/CKD/肥胖＋SGLT2i；High-output HF＝治根因（甲亢/貧血/AVF等）
+- 進階處置：Stage D＝Cardiac resynchronization therapy再同步節律器（CRT, for LBBB, 傳導阻礙）, ICD/心律調節器（LVEF<35%）, 心臟移植（末期）
+- 補：ACEi/ARB為高血壓一線, 但AS, 肥厚心肌病變, 高血鉀, 孕婦, 雙側腎動脈狹窄要避免
 
 ## Syncopes（考題3）
 
@@ -303,6 +308,7 @@
   - 非小細胞（NSCLC, 轉移慢, 化療放療不敏感, Tx＝手術, EGFR TKI（for Stage IIIB以上EGFR（＋）, e.g. Gefitinib, Erlotinib, Afatinib） ）
     - 腺癌（台灣最常見, 女性多, 對稱性骨關節炎, EGFR突變（標靶好目標, 常見亞洲女, 抽菸者多ras）, CT＝peripheral病灶）
       - 台灣補助：EGFR, ALK, ROS1, PD-L1
+      - 病理subtype預後：Lepidic（伏壁型/GGO/AIS-MIA概念）最好；Acinar/Papillary中間；Micropapillary/Solid（高grade pattern）最差
     - 鱗狀細胞癌（SCC, 抽菸男性多, 高血鈣, 肺尖生長（Pancoast tumor, 會肩頸酸痛, Horner's syndome（瞳孔縮小, 眼瞼下垂, 無汗））, CT＝central Cavitation空洞化）
 - 診斷＝症狀/CXR>CT（首選）>組織切片
   - 肺結節影像特徵：
@@ -396,7 +402,7 @@
 - 診斷：腹部超音波（首選, 可評估膽道擴張）, CT/MRI（評估腫瘤或結石）, ERCP（內視鏡逆行胰膽管造影, 可同時診斷和治療）
   - 重要sign：Murphy's sign（右上腹吸氣壓痛/發燒）, Courvoisier's sign（右上腹摸到無痛性黃疸, 腫大不發燒, 惡性特徵）
   - 尿色
-    - Unconjugated（紅/正常, UGC）： Hemolysis/Gilbert's（切片有liprofusin pigment, 對phenobarbital反應佳）, Crigler-Najjar（會核黃疸）
+    - Unconjugated（紅/正常, UGC）： Hemolysis, Gilbert's（UGT1A1輕降, fasting/stress後黃疸, 良性）, Crigler-Najjar（UGT1A1嚴重缺陷；I型無活性/核黃疸/phenobarbital無效, II型部分活性/phenobarbital有效）
     - Conjugated（Direct, 深茶色, DDR）： Dubin-Johnson（切片dark pigment）, Rotor's（沒有pigment）
 
 ## 腹水（考題3）
@@ -411,6 +417,9 @@
 ## 肝炎（題目多）（考題16）
 
 - 病因：病毒性肝炎（HAV（糞口，可終身免疫）, HBV（唯一雙股環狀DNA, 會猛爆型, HDV寄生）, HCV（慢性為主）, 目前只有AB有疫苗）, 藥物性肝炎（如Acetaminophen過量（用N-acetylcysteine解毒））, 酒精性肝炎（AST dominant）, 非酒精性（NAFLD, e.g.DM, 高血脂, 肥胖相關；Tx underlyging dx）, 免疫性肝炎
+  - 病毒性肝炎速分：HAV/HEV＝腸道糞口傳染，急性為主、不慢性化、不直接造成HCC；HBV/HCV/HDV＝腸道外（血液、性交、垂直）傳染，可慢性化，慢性肝炎/肝硬化可造成HCC
+  - 特例：HBV＝唯一DNA肝炎病毒；HDV＝incomplete/defective virus，必須借HBsAg組裝，故只發生在HBV coinfection/superinfection
+  - 孕婦警訊：HEV感染可猛爆型肝炎（死亡率約20%，第三孕期更危險）；HBV母嬰垂直傳染，出生後需HBV vaccine＋HBIG
 
   - 補：肝組織3 zones： Zone 1（肝門區, 再生強）, Zone 2（中間區）, Zone 3（中心靜脈區, 易死不易再生, e.g. 酒精, 藥物, 急性肝炎）
   - 補：猛爆型肝炎Acute liver failure＝INR ≥1.5, hepatic encephalopathy, 病程小於 26 週
@@ -426,7 +435,7 @@
   - 自體免疫性肝炎（AIH, Tx＝predinisolone）＝肝炎＋球蛋白⭡＋自體抗體；type 1（抗體＝ASMA, ANA（＋）；多女, 合併甲狀腺/RA）, type 2（抗體＝Anti-LKM1（＋））
   - 原發性膽管炎（PBC）：中年女, AMA（＋）, 眼瞼黃斑瘤Xanthelasma, Tx＝Ursodeoxycholic acid（UDCA）；
   - 原發性硬化性膽管炎（PSC）：中年男, IBD合併症, Tx＝只能肝移植
-- 代謝性肝炎：Wilson's disease（體隱, 血銅/Ceruloplasmin⭣,尿銅⭡, 肝銅沉積, Kayser-Fleischer ring, Tx＝銅螯合劑（Penicillamine）, 移植）, Hemochromatosis（體隱, 中年男, Ferritin/transferrin saturation ⭡, 肝鐵沉積, HFE基因突變, Tx＝放血療法）, α-1 antitrypsin deficiency（肝蛋白沉積, 缺A1AT蛋白⭢肺損傷）
+- 代謝性肝炎：Wilson's disease（hepato-lenticular degeneration＝肝豆狀核變性, 體隱, 血銅/Ceruloplasmin⭣,尿銅⭡, 肝銅沉積, Kayser-Fleischer ring, Tx＝銅螯合劑（Penicillamine）, 移植）, Hemochromatosis（體隱, 中年男, Ferritin/transferrin saturation ⭡, 肝鐵沉積, HFE基因突變, Tx＝放血療法）, α-1 antitrypsin deficiency（肝蛋白沉積, 缺A1AT蛋白⭢肺損傷）
 
 ## 肝硬化（題目多）（考題6）
 
@@ -589,8 +598,10 @@
 - Multiple endocrine neoplasia（MEN）：
   - MEN1（＝Wermer syndrome, menin gene；3P（胰副垂腫）＝ { Parathyroid tumor, Pituitary hyperplasia, Pancreas tumor } ）
   - MEN2（＝Sipple's syndrome, RET gene）
+    - RET codon：MEN2A常見634；MEN2B多918（M918T）；FMTC常見618（另620/634也常見，考題常用618作代表）
     - Type 2A（MPH, 嗜甲甲）＝Medullary thyroid ca.甲狀腺髓質癌, Pheochromocytoma嗜鉻細胞瘤, Parathyroid副甲狀腺增生
     - Type 2B（3M1P, 嗜黏甲馬）＝Mucosal neuroma黏膜神經瘤, Medullary thyroid ca.甲狀腺髓質癌, Marfanoid habitus馬凡樣體, Pheochromocytoma嗜鉻細胞瘤
+    - FMTC＝Familial medullary thyroid carcinoma：家族性MTC為主，通常無Pheochromocytoma/副甲狀腺病變
 
 # 腎臟內科（考題43）
 
@@ -684,7 +695,8 @@
 
 ## Polycystic kidney disease（PKD）（考題2）
 
-- ADPKD（自體顯性PKD, 90%PKD, 1st, Type I為主（16p短臂PKD1突變）, SS＝30-40 y/o雙側多發囊腫, 腎外常見肝cyst, 血壓高； DDX＝臨床（年輕雙側>2cyst, 老人>4cyst）, Tx＝ACEi控壓, 腎衰後透析/移植）； ARPKD（自體隱性PKD, 10%PKD, 小孩為主, 高死亡率, 肝病變）
+- ADPKD（自體顯性PKD）：90%PKD, 成人為主, Type I為主（16p短臂PKD1突變）, SS＝30-40 y/o雙側多發囊腫, 腎外常見肝胰卵巢cyst, 血壓高； DDX＝臨床（年輕雙側>2cyst, 老人>4cyst）, Tx＝ACEi控壓, 腎衰後透析/移植
+ARPKD（自體隱性PKD）：10%PKD, 小孩為主, 羊水過少, 肺發育不全, 高死亡率, 肝病變
 
 # 感染科（考題38）
 
@@ -809,8 +821,6 @@
   - Mycobacterium avium complex（分枝桿菌MAC）：Tx＝Clarithromycin＋Ethambutol
 - 其他免疫不全：hypogammaglobulinemia（成因＝ALL, MM, Nephrosis, Encapsulated bacteria, enterovirus）, mononuclear phagocyte system（單核吞噬細胞系統）功能障礙（脾切除> Pneumococci, Salmonella）
 
-## 書籤（考題0）
-
 # 風濕免疫科（考題29）
 
 ## SLE（考題6）
@@ -827,7 +837,7 @@
 ## RA（考題2）
 
 - 流病：中年女對稱手部, 長期晨僵（>1hr）, 常見HLA-DR4（＋）； 加劇因子=RF（＋）, anti-CCP（＋）； 發炎＝Synovitis（Macrophage釋放TNF-α, IL-1, IL-6, 並活化CD4 T cell）
-- 臨床表現（DIP sparing）：PIP 破壞（ventral plate, 包膜破壞, 魔笛手, Swan neck, Boutonniere defirmity, Z-thumb）, 中軸骨C2脫位（Atlantoaxial Subluxation）, Extra-articular（Osteoporosis（1st, 好發骨突, 肢體伸側, 關節旁（Juxtaarticular））, Rheumatoid nodule皮下結節））, 對稱性punched-out erosion
+- 臨床表現（DIP sparing）：PIP 破壞（ventral plate, 包膜破壞, 魔笛手, Swan neck（長得像mallet finger但成因不同）, Boutonniere defirmity, Z-thumb）, 中軸骨C2脫位（Atlantoaxial Subluxation）, Extra-articular（Osteoporosis（1st, 好發骨突, 肢體伸側, 關節旁（Juxtaarticular））, Rheumatoid nodule皮下結節））, 對稱性punched-out erosion
 - 病理：Rheumatoid nodule（壞死中心＋周圍肉芽腫）, Interstitial lung disease（肺纖維化）, Pericarditis（心包炎）, Vasculitis（血管炎）
 - 影像學（早期nil）：X ray（Juxtaarticular osteopenia, Bone erosion（cf. SLE Jaccoud's deformity））
 - Diag：>＝1 joint synoivitis 且 ACR/EULAR score >＝6
@@ -854,8 +864,8 @@
 - 中血管炎（記PAN/Kawasaki）
   - Kawasaki（小兒冠狀動脈炎； SS＝發燒出疹）； Polyarteritis nodosa（PAN； HBV感染, 睪丸痛, 切片PMN浸潤）
 - 小血管炎（記ANCA/HSP）
-  - Wegener's granulomatosis（肉芽腫性血管炎, 又名granulomatosis with polyangiitis（GPA））： SS＝上下呼吸道侵犯, 腎血管炎（主要死因）； Lab＝c-ANCA（中央型, 攻擊anti-PR3 Ab）； Tx＝Prednisolone＋Cyclophosphamide/Rituximab）
-  - Churg-Strauss syndrome（嗜酸性肉芽腫性多血管炎）：SS＝上下呼吸道（嚴重氣喘）, Mononeuritis multiplex（多發性神經病變）； Lab＝Eosinophilia, p-ANCA（周邊型攻擊anti-MPO Ab）； Tx＝類固醇＋免疫抑制劑）
+  - Wegener's granulomatosis（肉芽腫性血管炎, 又名granulomatosis with polyangiitis（GPA））： SS＝上下呼吸道侵犯（鼻子, 肺）, 腎血管炎（主要死因）； Lab＝c-ANCA（中央型, 攻擊anti-PR3 Ab）； Tx＝Prednisolone＋Cyclophosphamide/Rituximab）
+  - Churg-Strauss syndrome（=EPGA, 嗜酸性肉芽腫性多血管炎）：SS＝上下呼吸道（嚴重氣喘）, Mononeuritis multiplex（多發性神經病變）； Lab＝Eosinophilia, p-ANCA（周邊型攻擊anti-MPO Ab）； Tx＝類固醇＋免疫抑制劑, anti-IL5生物製劑（mepolizumab抗氣喘）
   - Cutaneous vasculitis（皮膚血管炎＝Hypersensitivity vasculitis）：1st血管炎； SS＝Palpable purpura, 用藥後過敏； Tx＝移除過敏藥物, 給類固醇
   - Henoch-Schonlein purpura（過敏性紫斑＝Anaphylactoid purpura）：秋冬小孩病, 好發於上呼吸道感染後/ 用藥後； SS＝Palpable purpura（下肢）, 顯微血尿, 皮膚IgA沈澱, 缺血腹痛； 預後極佳, 不一定要治療
 
@@ -915,14 +925,14 @@
     - 血小板不良
       - Von Willebrand disease（遺傳性血小板不良； vWF缺乏或功能異常； Tx＝Desmopressin（促進vWF釋放）, Cryoprecipitate （vWF, factor 8 concentrate））
       - Uremia
-      - 其他隱性dx：Bernard-Soulier syndrome（血小板表面缺GP（Ib type, 功能=vEF receptor)）, Glanzmann thrombasthenia（缺GP IIb/IIIa typr （fibrinogen receptor））
+      - 其他隱性dx：Bernard-Soulier syndrome（血小板表面缺GP（Ib type, 功能=vEF receptor)）, Glanzmann thrombasthenia（缺GP IIb/IIIa type （fibrinogen receptor））
     - 血小板減少＋血栓生成：Antiphospholipid syndrome（APS）, Heparin-induced thrombocytopenia（HIT）
 - Secondary hemostasis（凝血因子活化形成纖維蛋白網） ：
 
-  - Intrinsic Pathway（Factor 8,9,11；驗aPTT）
-    - Hemophilia A（8缺乏）：Tx＝補factor, Emicizumab（Hemlibra； 機轉為bypass）
-    - Hemophilia B（9缺乏）：Tx ＝ 補factor IX
-  - Extrinsic Pathway（Factor 7, 口訣＝Ex-PresidenT K went to WAR）：驗PT； Dx＝VitK缺乏, 肝衰竭, 服用Warfarin
+  - Intrinsic Pathway（Factor 8,9,11,12；驗aPTT）
+    - Hemophilia A（8缺乏）：Tx＝補factor, Emicizumab（Hemlibra；機轉為bypass）
+    - Hemophilia B（9缺乏）：Tx＝補factor IX
+  - Extrinsic Pathway（Factor 7, 口訣＝Ex-PresidenT K went to WAR）：驗PT；Dx＝VitK缺乏, 肝衰竭, 服用Warfarin
 
 ## 血栓（考題1）
 
@@ -930,10 +940,9 @@
   - 先天抗凝血因子：Protein S/C（分解Factor 5/8a, 台灣1st dx＝缺S1）, Antithrombin III（分解factor 10a）, Factor V Leiden（Protein C抗性而失效, 西方1st DVT成因）
   - 後天抗凝血問題：Antiphospholipid syndrome（APS）
 - 靜脈血栓dx（DVT, Pulmonery embolism（PE））：Virchow's triad（血液滯留, 血管壁損傷, 高凝狀態）； Tx＝Warfarin 3 months（目標＝INR 2-3）
-
-* Warfarin Drug-Drug intervention：
-  * CYP450 inducer（加速代謝, e.g. Rifampin, Barbiturates, Phenobarbital, 口訣＝癲癇病人開車猛,看到綠（Ri）燈就加速）
-  * CYP450 inhibitor（減慢代謝, e.g. Cimetidine（H2 blocker）, Statin, Erythromycin, 口訣＝高血脂病人動作慢, 到西門町（Cimetidine）趕紅（紅黴素）綠燈）
+- Warfarin Drug-Drug intervention：
+  - CYP450 inducer（加速代謝, e.g. Rifampin, Barbiturates, Phenobarbital, 口訣＝癲癇病人開車猛,看到綠（Ri）燈就加速）
+  - CYP450 inhibitor（減慢代謝, e.g. Cimetidine（H2 blocker）, Statin, Erythromycin, 口訣＝高血脂病人動作慢, 到西門町（Cimetidine）趕紅（紅黴素）綠燈）
 
 ## 急性白血病（Acute Leukemia）（考題5）
 
@@ -947,7 +956,7 @@
   - Ph+ ALL（t（9；22）, BCR-ABL）：化療加TKI（e.g. imatinib/dasatinib）；但imatinib CNS穿透差, CNS預防/治療仍靠intrathecal chemo±RT
   - 預後好＝hyperdiploidy；
   - 預後差＝老人, B ALL, t（9；22）, t（4；11）
-- APL（急性前骨髓性白血病； t（15；17） PML-RARα fusion gene）：SS＝出血傾向, DIC, 發燒變胖呼吸困難腎衰竭； Tx＝ATRA＋ATO；steroid for differentiation syndrome
+- APL（急性前骨髓性白血病； t（15；17） PML-RARα fusion gene）：SS＝出血傾向, DIC, 發燒變胖呼吸困難腎衰竭； Tx＝ATRA（tretinoin）＋ATO（As2O3）；steroid for differentiation syndrome
 
 ## 慢性骨髓增生性疾病（Chronic Myeloproliferative Disorders）（考題2）
 
@@ -1032,7 +1041,7 @@
 ## 腫瘤各論（考題8）
 
 - Breast cancer: 乳癌； RF＝BRCA1/2, HER2, P53突變； Exam＝乳房攝影X-ray（大量篩檢主力, 鈣化/脂肪性乳房敏感, dense breast靈敏度下降）, 超音波（實質性腫塊/年輕女輔助, operator-dependent不適合大量篩檢主工具）, 癌篩＝40-74女q2y
-  - BI-RADS：0＝補影像/舊片比較；1＝negative；2＝benign；3＝probably benign（<2%, 6m追蹤）；4＝suspicious（biopsy, 4A/B/C）；5＝highly suggestive malignancy；6＝已切片確診癌
+  - BI-RADS：0＝資訊不足要補拍；1＝negative；2＝benign；3＝probably benign（<2%, 6m追蹤）；4＝suspicious（biopsy, 4A/B/C）；5＝highly suggestive malignancy；6＝已切片確診癌
   - 影像處置：年輕女/疑似fibroadenoma先US；BI-RADS 1-2＝routine/症狀治療, 3＝短期追蹤, 4-5＝biopsy
   - 保乳條件：病灶局限＋可切乾淨（clear margin）＋可術後放療＋外觀可接受；不適合＝多象限microcalcifications/multicentric disease/extensive DCIS（invasive cancer或LN＋本身不是禁忌）
   - Breast reconstruction：implant併發症＝不自然/莢膜攣縮/破裂/感染/BIA-ALCL；autologous free flap常用internal mammary vessels作recipient（不是thoracodorsal）
@@ -1042,15 +1051,15 @@
     - 化療for 三陰 /HER2＋ /LN＋
     - 荷爾蒙治療 for ER/PR＋（停經前Tamoxifen, 停經後Aromatase inhibitor）
   - 補：Occult breast cancer：腋下adenocarcinoma＋乳房影像陰性；DDx＝驗ER/PR/HER2/GATA3；Tx（不用切乳房）＝腋下處理＋全乳放療±全身治療
-- Colorectal cancer: 大腸癌； SS＝直腸血便/裡急後重, 降結腸阻塞, 升結腸無症狀（糞便軟無異狀, 所以發現時較末期）； 分期（考點Dukes-TNM-Stage對應）＝A（T1N0M0, I, 粘膜局限）, B1（T2N0M0, I, 肌肉層局限）, B2（T3N0M0, II, 肌肉層與漿膜層（Serosa））, C（B＋LN, III）, D（M1, IV）； Tx＝手術切除, 加化療（for C/III以上（有淋巴侵犯））, 術前CCRT可減少服法＋保留肛門
+- Colorectal cancer: 大腸癌； SS＝直腸血便/裡急後重, 降結腸阻塞, 升結腸無症狀（糞便軟無異狀, 所以發現時較末期）； 分期（考點Dukes-TNM-Stage對應）＝A（T1N0M0, I, 粘膜局限）, B1（T2N0M0, I, 肌肉層局限）, B2（T3N0M0, II, 肌肉層與漿膜層（Serosa））, C（B＋LN, III）, D（M1, IV）； Tx＝手術切除, 加化療（for C/III以上（有淋巴侵犯））, 術前CCRT可減少復發＋保留肛門
 - Carcinoid tumor/syndrome（類癌）：神經內分泌腫瘤；syndrome多見肝轉移後；SS（不會高血壓）＝flushing, watery diarrhea, bronchospasm, 右心瓣膜病；DDx＝尿5-HIAA
 - 肺癌: NSCLC（非小細胞肺癌； 85%； 分為腺癌（最常見, 女性/非吸菸者； SS＝hypertrophic pulmonary osteoarthropathy）, 鱗狀細胞癌（男性/吸菸者； SS＝Clubbing, 肩膀痛, 高血鈣（PTHrP分泌）））； SCLC（小細胞肺癌； 15%； 預後差, SS＝Cushing syndrome（ACTH分泌）, SIADH（ADH分泌）, Eaton-Lambert syndrome）
 
 ## 腫瘤旁症候群（考題1）
 
-- 內分泌症狀：Cushing syndrome（高壓慢跳亂呼吸（cf. 類癌症候群）, SCLC, Thymus tumor； ∵ACTH分泌）, SIADH（SCLC）, Hypercalcemia（SCC（肺/頭頸）, 乳癌, MM； ∵PTHrP分泌）, Hypoglycemia（Mescenchymal tumor, Sarcoma； ∵IGF-II分泌）
+- 內分泌症狀：Cushing syndrome（高壓慢跳亂呼吸（cf. 類癌症候群）, SCLC, Thymus tumor； ∵ACTH分泌）, SIADH（SCLC）, Hypercalcemia（SCC（肺/頭頸）, 乳癌, MM；∵PTHrP分泌）, Hypoglycemia（Mescenchymal tumor, Sarcoma； ∵IGF-II分泌）
 - 血液症狀：DIC（前列腺癌）, Eosinophilia（Lymphoma, Leukemia； ∵IL-5分泌）
-- 風免皮膚症狀：Eaton-Lambert syndrome（SCLC； 軀幹和四肢近端肌肉無力, 深肌腱反射減弱∵抗體攻擊神經肌肉接頭pre-synaptic Ca channel）, Hypertrophic pulmonary osteoarthropathy（肺腺癌）, Acanthosis nigricans（GI cancer, NSLCL）
+- 風免皮膚症狀：Eaton-Lambert syndrome（SCLC； 軀幹和四肢近端肌肉無力, 深肌腱反射減弱∵抗體攻擊神經肌肉接頭pre-synaptic Ca channel）, Hypertrophic pulmonary osteoarthropathy（肺腺癌, triad＝DIP clubbing finger, Peropstosis長骨骨膜新生, Arthralgia關節痛）, Acanthosis nigricans（GI cancer, NSLCL）
 
 ## 腫瘤急症（考題1）
 
@@ -1066,7 +1075,9 @@
 - 家庭圈：每個圈可以代表一個人, 越大圈權力越大
 - 家系圖: 男正方、女圓圈、死了畫一撇
 - Family APGAR score：評估家庭功能正常度, 五項（各0-2分）, 7-10無障礙, 4-6中度障礙, 0-3重度功能不足
-- 家庭功能評估選題權重：反覆身體症狀＋多次檢查正常＋重大生活事件/家庭壓力/照顧負擔線索＋認知判斷正常 ⭢ 先評估家庭支持/功能；若自殺意念, 精神病症狀, 明顯重鬱焦慮或功能嚴重受損 ⭢ 精神科
+- 家庭功能評估：
+  - 反覆身體症狀＋多次檢查正常＋重大生活事件/家庭壓力/照顧負擔線索＋認知判斷正常 ⭢ 先評估家庭支持/功能
+  - 自殺意念, 精神病症狀, 明顯重鬱焦慮或功能嚴重受損 ⭢ 精神科
 - 燒傷輸液Parkland formula：LR＝4 mL × BW(kg) × %TBSA燒傷面積（只算二/三度, 不算一度）；24hr總量, 前8hr給一半（從燒傷時間算）
 - 基層健保醫療五特性＝Comprehensiveness, Continuity, Coordination（轉介功能）, Accessibility, Accountability
 - LEARN以病人為中心：Listen, Explain, Acknowledge（容許, 相互溝通弭平資訊差）, Recommend, Negotiate（協商, 最重要step, 根據醫病雙方考量）
@@ -1102,6 +1113,7 @@
 
   - Screen tools＝Mini-Mental State Examination（MMSE, 30分滿分, <24分異常）, Montreal Cognitive Assessment（MoCA, 30分滿分, <26分異常）, Mini-Cog（3 item recall（紅色快樂腳踏車）＋clock drawing； 3item沒滿分/clock畫錯＝異常）
   - 周全老人評估（Comprehensive Geriatric Assessment, CGA）
+    - 認知領域（DSM-5 NCD）＝注意力、執行功能、學習與記憶、語言、知覺-動作、社交認知；長照/CGA不只看認知分數，重點是認知缺損是否造成ADL/IADL、用藥、營養、情緒、社會支持與照顧負擔問題
     - 功能評估（ADL巴氏量表（吃動便洗走穿）, 61-90中度依賴, 91-99輕度依賴； IADLs； 失能評估（重度（5項以上失能）, 中度（3-4）, 輕度（1-2, 僅IADLs的獨居老人）））
     - 認知評估（MMSE）
     - 情緒評估（GDS-15 老人憂鬱篩檢；≥5 懷疑，≥10 憂鬱）,
@@ -1109,7 +1121,7 @@
     - 社會支持評估（LSNS）,
     - 藥物評估（Beers criteria, >5 drug為多重用藥）
 - 青少年醫學：三明治會談法（＝三方一起談話, 再與單獨青年, 最後再三方一起談話）
-- 職業醫學：職業病＝ { 有疾病, 有工作暴露, 有一致性, 有時序性 } , 常見疾病-暴露＝ { 氣喘（甲醛/環氧樹酯）, kidney disease（鉛/醇/汞/鉻）, 肝（二甲機甲西安/砷）, 血液（苯/硝化甘油）, CV（SO2/砷/硝化甘油） }
+- 職業醫學：職業病＝ { 有疾病, 有工作暴露, 有一致性, 有時序性 } , 常見疾病-暴露＝ { 氣喘（甲醛/環氧樹酯）, kidney disease（鉛/醇/汞/鉻）, 肝（二甲基甲西安/砷）, 血液（苯/硝化甘油）, CV（SO2/砷/硝化甘油） }
 - 肥胖症：台灣＝ { BMI>27肥胖, 24-26.9過重, 18.5-23.9正常 } ； 代謝症候群（Metabolic syndrome）定義＝3項以上（腹部肥胖（男>90cm, 女>80cm）, 高血糖（空腹血糖>100mg/dL）, 高血壓（>130/85mmHg）, 高三酸甘油脂（>150mg/dL）, 低HDL（男<40mg/dL, 女<50mg/dL））
 - 生活型態與血壓：鹽分2-4g（1g鹽⭣2.5mmHg）, Alcohol男性<30g/日, 女性<20/日, 煙不抽, 體重BMI<25（減1公斤⭣1mmHg）, 運動40min 3-4次/週, DASH diet（多蔬果、低脂乳製品、全穀類、減少飽和脂肪和膽固醇）
 
@@ -1127,7 +1139,7 @@
 - 生命倫理四原則（同等重要）：尊重自主（誠實, 保密, 知情同意）, 行善, 不傷害, 正義
 - 安寧緩和＝全人全家全程全隊, 末期止痛By the mouth, By the clock, By the ladder （口服morphine起始dose＝5~10mg, q4h, 鴉片藥物沒有高劑量效應, 小心高血鈣, 便秘）
   - 補：病人自主權利法＝預立醫療/預立醫療決定；安寧緩和醫療條例＝末期病人 DNR /安寧緩和醫療
-- DNR/DNI：DNR（do not resuscitate）＝心跳/呼吸停止時不做CPR, 不等於拒絕所有急救；DNI（do not intubate）＝不插管/不接呼吸器, 需另外明確表示；急診病人仍有pulse/呼吸且GCS≤8/低血氧⭢先插管保護airway, 同步聯絡家屬釐清目標
-- PAD（預立醫療決定）：病人自主權利法, 經ACP後決定「特定臨床條件」（末期/不可逆昏迷/植物人/極重度失智/公告重症）下是否接受LST/ANH；LST＝CPR、機械式維生系統（呼吸器/ECMO）、血液製品、專門治療、重度感染抗生素；ANH＝人工營養及流體餵養（NG/PEG/IV fluid）
+- DNR/DNI：DNR（do not resuscitate, 窄效）＝心跳/呼吸停止時不做CPR, 不等於拒絕所有急救；DNI（do not intubate）＝不插管/不接呼吸器, 需另外明確表示；急診病人仍有pulse/呼吸且GCS≤8/低血氧⭢先插管保護airway, 同步聯絡家屬釐清目標
+- PAD（預立醫療決定, 廣效）：病人自主權利法, 經ACP後決定「特定臨床條件」（末期/不可逆昏迷/植物人/極重度失智/公告重症）下是否接受LST/ANH；LST＝CPR、機械式維生系統（呼吸器/ECMO）、血液製品、專門治療、重度感染抗生素；ANH＝人工營養及流體餵養（NG/PEG/IV fluid）
 - 末期給水給營養觀念: 厭食是末期正常現象, 末期病人不因不給給水/食物而死亡, 勿勉強進食
 - DNR＝兩位醫師診斷, 代理權＝配偶>子女（直系卑親屬）>父母（直系尊親屬）
