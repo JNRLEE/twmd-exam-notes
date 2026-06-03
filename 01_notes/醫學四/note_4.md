@@ -502,7 +502,7 @@
 
 ## 先天性dx（考題0）
 
-- Peutz-Jeghers syn（PJS）：體顯，STK11/LKB1突變，色素沉澱長大會消失（口腔例外）；SS＝口唇/手腳掌黑色素斑，腸道hamartomatous polyp（過誤息肉⭢出血/腸套疊/adenocarcinoma）; Tx＝定期腸鏡檢查
+- Peutz-Jeghers syn（PJS）：體顯，STK11/LKB1突變，色素沉澱長大會消失（口腔例外）；SS＝口唇/手腳掌黑色素斑，空腸hamartomatous polyp（過誤息肉⭢出血/腸套疊/adenocarcinoma）; Tx＝定期腸鏡檢查
 - NB（略過）
 - Ichthyosis vulgaris（尋常魚鱗癬，別名穿山甲/泡泡龍）：Profilaggrin突變⭢filaggrin缺乏⭢魚鱗狀粗糙龜裂；SS＝1y/o開始，四肢伸側粗糙鱗屑，Keratosis pilaris角化增生，手腳掌紋增厚；Tx＝保濕，軟化角質（尿素軟膏）
 - Darier's dx：體顯，ATP2A2突變⭢SERCA2鈣泵異常；SS＝青春期開始，褶皺處泛油，過度角化丘疹，棕色斑塊，指甲紅白直條紋，夏日加重；DDx=皮膚切片（corps ronds（棘層細胞核染色變圓），corps grains（角質層細胞核染色變小））

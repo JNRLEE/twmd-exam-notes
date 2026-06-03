@@ -1,9 +1,14 @@
 # TWMD Exam Notes
 
-This repository contains readable Markdown outputs from the TWMD_EXAM workspace.
+這是一份台灣醫師國考二階複習筆記整理。主要用途是快速複習高頻考點、釐清容易混淆的觀念，並從考古題補足正式筆記還沒整理到的缺口。
 
-## Contents
+## 怎麼看
 
-- `01_notes/`: personal study notes
-- `03_focused_topics/`: past-exam focused per-question reviews
+- `01_notes/`：主筆記。平常複習以這裡為主，依醫學三、四、五、六整理各科重點。
+- `03_focused_topics/`：考古題逐題詳解與重點整理。想看某年度、某科考古題怎麼考、答案怎麼判斷，可以從這裡開始。
+- `04_daily_review/`：補充知識草稿。`01_notes` 還沒有整理到、但考古題暴露出來的考點，可以先在這裡學習。
+- `02_past_exams/`：考古題原始解析資料，主要作為查題與整理來源。
 
+## 祝福
+
+大家一起祈禱金榜題名。
