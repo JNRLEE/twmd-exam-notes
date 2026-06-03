@@ -66,3 +66,4 @@
 
 - 主要可編輯工作區在外層資料夾；若相同檔案也存在 `twmd-exam-notes` nested repo，修改後需同步。
 - 不要自行 push/commit，除非使用者明確要求。
+- 使用者要求「推到 GitHub」時，預設直接推到 `main`，不要建立雲端 branch 或 draft PR；除非使用者明確要求 PR/branch。若必須暫用本機 branch，名稱不要帶 `codex`。
