@@ -214,7 +214,7 @@
     "options": {
       "A": "顱內出血（Intracranial hemorrhage）",
       "B": "低血鈉（Hyponatremia）",
-      "C": "可逆性後腦病變症候群（Posterior reversible encephalopathy syndrome, PRES）",
+      "C": "可逆性後腦病變症候群（Posterior reversible encephalopathy syndrome，PRES）",
       "D": "腦部血管栓塞（Cerebral venous sinus thrombosis）"
     },
     "answer": "A"
@@ -223,7 +223,7 @@
     "question_number": 21,
     "question_text": "5歲女童接受化學藥物治療一段期間後，發現有輕微蛋白尿與尿糖現象，抽血檢查顯示血中鉀離子為2.8 mmol/L，鈉離子為146 mmol/L，氯離子為115 mmol/L。血液pH值為7.2，重碳酸根離子（HCO3-）為18 mmol/L，BE：-4.5 mmol/L，下列何者為最可能之診斷？",
     "options": {
-      "A": "第四型腎小管酸血症（Renal tubular acidosis, type IV）",
+      "A": "第四型腎小管酸血症（Renal tubular acidosis，type IV）",
       "B": "Fanconi症候群（Fanconi syndrome）",
       "C": "Bartter氏症候群（Bartter syndrome）",
       "D": "吉特曼症候群（Gitelman syndrome）"
@@ -265,7 +265,7 @@
   },
   {
     "question_number": 25,
-    "question_text": "兒童第一型糖尿病（Type 1 diabetes mellitus, T1DM）與第二型糖尿病相比較，下列何者最不正確？",
+    "question_text": "兒童第一型糖尿病（Type 1 diabetes mellitus，T1DM）與第二型糖尿病相比較，下列何者最不正確？",
     "options": {
       "A": "T1DM病童體型通常較為消瘦",
       "B": "T1DM病童首次發病時，較常合併酮酸中毒",
@@ -331,7 +331,7 @@
   },
   {
     "question_number": 31,
-    "question_text": "9個月大女嬰嘴唇被發現有發紺的現象，經診斷為先天性心臟病法洛氏四重症（Tetralogy of Fallot, TOF）。下 列何種機轉是造成病童直到9個月才出現明顯發紺現象？",
+    "question_text": "9個月大女嬰嘴唇被發現有發紺的現象，經診斷為先天性心臟病法洛氏四重症（Tetralogy of Fallot，TOF）。下 列何種機轉是造成病童直到9個月才出現明顯發紺現象？",
     "options": {
       "A": "動脈導管持續開放",
       "B": "卵圓孔延遲關閉",
@@ -628,7 +628,7 @@
   },
   {
     "question_number": 58,
-    "question_text": "下列何者與視神經脊髓炎（neuromyelitis optica spectrum disorder, NMOSD）的相關性最為密切？",
+    "question_text": "下列何者與視神經脊髓炎（neuromyelitis optica spectrum disorder，NMOSD）的相關性最為密切？",
     "options": {
       "A": "anti-aquaporin (AQP4) antibody",
       "B": "anti-ganglioside GQ1b antibody",
@@ -763,7 +763,7 @@
     "question_text": "下列對酒精相關的描述，何者錯誤？",
     "options": {
       "A": "依我國道路交通安全規則規定違規酒駕的標準為吐氣所含酒精濃度達0.15mg/L或血液中酒精濃度達0.03%以 上",
-      "B": "酒精會降低深層睡眠時間（deep sleep, stage 4）",
+      "B": "酒精會降低深層睡眠時間（deep sleep，stage 4）",
       "C": "酒精戒斷初期常見的症狀會嗜睡",
       "D": "酒精戒斷有可能出現幻覺"
     },
@@ -782,7 +782,7 @@
   },
   {
     "question_number": 72,
-    "question_text": "關於注意力不足／過動症（attention-deficit/hyperactivity disorder, ADHD）之敘述，下列何者錯誤？",
+    "question_text": "關於注意力不足／過動症（attention-deficit/hyperactivity disorder，ADHD）之敘述，下列何者錯誤？",
     "options": {
       "A": "成人注意力不足／過動症患者用藥物治療的效果不佳",
       "B": "使用methylphenidate治療為首選用藥之一",

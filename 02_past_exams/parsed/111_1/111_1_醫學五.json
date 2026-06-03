@@ -15,8 +15,8 @@
     "question_text": "絞刑骨折（hangman's fracture）是指下列何者？",
     "options": {
       "A": "disruption of C1 ring in multiple locations ; blow-out ring",
-      "B": "odontoid fracture, type II : through base",
-      "C": "odontoid fracture, type I : tip of odontoid",
+      "B": "odontoid fracture，type II : through base",
+      "C": "odontoid fracture，type I : tip of odontoid",
       "D": "bilateral C2 pedicles with spondylolisthesis"
     },
     "answer": "D"
@@ -144,7 +144,7 @@
   },
   {
     "question_number": 14,
-    "question_text": "關於自然孔洞手術（natural orifice transluminal endoscopic surgery, NOTES）的敘述，下列何者錯誤？",
+    "question_text": "關於自然孔洞手術（natural orifice transluminal endoscopic surgery，NOTES）的敘述，下列何者錯誤？",
     "options": {
       "A": "自然孔洞手術（NOTES）在技術上會比傳統內視鏡手術增加醫師的心理壓力且學習曲線較長",
       "B": "經口內視鏡食道肌肉切開手術（POEM）可以減少腹部創傷及減少對食道胃接合處（gastroesophageal junction）的破壞",
@@ -188,7 +188,7 @@
   },
   {
     "question_number": 18,
-    "question_text": "頭部外傷患者被送至加護病房，因意識不清給與裝置腦壓監視器，今測得其血壓為150/90 mmHg，顱內壓為 25 mmHg，則其腦灌流壓（cerebral perfusion pressure, CPP）為多少mmHg？",
+    "question_text": "頭部外傷患者被送至加護病房，因意識不清給與裝置腦壓監視器，今測得其血壓為150/90 mmHg，顱內壓為 25 mmHg，則其腦灌流壓（cerebral perfusion pressure，CPP）為多少mmHg？",
     "options": {
       "A": "105",
       "B": "95",
@@ -287,7 +287,7 @@
   },
   {
     "question_number": 27,
-    "question_text": "有關無幫浦不停跳冠狀動脈繞道手術（off-pump coronary artery bypass grafting, OPCAB）之敘述，下列何者錯 誤？",
+    "question_text": "有關無幫浦不停跳冠狀動脈繞道手術（off-pump coronary artery bypass grafting，OPCAB）之敘述，下列何者錯 誤？",
     "options": {
       "A": "是實行冠狀動脈繞道手術（coronary artery bypass grafting）的手術選項之一",
       "B": "理論上因無幫浦輔助下施行手術，所以包括傳統開心手術中之術後流血、神經認知功能不全、血栓栓塞、體 液堆積及各器官暫時性的功能不全等各項併發症都可能減到最低的程度",
@@ -298,7 +298,7 @@
   },
   {
     "question_number": 28,
-    "question_text": "將主動脈分為五大部分，如附圖，則主動脈內氣球幫浦（intra-aortic balloon pump, IABP）置入後，球囊 （intra-aortic balloon）最佳位置應於：",
+    "question_text": "將主動脈分為五大部分，如附圖，則主動脈內氣球幫浦（intra-aortic balloon pump，IABP）置入後，球囊 （intra-aortic balloon）最佳位置應於：",
     "options": {
       "A": "I",
       "B": "II",
@@ -465,7 +465,7 @@
     "question_number": 43,
     "question_text": "急性胃、食道靜脈瘤出血，經藥物及內視鏡治療後仍持續出血，此時選擇以下外科治療，何者最不適當？",
     "options": {
-      "A": "經頸靜脈肝內門體靜脈支架分流術（transjugular intrahepatic portosystemic shunt, TIPS）",
+      "A": "經頸靜脈肝內門體靜脈支架分流術（transjugular intrahepatic portosystemic shunt，TIPS）",
       "B": "遠端脾靜脈腎靜脈分流術（Warren shunt）",
       "C": "脾臟切除（splenectomy）",
       "D": "肝臟移植（liver transplantation）"
@@ -687,8 +687,8 @@
     "options": {
       "A": "觀察，且須每四個月定期追蹤一次X光",
       "B": "背架治療，且須每四個月定期追蹤一次X光",
-      "C": "後方側彎矯正、內固定及後側骨融合術（posterior correction, instrumentation and posterior fusion）",
-      "D": "因病人尚有骨骼生長的空間，故在施行後方側彎矯正、內固定及後側骨融合術（posterior correction, instrumentation and posterior fusion）時，須同時施行前側椎體間骨融合（anterior interbody fusion）來預防曲 軸現象（crankshaft phenomenon），以免術後角度惡化"
+      "C": "後方側彎矯正、內固定及後側骨融合術（posterior correction，instrumentation and posterior fusion）",
+      "D": "因病人尚有骨骼生長的空間，故在施行後方側彎矯正、內固定及後側骨融合術（posterior correction，instrumentation and posterior fusion）時，須同時施行前側椎體間骨融合（anterior interbody fusion）來預防曲 軸現象（crankshaft phenomenon），以免術後角度惡化"
     },
     "answer": "C"
   },

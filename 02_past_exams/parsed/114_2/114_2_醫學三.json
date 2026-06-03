@@ -56,7 +56,7 @@
   },
   {
     "question_number": 6,
-    "question_text": "下 列關於經皮冠狀動脈介入（percutaneous coronary intervention, PCI）術前、術中、術後使用之抗凝 血、抗血小板藥物之敘述，何者錯誤？",
+    "question_text": "下 列關於經皮冠狀動脈介入（percutaneous coronary intervention，PCI）術前、術中、術後使用之抗凝 血、抗血小板藥物之敘述，何者錯誤？",
     "options": {
       "A": "若 已知病人將接受PCI且未曾服用抗血小板藥物，術前應給與aspirin 325 mg及clopidogrel 600 mg以降 低術中血栓併發症風險",
       "B": "若 經植入第二代或更新的藥物塗層冠狀動脈金屬支架，因其晚期支架內血栓之風險較低，故術後血小板雙抗 藥物治療（dual antiplatelet therapy）可於6個月後停止",
@@ -201,16 +201,16 @@
     "question_number": 19,
     "question_text": "6 0歲肥胖（BMI：27 kg/m2）、有糖尿病史、不曾喝酒的婦女，於健康檢查接受腹部超音波檢查時發現脂肪 肝。下列敘述，何者最不恰當？",
     "options": {
-      "A": "患 者可以診斷為非酒精性脂肪肝病（non-alcoholic fatty liver disease, NAFLD），定義為肝臟裡面脂肪 （主要是triglyceride）含量過高",
+      "A": "患 者可以診斷為非酒精性脂肪肝病（non-alcoholic fatty liver disease，NAFLD），定義為肝臟裡面脂肪 （主要是triglyceride）含量過高",
       "B": "腹 部超音波檢查除了偵測脂肪浸潤（hepatic steatosis）外，也可同時偵測脂肪性肝炎 （steatohepatitis）的存在",
-      "C": "使 用藥物如methotrexate, tamoxifen及glucocorticoid也可能造成脂肪肝",
-      "D": "非 酒精性脂肪肝病（non-alcoholic fatty liver disease, NAFLD）病患的AST及ALT數值可能有異常現 象，但數值高低與組織學嚴重度無關"
+      "C": "使 用藥物如methotrexate，tamoxifen及glucocorticoid也可能造成脂肪肝",
+      "D": "非 酒精性脂肪肝病（non-alcoholic fatty liver disease，NAFLD）病患的AST及ALT數值可能有異常現 象，但數值高低與組織學嚴重度無關"
     },
     "answer": "B"
   },
   {
     "question_number": 20,
-    "question_text": "下 列有關肝腎症候群（hepatorenal syndrome, HRS）的敘述，何者錯誤？",
+    "question_text": "下 列有關肝腎症候群（hepatorenal syndrome，HRS）的敘述，何者錯誤？",
     "options": {
       "A": "H RS常常發生於嚴重肝硬化而且合併難治性腹水（refractory ascites）的患者",
       "B": "第 一型（type 1）HRS是一種急性而且在兩星期內快速惡化的腎衰竭",
@@ -322,7 +322,7 @@
     "question_number": 30,
     "question_text": "一 位54歲男性無過去病史，參加完馬拉松賽後隔天出現尿量減少（350 mL/day）合併肌肉痠痛，身體診察發 現皮膚膨脹程度偏低（dry skin turgor）。實驗室檢查發現血清肌酸激酶（creatine kinase）58,000 U/L，尿素氮50 mg/dL，肌酸酐2.1 mg/dL。腎臟超音波檢查：腎臟大小無異常，也無水腎 （hydronephrosis）。有關此病患之腎功能異常，下列敘述何者錯誤？",
     "options": {
-      "A": "若 此病患之尿鈉排出分率（fractional excretion of sodium, FeNa）小於1%，則可確定脫水為造成腎衰 竭之主因",
+      "A": "若 此病患之尿鈉排出分率（fractional excretion of sodium，FeNa）小於1%，則可確定脫水為造成腎衰 竭之主因",
       "B": "此 病患治療方式除積極補充靜脈輸液外，可考慮給與碳酸氫鈉（NaHCO）溶液來鹼化尿液 3",
       "C": "若 併發肺水腫、高血鉀、代謝性酸中毒，且藥物治療無效，則可考慮透析治療",
       "D": "應 檢測血鉀、血鈉、血磷，並評估用藥史"
@@ -573,7 +573,7 @@
   },
   {
     "question_number": 53,
-    "question_text": "治 療肢端肥大症，下列那一項藥物能夠最有效降低生長素（growth hormone, GH）和 IGF-I（insulin-like growth factor I）？",
+    "question_text": "治 療肢端肥大症，下列那一項藥物能夠最有效降低生長素（growth hormone，GH）和 IGF-I（insulin-like growth factor I）？",
     "options": {
       "A": "c abergoline",
       "B": "p egvisomant",
@@ -705,7 +705,7 @@
   },
   {
     "question_number": 65,
-    "question_text": "進 行性多發腦白質病變（progressive multifocal leukoencephalopathy, PML）是後天免疫缺乏症候群 （AIDS）病人的腦病變之一，下列何者為引起該病變之致病原？",
+    "question_text": "進 行性多發腦白質病變（progressive multifocal leukoencephalopathy，PML）是後天免疫缺乏症候群 （AIDS）病人的腦病變之一，下列何者為引起該病變之致病原？",
     "options": {
       "A": "h uman immunodeficiency virus（HIV）",
       "B": "J ohn Cunningham virus（JC virus）",
@@ -716,7 +716,7 @@
   },
   {
     "question_number": 66,
-    "question_text": "3 8歲陳女士常常因頭痛與肩頸痠痛就醫，診斷為緊張性頭痛（tension headache），依據生理心理社會模式 （biopsychosocial model, BPS model）之觀點，下列敘述何者錯誤？",
+    "question_text": "3 8歲陳女士常常因頭痛與肩頸痠痛就醫，診斷為緊張性頭痛（tension headache），依據生理心理社會模式 （biopsychosocial model，BPS model）之觀點，下列敘述何者錯誤？",
     "options": {
       "A": "其 症狀與頭頸部肌肉緊張收縮有相關",
       "B": "焦 慮憂鬱心理狀態會提升疼痛閥值",
@@ -738,7 +738,7 @@
   },
   {
     "question_number": 68,
-    "question_text": "L GBTQIA+（lesbian, gay, bisexual, transgender, questioning [their sexuality or gender]/queer, intersex or asexual）的青少年，被霸凌或人身攻擊的發生率較高，憂鬱和自殺的發生率較高，其中那一類 青少年發生上述問題的風險最高？",
+    "question_text": "L GBTQIA+（lesbian，gay，bisexual，transgender，questioning [their sexuality or gender]/queer，intersex or asexual）的青少年，被霸凌或人身攻擊的發生率較高，憂鬱和自殺的發生率較高，其中那一類 青少年發生上述問題的風險最高？",
     "options": {
       "A": "雙 性戀（bisexual）",
       "B": "男 同性戀（gay）",
@@ -837,7 +837,7 @@
   },
   {
     "question_number": 77,
-    "question_text": "臺 灣南部發生芮氏規模6.6的地震，造成房屋倒塌與大量人員傷亡。根據簡單檢傷及快速治療（simple triage and rapid treatment, START）的原則，下列4位病人治療的優先順序為何？ ① 30歲男性，無脈搏頭部嚴重變形 ② 60歲女性，大腿開放性骨折橈動脈微弱 ③ 70歲男性，四肢多處擦傷可正常行走 ④ 20歲女性，心跳正常左小腿變形",
+    "question_text": "臺 灣南部發生芮氏規模6.6的地震，造成房屋倒塌與大量人員傷亡。根據簡單檢傷及快速治療（simple triage and rapid treatment，START）的原則，下列4位病人治療的優先順序為何？ ① 30歲男性，無脈搏頭部嚴重變形 ② 60歲女性，大腿開放性骨折橈動脈微弱 ③ 70歲男性，四肢多處擦傷可正常行走 ④ 20歲女性，心跳正常左小腿變形",
     "options": {
       "A": "① ②④③",
       "B": "② ④③①",

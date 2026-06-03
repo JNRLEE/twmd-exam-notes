@@ -31,13 +31,13 @@
   },
   {
     "question_number": 6,
-    "question_text": "3個月大的足月產男嬰，出生體重為3058公克，目前體重為4075公克，奶量為每四小時70 c.c.，身體診察有 聽到心雜音。此病人最不可能的診斷為下列何項？ A.第二型心房中隔缺損（atrial septal defect, ASD type 2），缺損為5 mm B.第二型心室中隔缺損（ventricular septal defect, VSD type 2），缺損為6 mm C.完全型心內膜墊缺損（complete endocardial cushion defect, ECD），缺損為6 mm D.開放性動脈導管管狀型（tubular type patent ductus arteriosus, PDA），直徑為5 mm",
+    "question_text": "3個月大的足月產男嬰，出生體重為3058公克，目前體重為4075公克，奶量為每四小時70 c.c.，身體診察有 聽到心雜音。此病人最不可能的診斷為下列何項？ A.第二型心房中隔缺損（atrial septal defect，ASD type 2），缺損為5 mm B.第二型心室中隔缺損（ventricular septal defect，VSD type 2），缺損為6 mm C.完全型心內膜墊缺損（complete endocardial cushion defect，ECD），缺損為6 mm D.開放性動脈導管管狀型（tubular type patent ductus arteriosus，PDA），直徑為5 mm",
     "options": {},
     "answer": "A"
   },
   {
     "question_number": 7,
-    "question_text": "關於開放性動脈導管（patent ductus arteriosus, PDA），下列敘述何者最不適當？ A.常見於早產兒（prematurity） B.身體診察常發現有較寬的脈搏壓（wide pulse pressure） C.可以使用prostaglandin類藥物促使其閉合 D.可於左側近鎖骨部位聽到連續性心雜音（continuous murmur）或收縮性心雜音（systolic murmur）",
+    "question_text": "關於開放性動脈導管（patent ductus arteriosus，PDA），下列敘述何者最不適當？ A.常見於早產兒（prematurity） B.身體診察常發現有較寬的脈搏壓（wide pulse pressure） C.可以使用prostaglandin類藥物促使其閉合 D.可於左側近鎖骨部位聽到連續性心雜音（continuous murmur）或收縮性心雜音（systolic murmur）",
     "options": {},
     "answer": "C"
   },
@@ -91,13 +91,13 @@
   },
   {
     "question_number": 16,
-    "question_text": "下列何種自體抗體（autoantibody）是紅斑性狼瘡（systemic lupus erythematosus, SLE）的特異性抗 體，與疾病的活動性（activity）及是否併發腎絲球腎炎（lupus nephritis）最有相關？ A.anti-SSA 及anti-SSB antibody B.anti-centromere antibody C.anti-dsDNA antibody D.anti-Smith antibody",
+    "question_text": "下列何種自體抗體（autoantibody）是紅斑性狼瘡（systemic lupus erythematosus，SLE）的特異性抗 體，與疾病的活動性（activity）及是否併發腎絲球腎炎（lupus nephritis）最有相關？ A.anti-SSA 及anti-SSB antibody B.anti-centromere antibody C.anti-dsDNA antibody D.anti-Smith antibody",
     "options": {},
     "answer": "C"
   },
   {
     "question_number": 17,
-    "question_text": "有關兒童特發性關節炎（juvenile idiopathic arthritis, JIA）的敘述，下列何者最不適當？ A.發病於小於16歲的兒童 B.關節炎的症狀要持續6週以上 C.最常見的JIA類型是少關節炎型（oligoarthritis） D.疾病開始的6週內少於或等於5個關節發炎，屬於少關節炎型（oligoarthritis）",
+    "question_text": "有關兒童特發性關節炎（juvenile idiopathic arthritis，JIA）的敘述，下列何者最不適當？ A.發病於小於16歲的兒童 B.關節炎的症狀要持續6週以上 C.最常見的JIA類型是少關節炎型（oligoarthritis） D.疾病開始的6週內少於或等於5個關節發炎，屬於少關節炎型（oligoarthritis）",
     "options": {},
     "answer": "#"
   },
@@ -139,7 +139,7 @@
   },
   {
     "question_number": 24,
-    "question_text": "關於先天性腎上腺增生症（congenital adrenal hyperplasia），下列敘述何者最適當？ A.21-羥化酶缺乏（21-hydroxylase deficiency）是造成此疾病的唯一原因 B.若合併醛固酮缺乏（aldosterone deficiency），出生72小時內一定會發生失鹽危症（salt-losing crisis） C.是46, XX女嬰有性發展障礙（disorders of sex development）最常見的原因 D.強烈建議於懷第一胎時進行常規產前診斷（prenatal diagnosis）",
+    "question_text": "關於先天性腎上腺增生症（congenital adrenal hyperplasia），下列敘述何者最適當？ A.21-羥化酶缺乏（21-hydroxylase deficiency）是造成此疾病的唯一原因 B.若合併醛固酮缺乏（aldosterone deficiency），出生72小時內一定會發生失鹽危症（salt-losing crisis） C.是46，XX女嬰有性發展障礙（disorders of sex development）最常見的原因 D.強烈建議於懷第一胎時進行常規產前診斷（prenatal diagnosis）",
     "options": {},
     "answer": "C"
   },
@@ -163,7 +163,7 @@
   },
   {
     "question_number": 28,
-    "question_text": "3歲女孩，最近4天有輕微頭痛併有發燒達39℃，且有喉嚨痛、微咳、活力變差的症狀。身體診察發現頸部淋 巴結腫大，扁桃腺有滲出物，且脾臟腫大。實驗室檢驗發現alanine aminotransferase（ALT）升高，下列 何項檢驗對診斷最有幫助？ A.抗鏈球菌溶血素O抗體（antistreptolysin O, ASLO） B.抗A型肝炎的IgM C.肺炎鏈球菌尿液中抗原 D.抗Epstein-Barr病毒的VCA-IgM",
+    "question_text": "3歲女孩，最近4天有輕微頭痛併有發燒達39℃，且有喉嚨痛、微咳、活力變差的症狀。身體診察發現頸部淋 巴結腫大，扁桃腺有滲出物，且脾臟腫大。實驗室檢驗發現alanine aminotransferase（ALT）升高，下列 何項檢驗對診斷最有幫助？ A.抗鏈球菌溶血素O抗體（antistreptolysin O，ASLO） B.抗A型肝炎的IgM C.肺炎鏈球菌尿液中抗原 D.抗Epstein-Barr病毒的VCA-IgM",
     "options": {},
     "answer": "D"
   },
@@ -241,7 +241,7 @@
   },
   {
     "question_number": 41,
-    "question_text": "56歲女性出現如圖所示病灶，最可能的診斷與最重要的實驗室檢查項目為何？ A.紅斑性狼瘡（lupus erythematosus）；抗核抗體（antinuclear antibodies, ANA） B.皮肌炎（dermatomyositis）；抗核抗體（antinuclear antibodies, ANA） C.紅斑性狼瘡（lupus erythematosus）；補體（complement） D.皮肌炎（dermatomyositis）；肌胺酸激酶（creatine kinase, CK）",
+    "question_text": "56歲女性出現如圖所示病灶，最可能的診斷與最重要的實驗室檢查項目為何？ A.紅斑性狼瘡（lupus erythematosus）；抗核抗體（antinuclear antibodies，ANA） B.皮肌炎（dermatomyositis）；抗核抗體（antinuclear antibodies，ANA） C.紅斑性狼瘡（lupus erythematosus）；補體（complement） D.皮肌炎（dermatomyositis）；肌胺酸激酶（creatine kinase，CK）",
     "options": {},
     "answer": "D"
   },
@@ -265,7 +265,7 @@
   },
   {
     "question_number": 45,
-    "question_text": "70歲女性為肺癌病人，因右腳無力就診，抽血檢查發現D-dimer檢驗數值為16 mg/L（正常值為＜0.5 mg/L），腦部磁振造影（MRI）檢查結果如下圖（①fluid–attenuated inversion recovery [FLAIR]；② 施打顯影劑之T1影像；③diffusion–weighted imaging [DWI]）。下列何者最可能是腦部病灶的原因？ A.多發性腦轉移 B.肺結核感染 C.可逆性後腦病變症候群（posterior reversible encephalopathy syndrome, PRES） D.多發性腦梗塞",
+    "question_text": "70歲女性為肺癌病人，因右腳無力就診，抽血檢查發現D-dimer檢驗數值為16 mg/L（正常值為＜0.5 mg/L），腦部磁振造影（MRI）檢查結果如下圖（①fluid–attenuated inversion recovery [FLAIR]；② 施打顯影劑之T1影像；③diffusion–weighted imaging [DWI]）。下列何者最可能是腦部病灶的原因？ A.多發性腦轉移 B.肺結核感染 C.可逆性後腦病變症候群（posterior reversible encephalopathy syndrome，PRES） D.多發性腦梗塞",
     "options": {},
     "answer": "D"
   },

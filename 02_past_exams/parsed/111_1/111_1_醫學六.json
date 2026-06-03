@@ -298,11 +298,11 @@
   },
   {
     "question_number": 28,
-    "question_text": "25歲女性，G1P0，已12週無月經來潮卻於今日出現陰道大量出血而來急診就醫，尿液檢查發現懷孕試驗呈陽 性，抽血檢驗發現血清β-人類絨毛膜刺激激素（β-subunit human chorionic gonadotropin, β-hCG）值為14,500 mIU/mL，內診及超音波發現已擴張的子宮頸口上可看到少數妊娠組織、大部分妊娠組織還留在子宮內，下列 何種診斷及處理方式最為適當？",
+    "question_text": "25歲女性，G1P0，已12週無月經來潮卻於今日出現陰道大量出血而來急診就醫，尿液檢查發現懷孕試驗呈陽 性，抽血檢驗發現血清β-人類絨毛膜刺激激素（β-subunit human chorionic gonadotropin，β-hCG）值為14,500 mIU/mL，內診及超音波發現已擴張的子宮頸口上可看到少數妊娠組織、大部分妊娠組織還留在子宮內，下列 何種診斷及處理方式最為適當？",
     "options": {
       "A": "完全性流產（complete abortion），可於48小時後再追蹤血清β-hCG值",
       "B": "先兆性流產（threatened abortion）， 建議多休息",
-      "C": "不完全性流產（incomplete abortion），可行子宮內膜搔刮手術（dilatation and curettage, D&C）",
+      "C": "不完全性流產（incomplete abortion），可行子宮內膜搔刮手術（dilatation and curettage，D&C）",
       "D": "輸卵管子宮外孕（tubal pregnancy），可行腹腔鏡手術切除輸卵管子宮外孕"
     },
     "answer": "C"
@@ -320,7 +320,7 @@
   },
   {
     "question_number": 30,
-    "question_text": "32歲女性，G4P0，因少量陰道出血、左下腹微痛、自行驗孕呈陽性反應而來門診就醫，最後一次月經開始日 為5週前，這位女性在本次懷孕之前已有兩次早期懷孕合併流產病史、最近的一次懷孕為子宮外孕並接受藥物 methotrexate注射治療，她從去年即開始準備懷孕且對這次的懷孕相當重視，非常擔心又會重複子宮外孕；在 門診時，其血壓為120/82 mmHg、心跳每分鐘85下，腹部理學檢查正常、無異常疼痛，骨盆腔內診檢查亦無 疼痛或腫塊發現，陰道超音波檢查結果：子宮腔內很乾淨、無妊娠囊、子宮內膜厚度2公分、雙側卵巢正常、 亦無子宮附屬器腫瘤或積液發現，第一次抽血檢驗結果：血清β-人類絨毛膜刺激激素（β-subunit human chorionic gonadotropin, β-hCG）值為 647 mIU/mL、血型Rh陽性，48小時後重複抽血檢驗結果：β-hCG值為873 mIU/mL。綜合這位女性病患的狀況，最適合她的下一步處置應為下列何者？",
+    "question_text": "32歲女性，G4P0，因少量陰道出血、左下腹微痛、自行驗孕呈陽性反應而來門診就醫，最後一次月經開始日 為5週前，這位女性在本次懷孕之前已有兩次早期懷孕合併流產病史、最近的一次懷孕為子宮外孕並接受藥物 methotrexate注射治療，她從去年即開始準備懷孕且對這次的懷孕相當重視，非常擔心又會重複子宮外孕；在 門診時，其血壓為120/82 mmHg、心跳每分鐘85下，腹部理學檢查正常、無異常疼痛，骨盆腔內診檢查亦無 疼痛或腫塊發現，陰道超音波檢查結果：子宮腔內很乾淨、無妊娠囊、子宮內膜厚度2公分、雙側卵巢正常、 亦無子宮附屬器腫瘤或積液發現，第一次抽血檢驗結果：血清β-人類絨毛膜刺激激素（β-subunit human chorionic gonadotropin，β-hCG）值為 647 mIU/mL、血型Rh陽性，48小時後重複抽血檢驗結果：β-hCG值為873 mIU/mL。綜合這位女性病患的狀況，最適合她的下一步處置應為下列何者？",
     "options": {
       "A": "48小時後再次重複抽血檢驗β-hCG值",
       "B": "抽血檢驗progesterone值",
@@ -419,7 +419,7 @@
   },
   {
     "question_number": 39,
-    "question_text": "導致雙胞胎輸血症（Twin-Twin Transfusion Syndrome, TTTS）的最主要胎盤血管異常為：",
+    "question_text": "導致雙胞胎輸血症（Twin-Twin Transfusion Syndrome，TTTS）的最主要胎盤血管異常為：",
     "options": {
       "A": "帆狀臍帶插入（velamentous cord insertion）",
       "B": "臍動脈－臍動脈吻合（arterioarterial anastomosis）",
@@ -564,7 +564,7 @@
     "question_number": 52,
     "question_text": "有關type I及type II之子宮內膜癌，下列敘述何者錯誤？",
     "options": {
-      "A": "type I子宮內膜癌的細胞型態主要為endometrioid adenocarcinoma，type II子宮內膜癌的細胞型態則包含serous carcinoma, clear cell carcinoma",
+      "A": "type I子宮內膜癌的細胞型態主要為endometrioid adenocarcinoma，type II子宮內膜癌的細胞型態則包含serous carcinoma，clear cell carcinoma",
       "B": "大多數子宮內膜癌病患之腫瘤細胞型態為type I",
       "C": "血液中高雌激素濃度（hyperestrogenism）與type I子宮內膜癌較相關，為其重要之危險因子",
       "D": "type I子宮內膜癌之預後較type II差，且腫瘤較易侵犯到子宮以外的器官"
@@ -588,8 +588,8 @@
     "options": {
       "A": "月經任何一天抽血檢驗Anti-Müllerian Hormone（AMH），可以了解卵巢功能",
       "B": "血清Anti-Müllerian Hormone（AMH）濃度2 ng/mL代表卵巢功能不佳",
-      "C": "月經第三天超音波測量竇卵泡數目（Antral Follicle Count, AFC），可以了解卵巢功能",
-      "D": "月經第三天超音波測量竇卵泡數目（Antral Follicle Count, AFC）3顆代表卵巢功能不佳"
+      "C": "月經第三天超音波測量竇卵泡數目（Antral Follicle Count，AFC），可以了解卵巢功能",
+      "D": "月經第三天超音波測量竇卵泡數目（Antral Follicle Count，AFC）3顆代表卵巢功能不佳"
     },
     "answer": "B"
   },
@@ -611,13 +611,13 @@
       "A": "請患者每天測量基礎體溫並記錄",
       "B": "在預期月經來之前一週測量血中黃體素濃度",
       "C": "在月經週期第五天進行陰道超音波檢查，測量濾泡的大小與數量",
-      "D": "在月經結束後每天檢測尿液中的黃體激素（luteinizing hormone, LH）"
+      "D": "在月經結束後每天檢測尿液中的黃體激素（luteinizing hormone，LH）"
     },
     "answer": "C"
   },
   {
     "question_number": 57,
-    "question_text": "目前臨床上應力性尿失禁的無張力吊帶手術，如：經閉孔吊帶手術（transobturator tape, TOT）或無張力陰道 吊帶手術（tension-free vaginal tape, TVT）等，是將吊帶（polypropylene tape）置放在尿道下方何位置？",
+    "question_text": "目前臨床上應力性尿失禁的無張力吊帶手術，如：經閉孔吊帶手術（transobturator tape，TOT）或無張力陰道 吊帶手術（tension-free vaginal tape，TVT）等，是將吊帶（polypropylene tape）置放在尿道下方何位置？",
     "options": {
       "A": "尿道膀胱頸處",
       "B": "尿道近端",
@@ -694,7 +694,7 @@
   },
   {
     "question_number": 64,
-    "question_text": "關於踝足輔具（ankle-foot orthoses, AFO），以下敘述何者不適當？",
+    "question_text": "關於踝足輔具（ankle-foot orthoses，AFO），以下敘述何者不適當？",
     "options": {
       "A": "常被用來控制足踝的活動（control ankle motion）",
       "B": "是最常被使用的下肢輔具（lower limbs orthoses）",
@@ -705,7 +705,7 @@
   },
   {
     "question_number": 65,
-    "question_text": "有關自覺用力係數（Rating of Perceived Exertion, Borg Scale，簡稱RPE）的描述，下列何者錯誤？",
+    "question_text": "有關自覺用力係數（Rating of Perceived Exertion，Borg Scale，簡稱RPE）的描述，下列何者錯誤？",
     "options": {
       "A": "雖然是病人自覺分數，但對運動強度推估仍有一定的可靠性",
       "B": "在運動訓練時，由參與者指出自覺運動困難之分數",

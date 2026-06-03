@@ -133,7 +133,7 @@
   },
   {
     "question_number": 23,
-    "question_text": "對於心臟瓣膜之選擇與敘述，下列何者錯誤？ A.一般而言，大於65歲之主動脈瓣或大於70歲之二尖瓣，偏向選擇使用生物性瓣膜 B.在機械瓣膜置換後，要使用prothrombin time（PT）/ international normalized ratio （INR）來監控 C.Ross手術是將肺動脈瓣取下放到主動脈位置取代主動脈瓣，因不用使用抗凝血劑，特別適合於年老病人 D.雖然新型的抗凝血劑（novel oral anticoagulant, NOAC）問世，如dabigatran、rivaroxaban，仍不建議 使用於機械性瓣膜病患",
+    "question_text": "對於心臟瓣膜之選擇與敘述，下列何者錯誤？ A.一般而言，大於65歲之主動脈瓣或大於70歲之二尖瓣，偏向選擇使用生物性瓣膜 B.在機械瓣膜置換後，要使用prothrombin time（PT）/ international normalized ratio （INR）來監控 C.Ross手術是將肺動脈瓣取下放到主動脈位置取代主動脈瓣，因不用使用抗凝血劑，特別適合於年老病人 D.雖然新型的抗凝血劑（novel oral anticoagulant，NOAC）問世，如dabigatran、rivaroxaban，仍不建議 使用於機械性瓣膜病患",
     "options": {},
     "answer": "C"
   },
@@ -385,7 +385,7 @@
   },
   {
     "question_number": 65,
-    "question_text": "一位50歲男性主訴最近一個月在包皮發現一個0.5公分的病灶，經切片證實為Ta期低惡性度鱗狀上皮細胞 癌（grade 1, squamous cell carcinoma），下列何種治療最不建議？ A.雷射燒除治療 B.陰莖根除手術 C.包皮環切手術 D.莫氏顯微圖像手術（Mohs micrographic surgery）",
+    "question_text": "一位50歲男性主訴最近一個月在包皮發現一個0.5公分的病灶，經切片證實為Ta期低惡性度鱗狀上皮細胞 癌（grade 1，squamous cell carcinoma），下列何種治療最不建議？ A.雷射燒除治療 B.陰莖根除手術 C.包皮環切手術 D.莫氏顯微圖像手術（Mohs micrographic surgery）",
     "options": {},
     "answer": "B"
   },
@@ -463,7 +463,7 @@
   },
   {
     "question_number": 78,
-    "question_text": "82歲獨居男性，被里長發現仰躺在自家一樓的樓梯下，失去意識。救護車緊急將病人送至醫學中心的急診 室。病人昏迷指數（Glasgow Coma Scale, GCS）EMV，兩側瞳孔放大無光反射，脈搏62次／分，血壓 1 1 1 172/106毫米汞柱，呼吸速率22次／分，血氧濃度88%。病人IC卡上註記DNR（do not resuscitate）。下 列敘述何者最為合適？ A.聯繫家屬，待家屬同意後，進行氣管內管插管 B.立即進行氣管內管插管 C.繼續觀察病人呼吸及血氧濃度變化，不需立即進行氣管內管插管 D.病人IC卡上註記DNR（do not resuscitate），不應進行氣管內管插管",
+    "question_text": "82歲獨居男性，被里長發現仰躺在自家一樓的樓梯下，失去意識。救護車緊急將病人送至醫學中心的急診 室。病人昏迷指數（Glasgow Coma Scale，GCS）EMV，兩側瞳孔放大無光反射，脈搏62次／分，血壓 1 1 1 172/106毫米汞柱，呼吸速率22次／分，血氧濃度88%。病人IC卡上註記DNR（do not resuscitate）。下 列敘述何者最為合適？ A.聯繫家屬，待家屬同意後，進行氣管內管插管 B.立即進行氣管內管插管 C.繼續觀察病人呼吸及血氧濃度變化，不需立即進行氣管內管插管 D.病人IC卡上註記DNR（do not resuscitate），不應進行氣管內管插管",
     "options": {},
     "answer": "B"
   },

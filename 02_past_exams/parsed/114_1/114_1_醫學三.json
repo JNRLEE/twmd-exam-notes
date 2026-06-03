@@ -14,7 +14,7 @@
     "question_number": 2,
     "question_text": "3 5歲男性於健檢時發現血尿（hematuria）。 門診再追蹤尿液檢查發現：蛋白排泄量（protein excretion） 1500 mg/day、10～20 RBCs/HPF、dysmorphic RBC (+)、RBC cast (+)。後續安排下列評估，何者最不適當？",
     "options": {
-      "A": "檢 測免疫血清學檢查，例如complement levels（C3, C4）、cryoglobulins、anti-GBM antibody、ANCA、 ASLO、VDRL、HIV",
+      "A": "檢 測免疫血清學檢查，例如complement levels（C3，C4）、cryoglobulins、anti-GBM antibody、ANCA、 ASLO、VDRL、HIV",
       "B": "測 B型肝炎（hepatitis B）、C型肝炎（hepatitis C）病毒血清學檢查",
       "C": "靜 脈腎盂造影（intravenous pyelography）或逆行性腎盂攝影（retrograde pyelography）",
       "D": "腎 臟超音波（renal ultrasonography），必要時考慮腎臟切片（renal biopsy）檢查"
@@ -58,9 +58,9 @@
     "question_number": 6,
     "question_text": "利 用介入心導管技術、不開刀處置結構性心臟病，為近年來重要醫學進展之一，下列相關敘述何者錯誤？",
     "options": {
-      "A": "經 由阻塞器（occluder）置放，可以有效關閉心房中隔缺損（atrial septal defect, ASD）、開放性卵圓 窗（patent foramen ovale, PFO）、或開放性動脈導管（patent ductus arteriosus, PDA）等疾病",
+      "A": "經 由阻塞器（occluder）置放，可以有效關閉心房中隔缺損（atrial septal defect，ASD）、開放性卵圓 窗（patent foramen ovale，PFO）、或開放性動脈導管（patent ductus arteriosus，PDA）等疾病",
       "B": "氣 球瓣膜擴張術可用於治療風濕性二尖瓣狹窄，目前常用術式中，氣球導管是經由股靜脈送入",
-      "C": "經 導管主動脈瓣置換（transcatheter aortic valve replacement, TAVR）可治療嚴重主動脈瓣狹窄，適合 用於高度及中度外科手術風險之病患",
+      "C": "經 導管主動脈瓣置換（transcatheter aortic valve replacement，TAVR）可治療嚴重主動脈瓣狹窄，適合 用於高度及中度外科手術風險之病患",
       "D": "經 導管二尖瓣緣對緣（edge-to-edge）修補術可治療嚴重二尖瓣閉鎖不全，特別適合用於因腱索斷裂 （chordae rupture）造成瓣膜逆流之病患"
     },
     "answer": "D"
@@ -78,9 +78,9 @@
   },
   {
     "question_number": 8,
-    "question_text": "4 7歲男性，曾頭暈昏倒多次，心電圖檢查顯示多發性心室期外收縮。磁振造影發現左心室較大，下壁及下外側壁收縮 功能較差，顯影劑注射後，磁振造影出現顯影劑延遲增強（late gadolinium enhancement, LGE），如附圖所示。下列 敘述何者錯誤？",
+    "question_text": "4 7歲男性，曾頭暈昏倒多次，心電圖檢查顯示多發性心室期外收縮。磁振造影發現左心室較大，下壁及下外側壁收縮 功能較差，顯影劑注射後，磁振造影出現顯影劑延遲增強（late gadolinium enhancement，LGE），如附圖所示。下列 敘述何者錯誤？",
     "options": {
-      "A": "此 病患的LGE位於心壁的中外層（mid myocardial, epicardial region），是典型浸潤型疾病 （infiltration）的特殊表現，如肉瘤病（sarcoidosis），在此切片檢查（biopsy）可增加陽性率",
+      "A": "此 病患的LGE位於心壁的中外層（mid myocardial，epicardial region），是典型浸潤型疾病 （infiltration）的特殊表現，如肉瘤病（sarcoidosis），在此切片檢查（biopsy）可增加陽性率",
       "B": "如 果是擴大型心肌病變的LGE多位於心壁中間（midwall），呈現斑塊（patchy）或是細線狀（linear）， 最常見位置是basal septum",
       "C": "心 肌梗塞病人的LGE代表心肌結疤處，多寡與心臟功能及預後有關，一般由心內膜開始（subendocardial region）",
       "D": "心 肌水腫時在MRI的T1訊號會增加，與LGE分別代表不同的組織變化，此與疾病的不同時期有關"
@@ -144,7 +144,7 @@
   },
   {
     "question_number": 14,
-    "question_text": "有 關心衰竭（heart failure, HF）治療同時考慮其他共病時，下列敘述何者錯誤？",
+    "question_text": "有 關心衰竭（heart failure，HF）治療同時考慮其他共病時，下列敘述何者錯誤？",
     "options": {
       "A": "雖 然有些治療糖尿病的藥物與增加HF的風險有關，但是使用第二型鈉依賴型葡萄糖共同運輸蛋白抑制劑 （SGLT2 inhibitor，如empagliflozin）降低血糖被證明可降低糖尿病患者HF的風險",
       "B": "較 高的身體活動量與較低的HF發生風險有關",
@@ -243,7 +243,7 @@
   },
   {
     "question_number": 23,
-    "question_text": "下 列何者不是非酒精性脂肪肝（nonalcoholic fatty liver disease, NAFLD）的主要危險因子？",
+    "question_text": "下 列何者不是非酒精性脂肪肝（nonalcoholic fatty liver disease，NAFLD）的主要危險因子？",
     "options": {
       "A": "肥 胖",
       "B": "高 尿酸血症",
@@ -287,7 +287,7 @@
   },
   {
     "question_number": 27,
-    "question_text": "有 關血栓性微血管病（thrombotic microangiopathy, TMA），下列何者錯誤？",
+    "question_text": "有 關血栓性微血管病（thrombotic microangiopathy，TMA），下列何者錯誤？",
     "options": {
       "A": "診 斷TMA，必須血小板低下加上microangiopathic hemolytic anemia（MAHA）兩個條件同時成立，而MAHA 就是檢驗數據上看到 LDH上升、haptoglobin下降，以及血液抹片上有schistocyte",
       "B": "T MA的臨床表現包括神經學症狀、腎臟侵犯及腸胃道症狀",
@@ -331,7 +331,7 @@
   },
   {
     "question_number": 31,
-    "question_text": "關 於退化性關節炎（osteoarthritis, OA）的描述，下列何者最適當？",
+    "question_text": "關 於退化性關節炎（osteoarthritis，OA）的描述，下列何者最適當？",
     "options": {
       "A": "最 常發生OA的部位包括手部的metacarpophalangeal joints、手腕關節和膝關節",
       "B": "造 成OA的危險因素包括increased age、genetic susceptibility和obesity",
@@ -408,7 +408,7 @@
   },
   {
     "question_number": 38,
-    "question_text": "有 關胃腸道或胰臟神經內分泌細胞瘤（neuroendocrine tumor, NET）的病理診斷，下列敘述何者正確？",
+    "question_text": "有 關胃腸道或胰臟神經內分泌細胞瘤（neuroendocrine tumor，NET）的病理診斷，下列敘述何者正確？",
     "options": {
       "A": "c hromogranin A的免疫組織染色，有助於NET的診斷",
       "B": "s ynaptophysin的染色呈陽性，可排除NET的診斷",
@@ -573,7 +573,7 @@
   },
   {
     "question_number": 53,
-    "question_text": "多 發性內分泌腫瘤2A型（Multiple endocrine neoplasia 2A, MEN 2A）會以甲狀腺髓質癌、嗜鉻細胞瘤及 副甲狀腺腺瘤做為臨床表現。MEN 2A型最常見之基因突變密碼（mutated codon）是下列何者？",
+    "question_text": "多 發性內分泌腫瘤2A型（Multiple endocrine neoplasia 2A，MEN 2A）會以甲狀腺髓質癌、嗜鉻細胞瘤及 副甲狀腺腺瘤做為臨床表現。MEN 2A型最常見之基因突變密碼（mutated codon）是下列何者？",
     "options": {
       "A": "R ET 634",
       "B": "R ET 918",
@@ -666,13 +666,13 @@
       "A": "腸 病毒（enterovirus）",
       "B": "巨 細胞病毒（cytomegalovirus）",
       "C": "第 6型人類疱疹病毒（human herpesvirus 6）",
-      "D": "卡 波西氏肉瘤疱疹病毒（Kaposi's sarcoma-associated herpesvirus, human herpesvirus 8）"
+      "D": "卡 波西氏肉瘤疱疹病毒（Kaposi's sarcoma-associated herpesvirus，human herpesvirus 8）"
     },
     "answer": "D"
   },
   {
     "question_number": 62,
-    "question_text": "3 0歲男性，因尿道炎入院治療，尿液經細菌培養並未發現致病細菌，接受口服cefixime治療多次效果不 佳，後續發生副睪炎（epididymitis）和嚴重的潰瘍性直腸和大腸發炎出血（ulcerative, hemorrhagic proctocolitis），腹股溝淋巴腺逐日腫大和潰瘍與下肢淋巴水腫。經過核酸增幅檢測（nucleic acid amplification test），發現是披衣菌（Chlamydia）感染，臨床醫師的診斷是lymphogranuloma venereum。下列關於此疾病的病因與處置之敘述，何者錯誤？ 1 2 3",
+    "question_text": "3 0歲男性，因尿道炎入院治療，尿液經細菌培養並未發現致病細菌，接受口服cefixime治療多次效果不 佳，後續發生副睪炎（epididymitis）和嚴重的潰瘍性直腸和大腸發炎出血（ulcerative，hemorrhagic proctocolitis），腹股溝淋巴腺逐日腫大和潰瘍與下肢淋巴水腫。經過核酸增幅檢測（nucleic acid amplification test），發現是披衣菌（Chlamydia）感染，臨床醫師的診斷是lymphogranuloma venereum。下列關於此疾病的病因與處置之敘述，何者錯誤？ 1 2 3",
     "options": {
       "A": "致 病原是Chlamydia trachomatis LGV serovars L、 L 及L",
       "B": "致 病原是Chlamydia psittaci",
@@ -732,7 +732,7 @@
       "A": "譫 妄是一種慢性且病程波動起伏的疾病",
       "B": "譫 妄的致病機轉明確，造成譫妄的原因相對單純",
       "C": "譫 妄的精神症狀治療藥物，同時也可以治療其潛在疾病",
-      "D": "評 估工具可使用混亂評估方法（Confusion Assessment Method, CAM）"
+      "D": "評 估工具可使用混亂評估方法（Confusion Assessment Method，CAM）"
     },
     "answer": "D"
   },
@@ -771,7 +771,7 @@
   },
   {
     "question_number": 71,
-    "question_text": "動 機性晤談（motivational interviewing, MI）是一種有效的工具，晤談進行過程的主要指導原則，下列敘 述何者最不適當？",
+    "question_text": "動 機性晤談（motivational interviewing，MI）是一種有效的工具，晤談進行過程的主要指導原則，下列敘 述何者最不適當？",
     "options": {
       "A": "抵 抗自己的「更正反射」（resist the “righting reflex”）：儘量做到讓自己在諮商過程不要試圖更正 對方，也不要給對方建議",
       "B": "規 劃病人的動機（planning patient's motivation）：為個別病人打造、規劃明確的改變動機",
@@ -782,11 +782,11 @@
   },
   {
     "question_number": 72,
-    "question_text": "陳 醫師參與社區醫療群，執行全民健康保險初期慢性腎臟病醫療方案，有一個案58歲古先生糖尿病病史12 年，常主訴肩頸痠痛，腎絲球過濾率（estimated glomerular filtration rate, eGFR）56 mL/min/1.73 m2，白蛋白尿（urine albumin/creatinine ratio, UACR）380 mg/g，有關慢性腎臟病，下列敘述何者錯 誤？",
+    "question_text": "陳 醫師參與社區醫療群，執行全民健康保險初期慢性腎臟病醫療方案，有一個案58歲古先生糖尿病病史12 年，常主訴肩頸痠痛，腎絲球過濾率（estimated glomerular filtration rate，eGFR）56 mL/min/1.73 m2，白蛋白尿（urine albumin/creatinine ratio，UACR）380 mg/g，有關慢性腎臟病，下列敘述何者錯 誤？",
     "options": {
       "A": "演 進成為末期腎臟病的風險高於eGFR 40 mL/min/1.73 m2且UACR 28 mg/g的病人",
       "B": "屬 於慢性腎臟病stage 3a",
-      "C": "長 期服用非類固醇止痛消炎藥（nonsteroid anti-inflammatory drugs, NSAIDs）會惡化慢性腎臟病",
+      "C": "長 期服用非類固醇止痛消炎藥（nonsteroid anti-inflammatory drugs，NSAIDs）會惡化慢性腎臟病",
       "D": "不 應繼續使用metformin"
     },
     "answer": "D"
@@ -808,7 +808,7 @@
     "options": {
       "A": "腎 水腫（renal hydronephrosis）",
       "B": "腎 膿瘍（renal abscess）",
-      "C": "晚 期腎結核（renal tuberculosis, late stage）",
+      "C": "晚 期腎結核（renal tuberculosis，late stage）",
       "D": "腎 細胞癌（renal cell carcinoma）"
     },
     "answer": "C"

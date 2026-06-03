@@ -265,7 +265,7 @@
   },
   {
     "question_number": 25,
-    "question_text": "有關早期喉癌（T1, T2）的手術與放射線治療之比較，下列何者錯誤？",
+    "question_text": "有關早期喉癌（T1，T2）的手術與放射線治療之比較，下列何者錯誤？",
     "options": {
       "A": "放射線治療所需要的時間較長，成本也較手術治療為高",
       "B": "就局部腫瘤的控制，或治癒率、存活率而言，兩種治療方式不相上下",
@@ -597,9 +597,9 @@
     "question_number": 55,
     "question_text": "多囊性卵巢症候群（polycystic ovary syndrome）患者會有雄性素過高的症狀，下列何者不是造成雄性素過高的 原因？",
     "options": {
-      "A": "腎上腺分泌過多的硫酸－脫氫異雄固酮（dehydroepiandrosterone sulfate, DHEAS）",
+      "A": "腎上腺分泌過多的硫酸－脫氫異雄固酮（dehydroepiandrosterone sulfate，DHEAS）",
       "B": "卵巢分泌過多的睪固酮（testosterone）",
-      "C": "肝臟分泌過多的性激素結合球蛋白（sex hormone-binding globulin, SHBG）",
+      "C": "肝臟分泌過多的性激素結合球蛋白（sex hormone-binding globulin，SHBG）",
       "D": "胰臟分泌過多的胰島素（insulin）"
     },
     "answer": "C"
@@ -619,10 +619,10 @@
     "question_number": 57,
     "question_text": "關於尿失禁（urinary incontinence）的手術治療，下列敘述何者錯誤？",
     "options": {
-      "A": "恥骨後陰道懸吊手術（retropubic colposuspension surgery, Burch procedure）：縫線固定到Cooper ligament",
-      "B": "無張力陰道吊帶手術（tension-free vaginal tape, TVT）：以無張力下，將吊帶放置在膀胱頸處",
-      "C": "經閉孔吊帶手術（transobturator tape, TOT）比無張力陰道吊帶手術（tension-free vaginal tape, TVT），較無腸道 及血管的損傷",
-      "D": "無張力陰道吊帶手術（tension-free vaginal tape, TVT）比經閉孔吊帶手術（transobturator tape, TOT），較常發生 膀胱穿孔"
+      "A": "恥骨後陰道懸吊手術（retropubic colposuspension surgery，Burch procedure）：縫線固定到Cooper ligament",
+      "B": "無張力陰道吊帶手術（tension-free vaginal tape，TVT）：以無張力下，將吊帶放置在膀胱頸處",
+      "C": "經閉孔吊帶手術（transobturator tape，TOT）比無張力陰道吊帶手術（tension-free vaginal tape，TVT），較無腸道 及血管的損傷",
+      "D": "無張力陰道吊帶手術（tension-free vaginal tape，TVT）比經閉孔吊帶手術（transobturator tape，TOT），較常發生 膀胱穿孔"
     },
     "answer": "B"
   },
@@ -694,7 +694,7 @@
   },
   {
     "question_number": 64,
-    "question_text": "膝下截肢型義肢（below knee, B/K prosthesis）在製做髕骨肌腱承重（patella tendon-bearing, PTB）承筒（socket） 的時候，下列那一個部位是可以承受壓力的區域（pressure-tolerant area）？",
+    "question_text": "膝下截肢型義肢（below knee，B/K prosthesis）在製做髕骨肌腱承重（patella tendon-bearing，PTB）承筒（socket） 的時候，下列那一個部位是可以承受壓力的區域（pressure-tolerant area）？",
     "options": {
       "A": "腓骨頭（fibular head）",
       "B": "脛骨嵴（tibial crest）",

@@ -201,10 +201,10 @@
     "question_number": 19,
     "question_text": "中 耳三個聽小骨由外至內（lateral to medial）排列依序為：",
     "options": {
-      "A": "m alleus, incus, stapes",
-      "B": "i ncus, malleus, stapes",
-      "C": "i ncus, stapes, malleus",
-      "D": "s tapes, malleus, incus"
+      "A": "m alleus，incus，stapes",
+      "B": "i ncus，malleus，stapes",
+      "C": "i ncus，stapes，malleus",
+      "D": "s tapes，malleus，incus"
     },
     "answer": "A"
   },
@@ -232,7 +232,7 @@
   },
   {
     "question_number": 22,
-    "question_text": "若 檢測王先生的鼻黏膜組織，下列那一種介白素（interleukin, IL）最不可能增加？",
+    "question_text": "若 檢測王先生的鼻黏膜組織，下列那一種介白素（interleukin，IL）最不可能增加？",
     "options": {
       "A": "I L-4",
       "B": "I L-5",
@@ -584,7 +584,7 @@
   },
   {
     "question_number": 54,
-    "question_text": "有 關人工授精（Intrauterine insemination, IUI），下列敘述何者錯誤？",
+    "question_text": "有 關人工授精（Intrauterine insemination，IUI），下列敘述何者錯誤？",
     "options": {
       "A": "若 具有活動力的總精蟲數（total motile sperm count）不到1,000萬，則成功機率不高",
       "B": "清 洗後的精蟲濃縮至0.5毫升，再以導管送進子宮腔",

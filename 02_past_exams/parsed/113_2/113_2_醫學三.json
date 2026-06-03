@@ -7,7 +7,7 @@
   },
   {
     "question_number": 2,
-    "question_text": "關於懷孕期甲狀腺功能變化的敘述，下列何者最不適當？ A.懷孕期因雌激素（estrogen）刺激甲狀腺素結合蛋白（thyroxine-binding globulin）製造，導致血中 total T 、total T 上升 3 4 B.第一孕程（first trimester）的中後段，因高濃度人類絨毛膜促性腺激素（human chorionic gonadotropin, hCG）刺激甲狀腺，造成free T 、free T 上升 3 4 C.對於甲狀腺功能亢進（hyperthyroidism）的患者，在第一孕程（first trimester）使用methimazole可能 與胚胎疾病相關聯 D.懷孕期以甲狀腺素（thyroxine）治療甲狀腺功能低下（hypothyroidism），目標是維持TSH在正常範圍， 常需比懷孕前使用更低的劑量",
+    "question_text": "關於懷孕期甲狀腺功能變化的敘述，下列何者最不適當？ A.懷孕期因雌激素（estrogen）刺激甲狀腺素結合蛋白（thyroxine-binding globulin）製造，導致血中 total T 、total T 上升 3 4 B.第一孕程（first trimester）的中後段，因高濃度人類絨毛膜促性腺激素（human chorionic gonadotropin，hCG）刺激甲狀腺，造成free T 、free T 上升 3 4 C.對於甲狀腺功能亢進（hyperthyroidism）的患者，在第一孕程（first trimester）使用methimazole可能 與胚胎疾病相關聯 D.懷孕期以甲狀腺素（thyroxine）治療甲狀腺功能低下（hypothyroidism），目標是維持TSH在正常範圍， 常需比懷孕前使用更低的劑量",
     "options": {},
     "answer": "D"
   },
@@ -37,7 +37,7 @@
   },
   {
     "question_number": 7,
-    "question_text": "下列有關成人先天性心臟病之敘述，何者正確？ A.心房中隔缺損（atrial septal defect, ASD）為常見之成人先天性心臟病之一，因存在「左往右分流 （left-to-right shunt）」，因此右心室擴大，且可能產生肺動脈高壓 B.Ebstein氏異常（Ebstein anomaly）患者，因先天二尖瓣環較正常人為低而更靠近心尖部，因此常有反流 現象造成左心房擴大 C.部分肺靜脈回流異常（partial anomalous pulmonary venous return, PAPVR）因終究會造成肺動脈高 壓，因此經確診後應儘早進行外科手術治療 D.心室中隔缺損（ventricular septal defect, VSD）因存在高壓力差，所以無論缺損大小，很少會自行關 閉",
+    "question_text": "下列有關成人先天性心臟病之敘述，何者正確？ A.心房中隔缺損（atrial septal defect，ASD）為常見之成人先天性心臟病之一，因存在「左往右分流 （left-to-right shunt）」，因此右心室擴大，且可能產生肺動脈高壓 B.Ebstein氏異常（Ebstein anomaly）患者，因先天二尖瓣環較正常人為低而更靠近心尖部，因此常有反流 現象造成左心房擴大 C.部分肺靜脈回流異常（partial anomalous pulmonary venous return，PAPVR）因終究會造成肺動脈高 壓，因此經確診後應儘早進行外科手術治療 D.心室中隔缺損（ventricular septal defect，VSD）因存在高壓力差，所以無論缺損大小，很少會自行關 閉",
     "options": {},
     "answer": "A"
   },
@@ -109,7 +109,7 @@
   },
   {
     "question_number": 19,
-    "question_text": "幽門螺旋桿菌感染會造成胃潰瘍、胃癌及胃淋巴瘤之風險增加，因此必須選擇適當且高成功率之幽門螺旋桿 菌除菌方法。下列除菌療法在clarithromycin抗藥比例小於15%之地區，何者目前不推薦使用？ A.七日療程之clarithromycin triple therapy（proton pump inhibitor, clarithromycin, amoxicillin） B.十四日療程之clarithromycin triple therapy（proton pump inhibitor, clarithromycin, amoxicillin） C.十至十四日療程之concomitant therapy（proton pump inhibitor, clarithromycin, amoxicillin, metronidazole） D.十至十四日療程之bismuth quadruple therapy（proton pump inhibitor, bismuth, tetracycline, metronidazole）",
+    "question_text": "幽門螺旋桿菌感染會造成胃潰瘍、胃癌及胃淋巴瘤之風險增加，因此必須選擇適當且高成功率之幽門螺旋桿 菌除菌方法。下列除菌療法在clarithromycin抗藥比例小於15%之地區，何者目前不推薦使用？ A.七日療程之clarithromycin triple therapy（proton pump inhibitor，clarithromycin，amoxicillin） B.十四日療程之clarithromycin triple therapy（proton pump inhibitor，clarithromycin，amoxicillin） C.十至十四日療程之concomitant therapy（proton pump inhibitor，clarithromycin，amoxicillin，metronidazole） D.十至十四日療程之bismuth quadruple therapy（proton pump inhibitor，bismuth，tetracycline，metronidazole）",
     "options": {},
     "answer": "A"
   },
@@ -157,13 +157,13 @@
   },
   {
     "question_number": 27,
-    "question_text": "一位40歲男性，C型肝炎帶原者，定期在門診追蹤。最近一個月來，出現蛋白尿2.5 g/day，脛前與足踝水 腫，體重略增加近3公斤，血壓152/92 mmHg。抽血檢查：有血清補體（complement, C3與C4）偏低情形。因 為不明原因蛋白尿，安排病人接受腎臟切片檢查（renal biopsy），切片下的病理變化，最有可能是下列何 者？ A.membranous nephropathy（MN） B.membranoproliferative glomerulonephritis（MPGN） C.focal segmental glomerulosclerosis（FSGS） D.Henoch-Schönlein purpura（HSP）",
+    "question_text": "一位40歲男性，C型肝炎帶原者，定期在門診追蹤。最近一個月來，出現蛋白尿2.5 g/day，脛前與足踝水 腫，體重略增加近3公斤，血壓152/92 mmHg。抽血檢查：有血清補體（complement，C3與C4）偏低情形。因 為不明原因蛋白尿，安排病人接受腎臟切片檢查（renal biopsy），切片下的病理變化，最有可能是下列何 者？ A.membranous nephropathy（MN） B.membranoproliferative glomerulonephritis（MPGN） C.focal segmental glomerulosclerosis（FSGS） D.Henoch-Schönlein purpura（HSP）",
     "options": {},
     "answer": "B"
   },
   {
     "question_number": 28,
-    "question_text": "有關腎小管–腎絲球回饋機轉（tubuloglomerular feedback, TGF），下列敘述何者正確？ A.藉由出球小動脈（efferent arteriole）的反射性血管收縮或擴張來調節腎絲球過濾率（glomerular filtration rate） B.藉由Henle氏環上行枝粗管的管腔膜上緻密斑（macula densa）細胞來感應腎小管內NaCl濃度及液體的流速 C.當過高的腎絲球過濾率（glomerular filtration rate）使流經緻密斑（macula densa）的NaCl濃度過高 時，會誘發出球小動脈血管收縮使得腎絲球過濾率下降至正常 D. NaCl再吸收增加時，二磷酸腺苷（adenosine diphosphate, ADP）是緻密斑（macula densa）細胞釋放出 來的訊號，來調控腎小管–腎絲球回饋",
+    "question_text": "有關腎小管–腎絲球回饋機轉（tubuloglomerular feedback，TGF），下列敘述何者正確？ A.藉由出球小動脈（efferent arteriole）的反射性血管收縮或擴張來調節腎絲球過濾率（glomerular filtration rate） B.藉由Henle氏環上行枝粗管的管腔膜上緻密斑（macula densa）細胞來感應腎小管內NaCl濃度及液體的流速 C.當過高的腎絲球過濾率（glomerular filtration rate）使流經緻密斑（macula densa）的NaCl濃度過高 時，會誘發出球小動脈血管收縮使得腎絲球過濾率下降至正常 D. NaCl再吸收增加時，二磷酸腺苷（adenosine diphosphate，ADP）是緻密斑（macula densa）細胞釋放出 來的訊號，來調控腎小管–腎絲球回饋",
     "options": {},
     "answer": "B"
   },
@@ -235,7 +235,7 @@
   },
   {
     "question_number": 40,
-    "question_text": "下列何種情形血中攝護腺特異性抗原（prostate specific antigen, PSA）最不可能高於正常值？ A.良性攝護腺肥大（benign prostate hypertrophy） B.攝護腺切片（prostate biopsy）之後 C.攝護腺癌（prostate cancer） D.根除性攝護腺切除（radical prostatectomy）之後",
+    "question_text": "下列何種情形血中攝護腺特異性抗原（prostate specific antigen，PSA）最不可能高於正常值？ A.良性攝護腺肥大（benign prostate hypertrophy） B.攝護腺切片（prostate biopsy）之後 C.攝護腺癌（prostate cancer） D.根除性攝護腺切除（radical prostatectomy）之後",
     "options": {},
     "answer": "D"
   },
@@ -361,7 +361,7 @@
   },
   {
     "question_number": 61,
-    "question_text": "有關中樞神經感染單純疱疹病毒（HSV）診斷工具中的HSV腦脊髓液聚合酶鏈鎖反應（polymerase chain reaction, PCR），下列敘述何者錯誤？ A.敏感性（sensitivity）及專一性（specificity）都超過90% B.在發病的72小時內，腦脊髓液HSV PCR有可能呈現陰性 C.腦脊髓液HSV PCR的陽性率會隨著病程而逐漸降低，發病超過14天之病人，大約只有20%仍然呈現陽性 D.抗病毒藥物之治療對腦脊髓液HSV PCR的陽性率有重大影響，治療3天後，腦脊髓液HSV PCR的陽性率即低於 10%",
+    "question_text": "有關中樞神經感染單純疱疹病毒（HSV）診斷工具中的HSV腦脊髓液聚合酶鏈鎖反應（polymerase chain reaction，PCR），下列敘述何者錯誤？ A.敏感性（sensitivity）及專一性（specificity）都超過90% B.在發病的72小時內，腦脊髓液HSV PCR有可能呈現陰性 C.腦脊髓液HSV PCR的陽性率會隨著病程而逐漸降低，發病超過14天之病人，大約只有20%仍然呈現陽性 D.抗病毒藥物之治療對腦脊髓液HSV PCR的陽性率有重大影響，治療3天後，腦脊髓液HSV PCR的陽性率即低於 10%",
     "options": {},
     "answer": "D"
   },
@@ -421,7 +421,7 @@
   },
   {
     "question_number": 71,
-    "question_text": "「居家醫療的主導醫師應持續地進行自我反思（self-reflective process）以避免工作倦怠，維持對工作 的熱誠，打造理想療癒環境（optimal healing environment, OHE）」，這是屬於理想療癒環境架構中的： A.內在環境（inner personal environment） B.人際環境（interpersonal environment） C.行為環境（behavioral environment） D.外在環境（external environment）",
+    "question_text": "「居家醫療的主導醫師應持續地進行自我反思（self-reflective process）以避免工作倦怠，維持對工作 的熱誠，打造理想療癒環境（optimal healing environment，OHE）」，這是屬於理想療癒環境架構中的： A.內在環境（inner personal environment） B.人際環境（interpersonal environment） C.行為環境（behavioral environment） D.外在環境（external environment）",
     "options": {},
     "answer": "A"
   },

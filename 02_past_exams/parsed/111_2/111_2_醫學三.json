@@ -144,12 +144,12 @@
   },
   {
     "question_number": 14,
-    "question_text": "有關心臟衰竭（heart failure, HF）相關猝死（sudden death）預防描述，何者錯誤？",
+    "question_text": "有關心臟衰竭（heart failure，HF）相關猝死（sudden death）預防描述，何者錯誤？",
     "options": {
       "A": "在大約一半的心衰竭患者中，是由於心室性心律不整（ventricular arrhythmia）所引起的猝死，HFrEF患者中 尤為普遍",
-      "B": "在猝死發作後倖存的心衰竭患者被認為具有很高再猝死的風險，應考慮植入式心臟內去顫器（implantable cardioverter-defibrillator, ICD）",
-      "C": "無論心衰竭的病因為何，凡具有心衰竭的NYHA第I級症狀，但LVEF大於35%的患者，是考慮植入式心臟 內去顫器（implantable cardioverter-defibrillator, ICD）預防性治療的合適候選人",
-      "D": "對於心肌梗塞發生之後已經3個月，LVEF≦30%且仍有心室頻脈，即使已使用最佳藥物治療的患者，也建議 植入式心臟內去顫器（implantable cardioverter-defibrillator, ICD）"
+      "B": "在猝死發作後倖存的心衰竭患者被認為具有很高再猝死的風險，應考慮植入式心臟內去顫器（implantable cardioverter-defibrillator，ICD）",
+      "C": "無論心衰竭的病因為何，凡具有心衰竭的NYHA第I級症狀，但LVEF大於35%的患者，是考慮植入式心臟 內去顫器（implantable cardioverter-defibrillator，ICD）預防性治療的合適候選人",
+      "D": "對於心肌梗塞發生之後已經3個月，LVEF≦30%且仍有心室頻脈，即使已使用最佳藥物治療的患者，也建議 植入式心臟內去顫器（implantable cardioverter-defibrillator，ICD）"
     },
     "answer": "C"
   },
@@ -309,7 +309,7 @@
   },
   {
     "question_number": 29,
-    "question_text": "下列那一段腎小管（renal tubule）可可透透過過抗抗利利尿尿荷荷爾爾蒙蒙（antidiuretic hormone, ADH））的作用增加對水分的通透 性？",
+    "question_text": "下列那一段腎小管（renal tubule）可可透透過過抗抗利利尿尿荷荷爾爾蒙蒙（antidiuretic hormone，ADH））的作用增加對水分的通透 性？",
     "options": {
       "A": "近端腎小管（proximal tubule）",
       "B": "Henle氏環下行枝（descending limb of Henle's loop）",
@@ -463,7 +463,7 @@
   },
   {
     "question_number": 43,
-    "question_text": "慢性淋巴性白血病（chronic lymphocytic leukemia, CLL）的特徵，何者錯誤？",
+    "question_text": "慢性淋巴性白血病（chronic lymphocytic leukemia，CLL）的特徵，何者錯誤？",
     "options": {
       "A": "病人周邊血中clonal B cells 5,000/μL以上，是診斷CLL的重要依據",
       "B": "初步診斷時有貧血的病人，比沒有貧血的病人預後較佳",
@@ -716,12 +716,12 @@
   },
   {
     "question_number": 66,
-    "question_text": "有關健康與疾病照護模式（models of health, illness & health care）的敘述，下列何者正確？",
+    "question_text": "有關健康與疾病照護模式（models of health，illness & health care）的敘述，下列何者正確？",
     "options": {
       "A": "醫療化（medicalization）是biopsychosocial model的優點",
       "B": "生物適應（biological adaptation）是biomedical model的特性",
       "C": "holistic model認為illness is a creative opportunity",
-      "D": "ethnomedical cultural model是合併biomedical, holistic and cultural factors"
+      "D": "ethnomedical cultural model是合併biomedical，holistic and cultural factors"
     },
     "answer": "C"
   },
@@ -837,7 +837,7 @@
   },
   {
     "question_number": 77,
-    "question_text": "依據2015美國心臟學會心肺復甦術及緊急心臟照護指引，有關心跳停止（cardiac arrest）病人恢復自發性循環 （return of spontaneous circulation, ROSC）後，下列敘述何者正確？",
+    "question_text": "依據2015美國心臟學會心肺復甦術及緊急心臟照護指引，有關心跳停止（cardiac arrest）病人恢復自發性循環 （return of spontaneous circulation，ROSC）後，下列敘述何者正確？",
     "options": {
       "A": "使用低溫療法，控制中心體溫（core body temperature）在32-36 oC之間，持續24小時，可以改善存活率及神 經學症狀",
       "B": "ROSC後6小時內的神經反射（neurologic reflexes）可以用來預測預後，因此可做為治療準則之參考",
@@ -848,7 +848,7 @@
   },
   {
     "question_number": 78,
-    "question_text": "關於糖尿病酮酸中毒（Diabetic ketoacidosis, DKA）之敘述，下列何者最不適當？",
+    "question_text": "關於糖尿病酮酸中毒（Diabetic ketoacidosis，DKA）之敘述，下列何者最不適當？",
     "options": {
       "A": "DKA主要發生在第一型糖尿病（type Ⅰ DM）病人，也可發生於新診斷第二型糖尿病（type Ⅱ DM）病人",
       "B": "血糖值通常＞250 mg/dL，陰離子間隙（anion gap）＞10 mEq/L，動脈血pH＜7.3",

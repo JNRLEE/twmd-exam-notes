@@ -140,7 +140,7 @@
 
 - Acute pericarditis： 病因＝Idiopathic/ COX Viral（最常見）, Bacterial, Autoimmune, Uremia； 症狀＝Chest pain（吸氣加重）, Pericardial friction rub（吸氣時S1後出現）, EKG＝Diffuse ST elevation（所有導程ST上升, PR下降）；Tx＝NSAID, Colchicine（預防復發）, Steroid（NSAID無效者）
 - Constrictive pericarditis： 病因＝Idiopathic/ Viral, Bacteria⭢慢性心包膜肥厚, scarred； 症狀＝Kussmaul sign（吸氣時中心壓反而上升）, Tx＝唯一開刀
-- Cardiac tamponade：SS＝ Pulsus paradoxus, Exam＝Beck's triad（Jason低遙；Hypotension, 心音遙遠, elevated JVP）；DDx＝Beck's, EKG不准（因有水, 位置跑來跑去）；Tx＝Echo引流, 避免利尿劑/ β-blocker/ Nitrate
+- Cardiac tamponade：SS＝ Pulsus paradoxus（吸氣時JVP加強，聽得到心音, 但SVP脈搏卻量不到）, Exam＝Beck's triad（Jason低遙；Hypotension, 心音遙遠, elevated JVP）；DDx＝Beck's, EKG不准（因有水, 位置跑來跑去）；Tx＝Echo引流, 避免利尿劑/ β-blocker/ Nitrate
 - 補：NSAIDs中： Aspirin腸胃毒性強, Coxib/ Ibuprofen心臟毒性強（心臟科少用）
 
 ## Heart Failure（考題7）
@@ -227,7 +227,7 @@
     - COP（類固醇有效）
     - RB-ILD/DIP（抽菸引起；Tx＝戒菸）
     - 其他＝Acute interstitial pneumonia（AIP, 急性發作, 預後差）
-  - 肉芽腫（pattern=micronodules）：Hypersensitivity pneumonitis（過敏性肺炎, 阻塞性肺病, Tx＝避免接觸過敏原）, Sarcoidosis（非乾酪性肉芽腫, Tx＝Steroid）
+  - 肉芽腫（pattern=micronodules）：Hypersensitivity pneumonitis（過敏性肺炎, 阻塞性肺病, Tx＝避免接觸過敏原）, Sarcoidosis（non-caseating granuloma非乾酪性肉芽腫, Tx＝Steroid）
   - CTD-ILD（結締組織病相關ILD）：可用免疫抑制劑（如MMF/Cyclophosphamide）, 若progressive fibrosing phenotype可加抗纖維化治療
 
 ## Infection（考題3）
@@ -239,6 +239,7 @@
     - CAP： 病原＝S. pneumoniae（最常見）, Mycoplasma pneumoniae（年輕人, Tx＝Macrolide）, Chlamydophila pneumoniae（＝肺炎披衣菌, 年輕人, Tx＝Macrolide）, KB（老年人, Tx＝3rd gen cephalosporin）
       \*MDR CAP（多重用藥抗性, score＝CURβ-65, 低分β-lactam, 高分加macrolide, fluoroquinolone）
     - HAP： 病原＝MRSA, 綠膿, KB, Actinobacter不動桿菌, Tx＝經驗性抗綠膿即可（PCN, Cefa, penem）
+- 肺浸潤位置考點：上葉後段＋下葉上段（仰臥dependent segments）＝aspiration pneumonitis/pneumonia（吸入性肺炎/肺炎樣反應）＋aspiration-related lung abscess；RF＝意識不清/酒醉/麻醉/癲癇/吞嚥困難/牙周病；cf. 直立吸入偏下葉基底段/RML（右中葉）
 - Lung abscess（肺膿瘍；好發DM, 酒鬼者, 牙周病）：aspiration造成，病原＝厭氧菌（Mainly）, S. aureus、KB；好發位置＝上肺葉後段、下肺葉上段（仰臥吸入區）；SS＝purulent liquefaction化膿性液化（嚴重）；X-ray＝cavitation氣穴化 + air-fluid level；Tx＝抗厭氧抗生素（3-6wks）, 必要時引流/手術
 - 黴菌感染：
 
@@ -254,6 +255,7 @@
 
 - 病原＝Mycobacterium tuberculosis, 傳染途徑＝飛沫傳染（傳染不易, 要長期接觸）；年輕時primary TB（中下肺葉granuloma＋鈣化＋痊癒, 10% lifetime發病）
 - Reactivation TB（免疫低下時, e.g HIV（Risk Factor＝100）, Recent infection（Risk Factor＝13））
+  - 好發位置＝上葉apical/posterior segment、下葉superior segment（常空洞；機轉偏高氧張力/低灌流, 不是吸入沉積）；cf. chronic cavitary fungal dx（Histoplasma/Aspergillus）可像TB
   - 診斷＝症狀（Cough>3wk, fever, night sweat, weight loss）＋CXR＋痰液檢查
     - 痰液檢查：CXR正常但痰AFB（＋）⭢優先做NAAT/PCR分MTB/NTM
 
@@ -361,7 +363,8 @@
   - 抑制＝Atropine（抑制M3）, Cimetidine（抑制H2接收器）, Omeprazole（抑制H＋/K＋ATPase）
 - Ulcer成因： H.pylori感染（最常見, 會造成Multifocal atrophic gastritis（MAG）, Diffuse antral predominant gastritis, MALToma）
 - H.pylori：G（-）curved rod, urease（＋）；相關＝PUD, chronic gastritis, MALT lymphoma, gastric adenocarcinoma
-  - Exam： 胃鏡取樣（侵入性, rapid urease test）, urea breath test（非侵入性, 服用標記碳的尿素，H. pylori分解尿素釋放標記碳，呼氣中檢測）
+  - 胃癌趨勢：distal/antrum-body下降；proximal/cardia/GEJ腺癌上升（GERD、肥胖、Barrett相關）
+  - Exam： 胃鏡取樣（侵入性, rapid urease test）, urea breath test（非侵入性, 服用標記碳的尿素，H. pylori分解尿素釋放標記碳，呼氣中檢測）, t(11,18) MALToma（B細胞淋巴瘤
   - Tx： PPI＋Clarithromycin＋Amoxicillin（或Metronidazole if penicillin allergy） 至少10-14天
 - 胃腫瘤鑑別：GIST＝interstitial cell of Cajal（c-KIT/CD117, Tx＝resection/Imatinib）；gastric NET神經內分泌腫瘤＝enterochromaffin-like cells（ECL, type II＝MEN1/Zollinger-Ellison, type III＝sporadic/預後最差, localized Tx＝complete resection）
 
@@ -759,7 +762,7 @@ ARPKD（自體隱性PKD）：10%PKD, 小孩為主, 羊水過少, 肺發育不全
   - Enterobacteriaceae腸桿菌科（Catalase（＋）, Oxidase（-））＝ { E.coli（1st, 腸道正常菌叢, SS＝UTI, 腹瀉（ETEC）, 赤痢（EHEC（Shiga-like toxin）））, KB（病人＝酒鬼, DM（注意眼炎, 肝膿瘍）, 慢性肺病）, Salmonella typhoid（沙門氏菌（二類法定, 單日內通報）；人為唯一宿主（寄生膽囊）, >10^5 才致病； SS＝Typhoid fever（鮭魚斑）, Enteric fever, 軀幹玫瑰疹（Rose spot）, Relative bradycardia（心跳時快時慢）； Tx＝Ciprofloxacin）, Proteus（變形桿菌（Urease（＋））, 可用來診斷立克次體（Weli-Felix test＝Proteus抗體））, Shigella（志賀氏菌； 10隻就致病（cf. Salmonella） SS＝血便（Shiga toxin去活化60S Ribosome, 導致HUS）, 腹痛； Tx＝Ciprofloxacin） }
   - 呼吸道桿菌＝ { H.influenzae（流感嗜血桿菌； 毒素＝多醣體夾饃, SS＝Epiglottitis（3D： Drooling流口水, Dysphagia, Distress（呼吸窘迫, 焦躁不安））, Meningitis, Stridor； Tx＝Hib疫苗（出生2,4,6,15m施打））, Haemophilus ducreyi（軟下疳桿菌； SS＝痛性生殖器潰瘍（Chancroid））, Bordetella pertussis（百日咳桿菌； 毒素＝百日咳毒素（活化cAMP, 組織胺敏感）, SS＝卡他期（wks, 發燒咳嗽高傳染）>陣發期（無痰咳嗽）>恢復）, Legionella（退伍軍人菌（冷氣空調傳播, 不經人傳人）； SS＝Pontiac fever（年輕肌肉酸痛, 1wk自預）, Legionnaires' disease（老煙槍, 肺炎, 腹瀉）） }
 - 人畜共通病（zoonosis）＝ { Brucella（乳製品）, Yersinia（跳蚤叮咬, 腺鼠疫）, Francisella（兔子接觸/蜱叮咬, 兔熱病）, Bartonella（貓抓淋巴腫）, Pasteurella（貓狗咬； SS＝關節炎敗血症； Tx＝Augmentin） }
-- 螺旋體（Spirchetes）＝ { Treponema pallidum（梅毒螺旋體, 人類唯一宿主； SS＝Primary（無痛硬下疳）, Secondary（玫瑰疹）, Tertiary（神經梅毒, Tabes dorsalis, Argyll Robertson pupil）； Exam＝間接（VDRL/RPR for screen, 疾病活躍度追蹤）, 直接測Ab（TPHA, FTA-ABS for confirmation（痊癒後仍然陽性）） Tx＝PCN）, B.burgdorferi（硬蜱傳染, 遊走性紅斑）, L.interrogans（衛士病） }
+- 螺旋體（Spirchetes）＝ { Treponema pallidum（梅毒螺旋體, 人類唯一宿主； SS＝Primary（無痛硬下疳）, Secondary（玫瑰疹）, Tertiary（神經梅毒, Tabes dorsalis, Argyll Robertson pupil）； Exam＝間接（VDRL/RPR for screen, 疾病活躍度追蹤（下降4倍代表治療有效））, 直接測Ab（TPHA, FTA-ABS for confirmation（痊癒後仍然陽性）） Tx＝PCN）, B.burgdorferi（硬蜱傳染, 遊走性紅斑）, L.interrogans（衛士病） }
 
 ## 細菌抗生素（考題10）
 
@@ -859,7 +862,7 @@ ARPKD（自體隱性PKD）：10%PKD, 小孩為主, 羊水過少, 肺發育不全
 
 - 概論：機轉＝抗體＋T cell＋IC引起血管壁發炎；抗體＝ANCA（抗中性球胞漿抗體）＋抗GBM（抗基底膜抗體）＋抗磷脂抗體（ MainlyANCA）； SS＝Palpable purpura（觸摸會凸起的紫斑）
 - 大血管炎（記一老一小）
-  - Giant cell arteritis（顳動脈炎＝Temporal arteritis）：>50 y/o老人； SS＝頭痛, 顳部壓痛, 視力模糊； Diag（5C3）＝ >50y/o, New headache, temporal tenderness, ESR > 50mm/h, 切片肉芽腫 ；Tx＝高劑量類固醇
+  - Giant cell arteritis（顳動脈炎＝Temporal arteritis）：>50 y/o老人, 女多； SS＝頭痛, 顳部壓痛, 視力模糊； Diag（5C3）＝ >50y/o, New headache, temporal tenderness, ESR > 50mm/h, 切片肉芽腫 ；Tx＝高劑量類固醇（防失明）, Tocilizumab（IL-6 receptor antagonist, for 類固醇減量）
   - Takayasu arteritis（亞洲年輕女）：SS＝無脈症候群（∵subclavian artery 被發炎、狹窄或阻塞）； Diag（5C3）＝ <40y/o, Brachial a. pulse⭣, 雙手∆BP >10mmHg, Claudication； Tx＝高劑量類固醇
 - 中血管炎（記PAN/Kawasaki）
   - Kawasaki（小兒冠狀動脈炎； SS＝發燒出疹）； Polyarteritis nodosa（PAN； HBV感染, 睪丸痛, 切片PMN浸潤）
@@ -1048,8 +1051,9 @@ ARPKD（自體隱性PKD）：10%PKD, 小孩為主, 羊水過少, 肺發育不全
   - Tx
     - 手術全切for 乳小葉原位癌（LCIS, 因為多發）,
     - Lumpectomy（保存性手術）＋放療for 乳管原位癌（DCIS）
-    - 化療for 三陰 /HER2＋ /LN＋
+    - 化療for 三陰(TNBC) /HER2＋ /LN＋
     - 荷爾蒙治療 for ER/PR＋（停經前Tamoxifen, 停經後Aromatase inhibitor）
+    - PARP inhibitor（Olaparib/Talazoparib）for BRCA1/2突變（常考TNBC＋BRCA）
   - 補：Occult breast cancer：腋下adenocarcinoma＋乳房影像陰性；DDx＝驗ER/PR/HER2/GATA3；Tx（不用切乳房）＝腋下處理＋全乳放療±全身治療
 - Colorectal cancer: 大腸癌； SS＝直腸血便/裡急後重, 降結腸阻塞, 升結腸無症狀（糞便軟無異狀, 所以發現時較末期）； 分期（考點Dukes-TNM-Stage對應）＝A（T1N0M0, I, 粘膜局限）, B1（T2N0M0, I, 肌肉層局限）, B2（T3N0M0, II, 肌肉層與漿膜層（Serosa））, C（B＋LN, III）, D（M1, IV）； Tx＝手術切除, 加化療（for C/III以上（有淋巴侵犯））, 術前CCRT可減少復發＋保留肛門
 - Carcinoid tumor/syndrome（類癌）：神經內分泌腫瘤；syndrome多見肝轉移後；SS（不會高血壓）＝flushing, watery diarrhea, bronchospasm, 右心瓣膜病；DDx＝尿5-HIAA
