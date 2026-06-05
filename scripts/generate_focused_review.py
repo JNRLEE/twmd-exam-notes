@@ -341,6 +341,13 @@ def write_outputs(exam_session, subject, rows):
         for row in rows:
             f.write(f"## Q{row['question_number']}\n\n")
             f.write(f"{row['question_text']}\n\n")
+            if row.get("options"):
+                f.write("### 選項\n\n")
+                for opt_k in ("A", "B", "C", "D"):
+                    opt_v = row["options"].get(opt_k)
+                    if opt_v:
+                        f.write(f"- ({opt_k}) {opt_v}\n")
+                f.write("\n")
             f.write(f"**標準答案**：{row['answer'] or '未提供'}\n\n")
             f.write("### 參考詳解\n\n")
             f.write(f"{row['reference_explanation']}\n\n")

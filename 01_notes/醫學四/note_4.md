@@ -5,6 +5,7 @@
 - Pediatric assessment triangle（PAT，兒童評估三角）：快速目視判斷sick/not sick，不是ABC；三項＝Appearance（外觀/意識互動），Work of breathing（呼吸作功），Circulation to skin（皮膚循環：蒼白/斑駁/發紺）
 - PAT之後才接primary assessment（ABCDE/ABC）；若看到危急狀態（airway不穩，respiratory failure，shock，altered mental status）要邊評估邊處置，不等primary/secondary/tertiary assessment全做完
 - 小兒低血壓門檻：1-10y/o最低可接受SBP約70＋2×age（歲）mmHg；≥10y/o約SBP ≥90 mmHg
+- 小兒外傷特性：頭皮血流豐富且總血量少（約70-80 mL/kg）⭢頭皮撕裂傷也可失血性休克（小兒代償能力強可能血壓正常）；頭大、頸肌弱 ⭢ 頭頸部外傷多；肋骨軟骨多/彈性高⭢不易骨折但肺挫傷可重；肝脾較大且位置較低⭢腹部鈍傷易傷；脾臟包膜較厚⭢穩定者非手術治療成功率高（>95%）；seat belt sign（腹部腰帶瘀痕） 想腸繫膜傷與 Chance fracture（腰椎骨折）
 
 ## 小兒CV（考題29）
 
@@ -42,7 +43,7 @@
   - Infective endocarditis：鏈球菌（α-Viridans，1st）/金黃（2nd）； RF＝先天心臟病，風濕心臟病，嬰兒sparing；SS＝發燒，心雜音，Osler nodes（手腳趾壓痛），Janeway lesions（手腳無痛紅斑），Tx＝抗生素（penicillin，vancomycin for 人工瓣膜感染）
   - Rheumatic heart disease（鏈球菌抗體誤傷）：SS＝風濕熱（發燒，關節炎，紅斑，舞蹈症），二尖瓣侵犯，心雜音（mitral regurgitation最常見）；DDx＝Jones criteria；Tx＝預防最重要，抗生素（penicillin）預防復發，Aspirin/ NSAIDs止痛
   - Kawasaki disease（川崎病，aka mucocutaneous lymph node syndrome，MCLS）：成因不明，Mainly亞洲嬰幼兒，T-cell ITPKC基因相關；SS（病程）＝持續發燒>5天⭢中大血管動脈瘤（25%冠狀動脈瘤），眼結膜充血，紅斑草莓舌，口唇乾裂，手腳紅腫，皮疹，頸部淋巴結腫大（非化膿性），hepatitis，gallbladder hydrops；Tx＝IVIG（發病10天內，預防冠狀動脈瘤），Aspirin（抗血小板，if冠狀動脈病變也要長期給），echo追蹤
-    - cf. 猩紅熱（鏈球菌，草莓舌，褶皺處現狀丘疹，手足鱗狀脫皮），Myocarditis（不影響冠狀動脈）
+    - cf. 猩紅熱（鏈球菌，草莓舌，褶皺處現狀丘疹Pastia's lines，手足鱗狀脫皮），Myocarditis（不影響冠狀動脈）
   - Myocarditis：Mainly CoxB virus in幼童；SS＝心衰竭症狀（呼吸困難，水腫，心肌受損，coronary sparing）；DDx＝心肌酵素，Viral PCR；Tx＝支持療法（氧氣，利尿劑）
 
 ## 小兒GI（考題13）
@@ -59,8 +60,10 @@
   - Hiatal Hernia：分Sliding（1st，胃食道交界上移，SS＝GERD）和Paraesophageal（交界正常但胃部突出，Mainly fundus，好發於外科手術後，進食易飽）
   - GERD：SS＝吐奶，體重增加不佳，咳嗽，哮吼，夜間喘鳴；DDx＝24hr monitor@下1/3食道；Tx＝餵食後保持直立，小量多餐，制酸劑
 - 胃腸道
+  - Infantile colic（嬰兒腸絞痛）：健康嬰兒陣發難安撫哭鬧（常傍晚）, Rule of 3＝>3hr/day、>3d/wk、>3wk；2wk開始、6wk peak、3-4m/o緩解；Dx＝排除發燒/嘔吐/腹脹/血便/生長差等器質性病因；Tx＝家長衛教＋安撫支持
   - Hypertrophic pyloric stenosis（HPS，肥厚性幽門狹窄）：白男多；SS＝無膽汁噴射嘔吐，Olive-shaped mass（幽門橄欖狀腫），代鹼；DDx＝Echo（shoulder sign），Tx＝手術
   - Duodenal atresia（十二指腸閉鎖）：1st腸道閉鎖dx，易合併心肝腎dx，Down's syndrome；SS＝出生24-48hr內嘔吐（含膽汁），Double bubble sign（胃和十二指腸氣體積聚），Tx＝手術
+    - c.f 空常閉鎖=Triple bubble sign（胃、十二指腸、空腸氣體積聚）
   - Malrotation（大腸跑到左邊，易產生midgut volvulus；cf. 成人大腸扭轉多sigmoid/cecum）：全年齡Dx；DDx＝UGI contrast series（corkscrew sign），Tx＝手術
   - Intussusception（cf. NEC＝1st危及生命的新生兒GI急症）：Mainly右上腹，近套遠，男多，cecocolic sparing；SS＝間歇性腹痛（小兒會彎腰哭鬧），腹部腫塊（腸套疊腫塊），紅色果醬便，敗血症，腦膜炎；DDx＝US（target/coiled spring sign，螺旋丸），Tx＝NPO，氣壓灌腸（無穿孔/壞死）⭢手術
   - Meckel's diverticulum：1st先天消化道dx（cf. NEC＝1st危及生命的新生兒GI急症），Rule of 2s（2%人口，<2 y/o發病，男女比2：1，2 feet from ileocecal valve，2 inches long，2種異生組織＝gastric/pancreatic），SS＝無症狀為主，腸阻塞，腸穿孔，發炎（類似闌尾炎），PUD（胃酸分泌造成腸出血），Lead point腸套疊；DDx＝Meckel's scan（Tc-99m pertechnetate scan），* Plain Xray沒有診斷價值；Tx＝手術only for症狀嚴重
@@ -82,6 +85,13 @@
 - 絲球腎炎（if合併腎損傷＝nephritic syn）：Mainly自體免疫疾病，分類＝{Mesangial cell dx（IgA，MPGN，Class 2 SLE），Endothelia cell dx（Infection，MPGN，Class3/4 SLE），Epithelial dx（MCD，Class5 SLE）}
   - IgA nephropathy（Berger nephropathy）：1st 絲球腎炎 in PEDS，男多，C3正常；Tx＝支持性療法（血壓控制）；
   - Henoch-Schonlein purpura nephritis：IgA的系統性疾病（無法單用病理DDx），1st兒童血管炎，多秋冬，男多；病理＝leukocytoclastic vasculitis，IgA沈澱，SS＝palpable purpura（下肢），腹痛，關節痛，不會血小板低下；Tx＝Steroid（預後佳，緩解嚴重腹痛）
+  - IgA nephropathy vs IgA vasculitis nephritis快分：
+
+
+    | 疾病                                      | 定位                    | 考試關鍵                                                                                  |
+    | ----------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------- |
+    | IgA nephropathy（Berger）                 | 腎限定為主              | URI後很快血尿（synpharyngitic hematuria）、C3正常；常只有腎臟表現                         |
+    | IgA vasculitis nephritis（HSP nephritis） | 系統性IgA小血管炎＋腎炎 | palpable purpura＋腹痛＋關節痛＋腎炎，血小板正常；腎病理可像IgA nephropathy，靠全身表現分 |
   - Alport Syndrome：X-linked（Type IV collagen基因突變（GBM缺陷）），男多；SS＝無症狀血尿，聽力障礙，眼部異常（anterior lenticonus）；Tx＝ACEI（血壓控制）
   - Poststreptococcal glomerulonephritis（PSGN）：2nd 絲球腎炎 in PEDS，>3 y/o才會得病；SS＝無症狀⭢血尿⭢腦病⭢腎衰竭（type III過敏，抗生素無法預防腎炎）；DDx＝C3⭣，C4正常!!，Antistreptolysin O titer⭡，喉採樣+，Tx＝抗生素（預防風濕熱不預防腎炎）+支持（會好，cf. MPGN不會）
   - SLE腎炎：分5type（III/IV會血尿腎病AKI，V多nephrotic）＝{type1 沒什麼變化（Minimal change），Type2 免疫沈積於內基質mesangium（又名mesangial proliferative lupus nephritis），｜⭢需積極脈衝治療 Type3 IgG,C3沉澱於腎臟多組織（又名focal lupus GN），Type4 >50%廣泛沉積，產生wire-loop lesion（又名diffuse lipis GN），|MMF治療 type5}
@@ -114,23 +124,24 @@
 - Measles：SS＝出疹（red maculopapular erupsion）⭢皮疹，Warthin-Finkeldey giant cell in Lymph node，口腔Koplik spots（可鑑別德麻）；DDx＝IgM/G；Tx＝VitA支持
 
   - cf. 德麻：SS＝淋巴病變（Mainly枕部耳下前頸），皮疹前後五天可傳染，不脫皮，母體感染先天德麻＝眼耳PDA dx,
-- Enterovirus：相關Dx＝手足口病（四不：不痛不癢不結痂不結疤），心肌炎（CoxB），Herpangina（口腔後半潰瘍，四肢無紅疹）；SS＝重症Triad（Vomit，Dizziness，Myoclonic jerk肌躍型抽搐）；Tx＝IVIG，洗手，適量給水（給太多會腦水腫，休克）
+- Enterovirus：相關Dx＝手足口病（四不：不痛不癢不結痂不結疤），心肌炎（CoxB），Herpangina（口腔後半潰瘍，四肢無紅疹）；SS＝台灣CDC重症四前兆（嗜睡/意識改變/活力差/手腳無力、myoclonic jerk肌躍型抽搐、持續嘔吐、呼吸急促/心跳加快）；Tx＝IVIG，洗手，適量給水（給太多會腦水腫，休克）
 - Adenovirus：老二病毒（淋巴/呼吸/消化 2nd）；相關Dx＝Pharyngo-conjunctival fever（發燒感冒結膜濾泡性充血），Epidemic keratoconjunctivitis（EKC，眼睛水性分泌，耳前淋巴腫）；Tx＝洗手，少游泳，少揉眼睛
 - EB virus（口腔終身寄生，又名Kiss dx）：DDx＝初期IgM＋，後期Heterophile test/EBNA＋；相關Dx＝單核增多症，Hemophagocytic Lymphohistiocytosis（嗜血淋巴增生，預後好），splenic rupture，hepatitis，lymphoma/NPC
 
-  - 單核增多症：Triad＝fatique，pharyngitis，全身lymphnopathy（滲出性扁桃腺炎 + 頸部淋巴結 + 脾腫大） ，給Amoxicillin會全身rash，眼皮腫Hoagland sign
+  - 單核增多症：Triad＝fatique，pharyngitis，全身lymphnopathy（化膿扁桃腺炎 + 頸部淋巴結 + 脾腫大） ，給Amoxicillin會全身rash，眼皮腫Hoagland sign
+    - c.f 鏈球菌不會脾
 - Herpes Simple virus：SS＝口腔前半，牙齦腫（cf. Enterovirus）；DDx＝PCR，Tzanck smear
 - HHV-6（＝exanthem subitum，Roseola Infantum嬰兒玫瑰疹，6th dx）：<3 y/o，預後極佳；SS＝輕燒三天，少數seizure，退燒後紅色斑塊，uvulopalatoglossal junction處Nagayama spots
 - Bartonella INF（Cat-Scratch Dx，CSD）：偶發，有貓抓史；SS＝erythema w/o cellulitis，Chronic lymphnopathy；DDX＝淋巴檢體（Warthin-Starry/Brown-Hopps stain 發現Bartonella）；Tx＝支持性，Azithromycin for 嚴重
 - GAS Scarlet fever：GAS產生pyrogenic exotoxin（erythrogenic toxin）；SS＝草莓舌，砂紙皮膚，褶皺處脫皮；Tx＝PCN
 
   - 補：草莓舌常見於：Kawasaki，Scarlet，S.aureus
-- Dengue（天狗/斷骨熱）：心搏慢，關節肌肉眼窩痛
+- Dengue（天狗/斷骨熱）：發燒、紅疹、斷骨痛（肌肉/關節/眼窩痛）, 相對心搏慢；DHF出血熱四標＝發燒＋出血傾向/止血帶test(+)＋Plt<10w＋血漿滲漏（Hct↑≥20%, 肋膜積水/腹水/低albumin）；Tx＝支持＋退燒只用acetaminophen, C/I＝NSAIDs/Aspirin（出血/Reye）
 - 疫苗接種：
 
   - 活性減毒：活疫苗同日可打，分開打隔≥1m，孕婦/免疫低下禁活疫苗；一般IG隔3m，輸血/血液製品隔6m，高劑量IVIG隔11m；洗滌RBC，單株抗體（palivizumab）不影響
 
-    - 口訣：卡得黃口水（口=口服小兒麻痺/口服沙賓OPV）
+    - 口訣：輪卡寶去德國兒童日玩水（口=口服小兒麻痺/口服沙賓OPV、日活性減毒=SA-14-14-2）
     - 卡介注射後2wk會有紅色結節，水痘打完6wks不可用Aspirin
     - 暴露後可接種PEP：水痘（無免疫且無禁忌，3-5d內給varicella vaccine；高風險/禁活疫苗給VZIG），麻疹（MMR 72hr內；高風險給IG），HAV（2wk內HAV vaccine±IG），HBV（HBV vaccine±HBIG），Rabies（傷口處理+HRIG+疫苗），mpox/天花（公共衛生情境）
   - 常規兒童疫苗時程（疾管署114年1月版）：
@@ -158,7 +169,7 @@
 - Neurocutaneous Syn
 
   - Neurofibromatosis（NF＝神經纖維瘤病，AD體顯，無有效Tx）：分類＝{NF1（Ch17 neurofibromin，50%偶發，von Recklinghausen dx；SS＝6C2（Cafe-au-lait macules，腋/鼠蹊freckling，Lisch nodules，脊椎側彎，optic pathway glioma，neurofibroma/plexiform neurofibroma）；腫瘤＝MPNST（malignant peripheral nerve sheath tumor，惡性周邊神經鞘瘤），pheochromocytoma，JMML（juvenile myelomonocytic leukemia，幼年型骨髓單核球白血病）），NF2（Ch22 merlin，現稱NF2-related schwannomatosis；SS＝雙側vestibular schwannoma/CN8聽神經瘤；腫瘤＝meningioma（腦膜瘤），ependymoma（室管膜瘤），其他顱神經/周邊神經schwannoma）}
-  - Tuberous sclerosis（結節硬化症TS，Ch9/16突變⭢mTOR過度活化，無有效Tx）：SS＝皮膚病變（ash leaf低色素白斑，Shagreen patch（腰薦鯊魚皮粗糙斑），Sebaceous adenomas（臉頰青春痘斑），Subungual/ Periungual fibromas（青少年指甲纖維瘤），Facial angiofibrosis），新生兒infantile spasm）；Tx＝mTOR inhibitor（Everolimus），癲癇藥
+  - Tuberous sclerosis（結節硬化症TS，Ch9/16突變⭢mTOR過度活化，無有效Tx）：SS＝皮膚病變（ash leaf低色素白斑，Shagreen patch（腰薦鯊魚皮粗糙斑），Sebaceous adenomas（臉頰青春痘斑），Subungual/ Periungual fibromas（青少年指甲纖維瘤），Facial angiofibrosis），新生兒infantile spasm）；Tx＝mTOR inhibitor（Everolimus、Sirolimus），癲癇藥（Vigabatrin for infantile spasm）
   - Sturge-Weber syn（腦血管床Abnl⭢皮質鈣化/萎縮，癲癇）：SS＝Port-wine stain（葡萄酒斑面部血管瘤），leptomeningeal angioma（腦膜血管瘤），buphthalmos（牛眼先天青光眼），<1y/o 酒斑對側Seizure；DDx＝Xray（蛇軌鈣化），CT（皮質鈣化/萎縮），MRI（leptomeningeal enhencement，pial angioma）；Tx＝<1y/o手術（可防弱智），抗癲癇藥，Laser for Port-wine stain）
   - Von Hippel-Lindau syn（VHL，體顯Ch3突變⭢HIF-1α過度活化⭢血管增生，無有效Tx）：SS＝全身長瘤（CNS/retina hemangioblastoma血管母細胞瘤，RCC，pheochromocytoma，pancreatic cyst/NET）；Tx＝手術清除，每年F/U
 - Neuromuscular dx
@@ -186,9 +197,11 @@
     - Tonic-clonic（GTC）：全身性強直陣攣，Apnea，咬舌
     - Myoclonic（短暫對稱重複肌陣攣）：Benign type 2歲前消失，Complex type預後差（合併上URI，腦缺血）
     - Infantile Spasm（4-8m/o對稱收縮，男多）：symptomic type會智障，EEG ＝hypsarrhythmia（不規則高振幅亂放電）
+  - Status epilepticus（SE，癲癇重積）：小兒也會；單次發作>5min或反覆發作中間未恢復意識；Tx＝ABC/血糖＋IV lorazepam ⭢ levetiracetam/fosphenytoin/valproate
+    - Focal SE with impaired consciousness（局部癲癇重積合併意識障礙>10min）：focal seizure持續/反覆＋意識不清/自動症；可無明顯抽搐，需EEG排除NCSE
 - Acute Bacterial Meningitis：高致死率，PEDS可能沒有neuro sign；SS＝皮膚purpura，DIC，畏光，囪們突出，發燒，頭痛，頸部僵硬；
 
-  - 菌株：新生兒＝GBS，E.coli，Listeria；3m/o-18y/o＝N. meningitidis，S. pneumoniae；DDx＝Kernig/Brudzinski+，LP（CSF細菌培養，細胞計數，糖蛋白濃度），CT（排除腦膿瘍/腦水腫）; Tx＝抗生素（3代Cepha+Vancomycin，<3 m/o 加 Ampi cover Listeria；duration約10-14 days），Rifampin for Hib感染照護者
+  - 菌株：新生兒＝GBS，E.coli，Listeria；3m/o-18y/o＝N. meningitidis（常瘀青紫斑, 死亡率比S.pneumoniae低, 療程短5-7days），S. pneumoniae；DDx＝Kernig/Brudzinski+，LP（CSF細菌培養，細胞計數，糖蛋白濃度），CT（排除腦膿瘍/腦水腫）; Tx＝抗生素（3代Cepha+Vancomycin，<3 m/o 加 Ampi cover Listeria；duration約10-14 days），Rifampin for Hib感染照護者
 - Neural development：
 
   - 粗動作＝2抬4翻7坐8爬9站12走18跳
@@ -284,6 +297,7 @@
 
 - 兒童癌症中約 85-90% 為偶發（sporadic，e.g. 白血病），僅 10-15% 與先天性遺傳疾病有關（如 Li-Fraumeni 症候群、神經纖維瘤病 NF1、Beckwith-Wiedemann 症候群等）
 - Leukemia（from骨髓幹細胞）：Lymphoid淋巴性（ALL）和Myeloid（AML）
+
   - ALL： 1st PEDS cancer（AML四倍），男>女，白>黑；RF＝Down's syn，Klinefelter syn，Turner syn，Neurofibromatosis，Paroxysmal nocturnal hemoglobinuria；SS＝9成貧血,血小板低下；DDx＝early pre-B cell CD10（＋），WBC<1w，骨髓>25%blasts；Tx＝Induction（高劑量化療）⭢Consolidation（消除殘餘＋中樞預防（頭部放射/脊髓投藥））⭢Maintenance（低劑量化療）
     - 預後好：1-9 y/o,發病時WBC<5w，hyperdiploidy超二倍體（染色體總數>50）
     - 預後差：<1 y/o，發病時WBC>5w，hypodiploidy<40
@@ -291,11 +305,13 @@
     - 預後好：t（8;21），t（15;17），inv（16），<50 y/o，Down's
     - 預後差：黑人，診斷時WBC>100w，FLT3-ITD mutation
 - Lymphoma（from淋巴組織）：Hodgkin's和Non-Hodgkin's
+
   - Hodgkin's lymphoma（病程較非哈金慢）：年紀大兒童為主，有感染史，subtype 以 Nodular sclerosing為主（cf. 老人以Lymphocyte-rich CHL，mixed cellularity為主，post EBV）；SS＝無痛淋巴腫（頸部最常見），上呼吸困難，B symptoms（發燒，盜汗，體重減輕）；DDx＝Reed-Sternberg cell（雙核大細胞，Owl's eye）；Tx＝化療/放療
   - Non-Hodgkin's lymphoma：<10y/o多非哈金；Subtype 以 Burkitt's lymphoma 為主（80%,（t（8;14）； SS＝腸套疊starry sky appearance）
 - 兒童腦瘤（2nd PEDS cancer，Mainly實質腫瘤，好發<10y/o，SS＝癲癇，IICP signs；DDx＝MRI，CT；Tx＝手術切除+化療/放療）
 
   - 天幕上Tumor（雙峰分布<2y/o，青年）：Craniopharyngioma（from Rathke's pouch，SS＝顳側視野缺損），Pineal tumor（SS＝水腦，Parinaud syndrome（triad=Vertical/Upward Gaze Palsy，Convergence-Retraction Nystagmus向上看時眼震，Light-Near Dissociation瞳孔光反射消失））
+    - 松果體區腫瘤快分：Germinoma/GCT最多考（放療敏感；鞍上/下視丘-垂體軸侵犯⭢DI尿崩） vs non-germinomatous GCT（marker：β-hCG＝choriocarcinoma/可甲亢或男童性早熟；AFP＝yolk sac） vs Pineoblastoma（高度惡性pineal parenchymal tumor/PNET-like，IICP＋Parinaud）
   - 天幕下Tumor（2y/o-青年（差值天幕上））：Cerebellar astrocytoma（最常見，預後好），Brainstem glioma（pons，預後極差）Medulloblastoma（小腦蚓部），Ependymoma（水腦）
 - Wilms tumor（1st embryonal tumor in Taiwan，1st PEDS原發腎腫瘤，2nd PEDS Abd tumor）：Ch11 WT1突變；SS＝WAGR syn，Denys-Drash syn，Beckwith-Wiedemann syn，臟器肥大，腎缺血高血壓，tumor硬平滑少跨中線（cf. NB）；DDx＝Abd Echo，Xray無鈣化（鑑別NB）；Tx＝手術切除+化療/放療
 
@@ -305,6 +321,10 @@
 - Retinoblastoma：Ch13 RB1異常，Mainly單側偶發（雙側多年紀小）；SS＝leukocoria（白瞳孔），strabismus斜視；DDx（鑑別Catarct）＝眼底鏡（白色腫瘤，鈣化），CT（鈣化）; Tx（保留單眼視力）＝手術切除
 - Osteosarcoma（1st PEDS惡性骨腫瘤，好發青年長高期）：RF＝{hereditary retinoblastoma，生長太快的骨頭}；SS＝localized 骨痛；DDx＝Xray（sunburst pattern，Codman's triangle），骨切片，LDH，AKP⭡；Tx（放療效果差）＝手術切除+化療
 - Ewing's sarcoma（2nd PEDS惡性骨腫瘤，1st <10y/o惡腫）：RF＝{年幼，白人}；SS＝全身fever，weight loss；DDx＝ 細針抽吸; Tx（放療效果佳，cf. OS）＝化療/放療；預後差＝{>10y/o男，骨盆侵犯，LDH高}
+- Rhabdomyosarcoma（RMS，橫紋肌肉瘤）：兒童最常見 soft tissue sarcoma（軟組織肉瘤），可長在任何位置；常見 head and neck、genitourinary tract（GU tract，泌尿生殖道）、四肢/軀幹；DDx＝影像評估＋biopsy證實；Tx＝surgery＋chemotherapy＋radiation therapy多模式治療
+
+  - Sarcoma botryoides（葡萄狀肉瘤）＝botryoid-type embryonal RMS；幼女/新生兒陰道口紅色易出血、葡萄串狀腫塊要想到它。
+  - 預後部位：orbit（眼眶）與 non-parameningeal head and neck 較好；parameningeal、四肢、轉移病灶較差。
 - Teratoma：Mainly 長在Sacrococcygeal，from germ cell，∈良性有鈣化腫瘤；DDx＝AFP，CEA，β-hCG；Tx＝chemo＋手術＋術後chemo（BEP＝Bleomycin，Etoposide，Cisplatin）
 
 ## 遺傳學（考題3）
@@ -322,7 +342,7 @@
     - Galactosemia半乳糖血症：ch9體隱⭢GALT缺乏，眼肝腦受損，死於E.coli感染敗血症
     - 甲基丙二酸血症：生長慢酸血症 Met-CoA堆積；DDx＝尿中Methylmalonic acid⭡，血中glycine⭡
     - Fabry dx：脂質代謝abnl，心腎腦病變，灼燒感
-    - Pompe dx：肝醣儲積症二型；SS＝無力，腦病，低血糖，肝大，氣管炎
+    - Pompe dx（GSD II, AR, GAA基因/acid α-glucosidase缺乏＝lysosomal glycogen堆積）：嬰兒型<1y＝floppy baby＋肥厚型心肌病/心臟肥大＋肝大；晚發型（較常見）＝近端肌無力＋呼吸肌弱；Bx＝PAS（+）溶小體空泡
     - G6PD
     - CAH
 - 染色體異常dx
@@ -343,18 +363,21 @@
 - 熱量需求：100kcal/kg/day（母乳/配方奶熱量皆2/3 kcal/ml，一日要150cc/kg）
   - 熱量需求以出生體重計算；足月新生兒可生理性掉體重≤10%（出生後3-5天最低），10-14天回出生體重；>10%或未回升要評估餵食不足/脫水/疾病
 - 保溫箱indication：isolation（infection ，免疫缺陷），保溫保濕（preterm），照光（jaundice），方便觀察（可脫衣）
+- 嬰兒猝死症候群（Sudden Infant Death Syndrome, SIDS）：<1y/o, 男多, 2-4m/o高峰
+  - 安全睡眠5不：<1歲仰睡（不趴/不側）、不用枕/塑型枕、同室不同床、不悶熱（睡袋/防踢被取代厚被）、不鬆軟（移除床圍/玩偶/厚被）
 - 先天感染dx
   - TORCH：Toxoplasmosis（貓，腦鈣化，chorioretinitis），Other（Syphilis，VZV，Parvovirus B19（貧血水腫）），Rubella德麻（聽障，白內障，心臟畸形），CMV（1st先天感染，腦鈣化，聽損，小頭），HSV（皮膚水泡，腦炎）；DDx＝血清IgM（Toxo），Tzanck smear（HSV，VZV），Urine culture（CMV），RPR（梅毒），PCR
 - Developmental dysplasia of hip（DDH）：1st新生兒骨科病； RF＝第一胎，女，足位生產（Breech presentation），家族史； SS＝患髖abduction受限； DDx： Ortolani test（外展髖關節評估可否復位，非治療），Barlow test（測試髖關節是否可被推出髖臼），Galeazzi test（患側膝蓋較低），Echo（6m內），Xray（>6m，已骨化）； Tx＝Pavlik harness（6m內），Reduction（6m後），Osteotomy（>2y/o）
 - Gestational diabetes mellitus（GDM，妊娠糖尿病，50%孕婦20年內DM，子女多肥胖）：RF＝非裔美國人，肥胖，GDM hx，多胞胎，多囊卵巢；DDx＝OGTT（口服75g葡萄糖水血糖>180（1hr），>153（2hr），>92（fasting））
   - SE：Materal DKA（DM I）/HHNK（DM II），流產，畸形，巨嬰（LGA，同周數體重過重），NB三高二低（高：呼吸rate，紅球，膽紅素，低：血鈣，血糖（∵胎兒高胰島素血症））
   - Tx：飲食運動（第一線），藥物（第二線，Insuline，口服血糖藥物如Glyburide，Metformin，對胎兒無影響）
+- Fetal heart rate tracing（FHR tracing，胎心音監測）Category III：sinusoidal pattern（正弦波型）直接算Cat III；或 absent baseline variability（無基線變異）＋recurrent late decelerations / recurrent variable decelerations / bradycardia；代表胎兒酸血症/窘迫風險高，需立即 intrauterine resuscitation，嚴重持續則準備 delivery。
 - Necrotizing enterocolitis（NEC，1st危及生命的新生兒GI急症，嚴格NPO）：RF＝早產，腸道菌叢移生，配方奶；多在開始餵食後/出生2-3wk；SS四聯＝嗜睡/活力差，腹脹，含膽汁嘔吐/feeding intolerance，血便；嚴重可穿孔/休克；DDx(不可以endo)＝Xray（pneumatosis intestinalis，腸壁積氣）
 - NB 呼吸dx；Tx＝IV，anti，外科
   - Respiratory distress syndrome（RDS，hyaline membrane dx）：RF＝GA<37，GDM，男嬰；成因＝肺表面活性劑（Surfactant）不足；SS＝出生6hr，呼吸急促，胸骨凹陷，鼻翼扇動；DDx＝CXR（低肺容積，ground-glass，air bronchogram），切片（hyaline membrane），產前Lecithin/Sphingomyelin ratio<2.0，shake test（-，胃液+酒精＝沒泡泡）；Tx＝產前給betamethasone，保溫箱，Surfactant
   - Transient tachypnea of newborn（TTN）：RF＝C/S；成因＝胎兒肺液吸收不良（哭不夠，沒有陰道擠壓）；SS＝出生立即，呼吸急促，胸骨凹陷，鼻翼扇動；DDx＝CXR（hyperinflation，小葉間fluid，心肥大），shake test（+，胃液+酒精＝有泡泡）；Tx＝保溫箱，O2
   - Meconium aspiration syndrome（MAS，胎便症候群）：RF＝GA>40；成因＝胎便吸入肺部⭢阻塞/發炎；SS＝身上有胎便（10%會有MAS）；DDx＝CXR（patchy infiltrate，氣胸，胎便染色羊水；Tx＝插管抽吸
-  - Apnea of prematurity（慢跳，不呼吸）：RF＝GA<37；分類＝{Obx type（有起伏沒氣），Central（沒起伏），Mix（1st，>60%）}；SS＝呼吸暫停>15s，心跳慢，血氧降；Tx＝刺激（拍背），CPAP，咖啡因，茶鹼（for NB therapeutic window窄，像是Asthma長期就不適合茶鹼）
+  - Apnea of prematurity（慢跳，不呼吸）：RF＝GA<37；分類＝{Obx type（有起伏沒氣），Central（沒起伏），Mix（1st，>60%）}；SS＝呼吸暫停>20s，心跳慢，血氧降；Tx＝刺激（拍背），CPAP，咖啡因，茶鹼（for NB therapeutic window窄，像是Asthma長期就不適合茶鹼）
   - Congenital diaphragmatic hernia（CDH）：SS＝late onset喘，舟狀腹；Tx＝插管，禁用面罩
   - Persistent pulmonary hypertension of newborn（PPHN）：RF＝足月 ∪ GA>40，birth asphyxia（出生時窒息），MAS，感染史，懷孕用NSAIDs（動脈導管收縮）；SS＝出生12hr內，呼吸急促；DDx＝Echo（右心負荷增加（往左心凸，三尖瓣逆流）），hyperoxia test（-，給氧PaO2也拉不到100） 血液培養（排除sepsis）; Tx＝O2，NO（肺血管擴張），ECMO（體外膜氧合），surfactant，矯正酸血症
 - 新生兒評估
@@ -396,7 +419,8 @@
     - Bullous impetigo：S.aureus 外毒素為主（同SSSS），<5y/o 無痛水泡（破了會膿瘡）；SS＝水泡，粘膜sparing；Tx＝局部抗生素，全身抗生素（嚴重）
     - Ecthyma：Impetigo 到真皮，下肢為主，癒合留黑痂疤
   - Furuncle（癤，單顆）& Carbuncle（癰，多顆）：S.aureus感染，年輕人夏天毛囊炎（手腳掌sparing）；SS＝紅腫熱痛，膿頭；Tx＝熱敷，Anti（Mupirocin，Retapamulin），引流
-  - Erythrasma紅癬：Corynebacterium微細棒桿菌感染，好發男性褶皺/粘膜；SS＝不規則深色紅斑；DDx＝Wood's lamp（紅色螢光）
+    - cf. Hidradenitis suppurativa（HS，化膿性汗腺炎/反常性痤瘡）：不是汗腺細菌感染，是毛囊阻塞/慢性發炎；好發腋下/鼠蹊/肛周，反覆痛性結節、膿瘍、竇道、疤痕；Hurley＝I膿瘍無竇道/疤，II反覆且分離病灶＋竇道/疤，III瀰漫互通竇道
+  - Erythrasma紅癬：Corynebacterium微細棒桿菌感染，好發男性褶皺/粘膜；SS＝不規則深色紅斑；DDx＝Wood's lamp（珊瑚紅色螢光）
 - 病毒傳染
   - Erythema infectiosum（第五病，Parvovirus B19）：Self-limited；SS＝slapped cheek rash（臉頰紅斑），Lacy reticular rash（身體蕾絲狀紅疹）
   - Molluscum contagiosum（傳染性軟疣，MCV感染）：SS＝皮下圓形半透明肚臍狀小丘疹；DDx＝病理紅色mulluscum body（virus in-clusion）
@@ -407,9 +431,10 @@
 - Scabies（疥瘡，Sarcoptes scabiei感染）：潛伏1mth，SS＝褶皺柔軟skin，夜間嚴重搔癢，皮膚特徵（Burrow山脊，Scabietic Nodule，Hyperkeratosis過度角化）；DDx＝皮膚刮片滴KOH（找到蟲卵/糞便）; Tx＝個人衛生，疥蟎藥（Permethrin）
   - Tx補：Permethrin 1st；Lindane神經毒性大，老人/小孩/孕婦非一線；孕婦避免口服ivermectin；Norwegian/crusted scabies（蟲量高/免疫低下）＝Permethrin + oral ivermectin重複治療
 - Fungus（KOH是gold，Wood's lamp是輔助）
-  - Dermatophytosis（tinea癬，e.g香港腳）：KOH＝hyphae分岔菌絲，Wood's＝綠營光；SS=環狀，脫屑，邊緣活躍，俗稱 ringworm
-    - Onychomycosis甲癬：常由dermatophytes，也可nondermatophytes/Candida；RF＝足癬共病，DM，HIV/免疫低下；SS＝指甲增厚/變色/碎裂；Tx＝口服Terbinafine 1st（griseofulvin效果較差/療程長，非最佳）
-  - Candidiasis：KOH＝pseudohyphae假菌絲（胞芽+菌絲）；SS=紅白斑、衛星病灶、鵝口瘡
+  - Dermatophytosis（tinea癬，e.g香港腳）：KOH＝hyphae分岔菌絲，Wood's＝綠螢光；SS=環狀，脫屑，邊緣活躍，俗稱 ringworm
+    - Onychomycosis甲癬：常由dermatophytes，也可nondermatophytes/Candida；RF＝足癬共病，DM，HIV/免疫低下；SS＝指甲增厚/變色/碎裂；Tx＝口服Terbinafine
+    - 頭顯癬（Tinea capitis）：髮外=Microsporum(Woods綠螢光), 髮內=Trichophyton（無色）；Tx＝口服Griseofulvin、Terbinafine
+  - Candidiasis：KOH＝pseudohyphae假菌絲（胞芽+菌絲）, Wood's無色；SS=紅白斑、衛星狀膿皰、鵝口瘡
   - Malassezia：SS＝新生兒頭部膿疱病（neonatal cephalic pustulosis） ，脂漏性皮膚炎（seborrheic dermatitis），汗斑（Pityriasis versicolor）
     - 汗斑（Pityriasis versicolor）：SS＝軀幹/頸部 hypo/hyperpigmented scaly patches；KOH＝spaghetti and meatball pattern（短菌絲+圓形酵母），Wood's＝黃綠色螢光
 - Sexually transmitted infection（STI）
@@ -461,7 +486,7 @@
 
 ## 乾癬 Psoriasis（考題3）
 
-- 流病特徵：IL17/23，分佈＝雙峰白人（年輕人病程長），男＝女；生理＝角質cell增生週期⭣（抓癢容易增生＝Koebner phenomenon），棘皮層增厚，Th1活化⭢Munro's microabscess（表皮內中性球膿皰），Auspitz sign（刮除鱗屑出現血點），沖洗後紅斑不退，口服Steroid/B-blocker加重；SS＝紅色斑塊覆蓋銀白色鱗屑，關節/指甲侵犯；DDx＝皮膚切片（表皮增厚，Munro's microabscess），Auspitz sign，Koebner phenomenon；Tx＝擦藥（Steroid（不可以用口服! 易rebound flare），VitD，焦油），光療，全身治療（Phototherapy，MTX，Cyclosporine，Biologics（TNF-α/IL17/IL23，-mab））
+- 流病特徵：IL17/23，分佈＝雙峰白人（年輕人病程長），男＝女；生理＝角質cell增生週期⭣（抓癢容易增生＝Koebner phenomenon），棘皮層增厚，Th1活化⭢Munro's microabscess（表皮內中性球膿皰），Auspitz sign（刮除鱗屑出現血點），沖洗後紅斑不退，口服Steroid/B-blocker加重；SS＝紅色斑塊覆蓋銀白色鱗屑，關節/指甲侵犯；DDx＝皮膚切片（表皮增厚，Munro's microabscess），Auspitz sign，Koebner phenomenon；Tx＝擦藥（Steroid（不可以用口服! 易rebound flare），VitD，焦油），光療，全身治療（Phototherapy，MTX，Cyclosporine，Biologics（anti TNF-α/IL17（Secukinumab, Ixekizumab, 有IBD風險）/IL23(Risankizumab, 可降低CD)））
   - Psoriasis vulgaris（尋常型 cf. Pemphigus vulgaris是水泡疾病）：最常見，慢性反覆發作；SS=頭皮，背部，伸側地圖狀/指環狀病灶，銀白鱗屑斑塊，皮膚褶皺處光滑紅斑（cf. 反轉inverse乾癬）
   - Psoriatic arthritis（seronegative）：支持＝dactylitis香腸指，DIP/不對稱關節炎，nail pitting/onycholysis/指甲增厚，頭皮/皮膚乾癬；RF陽性幫助小（反而鑑別RA）
   - Generalized pustular psoriasis，von Zumbusch：口服steroid rebound，突發全身膿皰，會融合成lakes of pus
@@ -487,9 +512,8 @@
 - Pyogenic granuloma（名為化膿性肉芽腫，是血管瘤，not肉芽腫/血管肉瘤）：良性血管增生，好發孕婦/口服retinoid後；SS＝鼻中隔/牙齦，易出血；Tx＝冷凍，電燒
 - Syringoma（汗管瘤）：真皮良性汗腺增生，RF＝女（佔90%），家族史，化妝品使用；SS＝眼周/前胸小黃白色丘疹；Tx＝雷射
 - Seborrheic keratosis（脂漏性角化症，aka老人斑，中年開始長）：1st良性上皮瘤，油蠟狀皮膚，惡性sign＝Laser-Trelat Sign（短時間暴增，懷疑paraneoplastic syndrome）；SS＝手臉褐色/黑色/黃色斑塊，粗糙微癢表面；Tx＝美觀治療即可
--
 - Melanoma（惡性黑色素瘤）：1st皮膚癌死因，淋巴轉移快，tumor越厚預後越差，superficial spreading type最常見（女多，radial phase 2年後劇烈vertical）；RF＝CDKN2a變異，曬太陽，家族史，全身>50顆黑色素母斑；SS＝ABCDE rules（Asymmetry，Border irregularity，Color variation，Diameter>6mm，短時間Enlargement），Hutchinson nail sign（甲黑線延伸到甲周/近端甲皺襞＝subungual melanoma警訊）；DDx＝皮膚切片（不規則增生黑色素細胞），Dermoscopy（網狀/不規則血管，藍灰色斑點），2 phase病灶擴散={radial（上皮層水平擴散）⭢vertical（血管淋巴全身）}；傳統影像（解析度要>1cm），Sentinel lymph node biopsy（預測轉移），PET scan（預測轉移）; Tx＝切除，Dacarbazine（化療），Vemurafenib（BRAF抑制劑，BRAF V600E突變）
-- Basal cell carcinoma（基底細胞癌）：1st皮膚癌，低惡性（95%治癒），Nodular type最常見（cf. Melanoma的Nodular type為2nd）；RF＝老白男；SS＝鼻眼臉involved，Pearl-like不可動硬塊，rodent ulcer（中心潰瘍，biten-like），telangiectasia（血管擴張）；DDx（有明顯病裡pattern，給切片先猜BCC）＝皮膚切片（基底細胞增生，palisading nuclei（核大質少），tumor island（跟非增生區有retraction artifact空隙））；Tx＝Mohs micrographic surgery（邊緣切片檢查free margin）
+- Basal cell carcinoma（基底細胞癌）：1st皮膚癌，低惡性（95%治癒），Nodular type最常見（cf. Melanoma的Nodular type為2nd）；RF＝老白男；SS＝鼻眼臉involved，Pearl-like不可動硬塊，rodent ulcer（中心潰瘍，biten-like），telangiectasia（血管擴張）；DDx（有明顯病裡pattern，給切片先猜BCC）＝皮膚切片（基底細胞增生，palisading nuclei（核大質少），tumor island（跟非增生區有retraction artifact空隙））；Tx＝Mohs micrographic surgery（邊緣切片檢查free margin）, Hedgehoginhibitor（Vismodegib，for advanced/metastatic BCC）
 - Squamous cell carcinoma（鱗狀細胞癌）：2nd皮膚癌，RF＝老男，太陽，化學暴露；SS＝曝曬部位邊緣清晰病灶（隆起硬化，底層紅色肉芽組織）；DDx＝皮膚切片（不規則增生鱗狀細胞，keratin pearl（角化珍珠））；Tx＝同BCC
 
   - Bowen's disease（SCC in situ）＝SCC早期，紅色鱗屑斑塊（atypical keratinocytes增生但沒穿過基底膜）；Tx=手術切除
@@ -506,6 +530,7 @@
 - NB（略過）
 - Ichthyosis vulgaris（尋常魚鱗癬，別名穿山甲/泡泡龍）：Profilaggrin突變⭢filaggrin缺乏⭢魚鱗狀粗糙龜裂；SS＝1y/o開始，四肢伸側粗糙鱗屑，Keratosis pilaris角化增生，手腳掌紋增厚；Tx＝保濕，軟化角質（尿素軟膏）
 - Darier's dx：體顯，ATP2A2突變⭢SERCA2鈣泵異常；SS＝青春期開始，褶皺處泛油，過度角化丘疹，棕色斑塊，指甲紅白直條紋，夏日加重；DDx=皮膚切片（corps ronds（棘層細胞核染色變圓），corps grains（角質層細胞核染色變小））
+  - cf. Hailey-Hailey（AD, ATP2C1/Golgi）：對磨處（腋下/胯下/頸）糜爛紅斑/裂隙/水泡, 熱流汗摩擦惡化（對磨處, cf. Darier）, 指甲縱向白紋, 病理＝棘層鬆解dilapidated brick wall；Darier（AD, ATP2A2/ER SERCA2）＝脂漏區油膩疣狀角化丘疹, UV/熱惡化, V-shaped nail notch, 病理＝棘層鬆解＋dyskeratosis（corps ronds/grains）
 
 # 精神科（考題48）
 
@@ -514,7 +539,12 @@
 - Psy診斷四要素：症狀，時長，r/o症狀，function impairment
 - 反社會人格違常不在台灣精神病範疇
 - 考試技巧：大部分盛行率都是1%，考試猜題用
-- Catatonia（僵直狀態）：住院病人最常見相關精神病＝Mood disorder（Bipolar/MDD）> Schizophrenia；SS=活動減少/增加可交替，stupor/rigidity，mutism，waxy flexibility，echolalia/echopraxia；抗精神病藥可能誘發/惡化；Tx=BZD（lorazepam）/ECT
+- Catatonia（僵直狀態）：住院病人最常見相關精神病＝Mood disorder（Bipolar/MDD）> Schizophrenia；SS(無Nihilism虛無妄想)=活動減少/增加可交替，stupor/rigidity，mutism，waxy flexibility，echolalia/echopraxia、Mutism、Negativism；抗精神病藥可能誘發/惡化；Tx=BZD（lorazepam）/ECT
+
+## Brain stimulation（腦刺激治療）（考題0）
+
+- ECT（electroconvulsive therapy，電痙攣治療）：誘發可控制seizure，需麻醉；Ind＝severe/treatment-resistant MDD、psychotic depression、自殺/拒食/妊娠需快速反應、catatonia（BZD無效或malignant）、severe mania/部分schizophrenia；特色＝起效快、急重症比TMS強
+- TMS/rTMS（transcranial magnetic stimulation，經顱磁刺激）：非侵入、門診、不需麻醉、不誘發seizure；Ind＝treatment-resistant depression（常見考點）、OCD；特色＝較安全但起效慢、不是自殺/psychosis/catatonia急救首選
 
 ## 精神科藥物（考題4）
 
@@ -549,8 +579,10 @@
 - Dysthymic Disorder（輕鬱症，6%盛行率）：慢性（>2y日復一日，青少年>1y），6C2症狀（胃口⭣，失眠，無力，低自尊，猶豫不決，無望感）
 - Double Depression雙鬱症：輕鬱症轉MDD
 - Bipolar disorder：
-  - Bipolar type I（主Mania>1wks）：1%盛行率，女=男，多單身/離婚者，20-30y/o發病，平均發作9次，病程3m，50%慢性化；SS=躁期（精力充沛，誇大妄想，減少睡眠需求），抑鬱期（同MDD症狀）; Tx＝Mood stabilizer（Lithium，Valproate，Carbamazepine，Gabapetin），抗精神病藥物（躁期），BZD（輔助）；預後好=發作短，年紀大，無自殺念頭
+  - Bipolar type I（主Mania>1wks）：1%盛行率，女=男，多單身/離婚者，20-30y/o發病，平均發作9次，病程3m，50%慢性化；SS=躁期（精力充沛，誇大妄想，減少睡眠需求），抑鬱期（同MDD症狀）；預後好=發作短，年紀大，無自殺念頭
   - Bipolar type II（主MDD）：從未Manic（頂多hypomanic=發作期間不失能），發病後5年內不太會變type I
+  - Tx快分：躁期＝Lithium/Valproate ± atypical antipsychotic；雙極鬱期first-line＝Lithium, Quetiapine, Lurasidone, Lamotrigine；避免SSRI/SNRI單用（manic switch）
+    - Bipolar depression口訣＝LQC+O：Lurasidone（單用或合併Li/VPA）, Quetiapine（單用）, Cariprazine（單用）, Olanzapine+Fluoxetine（合併；非olanzapine單用）；c.f Risperidone對雙極鬱期無效
 
 ## 焦慮性疾患（SSRI好用）（考題6）
 
@@ -572,10 +604,18 @@
 - Anorexia nervosa（厭食症）：媒體/表演者女多，多合併重鬱症，social phobia，OCD，1/4預後差/死亡；分類=Restricting type（不暴食/不吐），Binge-eating/purging type（暴食/吐）；SS（>3m才可確診）=強烈害怕變胖，體像扭曲，連續>3m無月經；Tx=hydration，心理治療，藥物有限
 - 人格違常障礙（Personality disorder）：持續的行為/認知模式偏離文化期望，造成function impairment；分類＝Cluster A（古怪怪異，包括Paranoid，Schizoid，Schizotypal），Cluster B（戲劇化／情緒化／衝動型，包括Antisocial，Borderline，Histrionic，Narcissistic），Cluster C（焦慮恐懼，包括Avoidant，Dependent，Obsessive-compulsive）
 
+## 睡眠疾患（考題0）
+
+- Narcolepsy type 1（猝睡症合併cataplexy猝倒）：MOA＝hypocretin/orexin（下視丘促清醒神經胜肽）deficiency；SS＝白天嗜睡、猝倒、sleep paralysis睡眠癱瘓（鬼壓床）、hypnagogic hallucination入睡幻覺；Tx＝白天嗜睡用stimulant/modafinil，猝倒可用SSRI/SNRI/TCA或sodium oxybate
+
 ## 物質相關dx（考題6）
 
 - 物質依賴（>3症狀）：耐受性⭡，戒斷症狀，用了會更想用，放棄生活...
 - 物質濫用（>1症狀）：造成function impairment，危險使用，法律問題，社會/人際問題
+- 中毒/戒斷快辨：中毒＝藥效過強；戒斷＝停藥後rebound（opioid瞳孔相反最常考）
+  - stimulant/amphetamine/cocaine：中毒＝交感亢進（tachy/HTN/發汗/高熱）、mydriasis、躁動失眠、paranoid psychosis/觸幻覺（蟲爬）、seizure；戒斷＝crash後疲倦嗜睡或失眠、憂鬱/anhedonia、食慾↑、生動夢、craving（少見致命）
+  - opioid/heroin：中毒＝CNS/呼吸抑制＋miosis（昏迷針尖瞳孔；缺氧後可放大），Tx＝naloxone；戒斷＝流感狀流淚流鼻水、打呵欠、mydriasis、冒汗/piloerection、腹瀉/嘔吐/腹絞痛/肌痛（難受但少致命）
+  - alcohol/BZD：中毒＝CNS抑制、disinhibition、ataxia共濟失調、slurred speech、nystagmus眼球震顫/呼吸抑制；戒斷＝GABA withdrawal：tremor、焦慮失眠、自律神經亢進，重症幻覺/seizure/delirium tremens（會致命；酒精戒斷Tx＝BZD＋thiamine）
 - Alcohol（濫用=男20%，女10%）：死因多自殺/癌症/心肝病；共病=反社會人格，mood disorder，MDD，suicide，Wernicke-Korsakoff syn（∵缺thiamine；分類=Wernicke（急性平衡感異常），Korsakoff（慢性不可逆記憶損失,幻想）；Tx=給Thiamine（Vit B1））
 - 中樞興奮劑（stimulant，e.g. amphetamine，cocaine；for ADHD/猝睡症）：中毒＝失眠、睡眠剝奪、焦慮、易怒、paranoid psychosis（幻聽為主，1st聽幻覺，2nd觸幻覺（有蟲在爬））；戒斷（多數停用後快速改善）＝嗜睡、疲倦、憂鬱、夢魘/生動夢；Tx＝停用＋BZD（lorazepam，急性首選，可同時緩解躁動、自律神經過度興奮、預防癲癇與心律不整），antipsychotic（e.g. Haldol，短期使用）
   - amphetamine：阻擋多種神經物質回收(Dopamine，Norepinephrine，Serotonin)，3日內尿殘留(>50%直接排出)，鹼化尿液會再吸收
@@ -583,14 +623,15 @@
 
 ## 老年精神（考題0）
 
-- 老年譫妄（delirium）：急性、波動性注意力/意識障礙；先找可逆原因（感染，代謝，缺氧，疼痛，尿滯留/便秘，藥物）；常見誘發藥＝anticholinergics，BZD，opioids（尤其meperidine），TCA
+- 老年譫妄（delirium）：急性腦衰竭（aka預後極差）、波動性注意力/意識障礙；先找可逆原因（感染，代謝，缺氧，疼痛，尿滯留/便秘，藥物）；常見誘發藥＝anticholinergics/BZD，opioids（尤其meperidine），TCA
   - Tx＝矯正原因＋非藥物（定向感，睡眠，眼鏡/助聽器，減少約束）；躁動型hyperactive delirium危及安全時可短期Haloperidol（高效價typical antipsychotic，抗膽鹼性極低，譫妄風險相對低；注意QT/EPS）
 - 老年憂鬱症：RF（年紀無關）=失去伴侶，慢性疾病；SS=無精神，注意力低，睡眠問題，伴隨認知障礙（dementia syn of drpression）
 - Delusional disorder：1st=被害妄想，其他=色情妄想（幻想高社經者愛她，女多），誇大妄想；DDx=幻想內容是可能成真的，觸/嗅幻覺為主，無負性症狀/聽幻覺 （c.f Scz）；Tx=抗精神病藥
 
 ## 兒童精神（考題0）
 
-- ADHD（盛行率5-10%，成因不明，多共病症）：男/女=10，SS（2C1）=注意力差/過動；DDx=12y/o前發病，>6m；Tx：中樞興奮劑（70%有效，Methylphenidate，dextroa，phetamine）
+- ADHD（盛行率5-10%，成因不明，多共病症，高遺傳率（>75%））：男/女=10，SS（2C1）=注意力差/過動；DDx=12y/o前發病，>6m；Tx：中樞興奮劑（70%有效，Methylphenidate，dextroa，phetamine）
+- Disruptive mood dysregulation disorder（DMDD，侵擾性情緒失調症）：慢性易怒＋每週爆怒>3次；不可共病＝Bipolar/ODD/IED（優先序：Bipolar > DMDD > ODD；有mania/hypomania先診Bipolar）；可共病＝ADHD、MDD、焦慮症、Conduct disorder
 - Autistic disorder：男/女=5，女發病多智障；SS=回應少，視覺/機械表現佳；預後好=IQ高，5-7y/o可講話，無seizure；Tx=行為治療，藥物for症狀治療（Risperidone/Aripiprazole(FDA proved減少irritability)，Methylphenidate（改善ADHD症狀））
 - Tourette's disorder：Motor tics（7y/o）⭢Vocal tics（11y/o），男/女=3，50%合併ADHD/ OCD；Tx=抗精神病藥（Haldol，pimozide），clonidine，SSRI for 合併OCD
 
@@ -624,6 +665,7 @@
   - 聽力理解：顳葉41/42聽覺⭢顳葉22 Wernicke's理解
   - 理解後回應：顳葉22 Wernicke's理解⭢Arcuate⭢額葉44/45 Broca's表達⭢額葉4運動執行
   - Dx=Wernicke's aphasia（理解障礙，流利但無意義語言），Broca's aphasia（表達障礙，不流利但有意義語言），Conduction aphasia（Arcuate破壞，理解/表達正常；但複誦障礙），Anomic aphasia（額葉39 Angular Gyrus破壞，命名障礙），Global aphasia（額頂顳perisylvian region中風，理解/表達障礙，只能反應情緒喊叫）
+  - cf. Apraxia（失用症，非肌力/感覺/協調問題）：ideomotor apraxia＝懂動作概念但「照指令/模仿」做不出熟悉動作（e.g. 叫他揮手/假裝刷牙不會）；ideational apraxia＝動作概念/多步驟順序壞掉（e.g. 牙刷牙膏用途或泡咖啡順序錯）；Constructional apraxia＝畫圖/拼圖困難；Limb-kinetic apraxia＝精細動作困難（e.g. 扭鑰匙）
 - 邊緣系統（情緒/記憶）=Hippocampus（記憶），Amygdala（情緒）；Hippo缺血=Transient global amnesia（TGA，短暫性全面性失憶⭢不斷問相同問題；DDx=排除外傷，癲癇，偏頭痛；預後好，不會中風）
 - 12對腦神經（1x,2丘，345中腦，678橋腦，9101112延腦）：
 
@@ -664,13 +706,13 @@
 - 腦出血
 
 
-  | 類型                 | 影像形態                     | 出血來源               | 關鍵臨床特徵                                     |
-  | -------------------- | ---------------------------- | ---------------------- | ------------------------------------------------ |
-  | EDH （硬膜外）       | 雙凸鏡形、**不跨縫**         | 中腦膜動脈（顳骨骨折） | 清醒期（lucid interval）後急速惡化               |
-  | SDH （硬膜下）       | 新月形、**跨縫**             | 橋接靜脈撕裂           | 急性／慢性；老人、酒精濫用高風險                 |
-  | SAH （蜘蛛網膜下）   | 腦池積血                     | 動脈瘤破裂             | 雷擊頭痛（worst headache of life）；腦膜刺激陽性 |
-  | ICH （腦內出血）     | 深部圓形血腫                 | 穿通小動脈（高血壓）   | 基底核、視丘、橋腦好發；抗凝血劑為另一大原因     |
-  | Subgaleal hemorrhage | 頭皮下瀰漫腫脹、**跨縫跨囟** | emissary v.導靜脈撕裂  | 新生兒（產鉗/真空吸引）；可大量失血致休克        |
+  | 類型                 | 影像形態                         | 出血來源               | 關鍵臨床特徵                                     |
+  | -------------------- | -------------------------------- | ---------------------- | ------------------------------------------------ |
+  | EDH （硬膜外）       | 雙凸鏡形、**不跨縫**             | 中腦膜動脈（顳骨骨折） | 清醒期（lucid interval）後急速惡化               |
+  | SDH （硬膜下）       | 新月形、**跨縫**                 | 橋接靜脈撕裂           | 急性／慢性；老人、酒精濫用高風險                 |
+  | SAH （蜘蛛網膜下）   | 腦池積血                         | 動脈瘤破裂             | 雷擊頭痛（worst headache of life）；腦膜刺激陽性 |
+  | ICH （腦內出血）     | 深部圓形血腫                     | 穿通小動脈（高血壓）   | 基底核、視丘、橋腦好發；抗凝血劑為另一大原因     |
+  | Subgaleal hemorrhage | 頭皮建模下瀰漫腫脹、**跨縫跨囟** | emissary v.導靜脈撕裂  | 新生兒（產鉗/真空吸引）；可大量失血致休克        |
 - 頭部外傷/TBI腦內出血（contusion/traumatic ICH；非自發性hemorrhagic stroke）：Goal＝避免secondary brain injury（缺氧、低血壓、過度換氣造成腦缺血）
 
   - 初始處置：ATLS ABC；GCS≤8插管保護airway，C-spine collar固定頸椎，低血壓立即輸液/輸血維持CPP
@@ -684,9 +726,10 @@
 ## 癲癇（考題5）
 
 - 特徵：無預兆，立刻失憶，短暫（<5min），可能咬舌/頭痛 （c.f 昏厥=有預兆，慢慢失憶，只有幾秒，不咬舌/頭痛）
-- 年齡分佈：嬰兒（Actue CNS infection，Perinatal hypoxia），<12y/o（Febrile seizure），青年-中年（Trauma，Infection，Genetic），>35y/o（CVA，Tumor）
+- 年齡分佈：嬰兒（Actue CNS infection，Perinatal hypoxia），<5y/o（Febrile seizure），青年-中年（Trauma，Infection，Genetic），>35y/o（CVA，Tumor）
 - 症狀分類：Partial（Simple（意識不受影響，e.g. Jacksonian），Complex（多顳葉；Tx=Carbamazepine（1st line）⭢Phenytoin）和Generalized（GTCS（大發作，意識混亂），Absence（臉部呆滯，影響學習）；Tx=Valproic Acid），Status epilepticus（反覆發作，持續>5min，導致心律不整； Tx=IV Lorazepam，levetiracetam/fosphenytoin/valproate）
 - Anti-Epileptic drugs：分為Na channel blocker（Partial首選；e.g. Phenytoin，Carbamazepine（三叉痛；禁用於HLA-B1502），Lamotrigine）,T-type Ca channel blocker（失神發作；e.g. Ethosuximide for Absence seizure），Na/Ca（Valproic Acid，畸胎性孕婦禁用），GABA potentiator（BZD（Lorazeoam for重積），Barbiturate）
+- Neuromodulation（神經調控, for drug-resistant epilepsy）：不是根治, 目標＝降低seizure frequency；VNS（vagus nerve stimulation, 迷走神經刺激）＝周邊刺激, 較廣泛/可用於非切除候選；DBS-ANT（deep brain stimulation of anterior nucleus of thalamus, 前視丘核深腦刺激）＝癲癇網路調控；RNS（responsive neurostimulation）＝偵測到發作樣腦波才局部刺激, 適合1-2個明確foci但切除風險高者
 
 ## 頭痛（考題1）
 
@@ -731,42 +774,50 @@
 - Ischemic stroke：75%stroke；主要原因=Athero-thrombotic（中大血管週狀硬化，∵DM/高血脂導致血小板聚集），Cardio-Embolic（MCA上支堵塞（多影響灰質），併發seizure），Lacunar infarction（小動脈堵塞（多影響白質，Mainly Putamen），∵HTN，男，抽菸，喝酒，DM）；DDx=CT（2-48hr低密度，<2hr看不到），MRI（30min內DWI/T2高密度），Carotid ultrasound（頸動脈狹窄），Echocardiography（心臟栓塞來源）
   - TIA（transient ischemic attack）：短暫局灶性神經功能缺損（臉手腳無力/麻、失語、黑矇等）且無急性梗塞；多數<1hr，需當stroke warning緊急評估（MRI DWI、血管/心臟來源、二級預防）
   - SS=ACA（下肢無力，小便失禁），MCA（上肢無力，失語症（左側），Anosognosia半側忽略/空間感喪失（右側）），PCA（雙眼同邊對側偏盲，記憶喪失），ICA（Amaurosis fugax單側暫時黑矇），BA/VA（四肢癱瘓，∵腦幹內側多運動神經纖維），PICA（對側肢體/同側臉麻，Horner's syn（同側瞳孔縮小，眼瞼下垂，無汗），∵腦幹外側多交感副交感纖維）
-  - Tx（維持<220/120血壓即可，血糖控制140-180）＝IV alteplase/tPA（符合條件且<4.5hr；不要因等EVT延誤），EVT血栓移除術（大血管阻塞如ICA/M1/M2；小血管/lacunar infarct不適用；tPA禁忌/超時但LVO符合條件可直接EVT；前循環通常<6hr，符合DAWN/DEFUSE-3影像mismatch可延長到<24hr；目標救penumbra；術後不常規追加溶栓），Aspirin + Normal saline（*glucose會乳酸堆積，D5W低張會水腫），Mannitol（有IICP/腦水腫適應症時使用，除非是Tumor導致水腫不然不用Steroid）
+  - Tx（維持<220/120血壓即可，血糖控制140-180）＝IV alteplase/tPA（符合條件且<4.5hr；不要因等EVT延誤），EVT血栓移除術（大血管阻塞如ICA/M1/M2；小血管/lacunar infarct不適用；tPA禁忌/超時但LVO符合條件可直接EVT；前循環通常<6hr，符合DAWN/DEFUSE-3影像mismatch可延長到<24hr；目標救penumbra；術後不常規追加溶栓），Aspirin + Normal saline（*glucose會乳酸堆積，D5W低張會水腫），Mannitol（有IICP/腦水腫適應症時使用, Steroid（only if Tumor導致水腫）
+    - tPA禁忌：BP降不下來仍>185/110、glucose<50、Plt<10w、INR>1.7/aPTT>40s、CT有ICH或大範圍梗塞（>1/3半球/MCA territory）、近3m嚴重頭外傷/中風、近21d GI出血、近14d大手術
 - Hemorrhagic stroke：25%stroke；分類=ICH（高血壓性深部出血最常見；頻率：殼核>視丘>小腦>橋腦），SAH（∵Aneurysm（4%），AVM（1%））；
   - ICH好發位置與症狀：
 
-    | 位置 | 發生率/血管 | 典型表現 |
-    | --- | --- | --- |
-    | 殼核 Putamen | 50-60%；lenticulostriate a.豆紋動脈 | 對側偏癱/感覺缺損；左側可aphasia；意識依出血量 |
-    | 視丘 Thalamus | 20-25%；thalamogeniculate a.視丘膝狀動脈 | 對側偏癱＋感覺異常；可垂直凝視麻痺/Parinaud、Horner sign |
-    | 小腦 Cerebellum | 10-15%；SCA/AICA | 軀幹共濟失調、步態不穩、眩暈、眼震；腦幹壓迫可昏迷 |
-    | 橋腦 Pons | 5-10%；basilar perforators | 針尖樣瞳孔、四肢癱瘓、昏迷，預後差 |
 
+    | 位置            | 發生率/血管                              | 典型表現                                                                      |
+    | --------------- | ---------------------------------------- | ----------------------------------------------------------------------------- |
+    | 殼核 Putamen    | 50-60%；lenticulostriate a.豆紋動脈      | 對側偏癱/感覺缺損；左側可aphasia；意識依出血量                                |
+    | 視丘 Thalamus   | 20-25%；thalamogeniculate a.視丘膝狀動脈 | 對側偏癱＋感覺異常；可垂直凝視麻痺/Parinaud、嬰兒Sunset eye sign、Horner sign |
+    | 小腦 Cerebellum | 10-15%；SCA/AICA                         | 軀幹共濟失調、步態不穩、眩暈、眼震；腦幹壓迫可昏迷                            |
+    | 橋腦 Pons       | 5-10%；basilar perforators               | 針尖樣瞳孔、四肢癱瘓、昏迷，預後差                                            |
   - ICH Tx（保守為主）=Mainly降血壓（維持<160/90），Mannitol（腦水腫），開刀（年輕，出血>50cc，GCS<5，血壓迫腦幹/水腦（cf.視丘/腦幹本身壓迫太深不開）），長期抗凝血（if. cardiac emboli，使用heparin要aPTT<2.5x，warfarin要INR<3）
   - SAH：75%Aneurysm破裂（Acom，Pcom常見）；SS=雷擊頭痛，diplopia（Pcom aneurysm壓迫CN3），Horner's syn（ICA aneurysm壓迫交感纖維）；Tx=clipping或coil embolization（固定動脈瘤，減少再出血風險），Nimodipine（CCB，預防血管痙攣），Gamma knife（for AVM）
+
     - SAH預後量表快記：Fisher看CT血量預測vasospasm；WFNS/Hunt-Hess越低越好；GCS越低越差
 
 ## 大腦疾病（考題16）
 
-- 失智症/神經認知障礙（Dementia/NCD）：DSM-5六大認知領域＝注意力、執行功能、學習與記憶、語言、知覺-動作、社交認知；舊式記法＝記憶損傷＋aphasia/apraxia/agnosia/執行功能障礙；需排除其他Dx（MRI，抽血）且影響獨立生活功能
+- 失智症/神經認知障礙（Dementia/NCD）：DSM-5六大認知領域＝注意力、執行功能、學習與記憶、語言、知覺-動作、社交認知；舊式記法＝記憶損傷＋aphasia/apraxia/agnosia/執行功能障礙；需排除其他Dx（MRI，抽血）且影響獨立生活功能；Cholinergic deficit（Ach⭣）是失智症共同機轉(要補Ach/減少Ach分解)
+
   - Alzheimer's disease（AD，60%失智症成因）：晚發型（Main，ch19 APOE4基因），早發型（家族性AD，APP/presenilin 1&2增加機率，ApoE4增加發病風險）；DDx=病理={β-amyloid Senile plaques（extracellular）+ Neurofibrillary tangles（intracellular tau蛋白纏結）}，影像={腦室/sulcus加大，medial temporal lobe萎縮}；Biomarker＝amyloid-based（早期/病理確認：amyloid PET(+)，CSF Aβ42↓），neurodegeneration marker（MRI海馬/medial temporal lobe萎縮，FDG-PET代謝↓，CSF tau↑）；Tx=Cholinesterase inhibitors（=AchE-ase，e.g. Donepezil，Rivastigmine）+ NMDA blocker（Memantine）
   - Vascular dementia（=Multi-Infarct Dementia，20%失智症成因）：中年發病男多，多次小中風造成腦部缺血；SS=階梯式變差；Tx=預防中風（降血壓，抗凝血，DM）
   - Dementia with Lewy bodies（DLB，失智/帕金森間隔一年內出現）：Lewy body（α-synuclein蛋白聚集在皮質），皮質 cholinergic deficit（cf. PD）；SS=波動症狀，快速動眼期症狀(把夢演出來)，易hallucination視覺幻覺，parkinsonism；Tx=AchE-ase（對認知/精神症狀有效），抗精神病藥物敏感（可能惡化parkinsonism/認知）
   - Frontotemporal dementia（FTD）：Tau蛋白（Pick body）或TDP-43蛋白聚集Axon；SS=年輕人格改變（額葉），語言障礙（顳葉），帕金森症狀（伴隨Ch17 MAPT異常者）
-  - Normal pressure hydrocephalus（NPH=commuicating hydrocephalus）：腦室擴大但CSF壓力正常；SS Triad（3W）=Wacky（認知障礙Dementia）+Wobbly（步態不穩）+Wet（尿失禁）；Tx=腦室-腹腔分流術（VP-shunt）
-- Parkinson's disease（PD）：黑質色素cell⭣，dopamine⭣，Ach⭡，老男，少家族史；SS=非對稱慢慢惡化，TRAP（resting Tremor，Rigidity，Akinesia運動不能，Postural instability）；病理=Lewy body（α-synuclein蛋白聚集在黑質）；Tx=Levodopa+Benserazide（=Madopar，⭡多巴胺前驅物），刺激dopamine釋出（Amatadine），Dopamine agonist（Bromocriptine，Pramipexole，副作用噁心嘔吐）
+  - Normal pressure hydrocephalus（NPH=commuicating hydrocephalus）：腦室擴大但CSF壓力正常；SS Triad（3W）=Wacky（認知障礙Dementia）+Wobbly（步態不穩）+Wet（尿失禁）；DDx＝Evans index（腦室/頭骨內側距離>0.3），MRI（DESH sign, 腦室擴大但Sulcus變窄）；Tx=腦室-腹腔分流術（VP-shunt, Wobby改善最快, Wacky最差）
+- Parkinson's disease（PD）：黑質色素cell⭣，dopamine⭣，Ach⭡(藥抑制Ach, c.f 失智要增加Ach)，老男，少家族史；SS=非對稱慢慢惡化，TRAP（resting Tremor，Rigidity，Akinesia運動不能，Postural instability）；病理=Lewy body（α-synuclein蛋白聚集在黑質）；Tx=Levodopa+Benserazide（=Madopar，⭡多巴胺前驅物），刺激dopamine釋出（Amatadine），Dopamine agonist（Bromocriptine，Pramipexole，副作用噁心嘔吐）
+
+  - PD用藥年齡快分：<60-70y/o且認知正常可先DA agonist（pramipexole/ropinirole/rotigotine）或MAO-B inhibitor（selegiline/rasagiline/safinamide），顫抖型可短期anticholinergic（trihexyphenidyl/benztropine）；>70y/o或失智/幻覺風險高＝Levodopa首選，避免anticholinergic（惡化認知/幻覺/尿滯留）
+  - Parkinson disease dementia（PDD）：PD motor症狀先>1y後才失智（cf. DLB一年內同時）；Tx＝Rivastigmine（ChE inhibitor中常考唯一有PDD適應症）
   - cf. 類帕金森：essential tremor（有家族史，緊張加劇），非典型帕金森（雙側＋發展快速，不算狹義帕金森）={Multiple system atrophy（自主神經症狀，小腦辯距失調），Progressive supranuclear palsy（垂直眼震，levodopa反應差），Corticobasal degeneration}
 - Huntington's disease（HD）：Ch4基因異常（CAG trinucleotide repeat expansion）⭢基底核/尾狀核退化；SS=Triad（choreoathetosis（舞蹈徐動） ，retard，congnitive abnl；前期徐動，後期肌肉僵硬）；Tx=對症治療（Haldol減少dopamine活性）
 - 進行性共濟失調/運動退化鑑別：
 
-  | 疾病 | 遺傳/年齡 | 題幹關鍵 |
-  | --- | --- | --- |
-  | Spinocerebellar ataxia（SCA） | AD，多30-40y/o，CAG repeat常見 | 家族多代＋進行性小腦症狀：步態不穩、dysarthria、眼震/眼動慢、dysmetria、反射亢進 |
-  | Wilson disease | AR，青少年/年輕人 | 肝病＋神經精神症狀＋Kayser-Fleischer ring；ceruloplasmin低/尿銅高 |
-  | Parkinson disease | 多老人，少家族 | TRAP：resting tremor、rigidity、akinesia/bradykinesia、postural instability；非小腦測距不準為主 |
-  | Huntington disease | AD，CAG，30-50y/o | 舞蹈症chorea＋精神/認知退化＋家族史；尾狀核萎縮 |
-  | CJD | 多>50y/o sporadic | 快速失智（數月）＋myoclonus/startle＋ataxia；一年內死亡，不是慢性家族多代進展 |
+
+  | 疾病                          | 遺傳/年齡                      | 題幹關鍵                                                                                        |
+  | ----------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------- |
+  | Spinocerebellar ataxia（SCA） | AD，多30-40y/o，CAG repeat常見 | 家族多代＋進行性小腦症狀：步態不穩、dysarthria、眼震/眼動慢、dysmetria、反射亢進                |
+  | Wilson disease                | AR，青少年/年輕人              | 肝病＋神經精神症狀＋Kayser-Fleischer ring；ceruloplasmin低/尿銅高                               |
+  | Parkinson disease             | 多老人，少家族                 | TRAP：resting tremor、rigidity、akinesia/bradykinesia、postural instability；非小腦測距不準為主 |
+  | Huntington disease            | AD，CAG，30-50y/o              | 舞蹈症chorea＋精神/認知退化＋家族史；尾狀核萎縮                                                 |
+  | CJD                           | 多>50y/o sporadic              | 快速失智（數月）＋myoclonus/startle＋ataxia；一年內死亡，不是慢性家族多代進展                   |
 - 大腦代謝dx
+
   - Central pontine myelinolysis：Na給太快1週內；SS=lock in syn（全身無力），聲音沙啞，昏迷；DDx=MRI DWI；Tx=支持
   - Wernicke Korsakoff syn（略，見別處）
   - Subacute combined degeneration（Vit B12 cobalamin缺乏）：無力/本體感覺不良（∵lat./post. column異常）

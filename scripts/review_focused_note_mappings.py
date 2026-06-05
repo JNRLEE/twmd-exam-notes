@@ -83,6 +83,18 @@ ALIASES = {
     "bpp": ["biophysical profile", "產前胎兒評估"],
     "nst": ["nonstress test", "產前胎兒評估"],
     "hsv": ["疱疹", "角膜炎", "樹枝狀"],
+    "penile": ["陰莖", "包皮", "龜頭"],
+    "penis": ["陰莖", "包皮", "龜頭"],
+    "phimosis": ["包莖", "包皮", "陰莖癌"],
+    "foreskin": ["包皮", "包莖"],
+    "prepuce": ["包皮", "包莖"],
+    "testicular": ["睪丸"],
+    "testis": ["睪丸"],
+    "staghorn": ["鹿角結石", "struvite", "腎結石"],
+    "struvite": ["鹿角結石", "感染石", "proteus"],
+    "lithotripsy": ["結石", "碎石"],
+    "nephrolithotomy": ["結石", "pcnl", "鹿角結石"],
+    "ureteroscopy": ["輸尿管鏡", "結石"],
     "volvulus": ["腸扭轉"],
     "duchenne": ["肌肉失養症", "dystrophin", "心肌"],
     "sma": ["脊髓性肌肉萎縮", "smn1"],
@@ -109,6 +121,24 @@ BROAD_TOPIC_ANCHORS = {
     "痛風": ("arthritis",),
     "nsaid": ("離子平衡", "arthritis", "pericarditis"),
     "nsaids": ("離子平衡", "arthritis", "pericarditis"),
+    "包皮": ("外生殖器",),
+    "包莖": ("外生殖器",),
+    "陰莖": ("外生殖器",),
+    "陰莖癌": ("外生殖器",),
+    "龜頭": ("外生殖器",),
+    "睪丸": ("外生殖器",),
+    "附睪": ("外生殖器",),
+    "陰囊": ("外生殖器",),
+    "精索": ("外生殖器",),
+    "疝氣": ("外生殖器",),
+    "鼠蹊": ("外生殖器",),
+    "腎結石": ("結石",),
+    "尿路結石": ("結石",),
+    "鹿角結石": ("結石",),
+    "碎石": ("結石",),
+    "輸尿管鏡": ("結石",),
+    "膀胱癌": ("下泌尿道",),
+    "攝護腺癌": ("攝護腺",),
 }
 
 GENERIC_ANCHORS_EN = {
@@ -136,6 +166,10 @@ GENERIC_ANCHORS_EN = {
     "tumor",
     "tumour",
     "cancer",
+    "carcinoma",
+    "cell",
+    "grade",
+    "squamous",
     "acute",
     "chronic",
     "surgery",
@@ -249,6 +283,26 @@ KNOWN_ZH_ANCHORS = {
     "卵巢",
     "不孕",
     "攝護腺",
+    "攝護腺癌",
+    "膀胱癌",
+    "腎盂",
+    "輸尿管",
+    "腎結石",
+    "尿路結石",
+    "鹿角結石",
+    "碎石",
+    "輸尿管鏡",
+    "包皮",
+    "包莖",
+    "陰莖",
+    "陰莖癌",
+    "龜頭",
+    "睪丸",
+    "附睪",
+    "陰囊",
+    "精索",
+    "疝氣",
+    "鼠蹊",
     "睪丸",
     "尿路結石",
     "脊椎",
@@ -331,7 +385,13 @@ def anchor_tokens(text: str) -> set[str]:
         if token in text:
             anchors.add(token)
 
-    return {anchor for anchor in anchors if len(anchor) >= 3 or anchor in {"pth", "hcg", "hiv", "hbv", "hcv", "bis", "bpp", "nst"}}
+    return {
+        anchor
+        for anchor in anchors
+        if anchor in KNOWN_ZH_ANCHORS
+        or len(anchor) >= 3
+        or anchor in {"pth", "hcg", "hiv", "hbv", "hcv", "bis", "bpp", "nst"}
+    }
 
 
 def has_anchor_match(query_text: str, section: NoteSection) -> bool:
@@ -546,12 +606,17 @@ def render_md(exam_session: str, subject: str, rows: list[dict]) -> str:
         "",
     ]
     for row in rows:
+        out.extend([f"## Q{row['question_number']}", "", row.get("question_text", "").strip(), ""])
+        options = row.get("options") or {}
+        if options:
+            out.extend(["### 選項", ""])
+            for key in ("A", "B", "C", "D"):
+                value = options.get(key)
+                if value:
+                    out.append(f"- ({key}) {value}")
+            out.append("")
         out.extend(
             [
-                f"## Q{row['question_number']}",
-                "",
-                row.get("question_text", "").strip(),
-                "",
                 f"**標準答案**：{row.get('answer') or '未提供'}",
                 "",
                 "### 參考詳解",

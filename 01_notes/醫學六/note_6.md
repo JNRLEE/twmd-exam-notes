@@ -50,7 +50,8 @@
   - Presentation（胎位）＝Cephalic（頭位，95%，LOA最常見（靠左前，枕部先出）），Breech（臀位，3-4%），Shoulder（肩位，0.5%）
   - 子宮成熟度（Bishop score，>8分子宮成熟可引產）：Dilation（擴張），Effacement（變薄），Station（胎頭高度），Cervical consistency（子宮頸質地），Cervical position（子宮頸位置）；cf. active phase起點是子宮頸擴張6cm，不是Bishop分數
   - 陰道生產撕裂傷分級：1st degree（皮膚粘膜撕裂），2nd degree（肌肉撕裂），|⭢需對其縫合+Anti 3rd degree（肛門括約肌撕裂），4th degree（肛門括約肌+直腸黏膜撕裂）
-- 胎兒心跳評估（Cardiotocography，CTG）：正常＝110-160bpm，變異度>5bpm；Tx：Reassuring（Cat I）/Intermittent（Cat II）＝Obs，Non-reassuring pattern（＝Category III，反覆異常deceleration）＝ {孕婦左躺knee chest position，安胎（tocolytics），氧氣，IV fluids；嚴重異常＝立即剖腹產}
+- 胎兒心跳評估（Cardiotocography，CTG）：正常＝110-160bpm，變異度>5bpm；Tx：Reassuring（Cat I）/Intermittent（Cat II）＝Obs，Non-reassuring pattern（Category III）＝ {孕婦左躺knee chest position，安胎（tocolytics），氧氣，IV fluids；嚴重異常＝立即剖腹產}
+  - Category III常考：sinusoidal pattern（正弦波型）直接算Cat III；或 absent baseline variability（無基線變異）＋recurrent late decelerations / recurrent variable decelerations / bradycardia。
   - 速率異常＝胎兒心跳過快（Tachycardia>160bpm，∵母親焦慮，缺氧，感染，安胎），過慢（Bradycardia<110bpm，∵胎兒窘迫），變異度減少（<5bpm，∵母親低血壓，缺氧，止痛藥）
   - 心律變化：Early deceleration（頭部受壓，與陣痛同步），Late deceleration（胎盤機能不足／窘迫，宮縮中期才出現），Variable deceleration（臍帶受壓，不規則出現）
   - 變異性減少：睡著，缺氧，酸血症，中樞抑制劑
@@ -178,7 +179,7 @@
 - 靜脈血栓dx（DVT，Pulmonary embolism（PE））：SS＝Virchow's triad（血流滯留，血管壁損傷，高凝狀態）；DDx＝Homan's test（+，扳腳踝小腿痛），D-Dimer，Echo；Tx＝Warfarin 3months（目標＝INR 2-3）；孕期DVT/PE＝LMWH/UFH（不過胎盤，首選LMWH），避免warfarin（過胎盤⭢畸形/胎兒出血）；抗凝失敗/禁忌可考慮IVC filter
 - 陰道鏡檢查：初步視診⭢染劑檢查（醋酸染色（異常細胞漂白），Schiller's iodine（異常上皮無肝醣不上色））/切片/endocervical curettage（子宮頸內膜刮除術，for CIN懷疑在子宮頸管內）
 - 卵巢扭轉（1st 婦科急症，育齡女性）：成因＝卵巢囊腫/tumor（90%）；SS＝ Triad（下腹痛，噁心，adnexal mass）；DDx＝超音波/CT/MRI（血流減少，敏感度低）； Tx＝手術（卵巢復位，卵巢切除）
-- 間質性膀胱炎（慢性dx，機轉不明，與mast cell有關）：女/男＝5，特定食物活動加劇（咖啡，酒精，運動，性交）；SS＝慢性膀胱不悅>6wks，下泌尿道陣狀，性交疼痛；DDx（臨床診斷為主）＝urine routine，尿路動力學，膀胱鏡切片（Hunner's lesion膀胱粘膜放射狀紅血管，Glomerulation腎絲球點狀出血，mast cell增加），Potassium sensitivity test（+，膀胱注射KCl高敏感），Anesthetic bladder test（+，膀胱注射局麻藥症狀改善）； Tx＝Mainly支持性，口服藥物（TCA，Pentosan polysulfate sodium（PPS，唯一FDA核准口服藥）），膀胱灌注藥物（合併lidocaine，heparin等藥物），嚴重治療（打botox，薦椎神經調節，口服cyclosporine A，尿道改道手術）
+- 間質性膀胱炎（慢性dx，機轉不明，與mast cell有關）：女/男＝5，特定食物活動加劇（咖啡，酒精，運動，性交）；SS＝慢性膀胱不悅>6wks，下泌尿道陣狀，性交疼痛；DDx（臨床診斷為主）＝urine routine，尿路動力學，膀胱鏡切片（Hunner's lesion較特異＝膀胱粘膜放射狀紅血管/潰瘍樣病灶，Glomerulation＝腎絲球點狀出血，mast cell增加），Potassium sensitivity test（+，膀胱注射KCl高敏感），Anesthetic bladder test（+，膀胱注射局麻藥症狀改善）； Tx＝Mainly支持性，口服藥物（TCA，Pentosan polysulfate sodium（PPS，唯一FDA核准口服藥）），膀胱灌注藥物（合併lidocaine，heparin等藥物），嚴重治療（打botox，薦椎神經調節，口服cyclosporine A，尿道改道手術）
 
 ## Female Endocrinology（考題16）
 
@@ -534,7 +535,7 @@
 - Ketamine（解離性藥物，唯一有止痛效果的induction藥物）：NMDA受體拮抗，擴張支氣管（氣喘可用），強心（心跳上升/可能血壓上升休克可用）；副作用＝血壓心跳上升（適合休克病人），幻覺（術後鎮靜藥物可減少），增加顱內壓（禁用顱內病灶）
 - Etomidate：GABA受體激動，作用快，恢復快，神經系統影響少（不焦慮/delirium），心血管影響少（休克可用）；副作用＝腎上腺抑制
 - Dexmedetomidine：α2受體激動，輕度鎮靜止痛，for重症患者呼吸器鴉片減量，無induction功能；副作用＝心跳上升/可能血壓上升，心跳過快
-- Opioids（Fentanyl，Morphine）：強止痛，止咳；receptor＝μδκ，位在脊髓/腦幹/消化泌尿壁；副作用（μ為主）＝呼吸抑制，情緒興快成癮，癲癇（Meperidine長期使用），心跳收縮⭣，徐脈，呼吸抑制，縮瞳，便尿難排；解藥＝Naloxone（Opioid拮抗劑），Methylnaltrexone（周邊Opioid拮抗劑，治療便秘，不過BBB）
+- Opioids（Fentanyl，Morphine）：強止痛，止咳；receptor＝μδκ，位在脊髓/腦幹/消化泌尿壁；副作用（μ為主）＝呼吸抑制，情緒興快成癮，癲癇（Meperidine長期使用），心跳收縮⭣，徐脈，呼吸抑制，縮瞳，便尿難排；解藥＝Naloxone（Opioid拮抗劑, 短效鼻噴劑, 要重複噴, SE＝心律不整、肺水腫），Methylnaltrexone（周邊Opioid拮抗劑，治療便秘，不過BBB）
 
 ## 吸入性麻醉劑（考題2）
 
@@ -689,7 +690,7 @@
   - 咽部：Nasopharynx（鼻咽，鼻腔到軟顎上表面），Oropharynx（口咽，軟顎到舌根，含舌扁桃體，舌後1/3，vallecula），Laryngopharynx（喉咽，舌骨/會厭到環狀軟骨外下緣（不在喉內），含pyriform sinus，postcricoid area，post. pharyngeal）
   - 喉部  （Larynx）：聲門上區（supraglottis，包含會咽軟骨/杓狀軟骨），聲門區（glottis，包含聲帶），聲門下區（subglottis，包含環狀軟骨）
     - 圖：![喉部軟骨解剖](../assets/laryngeal_cartilages_anatomy.png)
-    - 神經支配：迷走分出＝（上喉神經（環甲肌），喉返神經（其他肌肉，右走鎖骨下動脈，左走主動脈弓（較長易受傷））
+    - 神經支配：迷走分出＝（上喉神經（環甲肌, 唱高音重要），喉返神經（其他肌肉，右走鎖骨下動脈，左走主動脈弓（較長易受傷））
 - Acute Epiglottitis（＝Acute supraglottitis，急性會厭炎，急症）：聲門上區（會咽軟骨，杓狀軟骨）蜂窩性組織炎（by H.influenzae type B），Mainly 2-4y/o；SS＝躁動難睡，嘴巴吐舌頭，發燒，流口水，小兒3D（流口水（drooling），吞嚥困難（dysphagia），呼吸窘迫（distress））；DDx＝FEES（鼻咽fiery cherry red），X-ray（側面thumb sign，cf.哮吼）；Tx＝緊急插管，抗生素（Ampicillin）
 - Vocal fold paralysis（聲帶麻痺，左側喉返神經損傷）：成因＝手術（甲狀腺，頸部），腫瘤（肺尖，食道），DM；SS＝單側（聲音沙啞，吞嚥困難），雙側（呼吸困難，嗆咳）； Tx＝語言治療，手術（for復健6m無果，Thyroplasty甲狀軟骨成形術，Injection（玻尿酸，自體脂肪，PRP濃縮血小板））
 - Pediatric tracheostomy（小兒氣切）：常見適應症＝長期插管/ventilator dependence；進氣管前先放stay sutures（早期脫管可拉開氣管口重插）；術後早期tract未成熟，脫管/阻塞風險高⭢ICU/密切監測，不直接一般病房；stoma maturation可做但非必做
@@ -757,21 +758,25 @@
   ![Pyriform sinus anatomy](../assets/pyriform_sinus_anatomy.jpg)
 
   - 口腔癌（90%SCC，1st頭頸癌）：
+
     - 分八區（Lips，Buccal頰黏膜，Upper gingiva上齒齦，Lower gingiva下齒齦，Tongue舌頭（1st），Hard palate硬顎，Retromolar trigone臼齒後區，Floor of mouth口底）
     - RF＝ABC（合起來30-123x），吃太燙，牙齒沒顧好SS＝無痛不癒潰瘍>2wks/腫塊（早期），頸部淋巴腫（後期）
     - DDx＝觸診（潰瘍，腫塊），CT，切片
     - Tx＝手術切除，合併CCRT（stage 3-4）
   - Nasal and Sinus Cancer（鼻竇癌，80%SCC，上頷竇為主，2nd頭頸癌）：
+
     - RF（與檳榔無關）＝抽菸， 喝酒，鎳，芥子氣，鉻，木屑粉塵
     - SS＝早期無症狀，單側鼻塞/出血/複視/CN5-2神經痛
     - Tx＝手術切除+化放療
   - NPC（鼻咽癌，放射敏感，EBV相關，Mainly Rosenmullar fossa）：
+
     - RF（與喝酒，檳榔關係弱）＝男性，抽菸，東南亞，非洲，飲食（鹹魚，亞硝酸），遺傳（HLA-A2）
     - WHO type I（keratinizing SCC，最差預後），type III（undifferentiated，EBV最相關，盛行率最高，預後最好）；
     - SS（六大症狀）＝單側鼻塞/出血/複視/頸腫塊/耳悶+聽損/頭痛
     - DDx＝問診，切片（鼻咽癌要切片才能診斷!!），CT（定位）
     - Tx＝化放療，手術（顱底切除/淋巴廓清，for 復發或殘留病灶）
   - Hypopharyngeal cancer（下咽癌，SCC為主，淋巴結豐富易轉移）：
+
     - RF＝中壯年男性，ABC，VitA/B缺乏，Plummer-Vinson syn（女性缺鐵，postcricoid癌症）
     - 三區＝{pyriform sinus（80% cancer），postcricoid area，post. pharyngeal}
     - 淋巴轉移：單側病灶最常同側Level II、III、IV（深頸/內頸靜脈鏈）；Level I偏口腔
@@ -779,22 +784,31 @@
     - DDx＝理學檢查，喉內視鏡，X-ray，Echo，骨掃描
     - Tx（重術後聲音復健）：手術+CCRT
   - Esophageal cancer（食道癌）：
+
     - 流病＝台灣/全球SCC為主；美國近年Adenocarcinoma>SCC
     - RF＝SCC（ABC、熱飲/腐蝕傷、Achalasia），Adenocarcinoma（GERD/Barrett、肥胖，distal/GE junction，與菸酒檳榔關係弱）
     - SS＝progressive dysphagia（固體⭢液體）+體重減輕；hoarseness多為晚期喉返神經侵犯
     - DDx＝EGD+biopsy；staging＝EUS/CT/PET
   - Laryngeal cancer（喉癌，SCC為主，與檳榔無關）
+
     - RF（與檳榔無關）＝中壯年男性，抽菸喝酒，HPV；分類＝聲門上區（會咽軟骨/杓狀軟骨，淋巴豐富易轉移），聲門區（聲帶，1st喉癌，淋巴少不易轉移），聲門下區（環狀軟骨，難發現）
     - SS＝聲音沙啞，喉嚨痛，吞嚥困難
     - DDx＝同下咽癌，CT
     - Tx＝放射治療（for 早期喉癌），手術（保守for T1a，全切+永久氣管造口for晚期）
   - Oropharyngeal cancer（口咽癌，SCC為主，早期無症狀又容易淋巴轉移）
+
     - RF＝ABC，HPV
     - 分類＝舌根，扁桃體（tonsil有crypts隱窩，HPV更容易invade basal cell），軟顎
     - SS＝初期無症狀，喉嚨痛，吞嚥困難
     - DDx＝同下咽癌
     - Tx＝化學/放射治療（HPV+對化放療反應好）
   - 甲狀腺癌：
+
     - Papillary（1st）：放射碘RAI 敏感，傳統化療不敏感
     - Follicular，Medullary（from parafollicular C cell）：RF＝calcitonin/MEN2/RET；Tx（不吃碘RAI無效）＝手術為主（傳統化療/放療效果有限）
     - Anaplastic（高度惡性，預後差）
+    - 口訣
+      - 🍷 喝大 **Bar (BRAF)** 吐到淋巴 ➡️ **乳突癌**（常見、淋巴轉移）
+      - 🩸 **Red (RET)** 色的血髓傳下一代 ➡️ **髓質癌**（神經內分泌澱粉樣沉積、MEN2遺傳）
+      - 🐹 老鼠 (**RAS**) 鑽進一圈圈的泡泡 ➡️ **濾泡癌**（良惡性都有 RAS）
+      - 👴 守門員 **53 歲 (p53, 基因守門員)** 退休，城堡被砸爛 ➡️ **未分化癌**（最惡性、去分化）

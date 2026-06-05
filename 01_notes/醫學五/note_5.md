@@ -28,7 +28,7 @@
     - Malignant
       - RCC（85%，見下方說明)
       - Meta（來源：肺（20%）>乳>胃）
-      - Wilms tumor（兒童）：多無症狀，太大才被發現，Tx＝主手術，放化療都有反應
+      -  tumor（兒童）：多無症狀，太大才被發現，Tx＝主手術，放化療都有反應
   - Renal Cell Carcinoma（黃富含脂質）： 好發老黑男； 病因＝ 體顯遺傳病（VHL dx，Hereditary renal carcinoma），環境因素（抽菸，石棉）； 病理＝mixed carcinoma； SS＝無症狀（>50%），副腫瘤症候群（高壓高鈣）；DDx＝抽血（ESR⭡，血尿，貧血），Echo（準度高），CT（arterial enhancement，venous early washout（HCC也會）），其他進階影像學/膀胱鏡都有效； Tx＝手術（唯一cure方法），標靶治療（for 轉移性clear cell RCC）
 
     - Metastatic RCC risk model：International Metastatic Kidney Cancer Database Consortium（IMDC，轉移性RCC預後分層）＝Karnofsky performance status低、Dx-to-Tx<1yr、Hb低、corrected Ca高、neutrophil高、platelet高；lactate dehydrogenase（LDH）屬Memorial Sloan Kettering Cancer Center（MSKCC）舊模型，不是IMDC
@@ -54,7 +54,7 @@
     - 膀胱輸尿管逆流（Grade I-V，III＝輕微擴大，IV＝輸尿管扭曲，V＝腎乳突壓跡消失）：成因＝瓣膜UVJ/肌肉無力（1st），結構異常，發炎； Tx＝手術
   - 膀胱成因
 
-    - Interstitial cystitis（間質性膀胱炎）：40y/o 女；SS＝頻尿、尿急、骨盆痛； DDx＝動力學膀胱張力強/順應性差，膀胱鏡粘膜細裂出血； Tx＝飲食控制（少酒咖啡甜味劑），藥物（amitriptyline），膀胱灌藥（DMSO，lidocaine），手術（膀胱灌水擴張，打肉毒）
+    - Interstitial cystitis（間質性膀胱炎）：40y/o 女；SS＝頻尿、尿急、骨盆痛； DDx＝動力學膀胱張力強/順應性差，膀胱鏡＝Hunner lesion（較特異，紅斑/放射狀血管/潰瘍樣病灶）或 glomerulation（粘膜點狀出血）； Tx＝飲食控制（少酒咖啡甜味劑），藥物（amitriptyline），膀胱灌藥（DMSO，lidocaine），手術（膀胱灌水擴張，打肉毒）
 - 外傷
   - 輸尿管外傷：多穿刺傷（cf. 腎/膀胱多鈍傷），DDx＝CT（Urinoma尿液腫，顯影劑外露）；Tx＝雙J導管引流（輸尿管受傷必備），手術
   - 膀胱外傷：多撞擊鈍傷（容器狀的都多鈍傷），男多； DDx＝逆行膀胱攝影； Tx＝腹膜外單純破裂導尿，腹膜內/複雜破裂手術
@@ -73,7 +73,9 @@
     - Cryptorchidism（卡在睪丸下降路徑，prepubic為主）：RF＝早產/家族史； Tx＝睪丸固定（<1.5y/o），睪丸切除（>10 y/o，∵易睪丸癌（Seminoma））
     - 異位睪丸：卡在superficial inguinal為主（cf. Cryptorchidism）
     - Inguinal hernia：Indirect（小孩，patent processus vaginalis腹膜鞘狀突未閉合，從deep inguinal ring突出⭢走inguinal canal，inferior epigastric vessels外側） vs Direct（老人，從Hesselbach triangle/posterior wall突出，inferior epigastric vessels內側）；Femoral hernia＝inguinal ligament下方/股靜脈內側，女多，incarceration風險高
-      - Inguinal canal map：spermatic cord走deep ring⭢superficial ring；cremaster muscle＝internal oblique延伸；ilioinguinal n.伴隨cord出superficial ring（大腿內上/陰囊皮膚），iliohypogastric n.不在spermatic cord；testicular a.來自abdominal aorta
+      - Inguinal canal map：deep inguinal ring＝transversalis fascia開口；superficial inguinal ring＝external oblique aponeurosis開口；spermatic cord coverings＝internal spermatic fascia（transversalis fascia延伸）＋cremaster muscle/fascia（internal oblique延伸）＋external spermatic fascia（external oblique aponeurosis延伸）；ilioinguinal n.伴隨cord出superficial ring（不經deep ring），iliohypogastric n.不在spermatic cord；testicular a.來自abdominal aorta
+      - 圖：![Inguinal canal map](../assets/inguinal_canal_map.png)
+      - 圖源：本機下載圖片
       - 圖：![Common sites of lower abdominal hernias](../assets/common_sites_lower_abdominal_hernias.jpg)
       - 圖源：Dennis M. DePace，PhD / Wikimedia Commons，CC BY-SA 4.0
   - 後天性
@@ -86,6 +88,12 @@
     - Varicocele（1st男不孕）：左側為主（∵nutcracker effect，左腎靜脈被 SMA /aorta 夾住⭢左側易血尿、varicocele）； DDx＝doppler靜脈>3.5mm，； Tx＝手術（70%改善精子品質）
 - 感染：
   - 尿道炎：性傳播； 感染源＝淋病，非淋病（HSV，Chlamydia，Trichomonas）； SS＝5成無症狀，尿道分泌物，排尿疼痛；DDx（不依靠影像學）＝尿道取樣（分泌物取樣不準）； Tx＝抗生素（淋病ceftriaxone，非淋病doxycycline），預防>治療
+  - Chlamydia三兄弟快分：
+    | 菌種 | 疾病 | 典型情境 |
+    | --- | --- | --- |
+    | Chlamydia trachomatis | 嬰幼兒非典型肺炎（無燒、結膜炎、Staccato cough）性病尿道炎/cervicitis、pelvic inflammatory disease（PID，骨盆腔發炎） | 性接觸；新生兒結膜炎/肺炎 |
+    | Chlamydia pneumoniae | 非典型肺炎 | 社區感染、人傳人 |
+    | Chlamydia psittaci | psittacosis（鸚鵡熱）/非典型肺炎 | 鳥類暴露（鸚鵡、家禽） |
   - 睪丸附睪炎：泌尿道感染後上行傳染，幼童多肺炎/病毒後感染引起； 成因＝E.coli（老人，小孩，肛交），Chlamydia/ Gonorrhea（成人）； SS＝急性睪丸痛，腫脹，血精；DDx＝尿/血WBC⭡，超音波（增強血流，可ddx torsion）； Tx＝抗生素（ceftriaxone+doxycycline），NSAIDs消炎，伴侶一起治療
   - Warts（性行為傳播）： DDx=膀胱尿道鏡； Tx＝電燒，5-Fu尿道貫注
   - Fournier gangrene（會陰部壞死性筋膜炎）： 好發：感染，局部外陰瘻管，DM； Tx＝立即清瘡（不可少清），但睪丸sparing（會陰與睪丸血流不同origin）
@@ -108,8 +116,8 @@
 ## 結石（考題7）
 
 - 流病：3rd泌尿系統dx（UTI⭢BPH⭢stone），RF＝結晶尿，家族史，飲食（高蛋白，重油，高鈉（非石頭成分但增加沉澱），少蔬菜），藥物，高社經地位，乾燥氣候，酸性尿，尿少（不需要高尿酸）； cf. 抑制結石成分＝硫，鎂，檸檬 （留美檸檬）
-- 種類：Calcium calculi（含鈣結石，80%），非含鈣結石（Struvite結石（磷酸銨鎂）＝女性尿路感染/Proteus，尿酸結石＝男性痛風病史，Indinavir結石＝AIDS Indinavir用藥）；Staghorn鹿角結石＝形狀/範圍名（分枝填滿renal pelvis/calyces，常為struvite感染石），不是成分名
-- SS：hematuria（9成），pain（colicky pain＝石頭拉扯痛，noncolicky pain＝積尿痛，石頭大小與痛度無正比關係），三狹窄堵塞（UPJ輸尿腎盂，iliac vessels髂血管旁，UVJ輸尿膀胱），感染（Mainly Proteus（struvite結石））； DDx＝KUB（鈣化結石可見，Struvite模糊，尿酸/indinavir結石看不到），CT（看不到indinavir結石），Intravenous pyelogram/ Retrograde pyelography（可見所有結石）； Tx＝危急先引流（感染性阻塞/AKI/anuria⭢stent或PCN＋抗生素），hydration（喝水2500ml⭡，排水2000ml⭡），改變尿pH（含鈣結石⭢citrate（抓走 free Ca），尿酸結石⭢鹼化尿液，Struvite結石⭢酸化尿液），碎石/取石（小輸尿管結石可觀察/MET，<1cm ESWL/URS，>1-2cm或staghorn⭢PCNL），低普林/減少動物蛋白，藥物（febuxostat降尿酸，禁用Benzbromarone）
+- 種類：Calcium calculi（含鈣結石，80%），非含鈣結石（Struvite結石（磷酸銨鎂）＝女性尿路感染/Proteus，尿酸結石＝男性痛風病史，Cystine結石（胱胺酸結石）＝小孩/年輕＋hexagonal六角形結晶，Indinavir結石＝AIDS Indinavir用藥）；Staghorn鹿角結石＝形狀/範圍名（分枝填滿renal pelvis/calyces，常為struvite感染石），不是成分名
+- SS：hematuria（9成），pain（colicky pain＝石頭拉扯痛，noncolicky pain＝積尿痛，石頭大小與痛度無正比關係），三狹窄堵塞（UPJ輸尿腎盂，iliac vessels髂血管旁，UVJ輸尿膀胱），感染（Mainly Proteus（struvite結石））； DDx＝KUB（鈣化結石可見，Struvite模糊，尿酸/indinavir結石看不到），CT（看不到indinavir結石），Intravenous pyelogram/ Retrograde pyelography（可見所有結石）； Tx＝危急先引流（感染性阻塞/AKI/anuria⭢stent或PCN＋抗生素），hydration（喝水2500ml⭡，排水2000ml⭡），改變尿pH（含鈣結石⭢citrate（抓走 free Ca），尿酸/Cystine結石⭢鹼化尿液，Struvite結石⭢酸化尿液），碎石/取石（小輸尿管結石可觀察/MET，<1cm ESWL/URS，>1-2cm或staghorn⭢PCNL），低普林/減少動物蛋白，藥物（febuxostat降尿酸，禁用Benzbromarone）
   *ESWL體外碎石禁忌＝孕婦，腹主動脈瘤，重度水腎，出血傾向
 
 ## 泌尿道細菌感染（考題0）
@@ -167,6 +175,22 @@
 
 # 外科（考題3）
 
+## 常見手術 bail-out（考題0）
+
+- Bail-out原則：解剖不清/病人不穩/吻合不安全時，不硬切不硬接；改成控制污染/出血＋引流/造口/分期手術
+- Laparoscopic cholecystectomy（膽囊切除）：Calot triangle解剖不清、critical view of safety做不出來⭢subtotal cholecystectomy（fenestrating開個洞肚皮引流/reconstituting）或cholecystostomy；腹腔鏡轉open只是換視野，不等於安全
+- Appendicitis abscess/phlegmon（闌尾膿瘍/發炎塊）：不硬切；抗生素±percutaneous drainage
+- Colon/rectum（結直腸手術）：污染重/低灌流/休克/吻合張力大⭢不要primary anastomosis；bail-out＝diverting stoma近端肚皮造口/Hartmann procedure遠端封起來
+- Abdominal trauma/sepsis（腹部外傷/敗血症）：不穩＋coagulopathy/acidosis/hypothermia⭢damage control surgery（packing/暫時關腹）＋ICU復甦後planned reoperation
+- Thyroidectomy（甲狀腺切除）：雙側手術若第一側recurrent laryngeal nerve（RLN）loss of signal⭢停做對側，staged thyroidectomy避免雙側聲帶麻痺
+
+## Lap/Open/Robot 選擇快辨（考題0）
+
+- Laparoscopy明顯贏open：cholecystectomy/appendectomy/fundoplication/colectomy；主要贏＝傷口小、疼痛少、住院短、恢復快、wound infection/incisional hernia少（colectomy另記：短期恢復佳, oncologic outcome可相近）
+- Robot真正強項：radical prostatectomy（失血/輸血少、住院短）、partial nephrectomy（深部縫合/renorrhaphy較順、保腎手術較好做、失血/住院少）、deep pelvic surgery（狹窄骨盆內3D視野＋wristed instruments好縫合/剝離）
+- Robot沒明顯贏lap：appendectomy/cholecystectomy/hernia repair/多數一般外科；常見問題＝outcome相近但cost高、OR time長
+- 反例：early cervical cancer radical hysterectomy（LACC trial）＝open優於minimally invasive surgery（lap/robot），DFS/OS較好；不要套用「微創一定比較好」
+
 ## 腹內感染（考題0）
 
 - 抗生素duration：重點看source control；未穿孔闌尾炎切除後不用延長；未穿孔腸壞死切除後≤24hr；穿孔/複雜腹內感染source control足夠約4天；腹內感染合併敗血症/休克約7-10天
@@ -174,6 +198,8 @@
 ## 整形外科重建（考題3）
 
 - Reconstruction ladder：primary closure ⭢ skin graft ⭢ local/regional flap ⭢ free flap；骨/肌腱/血管外露、感染/放療後受床差時偏向flap
+- Mangled limb（嚴重碾壓/複合肢體傷）：Life over limb（ATLS/ABC）⭢ limb survival（revascularization, warm ischemia盡量<6hr；必要時先vascular shunt）⭢ function（神經/肌腱/皮瓣重建）
+- 重建順序口訣BEANS＝Bone → Extensors/tendon（肌腱）→ Arteries → Nerves → Soft tissue（皮瓣）；原則＝bone before nerve，先穩定骨架再做精細血管/神經吻合，避免骨折復位牽拉撕裂吻合處
 - Skin graft：無自帶血流，靠受床存活；split-thickness較易存活/donor可再生但secondary contraction與色差較多，full-thickness外觀較好/收縮少但需血流好且donor需縫合
 - Flap：自帶血流；local/regional保留pedicle，free flap需microvascular anastomosis；random靠皮下血管叢，axial有明確血管
 - Breast reconstruction：autologous（DIEP/TRAM，自體組織重建）較自然但手術大，free flap受區血管常用internal mammary
@@ -284,12 +310,14 @@
 - Scaphoid fx（舟狀骨骨折）：1st腕骨骨折；SS＝snuff box壓痛； DDx＝X ray； Tx＝螺絲固定； 併發症＝AV-necrosis，舟月骨嚴重崩解，nonunion（cf. distal radius fx/跟骨fx血流良好不會nonunion）
   - cf. Scaphoid旁拇指指掌關節＝1st 扭傷關節
 - Lunate bone AVN（Kienbock's dx）：中年男，反覆腕部受傷，ulnar variance⭣（韌帶緊繃lunate壓力上升而缺血）；DDx＝X-ray（sclerotic change蒼白化，ulnar variance⭣）； Tx＝外固定（無位移），局部減壓手術
+- Ganglion cyst（腱鞘囊腫，手部軟組織腫塊1st）：四大好發＝dorsal wrist（腕背，最常見；多scapholunate）、volar wrist（腕掌側, 近橈動脈）、flexor tendon sheath（屈肌腱鞘/A1 pulley附近, 同板機指）、DIP mucous cyst（遠端指間關節黏液囊腫，常合併OA）
 - 肌腱受損：
   - Mallet finger（吃蘿蔔，長得像Swan neck但成因不同）：DIP彎曲； Tx＝急性期鋁板，慢性期手術
   - Boutonniere deformity（扣子手）：PIP彎曲，DIP過伸
-  - de Quercain's dx（媽媽手）：拇指外展疼痛
-  - Snuff box內肌肉發炎：外展拇長肌（APL）＋ 伸姆短（EPB）； DDx＝Finkelstein's test（握拳把拇指包在裡面，ulnar deviation會痛）； Tx＝消炎，手術切開減壓
-  - Trigger finger（扳機指）：手指彎曲卡住（屈指A1 pulley狹窄性肌腱發炎）； Tx＝消炎，手術切開減壓
+- 狹窄腱鞘炎：
+  - de Quercain's dx（媽媽手, Snuff box內肌肉發炎）：拇指外展疼痛（第一被廁間隔）；MOA＝外展姆長+伸姆短； DDx＝Finkelstein's test（握拳把拇指包在裡面，ulnar deviation會痛）； Tx＝消炎，手術切開減壓
+  - Intersection syndrome（交叉症候群）：第1/2背側隔間交叉處肌腱發炎； SS＝前臂遠端交叉處疼痛，屈腕時加劇
+  - Trigger finger（扳機指）：手指彎曲卡住無法伸直（屈指A1 pulley狹窄性肌腱發炎）； Tx＝消炎，手術切開減壓
 
 ## 骨腫瘤（考題7）
 
@@ -319,7 +347,7 @@
 - Fibrous tumor：
   - Giant cell tumor（GCT）：良性，中年女（epiphyseal line癒合才會長，青年sparing）； Xray＝大空洞； Tx＝刮除，冷凝
 - 其他：
-  - Ewing's sarcoma：2nd兒童惡腫（幼童為主，1st <10y/o惡腫），t（11：22）translocation； SS＝發燒，疼痛，ESR/LDH/ALK⭡； DDx＝Xray（洋蔥狀/moth-eaten），PAS染色 ＋ HBA-71/CD99（支持Ewing，仍需病理/免疫染色/分子檢測）；Tx＝Chemo（VCD，Vincristine， Cyclophosphamide，Doxorubicin）＋手術
+  - Ewing's sarcoma：2nd兒童惡腫（幼童為主，1st <10y/o惡腫），t（11：22）translocation； SS＝發燒，疼痛，ESR/LDH/ALK⭡； DDx＝Xray（Onion-like洋蔥狀/moth-eaten），PAS染色 ＋ HBA-71/CD99（支持Ewing，仍需病理/免疫染色/分子檢測）；Tx＝Chemo（VCD，Vincristine， Cyclophosphamide，Doxorubicin）＋手術
   - Unicameral Bone cyst：青少年無症狀，non-neoplastic lesion，fallen fragment sign； DDx：Xray（骨頭邊緣清晰，近端肱骨充滿serous fluid，fallen fragment sign（骨碎片in cyst）；Tx＝類固醇/局部抽吸
   - Aneurysmal Bone cyst動脈瘤性骨囊腫：青年男； DDx： Xray（lytic，bubble apperance，含血fluid level）； Tx＝手術刮除+修補
 
