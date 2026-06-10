@@ -5,20 +5,20 @@
     <style>
       .outline { fill: #f8fafc; stroke: #334155; stroke-width: 3; }
       .bone { fill: none; stroke: #64748b; stroke-width: 5; stroke-linecap: round; }
-      .label { font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #0f172a; }
-      .small { font: 500 16px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #334155; }
-      .caption { font: 600 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #0f172a; }
+      .label { font: 700 24px -apple-system，BlinkMacSystemFont，"Segoe UI"，sans-serif; fill: #0f172a; }
+      .small { font: 500 16px -apple-system，BlinkMacSystemFont，"Segoe UI"，sans-serif; fill: #334155; }
+      .caption { font: 600 18px -apple-system，BlinkMacSystemFont，"Segoe UI"，sans-serif; fill: #0f172a; }
       .level { stroke: #ffffff; stroke-width: 3; opacity: .92; }
       .line { stroke: #0f172a; stroke-width: 2; fill: none; marker-end: url(#arrow); }
     </style>
     <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
-      <path d="M0,0 L8,4 L0,8 Z" fill="#0f172a"/>
+      <path d="M0，0 L8，4 L0，8 Z" fill="#0f172a"/>
     </marker>
   </defs>
 
   <rect width="820" height="620" fill="#ffffff"/>
   <text x="40" y="46" class="caption">Head and neck lymph node levels</text>
-  <text x="40" y="73" class="small">Simplified lateral map for exam review. Boundaries are schematic, not an imaging contour.</text>
+  <text x="40" y="73" class="small">Simplified lateral map for exam review. Boundaries are schematic，not an imaging contour.</text>
 
   <!-- head and neck silhouette -->
   <path class="outline" d="M365 92
@@ -33,7 +33,7 @@
     C515 128 477 95 431 91
     C413 73 384 74 365 92 Z"/>
 
-  <!-- mandible, hyoid, cricoid, clavicle -->
+  <!-- mandible，hyoid，cricoid，clavicle -->
   <path class="bone" d="M317 246 C360 275 438 276 486 247"/>
   <path class="bone" d="M334 322 L491 322"/>
   <path class="bone" d="M335 376 L492 376"/>
