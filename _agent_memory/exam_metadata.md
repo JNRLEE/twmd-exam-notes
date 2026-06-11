@@ -1,5 +1,9 @@
 # 台灣醫師國考二階 (醫師(二)) 基本資訊
 
+## Agent 啟動規則
+
+任何 TWMD_EXAM 工作前，先讀 `docs/agent_memory_and_skill.md` 與 `_agent_memory/` 內對應 agent 檔案；專案內 `_agent_memory` 是工作流程與指令別名的真相來源，外部長期 memory 只能輔助找歷史脈絡。
+
 ## 考科與測驗內容
 
 總共有四個主要醫學考科，各 80 題，滿分皆為 100 分。
@@ -13,6 +17,14 @@
 *   `01_notes/精華筆記`：跨科混淆、相反規則、唯一例外、藥物比較等，不適合塞回單一章節時放這裡。
 
 Agent 回答與修筆記時，應優先導正使用者的作答權重，而不是單純增加知識量。
+
+## 筆記結構工作代號
+
+*   `Z9`：章節級 multi-agent 筆記結構整理流程。`Z9` 是無語意代號，agent 不可用字面意思推測任務，必須依 `docs/agent_memory_and_skill.md` 與 `_agent_memory` 執行。
+*   `Z9 肝膽腸胃科`：先解析成 `01_notes` 裡對應的 top-level `# 肝膽腸胃科`。每個 worker 只處理一個 top-level `#` 或 main agent 明確切出的互斥 `##` 範圍，main agent 負責監督、同步 nested mirror、回報 touched `# / ##`。
+*   `Z9` 必須真的使用 multi-agent / subagent 分工；若沒有可用 multi-agent 工具，停下回報 blocked，不能單 agent 自己改完整章後宣稱完成。
+*   整理規格：把平鋪長句改成巢狀 bullet。`Exam：`、`Tx：`、`Dx：`、`Risk：`、`C/I：`、`Pitfall：` 當父層時，細節要縮排在下面；主詞或檢查/治療項目放前面，再用 `for`、`if`、`since`、`because` 交代用途、條件或原因。
+*   舊名「任務一 / 任務二 / 章蜂巢」全部禁用，因為 memory 中已有多個舊 `Task 1` / `Task 2` 意義，功能性名稱也容易誘發 agent 腦補流程。`Z9` 不是 `03_focused_topics` 生成、轉換或修復。
 
 ### 醫學（三）
 *   **涵蓋專科**：內科（胃腸、胸腔、心臟、新陳代謝、腎臟、感染、血液腫瘤、免疫風濕）、家庭醫學。

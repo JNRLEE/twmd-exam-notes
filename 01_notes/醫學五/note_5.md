@@ -351,6 +351,8 @@ Exam＝首選 NCCT（non-contrast CT；可見多數結石與阻塞，indinavir �
 
 ## 骨腫瘤（考題7）
 
+![骨腫瘤比較圖](../assets/bone_tumor_comparison.png)
+
 - 概論：
   - 1st原發惡腫＝MM（症狀＝CRAB，hyperCalcemia，Renal impair，Anemia，Bone pain；好發紅骨髓/軸骨如脊椎、肋骨、骨盆、顱骨；長骨位置口訣歸diaphysis）
   - 1st良性骨腫＝OC

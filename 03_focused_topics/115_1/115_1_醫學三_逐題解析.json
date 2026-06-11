@@ -539,7 +539,7 @@
     "exam_session": "115_1",
     "exam_subject": "醫學三",
     "question_number": 9,
-    "question_text": "40歲男性有10年心悸病史未妥善就醫，近一星期症狀加重，呼吸困難。到院時，BMI=41 kg/m2， BP 126/72 mmHg，HR 141/min，RR 28/min，Temp 36.90 ℃，SpO 97％，無貧血，甲狀腺觸診未有異常，未有第三心音 2 及心雜音，肝脾不大，無腹水，雙下肢微腫。相關檢查如附圖。抽血報告如下：NT Pro-BNP 2470 pg/mL， Troponin T 0.019 ng/mL，D-dimer 20 mg/L FEU，ALT 196 U/L。下列何項診斷最符合目前狀況？",
+    "question_text": "40歲男性有10年心悸病史未妥善就醫，近一星期症狀加重，呼吸困難。到院時，BMI=41 kg/m2，BP 126/72 mmHg，HR 141/min，RR 28/min，Temp 36.90 ℃，SpO 97％，無貧血，甲狀腺觸診未有異常，未有第三心音 2 及心雜音，肝脾不大，無腹水，雙下肢微腫。相關檢查如附圖。抽血報告如下：NT Pro-BNP 2470 pg/mL，Troponin T 0.019 ng/mL，D-dimer 20 mg/L FEU，ALT 196 U/L。下列何項診斷最符合目前狀況？",
     "options": {
       "A": "急性心肌炎",
       "B": "高血壓心臟病",
@@ -1289,7 +1289,7 @@
     "classified_topic": "Calcium metabolism（考題10）",
     "matched_note_subheading": "Calcium metabolism（考題10）",
     "matched_note_heading_path": "# 新陳代謝科（考題61） > ## Calcium metabolism（考題10）",
-    "matched_note_excerpt": "## Calcium metabolism（考題10）\n\n- 激素協定\n  - Parathyroid hormone（PTH）： 目標＝升血鈣, Main＝ { 促進骨頭釋放鈣, 腎臟留鈣, 腸道吸鈣 ⭢ 升血鈣降血磷 } , if 脈衝施打＝ { 促進骨頭形成 }\n  - Vit D（肝轉成25-（OH）D ⭢ 腎轉成1,25-（OH）2D）：目標＝增加骨質（同時要鈣跟磷） ⭢ 腸道吸鈣吸磷, 腎臟留鈣留磷 ⭢ 升血鈣升血磷\n    - Vit D缺乏：測25-（OH）D （1,25會被TB/ Sarcoidosis存在干擾）, Lab＝Ca⭣, P⭣, ALKP⭡, PTH⭡；\n  - 抑鈣素（Calcitonin, CT, by 甲狀腺）： 目標＝降鈣 ⭢ 抑制骨頭釋放鈣, 增加腎臟排鈣\n- 高血鈣（腸道變慢, 腎源尿崩, 感覺麻痺）：Ddx＝抽PTH, 高＝ { 副甲亢, 1st（佔高血鈣90%）, 成因＝副甲狀Adenoma（急性, 80%副甲亢, 排echo, Tc99m）, 腎衰導致無法排磷（慢性） } ；低＝ { Vit D中毒, 惡性腫瘤（急性, 2nd, 肺/頭頸SCC/乳癌分泌PTHrP嗜骨, Tx＝Bisphosphonate）,利尿劑Thiazide }\n  - Tx＝Saline＋Furosemide（for急性, 可短期加Calcitonin） ⭢ Bisphosphonate（for 慢性長效維持, 1-2天起效）\n- 低血鈣（Total Ca<9mg/dL, 手腳麻, 肌肉痙攣, Chvostek's sign（臉頰抽搐）, Trousseau's sign（血壓計充氣後手部抽搐）, QT prolongation）： 成因＝甲低, Vit D缺乏, 腎衰竭； Tx＝口服鈣片＋Vit D補充, 有症狀要加Calcium gluconate\n  - 低白蛋白會假性低血鈣： corrected Ca＝Ca＋0.8（4-albumin）\n- Osteoporosis：成因＝primary（停經（第一型, 脊椎, 遠端橈骨骨折）, 老化（第二型, 脊椎, 髖骨骨折））, Secondary（副甲亢/庫欣/DM/藥物（Glucocorticoid/Lithium））； Exam＝DEXA（T>-1正常, -1~-2.5 Osteopenia, <-2.5 Osteoporosis）, QUS（定量超音波足跟測量）；Tx＝運動, 補鈣（1200mg/day）Bisphosphonate, 女性賀爾蒙（SERM副作用較少）, Calcitonin（效果較弱）, Strontium ranelate（鍶鹽, 抑制clast, 促進blast, 歐洲可用）, 脈衝副甲狀腺素, Percutaneous vertebroplasty（骨水泥注射, for壓迫性骨折）",
+    "matched_note_excerpt": "## Calcium metabolism（考題10）\n\n- 激素協定\n  - Parathyroid hormone（PTH）： 目標＝升血鈣, Main＝ { 促進骨頭釋放鈣, 腎臟留鈣, 腸道吸鈣 ⭢ 升血鈣降血磷 } , if 脈衝施打＝ { 促進骨頭形成 }\n  - Vit D（肝轉成25-（OH）D ⭢ 腎轉成1,25-（OH）2D）：目標＝增加骨質（同時要鈣跟磷） ⭢ 腸道吸鈣吸磷, 腎臟留鈣留磷 ⭢ 升血鈣升血磷\n    - Vit D缺乏：測25-（OH）D （1,25會被TB/ Sarcoidosis存在干擾）, Lab＝Ca⭣, P⭣, ALKP⭡, PTH⭡；\n  - 抑鈣素（Calcitonin, CT, by 甲狀腺）： 目標＝降鈣 ⭢ 抑制骨頭釋放鈣, 增加腎臟排鈣\n- 高血鈣（腸道變慢, 腎源尿崩, 感覺麻痺）：DDx＝抽PTH, 高＝ { 副甲亢, 1st（佔高血鈣90%）, 成因＝副甲狀Adenoma（急性, 80%副甲亢, 排echo, Tc99m）, 腎衰導致無法排磷（慢性） } ；低＝ { Vit D中毒, 惡性腫瘤（急性, 2nd, 肺/頭頸SCC/乳癌分泌PTHrP嗜骨, Tx＝Bisphosphonate）,利尿劑Thiazide }\n  - Tx＝Saline＋Furosemide（for急性, 可短期加Calcitonin） ⭢ Bisphosphonate（for 慢性長效維持, 1-2天起效）\n- 低血鈣（Total Ca<9mg/dL, 手腳麻, 肌肉痙攣, Chvostek's sign（臉頰抽搐）, Trousseau's sign（血壓計充氣後手部抽搐）, QT prolongation）： 成因＝甲低, Vit D缺乏, 腎衰竭； Tx＝口服鈣片＋Vit D補充, 有症狀要加Calcium gluconate\n  - 低白蛋白會假性低血鈣： corrected Ca＝Ca＋0.8（4-albumin）\n- Osteoporosis：成因＝primary（停經（第一型, 脊椎, 遠端橈骨骨折）, 老化（第二型, 脊椎, 髖骨骨折））, Secondary（副甲亢/庫欣/DM/藥物（Glucocorticoid/Lithium））； Exam＝DEXA（T>-1正常, -1~-2.5 Osteopenia, <-2.5 Osteoporosis）, QUS（定量超音波足跟測量）；Tx＝運動, 補鈣（1200mg/day）Bisphosphonate, 女性賀爾蒙（SERM副作用較少）, Calcitonin（效果較弱）, Strontium ranelate（鍶鹽, 抑制clast, 促進blast, 歐洲可用）, 脈衝副甲狀腺素, Percutaneous vertebroplasty（骨水泥注射, for壓迫性骨折）",
     "matched_note_path": "01_notes/醫學三/note_3.md",
     "matched_note_line": 570,
     "matched_note_scope": "primary_reaudited",
@@ -1337,7 +1337,7 @@
       }
     ],
     "match_reason": "重新審核題幹、選項與正答後，此題核心概念和本 ## 段落的標題/內容最相近；本段落為「Calcium metabolism（考題10）」。",
-    "matched_note_full_section": "## Calcium metabolism（考題10）\n\n- 激素協定\n  - Parathyroid hormone（PTH）： 目標＝升血鈣, Main＝ { 促進骨頭釋放鈣, 腎臟留鈣, 腸道吸鈣 ⭢ 升血鈣降血磷 } , if 脈衝施打＝ { 促進骨頭形成 }\n  - Vit D（肝轉成25-（OH）D ⭢ 腎轉成1,25-（OH）2D）：目標＝增加骨質（同時要鈣跟磷） ⭢ 腸道吸鈣吸磷, 腎臟留鈣留磷 ⭢ 升血鈣升血磷\n    - Vit D缺乏：測25-（OH）D （1,25會被TB/ Sarcoidosis存在干擾）, Lab＝Ca⭣, P⭣, ALKP⭡, PTH⭡；\n  - 抑鈣素（Calcitonin, CT, by 甲狀腺）： 目標＝降鈣 ⭢ 抑制骨頭釋放鈣, 增加腎臟排鈣\n- 高血鈣（腸道變慢, 腎源尿崩, 感覺麻痺）：Ddx＝抽PTH, 高＝ { 副甲亢, 1st（佔高血鈣90%）, 成因＝副甲狀Adenoma（急性, 80%副甲亢, 排echo, Tc99m）, 腎衰導致無法排磷（慢性） } ；低＝ { Vit D中毒, 惡性腫瘤（急性, 2nd, 肺/頭頸SCC/乳癌分泌PTHrP嗜骨, Tx＝Bisphosphonate）,利尿劑Thiazide }\n  - Tx＝Saline＋Furosemide（for急性, 可短期加Calcitonin） ⭢ Bisphosphonate（for 慢性長效維持, 1-2天起效）\n- 低血鈣（Total Ca<9mg/dL, 手腳麻, 肌肉痙攣, Chvostek's sign（臉頰抽搐）, Trousseau's sign（血壓計充氣後手部抽搐）, QT prolongation）： 成因＝甲低, Vit D缺乏, 腎衰竭； Tx＝口服鈣片＋Vit D補充, 有症狀要加Calcium gluconate\n  - 低白蛋白會假性低血鈣： corrected Ca＝Ca＋0.8（4-albumin）\n- Osteoporosis：成因＝primary（停經（第一型, 脊椎, 遠端橈骨骨折）, 老化（第二型, 脊椎, 髖骨骨折））, Secondary（副甲亢/庫欣/DM/藥物（Glucocorticoid/Lithium））； Exam＝DEXA（T>-1正常, -1~-2.5 Osteopenia, <-2.5 Osteoporosis）, QUS（定量超音波足跟測量）；Tx＝運動, 補鈣（1200mg/day）Bisphosphonate, 女性賀爾蒙（SERM副作用較少）, Calcitonin（效果較弱）, Strontium ranelate（鍶鹽, 抑制clast, 促進blast, 歐洲可用）, 脈衝副甲狀腺素, Percutaneous vertebroplasty（骨水泥注射, for壓迫性骨折）"
+    "matched_note_full_section": "## Calcium metabolism（考題10）\n\n- 激素協定\n  - Parathyroid hormone（PTH）： 目標＝升血鈣, Main＝ { 促進骨頭釋放鈣, 腎臟留鈣, 腸道吸鈣 ⭢ 升血鈣降血磷 } , if 脈衝施打＝ { 促進骨頭形成 }\n  - Vit D（肝轉成25-（OH）D ⭢ 腎轉成1,25-（OH）2D）：目標＝增加骨質（同時要鈣跟磷） ⭢ 腸道吸鈣吸磷, 腎臟留鈣留磷 ⭢ 升血鈣升血磷\n    - Vit D缺乏：測25-（OH）D （1,25會被TB/ Sarcoidosis存在干擾）, Lab＝Ca⭣, P⭣, ALKP⭡, PTH⭡；\n  - 抑鈣素（Calcitonin, CT, by 甲狀腺）： 目標＝降鈣 ⭢ 抑制骨頭釋放鈣, 增加腎臟排鈣\n- 高血鈣（腸道變慢, 腎源尿崩, 感覺麻痺）：DDx＝抽PTH, 高＝ { 副甲亢, 1st（佔高血鈣90%）, 成因＝副甲狀Adenoma（急性, 80%副甲亢, 排echo, Tc99m）, 腎衰導致無法排磷（慢性） } ；低＝ { Vit D中毒, 惡性腫瘤（急性, 2nd, 肺/頭頸SCC/乳癌分泌PTHrP嗜骨, Tx＝Bisphosphonate）,利尿劑Thiazide }\n  - Tx＝Saline＋Furosemide（for急性, 可短期加Calcitonin） ⭢ Bisphosphonate（for 慢性長效維持, 1-2天起效）\n- 低血鈣（Total Ca<9mg/dL, 手腳麻, 肌肉痙攣, Chvostek's sign（臉頰抽搐）, Trousseau's sign（血壓計充氣後手部抽搐）, QT prolongation）： 成因＝甲低, Vit D缺乏, 腎衰竭； Tx＝口服鈣片＋Vit D補充, 有症狀要加Calcium gluconate\n  - 低白蛋白會假性低血鈣： corrected Ca＝Ca＋0.8（4-albumin）\n- Osteoporosis：成因＝primary（停經（第一型, 脊椎, 遠端橈骨骨折）, 老化（第二型, 脊椎, 髖骨骨折））, Secondary（副甲亢/庫欣/DM/藥物（Glucocorticoid/Lithium））； Exam＝DEXA（T>-1正常, -1~-2.5 Osteopenia, <-2.5 Osteoporosis）, QUS（定量超音波足跟測量）；Tx＝運動, 補鈣（1200mg/day）Bisphosphonate, 女性賀爾蒙（SERM副作用較少）, Calcitonin（效果較弱）, Strontium ranelate（鍶鹽, 抑制clast, 促進blast, 歐洲可用）, 脈衝副甲狀腺素, Percutaneous vertebroplasty（骨水泥注射, for壓迫性骨折）"
   },
   {
     "exam_session": "115_1",
@@ -4224,7 +4224,7 @@
     "exam_session": "115_1",
     "exam_subject": "醫學三",
     "question_number": 64,
-    "question_text": "53歲男性因為數個月下腹不適、腹瀉就醫，糞檢發現有潛血（occult blood）反應，大腸鏡檢切片疑似發炎 性腸道疾病（inflammatory bowel disease）。病人接受類固醇（steroid）和sulfadiazine治療後，腹瀉 及血便更嚴重。病人到急診就醫時，有發燒、腹脹、廣泛腹部壓痛和反彈痛。經影像學檢查診斷是腸穿孔， 病人接受全大腸切除，病理學檢查低倍顯微鏡檢下發現大腸出現燒杯狀潰瘍（flask-shaped ulcer），腸黏 膜下和肌肉層出現許多吞噬紅血球的滋養體（trophozoites）。下列敘述何者最不適當？",
+    "question_text": "53歲男性因為數個月下腹不適、腹瀉就醫，糞檢發現有潛血（occult blood）反應，大腸鏡檢切片疑似發炎 性腸道疾病（inflammatory bowel disease）。病人接受類固醇（steroid）和sulfadiazine治療後，腹瀉 及血便更嚴重。病人到急診就醫時，有發燒、腹脹、廣泛腹部壓痛和反彈痛。經影像學檢查診斷是腸穿孔，病人接受全大腸切除，病理學檢查低倍顯微鏡檢下發現大腸出現燒杯狀潰瘍（flask-shaped ulcer），腸黏 膜下和肌肉層出現許多吞噬紅血球的滋養體（trophozoites）。下列敘述何者最不適當？",
     "options": {
       "A": "最有可能的原蟲感染是Giardia lamblia",
       "B": "和其他寄生蟲感染不同，此侵犯性原蟲感染並不會引起eosinophilia",
@@ -4492,7 +4492,7 @@
     "exam_session": "115_1",
     "exam_subject": "醫學三",
     "question_number": 68,
-    "question_text": "51歲男性，主訴間歇性的輕度發燒有一年之久；發燒的時間在下午，偶爾會咳嗽和膿痰，自行服用退燒藥， 但這一、兩個月來食慾變差，體重從64公斤掉到62公斤，又發現頸部左邊出現數個質地軟且不痛的小腫 塊，而來求診。下列何種檢查之異常，可直接診斷病因？",
+    "question_text": "51歲男性，主訴間歇性的輕度發燒有一年之久；發燒的時間在下午，偶爾會咳嗽和膿痰，自行服用退燒藥，但這一、兩個月來食慾變差，體重從64公斤掉到62公斤，又發現頸部左邊出現數個質地軟且不痛的小腫 塊，而來求診。下列何種檢查之異常，可直接診斷病因？",
     "options": {
       "A": "全血球計數",
       "B": "尿液檢查",

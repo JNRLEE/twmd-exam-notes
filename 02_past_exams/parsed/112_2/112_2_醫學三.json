@@ -89,7 +89,7 @@
   },
   {
     "question_number": 9,
-    "question_text": "一位65歲男性過去無任何病史，今日早上因突然胸悶合併心悸至急診，心跳每分鐘約130下，心電圖如附圖， 診斷為何？",
+    "question_text": "一位65歲男性過去無任何病史，今日早上因突然胸悶合併心悸至急診，心跳每分鐘約130下，心電圖如附圖，診斷為何？",
     "options": {
       "A": "sinus tachycardia",
       "B": "atrial tachycardia",
@@ -408,7 +408,7 @@
   },
   {
     "question_number": 38,
-    "question_text": "某些癌症的治療可能與某些second malignancies的發生相關。下列有關癌症治療與second malignancy的組合， 何者最不恰當？",
+    "question_text": "某些癌症的治療可能與某些second malignancies的發生相關。下列有關癌症治療與second malignancy的組合，何者最不恰當？",
     "options": {
       "A": "topoisomerase inhibitors；acute lymphoblastic leukemia associated with deletions in chromosome 5 or 7",
       "B": "tamoxifen；endometrial cancer",

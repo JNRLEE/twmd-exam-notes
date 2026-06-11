@@ -8,6 +8,7 @@
 - `03_focused_topics/`：考古題逐題詳解與重點整理。想看某年度、某科考古題怎麼考、答案怎麼判斷，可以從這裡開始。
 - `04_daily_review/`：補充知識草稿。`01_notes` 還沒有整理到、但考古題暴露出來的考點，可以先在這裡學習。
 - `02_past_exams/`：考古題原始解析資料，主要作為查題與整理來源。
+- Agent 啟動規則：任何 TWMD_EXAM 工作前都要先讀 `docs/agent_memory_and_skill.md` 與 `_agent_memory/` 內對應 agent 檔案；專案級工作流程與筆記指令代號以這兩處為準，不以外部長期 memory 搜尋結果取代。章節級 multi-agent 筆記整理代號是 `Z9`。
 
 ## 祝福
 

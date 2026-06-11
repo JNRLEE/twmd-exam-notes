@@ -1,5 +1,11 @@
 # Agent Memory / Skill 使用指南
 
+## 啟動規則
+
+- 任何 TWMD_EXAM 工作開始前，先讀本文件，再讀 `_agent_memory/` 內對應 agent 檔案。
+- 專案內 `_agent_memory` 是本 workspace 的工作流程真相來源；外部長期 memory 只能輔助找歷史脈絡，不能取代本文件與 `_agent_memory`。
+- 若使用者說「閱讀 agent memory」，在本專案中預設意思是讀 `docs/agent_memory_and_skill.md` 與 `_agent_memory/`，不是只搜尋外部 memory registry。
+
 ## 專案目標
 
 本專案的筆記維護不是完整醫學知識庫，而是「國考導向的知識蒸餾」。使用者會用有限可吸收的知識量覆蓋醫師國考二階，因此 agent 的任務是把考題、解析與主筆記壓縮成可作答的判斷框架。
@@ -23,6 +29,14 @@
 
 - Memory：記住使用者偏好、筆記風格、常見錯誤類型、專案權重。不要把單一醫學事實塞成長期偏好，除非它影響協作方式。
 - Skill：當任務需要固定流程時使用，例如 GitHub push、文件生成、批次稽核、或專門工具流程。醫學筆記優化本身以本文件與 `_agent_memory/codex.md` 為主要行為準則。
+
+## 全局筆記指令代號
+
+- `Z9 <#章名或專科名>`：章節級 multi-agent 筆記結構整理流程。`Z9` 是無語意代號，agent 不能用字面意思推測任務，必須依本文件與 `_agent_memory` 執行。
+- `Z9 肝膽腸胃科`：先解析到 `01_notes` 裡對應的 top-level `# 肝膽腸胃科`，再啟動 multi-agent；每個 worker 只負責一個 top-level `#` 或 main agent 明確切出的互斥 `##` 範圍。
+- `Z9` 必須真的使用 multi-agent / subagent 分工。若當前環境沒有可用 multi-agent 工具，agent 要停下回報 blocked，不能單 agent 自己改完整章後宣稱完成。
+- main agent 的責任是分工、整合、審核與同步 nested mirror；worker 的責任是把平鋪長句整理成父子層 bullet，常見父層包含 `Exam：`、`Tx：`、`Dx：`、`Risk：`、`C/I：`、`Pitfall：`。
+- 舊名「任務一 / 任務二 / 章蜂巢」全部禁用，不再作為 durable workflow 名稱。不要把 `Z9` 解讀成 `03_focused_topics` 生成、轉換或修復。
 
 ## 筆記修改規則
 

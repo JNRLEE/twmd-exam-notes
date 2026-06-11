@@ -210,7 +210,7 @@
   },
   {
     "question_number": 20,
-    "question_text": "某病人經檢查發現左鼻咽部及頸部有腫塊，鼻咽部切片檢查報告為未分化癌（undifferentiated carcinoma）， 接下來之處理，下列何者最不恰當？",
+    "question_text": "某病人經檢查發現左鼻咽部及頸部有腫塊，鼻咽部切片檢查報告為未分化癌（undifferentiated carcinoma），接下來之處理，下列何者最不恰當？",
     "options": {
       "A": "頭頸部影像學檢查",
       "B": "腹部超音波",
@@ -419,7 +419,7 @@
   },
   {
     "question_number": 39,
-    "question_text": "利用產前超音波評估胎兒狀況（fetal well-being），在日常門診十分普遍，除了估計胎兒大小及胎兒心跳外， 常可利用生物物理指標（biophysical profile）進行有效監測，下列何項超音波指標不包括在biophysical profile 內？",
+    "question_text": "利用產前超音波評估胎兒狀況（fetal well-being），在日常門診十分普遍，除了估計胎兒大小及胎兒心跳外，常可利用生物物理指標（biophysical profile）進行有效監測，下列何項超音波指標不包括在biophysical profile 內？",
     "options": {
       "A": "羊水量（amniotic fluid volume）",
       "B": "胎兒呼吸運動（fetal breathing）",
@@ -551,7 +551,7 @@
   },
   {
     "question_number": 51,
-    "question_text": "24歲男性接受不孕症檢查時，發現患者精液中沒有精蟲，同時伴隨兩側輸精管有先天性缺少（CBAVD）時， 常與下列何種疾病相關？",
+    "question_text": "24歲男性接受不孕症檢查時，發現患者精液中沒有精蟲，同時伴隨兩側輸精管有先天性缺少（CBAVD）時，常與下列何種疾病相關？",
     "options": {
       "A": "Cystic fibrosis",
       "B": "Kallmann's syndrome",
@@ -696,10 +696,10 @@
     "question_number": 64,
     "question_text": "1965年 Melzack及Wall兩位學者提出的門閾學說（gate control theory）是刺激X神經纖維，以抑制Y神經纖維的 傳遞。下列敘述何者正確？",
     "options": {
-      "A": "X = A型（神經纖維）， Y = B型（神經纖維）",
-      "B": "X = A型（神經纖維）， Y = C型（神經纖維）",
-      "C": "X = B型（神經纖維）， Y = A型（神經纖維）",
-      "D": "X = C型（神經纖維）， Y = A型（神經纖維）"
+      "A": "X = A型（神經纖維），Y = B型（神經纖維）",
+      "B": "X = A型（神經纖維），Y = C型（神經纖維）",
+      "C": "X = B型（神經纖維），Y = A型（神經纖維）",
+      "D": "X = C型（神經纖維），Y = A型（神經纖維）"
     },
     "answer": "B"
   },

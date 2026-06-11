@@ -1238,7 +1238,7 @@
     "exam_session": "115_1",
     "exam_subject": "醫學五",
     "question_number": 21,
-    "question_text": "陳先生，身高175公分、體重70公斤，預計入院接受腹腔鏡膽囊切除手術，術前檢驗數據：Hb:14.8 g/dL， Hct:45％，WBC:8,600/μL，platelet: 246,000/μL，BUN:16 mg/dL，creatinine:0.9 mg/dL，glucose:95 mg/dL，Na:142 mmol/L，K:4.1 mmol/L。下列敘述何者錯誤？",
+    "question_text": "陳先生，身高175公分、體重70公斤，預計入院接受腹腔鏡膽囊切除手術，術前檢驗數據：Hb:14.8 g/dL，Hct:45％，WBC:8,600/μL，platelet: 246,000/μL，BUN:16 mg/dL，creatinine:0.9 mg/dL，glucose:95 mg/dL，Na:142 mmol/L，K:4.1 mmol/L。下列敘述何者錯誤？",
     "options": {
       "A": "身體的總水分約38公斤",
       "B": "血液的滲透壓約為315 mOsm/L",
@@ -2061,7 +2061,7 @@
     "exam_session": "115_1",
     "exam_subject": "醫學五",
     "question_number": 34,
-    "question_text": "25歲男性於籃球比賽時，試圖阻擋對手傳球，被籃球高速撞擊其右手食指末端，出現劇痛、遠端指間關節 （DIPJ）屈曲無法主動伸直，近端指間關節（PIPJ）關節活動正常，X光顯示無明顯骨折且無開放性傷口， 經急診醫師診斷為①，建議持續配戴副木。然而病人半年後回整形外科門診追蹤，主訴手指外觀近端指間關 節（PIPJ）過度伸直、遠端指間關節（DIPJ）持續屈曲，影響籃球握球與傳球動作，經醫師再評估為②，建 議考慮手術治療。根據上述情境，下列何者為最適合的①及②之診斷？",
+    "question_text": "25歲男性於籃球比賽時，試圖阻擋對手傳球，被籃球高速撞擊其右手食指末端，出現劇痛、遠端指間關節 （DIPJ）屈曲無法主動伸直，近端指間關節（PIPJ）關節活動正常，X光顯示無明顯骨折且無開放性傷口，經急診醫師診斷為①，建議持續配戴副木。然而病人半年後回整形外科門診追蹤，主訴手指外觀近端指間關 節（PIPJ）過度伸直、遠端指間關節（DIPJ）持續屈曲，影響籃球握球與傳球動作，經醫師再評估為②，建 議考慮手術治療。根據上述情境，下列何者為最適合的①及②之診斷？",
     "options": {
       "A": "①mallet finger；②swan neck deformity",
       "B": "①trigger finger；②swan neck deformity",
@@ -2865,7 +2865,7 @@
     "exam_session": "115_1",
     "exam_subject": "醫學五",
     "question_number": 46,
-    "question_text": "86歲男性病患因意識不清被送往急診室，到院呈重度昏迷，理學檢查血壓120/78 mmHg，心跳每分鐘82次， 呼吸每分鐘12次，體溫36.5℃，兩眼瞳孔等距0.4公分，Glasgow coma scale：E1M1V1，血清生化檢查： glucose 92 mg/dL，ethanol＜10 mg/dL，Na+ 136 mEq/L，Cl- 102 mEq/L，K+ 3.9 mEq/L，Ca 14.6 mg/dL， BUN 38 mg/dL，creatinine 1.4 mg/dL，SGOT 32 μIU/L，SGPT 24 μIU/L，下列何項處置最不適當？",
+    "question_text": "86歲男性病患因意識不清被送往急診室，到院呈重度昏迷，理學檢查血壓120/78 mmHg，心跳每分鐘82次，呼吸每分鐘12次，體溫36.5℃，兩眼瞳孔等距0.4公分，Glasgow coma scale：E1M1V1，血清生化檢查： glucose 92 mg/dL，ethanol＜10 mg/dL，Na+ 136 mEq/L，Cl- 102 mEq/L，K+ 3.9 mEq/L，Ca 14.6 mg/dL，BUN 38 mg/dL，creatinine 1.4 mg/dL，SGOT 32 μIU/L，SGPT 24 μIU/L，下列何項處置最不適當？",
     "options": {
       "A": "應檢驗血清磷及副甲狀腺素（PTH）以鑑別高血鈣症",
       "B": "應給與大量生理食鹽水灌注再給與thiazide",
@@ -3204,7 +3204,7 @@
     "options": {
       "A": "通常沒有明顯症狀，經常是照顧者意外觸摸所發現",
       "B": "癌細胞的來源是腎上腺細胞，在發育時產生變異，因此患者都有高血壓的問題",
-      "C": "病理診斷可將腫瘤組織區分為有利的（favorable）與不利的（unfavorable）兩大類，對於治療以及預後， 有相當大的關聯性",
+      "C": "病理診斷可將腫瘤組織區分為有利的（favorable）與不利的（unfavorable）兩大類，對於治療以及預後，有相當大的關聯性",
       "D": "治療上以根除性手術切除為主，因此手術前完整的影像學檢查與計畫，攸關手術的成敗"
     },
     "answer": "B",

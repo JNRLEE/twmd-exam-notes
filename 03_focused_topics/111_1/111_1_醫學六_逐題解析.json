@@ -1783,7 +1783,7 @@
     "question_text": "25歲女性，G1P0，已12週無月經來潮卻於今日出現陰道大量出血而來急診就醫，尿液檢查發現懷孕試驗呈陽 性，抽血檢驗發現血清β-人類絨毛膜刺激激素（β-subunit human chorionic gonadotropin, β-hCG）值為14,500 mIU/mL，內診及超音波發現已擴張的子宮頸口上可看到少數妊娠組織、大部分妊娠組織還留在子宮內，下列 何種診斷及處理方式最為適當？",
     "options": {
       "A": "完全性流產（complete abortion），可於48小時後再追蹤血清β-hCG值",
-      "B": "先兆性流產（threatened abortion）， 建議多休息",
+      "B": "先兆性流產（threatened abortion），建議多休息",
       "C": "不完全性流產（incomplete abortion），可行子宮內膜搔刮手術（dilatation and curettage, D&C）",
       "D": "輸卵管子宮外孕（tubal pregnancy），可行腹腔鏡手術切除輸卵管子宮外孕"
     },
@@ -1981,7 +1981,7 @@
     "exam_session": "111_1",
     "exam_subject": "醫學六",
     "question_number": 31,
-    "question_text": "一位38歲孕婦妊娠35週產檢時發現有妊娠高血壓，做胎兒生理評估（fetal biophysical profile）檢查為10分， 臨床上應如何處置？",
+    "question_text": "一位38歲孕婦妊娠35週產檢時發現有妊娠高血壓，做胎兒生理評估（fetal biophysical profile）檢查為10分，臨床上應如何處置？",
     "options": {
       "A": "繼續觀察，每週做一次胎兒生理評估（fetal biophysical profile）檢查",
       "B": "繼續觀察，每天做一次胎兒生理評估（fetal biophysical profile）檢查",
@@ -4101,7 +4101,7 @@
     "exam_session": "111_1",
     "exam_subject": "醫學六",
     "question_number": 63,
-    "question_text": "小明是3個月的男嬰，因頭部不正而求診。醫師發現小明頸部轉（rotation）向右側，後腦傾（tilt）向左側， 醫師診斷是先天性肌肉斜頸，下列敘述何者正確？",
+    "question_text": "小明是3個月的男嬰，因頭部不正而求診。醫師發現小明頸部轉（rotation）向右側，後腦傾（tilt）向左側，醫師診斷是先天性肌肉斜頸，下列敘述何者正確？",
     "options": {
       "A": "小明最可能的原因是右側胸鎖乳突肌（sternocleidomastoid muscle）短縮所致",
       "B": "小明髖關節發育不良的可能性較高",

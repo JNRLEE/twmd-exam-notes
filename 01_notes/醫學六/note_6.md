@@ -408,7 +408,7 @@
 
 - 屈光力：Cornea（角膜）提供眼球固定屈光大頭，約整體2/3（約43D，因為介質差大）；Lens（水晶體）屈光較少但可變，負責accommodation（調節/看近調焦）。所以「屈光主力＝角膜；可變焦＝水晶體」
 - S，C，A ＝ S+C，-C，A+90°
-- Retinoscopy（網膜鏡/檢影鏡）：客觀驗光，看retinal red reflex移動來估屈光度/散光（e.g. 圓錐角膜scissoring reflex）；不是主要看視網膜病灶（cf. funduscopy/OCT看眼底/視網膜）
+- Retinoscopy（視網膜檢影/檢影驗光）：客觀驗光，看retinal red reflex移動來估屈光度/散光（e.g. 圓錐角膜scissoring reflex）；不是主要看視網膜病灶。cf. Ophthalmoscopy/fundoscopy（眼底鏡）才是看眼底/視網膜/視神經盤/血管；OCT/眼底攝影是更進一步影像。
 - 近視的主要光學因素是眼軸過長造成影像落在視網膜前，眼軸長度通常比角膜屈折率更關鍵
 
 ## 斜弱視（抓大方向，檢查方法很亂）（考題5）
@@ -499,7 +499,7 @@
 
 - Osgood-Schlatter dx：青少年膝蓋生長板炎，脛骨粗隆牽拉性骨骺炎；Tx＝休息，冰敷，伸展運動，手術拿掉發炎組織
 - 肌骨軟組織Echo速記：正常肌腱/韌帶＝均質高回音纖維束，肌肉＝羽狀低回音肌束+高回音筋膜，神經＝蜂巢狀；液體/囊腫＝無回音或低回音+後方增強，水腫/發炎＝低回音+腫脹（Doppler可有血流↑），tendinopathy＝低回音+增厚+纖維紋理混亂/新生血管，撕裂＝低/無回音裂隙或缺口，血腫/膿瘍＝混合回音，鈣化/骨皮質/異物＝高回音+後方聲影；注意anisotropy（探頭角度不垂直會讓正常肌腱假性低回音）
-- 急性軟組織損傷PEACE：Protect，Elevate，Avoid anti-inflammatory modalities不過度抗發炎用藥/類固醇（不是avoid movement；可安全活動），Compress（外壓限制滲出/出血與腫脹，促進靜脈/淋巴回流，但勿過緊），Educate
+- 軟組織損傷 PEACE & LOVE（肌腱/韌帶/肌肉扭拉傷）：急性先 PEACE＝Protect，Elevate，Avoid anti-inflammatory modalities（不過度抗發炎用藥/類固醇，冰敷偏止痛、非促癒核心；不是avoid movement，可安全活動），Compress（外壓限制滲出/出血與腫脹，勿過緊），Educate；幾天後 LOVE＝Load（疼痛可忍下漸進負重/活動），Optimism（降低恐懼、預期恢復），Vascularization（無痛有氧促血流），Exercise（恢復ROM/肌力/本體感覺）
 - 肘外側上髁炎（網球肘）：病灶＝總伸肌腱，尤其ECRB（extensor carpi radialis brevis）；Tx＝避免重複過度使用，NSAIDs，伸展/離心訓練
 - 髖關節手術後：避免FAIR（Hip Flexion，Adduction，Internal Rotation，e.g站立時不要腳掌內旋轉）
 - 膝關節手術後：疼痛控制，避免DVT，PE，適當活動
