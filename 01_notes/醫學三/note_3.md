@@ -20,7 +20,7 @@
   - White coat HTN（白袍高血壓）：用 24h ambulatory BP monitoring（ABPM，行動血壓）或居家血壓確認。
   - Orthostatic hypotension（姿勢性低血壓）：站立3min內 SBP↓≥20 或 DBP↓≥10。
 - 分類：
-  - Primary hypertension（essential HTN，90-95%）：多有 mily history；<50y/o 常 SBP/DBP 都升，>50y/o 常以 SBP 升高為主。
+  - Primary hypertension（essential HTN，90-95%）：多有 family history；<50y/o 常 SBP/DBP 都升，>50y/o 常以 SBP 升高為主。
   - Secondary hypertension（5-10%）：
     - When：<30y/o、>60y/o 新發、突然惡化、resistant HTN。
     - 口訣＝腎內主神藥。
@@ -705,7 +705,7 @@
     - CXR：cavitation（空洞）＋air-fluid level（液氣平面）。
     - Pathology：purulent liquefaction（化膿性液化）。
   - Tx：抗厭氧抗生素3-6wks；if 大膿瘍/抗生素無效/併發症，再考慮引流或手術。
-- Bronchiectasis（支氣管擴張；感染相關ㄋ）：
+- Bronchiectasis（支氣管擴張；感染相關）：
   - SS：反覆感染、慢性膿痰、血痰。
   - Exam：chest CT較CXR敏感，可見支氣管擴張或tram-track/ring shadow。
   - Diffuse bronchiectasis DDx：Kartagener syndrome、反覆吸入或感染、免疫球蛋白缺乏。
@@ -738,7 +738,7 @@
     - PZA（Pyrazinamide）：高尿酸。
     - Streptomycin：耳毒性。
 - LTBI（latent TB infection，潛伏結核感染）：
-  - Exam：TST（tuberculin skin test）/IGRA（interferon-gamma release assay）**用免疫記憶找 latent TB，**能支持感染。
+  - Exam：TST（tuberculin skin test）/IGRA（interferon-gamma release assay）：用免疫記憶找 latent TB，能支持感染。
     - Pitfall：不能區分latent vs active，也不能預測誰會進展；陰性也不能完全排除感染。
   - Tx：一般可INH 9m；if 接觸者來源為INH抗藥開放性TB，改用rifampin 4m，避免INH單方。
 - Drug-resistant TB：MDR-TB＝至少INH＋RMP抗藥；XDR-TB＝MDR再加fluoroquinolone與重要第二線藥抗藥。
@@ -773,7 +773,7 @@
 - Exam：
   - ABG：PaO2/FiO2≤300；100-200＝moderate，≤100＝severe。
   - CXR：bilateral infiltrates。
-  - 排除心衰：No heart failure；PAWP（**Pulmonary Artery Wedge Pressure）**<18 mmHg/BNP低較支持ARDS。
+  - 排除心衰：No heart failure；PAWP（Pulmonary Artery Wedge Pressure）<18 mmHg/BNP低較支持ARDS。
 - 病程：滲出期（for 1 wks，edema（充滿exudate） ⭢ Hyaline membrane生長） ⭢ 增生期（fibrosis生長）
 - 病理：肺泡上皮細胞受損 ⭢ 肺泡毛細血管受損 ⭢ 肺水腫 ⭢ 透明膜形成 ⭢ 纖維化
 - DDx：ARDS（四肢溫暖、BNP<100、PAWP<18mmHg）、Cardiogenic pulmonary edema（四肢冰冷，∵心衰，PAWP>18mmHg）
@@ -956,9 +956,7 @@
     - 補水電解質。
     - 沒發燒/血便：可給止瀉；loperamide＝μ-opioid receptor agonist（不進中樞，不失眠不成癮）。
     - 嚴重血便未知成因：先給 ciprofloxacin。
-    - 確定 C. difficile/Giardia/阿米巴：
-    **metronidazole**
-    。
+    - 確定 C. difficile/Giardia/阿米巴：**metronidazole**。
 
 ## 腸胃道出血 （top goal＝穩定vital sign）（考題1）
 

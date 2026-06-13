@@ -2032,7 +2032,7 @@
   | SDH （硬膜下）            | 新月形、**跨縫**         | 橋接靜脈撕裂           | 急性／慢性；老人、酒精濫用高風險                    |
   | SAH （蜘蛛網膜下）          | 腦池積血               | 動脈瘤破裂            | 雷擊頭痛（worst headache of life）；腦膜刺激陽性 |
   | ICH （腦內出血）           | 深部圓形血腫             | 穿通小動脈（高血壓）       | 基底核、視丘、橋腦好發；抗凝血劑為另一大原因              |
-  | Subgaleal hemorrhage | 頭皮建模下瀰漫腫脹、**跨縫跨囟** | emissary v.導靜脈撕裂 | 新生兒（產鉗/真空吸引）；可大量失血致休克               |
+  | Subgaleal hemorrhage | 頭皮下瀰漫腫脹、**跨縫跨囟** | emissary v.導靜脈撕裂 | 新生兒（產鉗/真空吸引）；可大量失血致休克               |
 
 - 頭部外傷/TBI腦內出血（contusion/traumatic ICH；非自發性hemorrhagic stroke）：
   - Goal：避免secondary brain injury（缺氧、低血壓、過度換氣造成腦缺血）
