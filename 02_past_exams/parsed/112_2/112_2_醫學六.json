@@ -12,7 +12,7 @@
   },
   {
     "question_number": 2,
-    "question_text": "要抽血檢測混合靜脈氧飽和度（mixed venous blood oxygen saturation, SvO ），應從何處抽取較精確？ 2",
+    "question_text": "要抽血檢測混合靜脈氧飽和度（mixed venous blood oxygen saturation，SvO ），應從何處抽取較精確？ 2",
     "options": {
       "A": "外頸靜脈（external jugular vein）",
       "B": "橈動脈導管（radial artery catheter）",
@@ -89,7 +89,7 @@
   },
   {
     "question_number": 9,
-    "question_text": "急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）之診斷條件，根據柏林定義（Berlin definition），下列何者正確？ 2 2",
+    "question_text": "急性呼吸窘迫症候群（acute respiratory distress syndrome，ARDS）之診斷條件，根據柏林定義（Berlin definition），下列何者正確？ 2 2",
     "options": {
       "A": "一週內發生的臨床事件或新的／惡化的呼吸症狀",
       "B": "PaO /FiO ≤300，屬於重度ARDS",
@@ -100,7 +100,7 @@
   },
   {
     "question_number": 10,
-    "question_text": "光學共軛掃描儀（optical coherence tomography, OCT）臨床上主要用來檢查高度近視的許多視網膜併發症，下 列何者除外？",
+    "question_text": "光學共軛掃描儀（optical coherence tomography，OCT）臨床上主要用來檢查高度近視的許多視網膜併發症，下 列何者除外？",
     "options": {
       "A": "黃斑裂孔（macular hole）",
       "B": "格子狀退化（lattice degeneration）",
@@ -335,7 +335,7 @@
     "options": {
       "A": "第1度僅傷及vaginal epithelium或perineal skin",
       "B": "第2度傷及perineal muscles，但anal sphincter complex是完整的",
-      "C": "第3度裂傷可分為3a, 3b, 3c，其中3a裂傷是指小於1/3的external anal sphincter有撕裂",
+      "C": "第3度裂傷可分為3a，3b，3c，其中3a裂傷是指小於1/3的external anal sphincter有撕裂",
       "D": "第4度裂傷係指裂傷範圍包括perineal body、anal sphincter complex和anorectal mucosa"
     },
     "answer": "C"
@@ -364,7 +364,7 @@
   },
   {
     "question_number": 34,
-    "question_text": "有關脊髓性肌肉萎縮症（spinal muscular atrophy, SMA）的敘述，下列何者正確？",
+    "question_text": "有關脊髓性肌肉萎縮症（spinal muscular atrophy，SMA）的敘述，下列何者正確？",
     "options": {
       "A": "大多數患者是由染色體5q13.2 上survival motor neuron（SMN1）基因突變所造成",
       "B": "多數患有此疾病的胎兒在第三孕期時會胎死腹中",
@@ -510,8 +510,8 @@
     "question_text": "關於假性陰陽人（pseudohermaphroditism），下列何者錯誤？",
     "options": {
       "A": "其外生殖器的樣子，與其染色體性別（chromosomal sex）不同",
-      "B": "男性假性陰陽人（46,XY）常有尿道下裂（hypospadias）",
-      "C": "女性假性陰陽人（46,XX）的卵巢反而比一般正常女性更大",
+      "B": "男性假性陰陽人（46，XY）常有尿道下裂（hypospadias）",
+      "C": "女性假性陰陽人（46，XX）的卵巢反而比一般正常女性更大",
       "D": "發生原因為性荷爾蒙濃度異常或是性荷爾蒙受體異常"
     },
     "answer": "C"
@@ -584,7 +584,7 @@
   },
   {
     "question_number": 54,
-    "question_text": "試管嬰兒療程中，下列何者不是預防卵巢過度刺激症候群（ovarian hyperstimulation syndrome, OHSS）的方 法？",
+    "question_text": "試管嬰兒療程中，下列何者不是預防卵巢過度刺激症候群（ovarian hyperstimulation syndrome，OHSS）的方 法？",
     "options": {
       "A": "減少促性腺激素（gonadotropin）注射劑量",
       "B": "若使用GnRH拮抗劑（GnRH antagonist）療程，破卵針（ovulation trigger）不用hCG，改用GnRH促效劑 （GnRH agonist）",
@@ -599,14 +599,14 @@
     "options": {
       "A": "卵原細胞（oogonium）在女嬰出生前就全部成為初級卵母細胞（primary oocyte）",
       "B": "在懷孕18～20週時，初級卵母細胞（primary oocyte）會與顆粒細胞組合成初級濾泡（primary follicle）",
-      "C": "在青春期時，初級濾泡（primary follicle）受到濾泡刺激素（follicle-stimulating hormone, FSH）刺激，發育成 二級濾泡（secondary follicle）",
+      "C": "在青春期時，初級濾泡（primary follicle）受到濾泡刺激素（follicle-stimulating hormone，FSH）刺激，發育成 二級濾泡（secondary follicle）",
       "D": "在排卵時，初級卵母細胞（primary oocyte）會完成兩次減數分裂，成為卵子（ovum）"
     },
     "answer": "A"
   },
   {
     "question_number": 56,
-    "question_text": "多囊性卵巢症候群（polycystic ovary syndrome, PCOS）是造成排卵功能異常的常見內分泌疾病，根據2003年 的鹿特丹共識會議，下列何者不是多囊性卵巢症候群的診斷條件？",
+    "question_text": "多囊性卵巢症候群（polycystic ovary syndrome，PCOS）是造成排卵功能異常的常見內分泌疾病，根據2003年 的鹿特丹共識會議，下列何者不是多囊性卵巢症候群的診斷條件？",
     "options": {
       "A": "寡經或無月經",
       "B": "血中雄性素過高或有雄性素過高的臨床表現",

@@ -133,7 +133,7 @@
   },
   {
     "question_number": 13,
-    "question_text": "7歲男童因肺炎住院，身體診察發現臉色蒼白、呼吸急促；血液尿素氮（BUN）90 mg/dL、肌酐酸 （Creatinine）7.8 mg/dL、血紅素（hemoglobin）4.5 g/dL、血小板（platelet）50,000/μL，血液抹片發現有許多破 碎的紅血球。下列何者為最可能的診斷？",
+    "question_text": "7歲男童因肺炎住院，身體診察發現臉色蒼白、呼吸急促；血液尿素氮（BUN）90 mg/dL、肌酐酸 （Creatinine）7.8 mg/dL、血紅素（hemoglobin）4.5 g/dL、血小板（platelet）50，000/μL，血液抹片發現有許多破 碎的紅血球。下列何者為最可能的診斷？",
     "options": {
       "A": "急性白血病（Acute leukemia）",
       "B": "原發性血小板低下（Idiopathic thrombocytopenia）",
@@ -236,7 +236,7 @@
     "options": {
       "A": "關節炎（Arthritis）",
       "B": "白血球增加（Leukocytosis）",
-      "C": "抗核抗體（Antinuclear antibody, ANA）陽性",
+      "C": "抗核抗體（Antinuclear antibody，ANA）陽性",
       "D": "漿膜炎（Serositis）"
     },
     "answer": "B"
@@ -577,7 +577,7 @@
     "options": {
       "A": "可能罹患疱疹性三叉神經痛（herpetic trigeminal neuralgia）",
       "B": "通常預後良好",
-      "C": "需要併用抗病毒藥物（antivirals）及非類固醇消炎藥（non-steroid anti-inflammatory drug, NSAID）治療",
+      "C": "需要併用抗病毒藥物（antivirals）及非類固醇消炎藥（non-steroid anti-inflammatory drug，NSAID）治療",
       "D": "需要使用類固醇（steroids）及抗病毒藥物（antivirals）治療"
     },
     "answer": "D"
@@ -771,7 +771,7 @@
   },
   {
     "question_number": 71,
-    "question_text": "有關自閉症類群障礙症（aauuttiissmm ssppeeccttrruumm ddiissoorrddeerr,, AASSDD），下列敘述何者正確？",
+    "question_text": "有關自閉症類群障礙症（aauuttiissmm ssppeeccttrruumm ddiissoorrddeerr，，AASSDD），下列敘述何者正確？",
     "options": {
       "A": "根據DSM-5診斷準則，ASD的的症症狀狀分分成成三三大大範範圍圍（domains），包括社交溝通障礙、侷侷限限與與重重複複行行為為和和語語言言 發展障礙",
       "B": "ASD的症狀一般在四歲左右出現",

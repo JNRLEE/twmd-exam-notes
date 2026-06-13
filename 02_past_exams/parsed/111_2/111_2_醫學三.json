@@ -375,7 +375,7 @@
   },
   {
     "question_number": 35,
-    "question_text": "33歲趙小姐，因為反覆流產3次前來評估是否有免疫相關問題。病人流產兩次發生在孕期8～9週，一次發生 在16週。病人上週於他院驗血之報告如下：WBC＝5,180/mm3 ，HgB＝12.0 g/dL，platelet count＝91,000/mm3。 下列處置何者對於確立診斷最沒有幫助？",
+    "question_text": "33歲趙小姐，因為反覆流產3次前來評估是否有免疫相關問題。病人流產兩次發生在孕期8～9週，一次發生 在16週。病人上週於他院驗血之報告如下：WBC＝5，180/mm3 ，HgB＝12.0 g/dL，platelet count＝91，000/mm3。 下列處置何者對於確立診斷最沒有幫助？",
     "options": {
       "A": "檢驗lupus anticoagulant",
       "B": "檢驗anti-platelet antibodies",
@@ -399,7 +399,7 @@
     "question_number": 37,
     "question_text": "癌細胞透過製造並釋放類似內分泌的體液因子（humoral factors）而產生了所謂的paraneoplastic syndrome。下列 paraneoplastic syndrome與其肇因的癌細胞分泌的類似內分泌的體液因子之組合，何者錯誤：",
     "options": {
-      "A": "hypercalcemia of malignancy；1,25-dihydroxyvitamin D",
+      "A": "hypercalcemia of malignancy；1，25-dihydroxyvitamin D",
       "B": "Cushing's syndrome；adrenocorticotropic hormone（ACTH）",
       "C": "syndrome of inappropriate antidiuretic hormone secretion（SIADH）；vasopressin",
       "D": "hypercalcemia of malignancy；thyroid hormone"
@@ -465,7 +465,7 @@
     "question_number": 43,
     "question_text": "慢性淋巴性白血病（chronic lymphocytic leukemia，CLL）的特徵，何者錯誤？",
     "options": {
-      "A": "病人周邊血中clonal B cells 5,000/μL以上，是診斷CLL的重要依據",
+      "A": "病人周邊血中clonal B cells 5，000/μL以上，是診斷CLL的重要依據",
       "B": "初步診斷時有貧血的病人，比沒有貧血的病人預後較佳",
       "C": "其周邊血液抹片常可看到泥細胞（smudge cell）",
       "D": "丙型球蛋白（gamma globulin）的降低是常見表現之一"
@@ -496,7 +496,7 @@
   },
   {
     "question_number": 46,
-    "question_text": "63歲女性，3週前因下背劇痛至門診求診，並接受non-steroid anti-inflammatory drug止痛劑緩解症狀。最近一週 開始出現咳嗽、發燒症狀及呼吸急促現象，至急診室求診發現胸部X光片有兩側肺野浸潤疑似肺炎現象，無 心臟擴大或肋膜積水，血液檢查白血球：14,200/mm3；neutrophil：70%；eosinophil：25%；C-reactive protein：0.9 mg/dL，其他生化檢查正常。下列何種檢查對確定診斷最有幫助？",
+    "question_text": "63歲女性，3週前因下背劇痛至門診求診，並接受non-steroid anti-inflammatory drug止痛劑緩解症狀。最近一週 開始出現咳嗽、發燒症狀及呼吸急促現象，至急診室求診發現胸部X光片有兩側肺野浸潤疑似肺炎現象，無 心臟擴大或肋膜積水，血液檢查白血球：14，200/mm3；neutrophil：70%；eosinophil：25%；C-reactive protein：0.9 mg/dL，其他生化檢查正常。下列何種檢查對確定診斷最有幫助？",
     "options": {
       "A": "胸部電腦斷層",
       "B": "blood antineutrophil cytoplasmic antibody",
@@ -683,7 +683,7 @@
   },
   {
     "question_number": 63,
-    "question_text": "48歲男性二週來頭隱隱的痛與漸進步履不穩，入院身體檢查沒有發燒，但是發現口腔念珠菌感染（oral candidiasis）和困難維持軀幹平衡，胸部X光並無異常。電腦斷層發現右側一個3.5 cm小腦腫瘤併有病灶周圍 水腫（perifocal edema）。血液人類免疫不全病毒（HIV）西方墨點（Western blot）呈現陽性反應，血液CD4數 值是48 cells/mm3，血漿HIV病毒量是432,000 copies/ml。血清弓蟲（Toxoplasma gondii）抗體呈陽性反應，隱球 菌抗原（cryptococcal antigen）呈現陰性反應。針對這些病徵的病因與處置，下列敘述何者錯誤？",
+    "question_text": "48歲男性二週來頭隱隱的痛與漸進步履不穩，入院身體檢查沒有發燒，但是發現口腔念珠菌感染（oral candidiasis）和困難維持軀幹平衡，胸部X光並無異常。電腦斷層發現右側一個3.5 cm小腦腫瘤併有病灶周圍 水腫（perifocal edema）。血液人類免疫不全病毒（HIV）西方墨點（Western blot）呈現陽性反應，血液CD4數 值是48 cells/mm3，血漿HIV病毒量是432，000 copies/ml。血清弓蟲（Toxoplasma gondii）抗體呈陽性反應，隱球 菌抗原（cryptococcal antigen）呈現陰性反應。針對這些病徵的病因與處置，下列敘述何者錯誤？",
     "options": {
       "A": "此臨床腦部病徵最常見的病因是原發性中樞神經淋巴瘤（primary central nervous system lymphoma），預後不 好，開顱手術（craniotomy）有風險應該避免執行。同時應儘快給與化學治療（chemotherapy）",
       "B": "先以抗弓蟲腦炎治療一到二週後，再追蹤腦部影像學變化。如果沒有改善，需要開顱手術確認診斷",

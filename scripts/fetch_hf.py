@@ -14,7 +14,7 @@ def main():
     def process_split(dataset, start_q_num):
         q_num = start_q_num
         for item in dataset:
-            # TMMLU+ schema: 'question', 'A', 'B', 'C', 'D', 'answer'
+            # TMMLU+ schema: 'question'，'A'，'B'，'C'，'D'，'answer'
             data = {
                 "question_number": q_num,
                 "question_text": item["question"].strip(),
@@ -24,7 +24,7 @@ def main():
                     "C": str(item.get("C", "")).strip(),
                     "D": str(item.get("D", "")).strip()
                 },
-                "answer": item["answer"].strip() # A, B, C, or D
+                "answer": item["answer"].strip() # A，B，C，or D
             }
             questions.append(data)
             q_num += 1

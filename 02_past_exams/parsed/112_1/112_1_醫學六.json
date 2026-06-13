@@ -1,7 +1,7 @@
 [
   {
     "question_number": 1,
-    "question_text": "執行全身麻醉誘導後，遇到非預期的困難呼吸道，並發生無法通氣及插管（cannot ventilate, cannot intubate）的 情況，麻醉醫師立即施行環甲膜切開術（surgical cricothyrotomy），下列敘述何者錯誤？",
+    "question_text": "執行全身麻醉誘導後，遇到非預期的困難呼吸道，並發生無法通氣及插管（cannot ventilate，cannot intubate）的 情況，麻醉醫師立即施行環甲膜切開術（surgical cricothyrotomy），下列敘述何者錯誤？",
     "options": {
       "A": "環甲膜切開術亦適用於六歲以下兒童施行",
       "B": "讓病人平躺，觸摸頸部甲狀軟骨下緣，以環狀軟骨與甲狀軟骨之間的距離來定位",
@@ -133,7 +133,7 @@
   },
   {
     "question_number": 13,
-    "question_text": "有關造成角膜緣幹細胞缺乏症（limbal stem cell deficiency, LSCD）的原因，下列何者錯誤？",
+    "question_text": "有關造成角膜緣幹細胞缺乏症（limbal stem cell deficiency，LSCD）的原因，下列何者錯誤？",
     "options": {
       "A": "化學藥物灼傷（chemical injury）",
       "B": "謝格連氏症候群（Sjögren syndrome）",
@@ -408,7 +408,7 @@
   },
   {
     "question_number": 38,
-    "question_text": "懷孕期間，孕婦感染巨細胞病毒（cytomegalovirus, CMV），在此次懷孕的那段時期最容易透過垂直傳播 （vertical transmission）途徑導致子宮內胎兒CMV感染？",
+    "question_text": "懷孕期間，孕婦感染巨細胞病毒（cytomegalovirus，CMV），在此次懷孕的那段時期最容易透過垂直傳播 （vertical transmission）途徑導致子宮內胎兒CMV感染？",
     "options": {
       "A": "早孕期（first trimester）",
       "B": "中孕期（second trimester）",
@@ -419,7 +419,7 @@
   },
   {
     "question_number": 39,
-    "question_text": "妊娠期合併全身性紅斑性狼瘡（systemic lupus erythematosus, SLE）導致新生兒狼瘡（neonatal lupus syndrome）的最主要相關性自體免疫抗體為：",
+    "question_text": "妊娠期合併全身性紅斑性狼瘡（systemic lupus erythematosus，SLE）導致新生兒狼瘡（neonatal lupus syndrome）的最主要相關性自體免疫抗體為：",
     "options": {
       "A": "）",
       "B": "抗血小板抗體（Antiplatelet）",
@@ -685,7 +685,7 @@
     "question_number": 63,
     "question_text": "有關骨質疏鬆症（osteoporosis），下列敘述何者最不適當？",
     "options": {
-      "A": "WHO依照骨質密度（bone mineral density, BMD）與骨折風險的關係，以Z值（Z-score）作為臨床診斷標 準。Z值小於2.5即可診斷為骨質疏鬆症",
+      "A": "WHO依照骨質密度（bone mineral density，BMD）與骨折風險的關係，以Z值（Z-score）作為臨床診斷標 準。Z值小於2.5即可診斷為骨質疏鬆症",
       "B": "骨骼的再塑（remodeling）過程主要由合成骨骼的造骨細胞（osteoblast）及溶蝕骨骼的蝕骨細胞 （osteoclast）來達成",
       "C": "骨質疏鬆症本身並無症狀，但發生劇烈疼痛時要懷疑有骨折",
       "D": "骨鬆性骨折因病人對跌倒採用不同的防禦機轉而有不同的好發位置，常見部位為髖部（近端股骨）、脊椎及 手腕"

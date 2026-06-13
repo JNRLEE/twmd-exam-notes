@@ -12,10 +12,10 @@
   },
   {
     "question_number": 2,
-    "question_text": "術後急性腎損傷（acute kidney injury, AKI）影響手術死亡率，有關麻醉與手術中腎功能監測的描述，下列何者 正確？",
+    "question_text": "術後急性腎損傷（acute kidney injury，AKI）影響手術死亡率，有關麻醉與手術中腎功能監測的描述，下列何者 正確？",
     "options": {
       "A": "術中尿液輸出量（urine output）減少與術後急性腎損傷息息相關，但術後尿液輸出量減少為正常現象，不影 響腎功能",
-      "B": "對腎功能變化的監測，腎絲球過濾率（glomerular filtration rate, GFR）測量較術後血漿肌酸酐濃度 （creatinine concentration）變化，更有敏感性（sensitivity）與專一性（specificity）",
+      "B": "對腎功能變化的監測，腎絲球過濾率（glomerular filtration rate，GFR）測量較術後血漿肌酸酐濃度 （creatinine concentration）變化，更有敏感性（sensitivity）與專一性（specificity）",
       "C": "術後血漿肌酸酐濃度（creatinine concentration）的增加與術後GFR的降低，彼此無關聯性",
       "D": "血中Neutrophil gelatinase-associated lipocalin（NGAL）可做為AKI的早期生物指標（biomarker），最早在術 後24小時內就可測得"
     },
@@ -26,7 +26,7 @@
     "question_text": "關於麻醉深度的監測，下列敘述何者正確？",
     "options": {
       "A": "腦部為高代謝率的器官，約使用15%的心輸出量（cardiac output），腦血氧監測（cerebral oximeter）為良好 的麻醉深度監測指標",
-      "B": "以腦電圖（EEG）為基礎的監測（包含bispectral index (BIS), entropy等），無助於減少術中awareness的風險",
+      "B": "以腦電圖（EEG）為基礎的監測（包含bispectral index (BIS)，entropy等），無助於減少術中awareness的風險",
       "C": "腦電圖（EEG）的分析，對鎮靜程度及全身麻醉深度之監測很有助益",
       "D": "研究結果顯示，麻醉中若BIS數值越低，術後的後遺症越少"
     },
@@ -81,7 +81,7 @@
     "question_text": "針對傳統的open thoracotomy開胸手術進行之全肺切除，下列何種手術後止痛方式的止痛效果可能最好？",
     "options": {
       "A": "硬膜外止痛（epidural analgesia）",
-      "B": "靜脈病患自控式止痛（intravenous patient-controlled analgesia, IVPCA）",
+      "B": "靜脈病患自控式止痛（intravenous patient-controlled analgesia，IVPCA）",
       "C": "腋下神經叢阻斷（axillary nerve block）",
       "D": "口服NSAID類止痛藥"
     },
@@ -199,7 +199,7 @@
   },
   {
     "question_number": 19,
-    "question_text": "有關突發性耳聾（sudden deafness, or idiopathic sudden sensorineural hearing loss）臨床特徵，下列敘述何者錯 誤？",
+    "question_text": "有關突發性耳聾（sudden deafness，or idiopathic sudden sensorineural hearing loss）臨床特徵，下列敘述何者錯 誤？",
     "options": {
       "A": "3天內聽力惡化致純音聽力檢查顯示連續3個頻率有超過30 dB以上的感音型聽力損失",
       "B": "大部分病人都會同時有耳鳴",
@@ -386,7 +386,7 @@
   },
   {
     "question_number": 36,
-    "question_text": "34歲孕婦，G1P0，本次懷孕接受一般健保給付之產檢項目，產檢結果發現先天性橫膈膜疝氣（congenital diaphragmatic hernia），經與主治醫師討論後，由於橫膈膜疝氣合併肝臟脫疝（liver herniation），且肺部頭部 比率（lung-to-head ratio）小於1.4，而決定進行胎兒鏡氣管阻塞術（fetal endoscopic tracheal occlusion, FETO），手術順利，並於34週平安生產，下列何種疾病不宜考慮胎兒鏡手術？",
+    "question_text": "34歲孕婦，G1P0，本次懷孕接受一般健保給付之產檢項目，產檢結果發現先天性橫膈膜疝氣（congenital diaphragmatic hernia），經與主治醫師討論後，由於橫膈膜疝氣合併肝臟脫疝（liver herniation），且肺部頭部 比率（lung-to-head ratio）小於1.4，而決定進行胎兒鏡氣管阻塞術（fetal endoscopic tracheal occlusion，FETO），手術順利，並於34週平安生產，下列何種疾病不宜考慮胎兒鏡手術？",
     "options": {
       "A": "雙胞胎輸血症候群（twin-twin transfusion syndrome）",
       "B": "後尿道瓣膜（posterior urethral valve）",
@@ -408,7 +408,7 @@
   },
   {
     "question_number": 38,
-    "question_text": "38歲孕婦，為一B型肝炎（hepatitis B）感染者，懷孕26週血清檢驗結果：B型肝炎表面抗原陽性HBsAg(+)，B 型肝炎e抗原陽性HBeAg(+)，B型肝炎病毒量HBV viral load超過10,000,000 copies/mL；孕婦未接受抗B型肝炎 病毒藥物治療，新生兒出生後接受免疫預防性治療（immunoprophylaxis）及兒童完整的B型肝炎疫苗接種。 此一新生兒感染B型肝炎的風險為：",
+    "question_text": "38歲孕婦，為一B型肝炎（hepatitis B）感染者，懷孕26週血清檢驗結果：B型肝炎表面抗原陽性HBsAg(+)，B 型肝炎e抗原陽性HBeAg(+)，B型肝炎病毒量HBV viral load超過10，000，000 copies/mL；孕婦未接受抗B型肝炎 病毒藥物治療，新生兒出生後接受免疫預防性治療（immunoprophylaxis）及兒童完整的B型肝炎疫苗接種。 此一新生兒感染B型肝炎的風險為：",
     "options": {
       "A": "1%",
       "B": "10%",
@@ -422,7 +422,7 @@
     "question_text": "懷孕期間，母胎感染症經垂直傳播可引致子宮內胎兒感染（intrauterine fetal infection）導致胎兒缺陷。下列那 一項胎兒超音波表徵不符合母胎感染病源的致畸型效應（teratogens effects）？",
     "options": {
       "A": "胎兒水腫（hydrops fetalis）－微小病毒（parvovirus B19）",
-      "B": "顱內鈣化（intracranial calcifications）－巨細胞病毒（cytomegalovirus, CMV）",
+      "B": "顱內鈣化（intracranial calcifications）－巨細胞病毒（cytomegalovirus，CMV）",
       "C": "先天性心臟缺陷（congenital heart defects）－弓形蟲（toxoplasmosis）",
       "D": "小頭症（microcephaly）－德國麻疹（rubella）"
     },
@@ -465,7 +465,7 @@
     "question_number": 43,
     "question_text": "關於Turner syndrome，下列敘述何者最適當？",
     "options": {
-      "A": "約25,000名女新生兒中有1名",
+      "A": "約25，000名女新生兒中有1名",
       "B": "患者可能在懷孕期間因主動脈破裂而猝死的風險增加",
       "C": "生長激素（growth hormone）治療建議從青春期開始",
       "D": "性腺類固醇應該從9歲或10歲開始"

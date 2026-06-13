@@ -1,11 +1,11 @@
 [
   {
     "question_number": 1,
-    "question_text": "35歲女性，健檢發現血鈣偏低（2.05 mmol/L，參考值2.2～2.5），血清肌酸酐（creatinine, 0.6 mg/dL）、鈉 （139 mEq/L）及鉀（3.8 mEq/L）則在正常範圍。對於此病患之低血鈣（hypocalcemia）應優先安排下列評 估，但何者最不適當？",
+    "question_text": "35歲女性，健檢發現血鈣偏低（2.05 mmol/L，參考值2.2～2.5），血清肌酸酐（creatinine，0.6 mg/dL）、鈉 （139 mEq/L）及鉀（3.8 mEq/L）則在正常範圍。對於此病患之低血鈣（hypocalcemia）應優先安排下列評 估，但何者最不適當？",
     "options": {
       "A": "測血中白蛋白（albumin）及磷（phosphorus）濃度",
       "B": "測血中副甲狀腺素（PTH）濃度",
-      "C": "測血中1,25(OH) D濃度 2",
+      "C": "測血中1，25(OH) D濃度 2",
       "D": "測血中鎂（magnesium）濃度"
     },
     "answer": "C"
@@ -81,7 +81,7 @@
     "question_text": "27歲男性病人與好友熬夜玩電玩，翌日清晨突然倒地急救，經119 EMT施行心肺復甦術，30分內送抵急診，中 間多次VT/VF並施行DC shock，到院後CPCR共50分及電擊5次，除了急救藥物使用之外，並在50分鐘內找心臟 外科醫師放置葉克膜。病況穩定後進行身體檢查，體溫35.4°C、HR：80/min、RR：20/min、BP：125/68 mmHg，聽診呈現心尖及lower left sternal border（LLSB）有grade 3/6 systolic murmur。緊急冠狀動脈血管攝影 顯示無冠狀動脈狹窄或血栓阻塞。心電圖跟心臟超音波如附圖所示。下列何者敘述錯誤？",
     "options": {
       "A": "這位病人的診斷是肥厚型心肌症（hypertrophic cardiomyopathy）",
-      "B": "因惡性心律不整可能復發，應考慮植入式心律去顫器﹙implantable cardioverter defibrillator, ICD﹚的置入",
+      "B": "因惡性心律不整可能復發，應考慮植入式心律去顫器﹙implantable cardioverter defibrillator，ICD﹚的置入",
       "C": "如果病人左心室出口阻塞的症狀嚴重，可以考慮心導管酒精消融（alcohol ablation）或是外科手術，要是還 是無法改善，可以考慮換心",
       "D": "除了考慮乙型交感神經阻斷劑（beta blocker），鈣離子阻斷劑（calcium channel blocker）等，還要增加利尿 劑的使用量，避免心臟衰竭"
     },
@@ -232,10 +232,10 @@
   },
   {
     "question_number": 22,
-    "question_text": "有關肝細胞癌（hepatocellular carcinoma, HCC），下列敘述何者正確？",
+    "question_text": "有關肝細胞癌（hepatocellular carcinoma，HCC），下列敘述何者正確？",
     "options": {
-      "A": "射頻消融術（radiofrequency ablation, RFA）並不是一種根除性的治療",
-      "B": "經動脈化學栓塞（transarterial chemoembolization, TACE）的療效與開刀差不多",
+      "A": "射頻消融術（radiofrequency ablation，RFA）並不是一種根除性的治療",
+      "B": "經動脈化學栓塞（transarterial chemoembolization，TACE）的療效與開刀差不多",
       "C": "由於肝細胞癌併發肝門靜脈主幹侵犯（main portal vein thrombosis）對於開刀或栓塞（TACE）的效果都不 佳，因此建議做肝臟移植",
       "D": "對於肝細胞癌的治療，除了腫瘤外，也要考慮到肝臟本身的情況（如：肝硬化、病毒性肝炎）"
     },
@@ -298,7 +298,7 @@
   },
   {
     "question_number": 28,
-    "question_text": "下列何項處置無助於減緩自體顯性多囊性腎臟病（autosomal dominant polycystic kidney disease, ADPKD）病人 的腎功能惡化？",
+    "question_text": "下列何項處置無助於減緩自體顯性多囊性腎臟病（autosomal dominant polycystic kidney disease，ADPKD）病人 的腎功能惡化？",
     "options": {
       "A": "第一線使用鈣離子阻斷劑，控制血壓在140/90 mmHg之下，在腎功能不良下，收縮壓儘量控制小於110 mmHg",
       "B": "如果有囊泡感染的狀況，使用lipid-soluble antibiotics，如：trimethoprim-sulfamethoxazole、quinolones、 chloramphenicol，因為囊泡穿透性較佳，效果較好，常需要使用四星期以上",
@@ -375,7 +375,7 @@
   },
   {
     "question_number": 35,
-    "question_text": "下列有關退化性關節炎（osteoarthritis, OA）之敘述，何者錯誤？",
+    "question_text": "下列有關退化性關節炎（osteoarthritis，OA）之敘述，何者錯誤？",
     "options": {
       "A": "手部及髖關節之OA與遺傳基因較有關，而膝關節與遺傳基因的相關性較少",
       "B": "關節type 2之軟骨主要被MMPs（matrix metalloproteinases）破壞",
@@ -474,7 +474,7 @@
   },
   {
     "question_number": 44,
-    "question_text": "慢性淋巴性白血病（chronic lymphocytic leukemia, CLL）的病人，具有下列何種的染色體變異，有較佳的預 後？",
+    "question_text": "慢性淋巴性白血病（chronic lymphocytic leukemia，CLL）的病人，具有下列何種的染色體變異，有較佳的預 後？",
     "options": {
       "A": "del(13)(q14.3)",
       "B": "del(11)(q22.3)",
@@ -496,7 +496,7 @@
   },
   {
     "question_number": 46,
-    "question_text": "COPD病人接受長效型支氣管擴張劑治療3個月後症狀仍不穩定，抽血檢查發現WBC：9,500/mm3； neutrophil：70%；eosinophil：5%；C-reactive protein：1.5 mg/dL，下列治療何者最為恰當？",
+    "question_text": "COPD病人接受長效型支氣管擴張劑治療3個月後症狀仍不穩定，抽血檢查發現WBC：9，500/mm3； neutrophil：70%；eosinophil：5%；C-reactive protein：1.5 mg/dL，下列治療何者最為恰當？",
     "options": {
       "A": "add-on theophylline",
       "B": "add-on macrolide",
@@ -716,7 +716,7 @@
   },
   {
     "question_number": 66,
-    "question_text": "臨床上有關生物心理社會模式中的心理因素，可使用人格特質五因素模型（five-factor model of personality, OCEAN）來探討，下列有關此模型意涵之敘述何者錯誤？",
+    "question_text": "臨床上有關生物心理社會模式中的心理因素，可使用人格特質五因素模型（five-factor model of personality，OCEAN）來探討，下列有關此模型意涵之敘述何者錯誤？",
     "options": {
       "A": "經驗開放性（Openness to experience）：對不同經驗傾向保持好奇和欣賞",
       "B": "盡責性（Conscientiousness）：傾向自我訓練，有計畫地達成目標",

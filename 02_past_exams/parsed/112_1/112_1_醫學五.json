@@ -144,7 +144,7 @@
   },
   {
     "question_number": 14,
-    "question_text": "有關先天性黑色素細胞痣（congenital melanocytic nevus, CMN）的敘述，下列何者正確？①20～49.9 cm為大 型（large）CMN，＞50 cm為巨大（giant）CMN ②大型和巨大CMN發展成黑色素細胞瘤的機率比小型CMN 還高 ③ 大型和巨大CMN患者有較高的機會在腦膜有黑色素細胞異常增生（leptomeningeal involvement），可藉由MRI作診斷 ④ 小型CMN如果發展出黑色素細胞瘤，多發生在青春期後",
+    "question_text": "有關先天性黑色素細胞痣（congenital melanocytic nevus，CMN）的敘述，下列何者正確？①20～49.9 cm為大 型（large）CMN，＞50 cm為巨大（giant）CMN ②大型和巨大CMN發展成黑色素細胞瘤的機率比小型CMN 還高 ③ 大型和巨大CMN患者有較高的機會在腦膜有黑色素細胞異常增生（leptomeningeal involvement），可藉由MRI作診斷 ④ 小型CMN如果發展出黑色素細胞瘤，多發生在青春期後",
     "options": {
       "A": "僅①③",
       "B": "僅②④",
@@ -210,7 +210,7 @@
   },
   {
     "question_number": 20,
-    "question_text": "在一些下肢深層靜脈栓塞（deep venous thrombosis, DVT）的病人，須放置下腔靜脈過濾器（IVC filter），但 下列何者不需要？",
+    "question_text": "在一些下肢深層靜脈栓塞（deep venous thrombosis，DVT）的病人，須放置下腔靜脈過濾器（IVC filter），但 下列何者不需要？",
     "options": {
       "A": "慢性下腔靜脈完全阻塞",
       "B": "有絕對禁忌症無法使用抗凝血劑",
@@ -243,7 +243,7 @@
   },
   {
     "question_number": 23,
-    "question_text": "有關全肺靜脈異常（total anomalous pulmonary venous connection, TAPVC）之敘述，何者錯誤？",
+    "question_text": "有關全肺靜脈異常（total anomalous pulmonary venous connection，TAPVC）之敘述，何者錯誤？",
     "options": {
       "A": "手術治療infracardiac type與supracardiac type TAPVC時，建議保留垂直靜脈（vertical vein），不截紥或不截 斷",
       "B": "不論是否有阻塞之單純TAPVC，應建議手術矯正",
@@ -265,7 +265,7 @@
   },
   {
     "question_number": 25,
-    "question_text": "關於胃食道逆流（gastroesophageal reflux disease, GERD），下列敘述何者正確？",
+    "question_text": "關於胃食道逆流（gastroesophageal reflux disease，GERD），下列敘述何者正確？",
     "options": {
       "A": "微創內視鏡手術進步，傷害小，因此胃食道逆流以手術為最優先最佳之選擇",
       "B": "胃食道逆流也可能會使病人產生氣喘症狀",
@@ -280,7 +280,7 @@
     "options": {
       "A": "胃食道鏡切片為確認食道癌診斷之工具",
       "B": "使用鋇劑食道攝影檢查時，發現有鳥嘴徵象（bird's beak sign），為食道癌之診斷標準",
-      "C": "對於早期食道癌，胃食道鏡黏膜切除（endoscopic mucosal resection, EMR），除了可以獲得標本外，也可知 腫瘤侵犯深度",
+      "C": "對於早期食道癌，胃食道鏡黏膜切除（endoscopic mucosal resection，EMR），除了可以獲得標本外，也可知 腫瘤侵犯深度",
       "D": "即使被鋇劑食道攝影診斷為食道蠕動問題，只要病人有吞嚥困難問題，仍應安排胃食道鏡檢查"
     },
     "answer": "B"
@@ -355,10 +355,10 @@
     "question_number": 33,
     "question_text": "胰臟移植（pancreas transplantation）可以重建胰島素（insulin）的血糖代謝且可以改善糖尿病患者的生活品 質，下列何種類別的胰臟移植相較其他類別，移植比例最高而且移植後病患整體預後也最好？",
     "options": {
-      "A": "糖尿病患者合併腎衰竭尿毒症同時接受胰臟及腎臟移植（simultaneous pancreas and kidney transplant, SPK）",
-      "B": "糖尿病患者合併腎衰竭尿毒症接受過腎臟移植之後再接受胰臟移植（pancreas after kidney transplant, PAK） 治療糖尿病",
-      "C": "糖尿病患者未合併尿毒症，但血糖不易控制接受胰臟移植（pancreas transplant alone, PTA）改善生活品質",
-      "D": "糖尿病患者合併腎衰竭尿毒症先接受胰臟移植（pancreas before kidney transplant, PBK）之後再等待腎臟移植"
+      "A": "糖尿病患者合併腎衰竭尿毒症同時接受胰臟及腎臟移植（simultaneous pancreas and kidney transplant，SPK）",
+      "B": "糖尿病患者合併腎衰竭尿毒症接受過腎臟移植之後再接受胰臟移植（pancreas after kidney transplant，PAK） 治療糖尿病",
+      "C": "糖尿病患者未合併尿毒症，但血糖不易控制接受胰臟移植（pancreas transplant alone，PTA）改善生活品質",
+      "D": "糖尿病患者合併腎衰竭尿毒症先接受胰臟移植（pancreas before kidney transplant，PBK）之後再等待腎臟移植"
     },
     "answer": "A"
   },
@@ -366,9 +366,9 @@
     "question_number": 34,
     "question_text": "下列對於胰臟內分泌瘤的敘述何者錯誤?",
     "options": {
-      "A": "insulinoma是最常見的胰臟內分泌瘤，其主要症狀為Whipple triad，包含symptomatic fasting hypoglycemia, serum glucose level < 50 mg/dL, relief of symptoms with the administration of glucose",
-      "B": "70-90% insulinoma發生於Passaro's triangle，此區的範圍是由junction of the cystic duct and common bile duct, the 2nd and 3rd portion of the duodenum和the neck and body of the pancreas組成的三角區域",
-      "C": "Zollinger-Ellison syndrome是由gastrinoma所引起，主要症狀為abdominal pain, peptic ulcer disease和severe esophagitis",
+      "A": "insulinoma是最常見的胰臟內分泌瘤，其主要症狀為Whipple triad，包含symptomatic fasting hypoglycemia，serum glucose level < 50 mg/dL，relief of symptoms with the administration of glucose",
+      "B": "70-90% insulinoma發生於Passaro's triangle，此區的範圍是由junction of the cystic duct and common bile duct，the 2nd and 3rd portion of the duodenum和the neck and body of the pancreas組成的三角區域",
+      "C": "Zollinger-Ellison syndrome是由gastrinoma所引起，主要症狀為abdominal pain，peptic ulcer disease和severe esophagitis",
       "D": "90%的insulinoma是sporadic，而10% 的insulinoma與multiple endocrine neoplasia type I（MEN I）syndrome相 關"
     },
     "answer": "B"
@@ -479,7 +479,7 @@
       "A": "紫杉醇類（taxane）藥物具心毒性，使用前應安排檢查評估心臟功能",
       "B": "使用小紅莓類（anthracycline）藥物可能造成白血球低下，平均白血球在使用此化療後的第10～14天降至最 低，之後逐漸回升",
       "C": "小美在化療期間抱怨手腳刺麻泛紅及下肢水腫，這些副作用較有可能是小紅莓所造成",
-      "D": "若小美接受紫杉醇後第10天測得嗜中性白血球（absolute neutrophil count, ANC）降至900/mm3，即使無症狀 仍建議施打白血球生長素（granulocyte colony stimulating factor, G-CSF）"
+      "D": "若小美接受紫杉醇後第10天測得嗜中性白血球（absolute neutrophil count，ANC）降至900/mm3，即使無症狀 仍建議施打白血球生長素（granulocyte colony stimulating factor，G-CSF）"
     },
     "answer": "B"
   },
@@ -765,7 +765,7 @@
       "A": "患有全身性紅斑狼瘡",
       "B": "ABO血型不相容",
       "C": "嗜伊紅白血球（eosinophil）過高",
-      "D": "先前輸血導致的人類白血球抗原（human leukocyte antigen, HLA）抗體升高"
+      "D": "先前輸血導致的人類白血球抗原（human leukocyte antigen，HLA）抗體升高"
     },
     "answer": "C"
   },

@@ -56,12 +56,12 @@
   },
   {
     "question_number": 6,
-    "question_text": "臨床上用以評估肝臟疾病的嚴重程度時會使用所謂的「末期肝臟疾病模型」分數（Model for End-Stage Liver Disease score, MELD score）來評分肝臟移植優先順位。下列何者不是計算MELD score的重要參數？",
+    "question_text": "臨床上用以評估肝臟疾病的嚴重程度時會使用所謂的「末期肝臟疾病模型」分數（Model for End-Stage Liver Disease score，MELD score）來評分肝臟移植優先順位。下列何者不是計算MELD score的重要參數？",
     "options": {
       "A": "血清總膽紅素（total bilirubin）",
       "B": "白血球計數 （white blood cell count）",
       "C": "血清肌酐酸（creatinine）",
-      "D": "凝血酶原時間國際標準化比值（international normalized ratio, INR）"
+      "D": "凝血酶原時間國際標準化比值（international normalized ratio，INR）"
     },
     "answer": "B"
   },
@@ -243,7 +243,7 @@
   },
   {
     "question_number": 23,
-    "question_text": "有關心房中隔（atrial septal defect, ASD）之敘述，下列何者錯誤？",
+    "question_text": "有關心房中隔（atrial septal defect，ASD）之敘述，下列何者錯誤？",
     "options": {
       "A": "在年齡大於40歲病人的心房中隔缺損，心導管檢查是高度建議的",
       "B": "有心房中隔缺損且固定之肺動脈阻力過高（大於12 Wood units）之病患，不可以將其缺損關閉",
@@ -369,13 +369,13 @@
       "A": "最常見的胰臟內分泌腫瘤，通常臨床表現包括有症狀的空腹低血糖、有記載的血清葡萄糖值＜50 mg/mL以 及葡萄糖的給與可以緩解症狀，此又稱Charcot's triad",
       "B": "實驗室檢查除了血糖低、胰島素高外，C-peptide上升可以幫助診斷胰島素瘤而非外來胰島素或降血糖藥引起 的低血糖症",
       "C": "與其他胰臟內分泌腫瘤不同在於其是多發性為主且大多數為良性",
-      "D": "大多數為偶發性（sporadic）而與遺傳無關，但合併第一型多發性內分泌腺瘤（multiple endocrine neoplasia type 1, MEN-1）的病患較多單發性但復發率較高"
+      "D": "大多數為偶發性（sporadic）而與遺傳無關，但合併第一型多發性內分泌腺瘤（multiple endocrine neoplasia type 1，MEN-1）的病患較多單發性但復發率較高"
     },
     "answer": "B"
   },
   {
     "question_number": 35,
-    "question_text": "有關肝臟的腺瘤（adenoma）和局部的小節增生（focal nodular hyperplasia, FNH），下列敘述何者最恰當？",
+    "question_text": "有關肝臟的腺瘤（adenoma）和局部的小節增生（focal nodular hyperplasia，FNH），下列敘述何者最恰當？",
     "options": {
       "A": "相較之下FNH跟口服避孕藥較有關",
       "B": "腺瘤較有機會自發性出血，且有機會轉變為惡性",
@@ -540,7 +540,7 @@
   },
   {
     "question_number": 50,
-    "question_text": "74歲楊女士這一星期來左下腹疼痛越來越厲害到急診求診，其過去病史有糖尿病、高血壓病及大腸憩室炎； 急診的生命徵象穩定，但體溫為38.5℃；其他的臨床症狀包括食慾變差（anorexia）、噁心（nausea）及有腹 瀉（diarrhea）的情況。理學檢查發現左下腹疑似有摸到硬塊且有壓痛合併局部性的腹膜炎（localized peritonitis）之情形，抽血檢查發現WBC：19,310/mm3，neutrophil：86.1%，CRP：196 mg/L，腹部的電腦斷 層如附圖，則最可能的診斷為何？",
+    "question_text": "74歲楊女士這一星期來左下腹疼痛越來越厲害到急診求診，其過去病史有糖尿病、高血壓病及大腸憩室炎； 急診的生命徵象穩定，但體溫為38.5℃；其他的臨床症狀包括食慾變差（anorexia）、噁心（nausea）及有腹 瀉（diarrhea）的情況。理學檢查發現左下腹疑似有摸到硬塊且有壓痛合併局部性的腹膜炎（localized peritonitis）之情形，抽血檢查發現WBC：19，310/mm3，neutrophil：86.1%，CRP：196 mg/L，腹部的電腦斷 層如附圖，則最可能的診斷為何？",
     "options": {
       "A": "缺血性腸壞死（ischemic bowel）",
       "B": "乙狀結腸腸扭轉（volvulus）",
@@ -586,8 +586,8 @@
     "question_number": 54,
     "question_text": "關於微創手術的模擬訓練（simulation training），下列敘述何者錯誤？",
     "options": {
-      "A": "微創手術的模擬訓練包括box trainer和虛擬實境（virtual reality, VR system），通過模擬可在安全的環境中以 學習者為中心的練習來獲得技能",
-      "B": "微創手術的模擬訓練仍無法做到深度感知，手眼協調和雙手敏捷性的訓練（depth perception, hand-eye coordination, and bimanual dexterity）",
+      "A": "微創手術的模擬訓練包括box trainer和虛擬實境（virtual reality，VR system），通過模擬可在安全的環境中以 學習者為中心的練習來獲得技能",
+      "B": "微創手術的模擬訓練仍無法做到深度感知，手眼協調和雙手敏捷性的訓練（depth perception，hand-eye coordination，and bimanual dexterity）",
       "C": "手術模擬的精神是術前手術練習的概念，以了解手術病患的解剖結構",
       "D": "成像技術數位化提供解剖訊息，可以在手術前生成三維VR模型來模擬手術環境"
     },
@@ -687,7 +687,7 @@
     "options": {
       "A": "只要發現sinus tract連通到關節內應高度懷疑",
       "B": "有些病人的CRP不會升高",
-      "C": "關節液檢查白血球計數（WBC count）高於3,000 cells/μL仍不能確定診斷",
+      "C": "關節液檢查白血球計數（WBC count）高於3，000 cells/μL仍不能確定診斷",
       "D": "一定要拔除人工關節，否則治療不會成功"
     },
     "answer": "D"
@@ -738,7 +738,7 @@
   },
   {
     "question_number": 68,
-    "question_text": "下列有關經尿道前列腺切除手術（transurethral resection of the prostate, TURP）治療之敘述，何者正確？",
+    "question_text": "下列有關經尿道前列腺切除手術（transurethral resection of the prostate，TURP）治療之敘述，何者正確？",
     "options": {
       "A": "針對尿流速的改善，經尿道前列腺切除手術比其他微創療法的效果更好且更持久",
       "B": "經尿道前列腺切除手術與其他微創療法的住院時間長短相當",

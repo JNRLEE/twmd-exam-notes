@@ -32,7 +32,7 @@ def main():
         parts = filename.split('_')
         
         exam_code = parts[0] # e.g. 115020
-        # 簡單邏輯: 前三碼為年份，後三碼決定梯次 (020=第二次, 010=第一次，如果不是再微調)
+        # 簡單邏輯: 前三碼為年份，後三碼決定梯次 (020=第二次，010=第一次，如果不是再微調)
         if len(exam_code) >= 6:
             year = exam_code[:3]
             session = "2" if "20" in exam_code[3:] else "1"
@@ -55,7 +55,7 @@ def main():
         yf_path = os.path.join(RAW_DIR, yf)
         pdfs_in_yf = [f for f in os.listdir(yf_path) if f.endswith('.pdf')]
         
-        # 找出該年度的所有考科 (根據 0103, 0104...來配對)
+        # 找出該年度的所有考科 (根據 0103，0104...來配對)
         subjects_found = set()
         for pdf in pdfs_in_yf:
             for code in SUBJECT_MAP.keys():

@@ -155,7 +155,7 @@
   },
   {
     "question_number": 15,
-    "question_text": "一位60歲病人最近體重明顯減輕，右上腹悶脹，食慾尚可。就醫後身體診察發現右鎖骨中線下（right mid- clavicular line, RMCL）肝臟長度為18公分，無腹水，腸蠕動正常。超音波檢查發現肝內有多顆大小不一之低 回音結節。抽血檢驗結果：albumin = 3.6 g/dL（正常值＞3.5），bilirubin（total）= 0.9 mg/dL（正常值＜ 1.2），AST = 35 U/L（正常值＜37），ALT = 32 U/L（正常值＜41），α-fetoprotein（AFP）= 8 ng/mL（正常 值＜20），carcinoembryonic antigen（CEA）= 521 ng/mL（正常值＜5），CA 19-9 = 45 U/mL（正常值＜ 37）。其診斷最可能為下列何者？",
+    "question_text": "一位60歲病人最近體重明顯減輕，右上腹悶脹，食慾尚可。就醫後身體診察發現右鎖骨中線下（right mid- clavicular line，RMCL）肝臟長度為18公分，無腹水，腸蠕動正常。超音波檢查發現肝內有多顆大小不一之低 回音結節。抽血檢驗結果：albumin = 3.6 g/dL（正常值＞3.5），bilirubin（total）= 0.9 mg/dL（正常值＜ 1.2），AST = 35 U/L（正常值＜37），ALT = 32 U/L（正常值＜41），α-fetoprotein（AFP）= 8 ng/mL（正常 值＜20），carcinoembryonic antigen（CEA）= 521 ng/mL（正常值＜5），CA 19-9 = 45 U/mL（正常值＜ 37）。其診斷最可能為下列何者？",
     "options": {
       "A": "肝細胞癌",
       "B": "膽管細胞癌",
@@ -166,7 +166,7 @@
   },
   {
     "question_number": 16,
-    "question_text": "有關潰瘍性大腸炎（ulcerative colitis, UC）及克隆氏病（Crohn's disease, CD）之敘述，何者正確？",
+    "question_text": "有關潰瘍性大腸炎（ulcerative colitis，UC）及克隆氏病（Crohn's disease，CD）之敘述，何者正確？",
     "options": {
       "A": "抽菸可增加CD的發生",
       "B": "口服避孕藥會增加UC的發生",
@@ -188,7 +188,7 @@
   },
   {
     "question_number": 18,
-    "question_text": "一位58歲男性病人，因腹痛、發燒、畏寒，至急診室求診。身體診察發現病人有黃疸且腹部鼓脹，且有 shifting dullness與反彈痛（rebound pain），手部有palmar erythema與flapping tremor。經抽腹水檢查，發現腹 水WBC：1,250/mm3，neutrophil 85%，lymphocyte 15%、RBC：40/mm3。下列何者為最可能之診斷？",
+    "question_text": "一位58歲男性病人，因腹痛、發燒、畏寒，至急診室求診。身體診察發現病人有黃疸且腹部鼓脹，且有 shifting dullness與反彈痛（rebound pain），手部有palmar erythema與flapping tremor。經抽腹水檢查，發現腹 水WBC：1，250/mm3，neutrophil 85%，lymphocyte 15%、RBC：40/mm3。下列何者為最可能之診斷？",
     "options": {
       "A": "自發性細菌性腹膜炎",
       "B": "十二指腸潰瘍合併穿孔",
@@ -408,7 +408,7 @@
   },
   {
     "question_number": 38,
-    "question_text": "一位23歲病人因咳嗽、喉嚨痛吃了兩天藥房買的藥後，突然發現小便呈現暗紅色，尿液檢查潛血反應為陽 性，沉澱物中紅血球0～2/HPF，白血球1～2/HPF。抽血檢查顯示血紅素10.8 g/dL，網狀紅血球7.6%，白血球 9,850/μL且分類正常，血小板178,000/μL，血球抹片如圖所示。AST 72 U/L（正常0～37），ALT 35 U/L（正 常0～41），LDH 1,080 U/L，總膽紅素4.3 mg/dL，直接型膽紅素0.8 mg/dL，Coombs test陰性。病人回憶他小 學時亦曾經在服用感冒藥後發生類似狀況，但幾天後就好了，當時並未去看醫生。此病人最可能的診斷為 何？",
+    "question_text": "一位23歲病人因咳嗽、喉嚨痛吃了兩天藥房買的藥後，突然發現小便呈現暗紅色，尿液檢查潛血反應為陽 性，沉澱物中紅血球0～2/HPF，白血球1～2/HPF。抽血檢查顯示血紅素10.8 g/dL，網狀紅血球7.6%，白血球 9，850/μL且分類正常，血小板178，000/μL，血球抹片如圖所示。AST 72 U/L（正常0～37），ALT 35 U/L（正 常0～41），LDH 1，080 U/L，總膽紅素4.3 mg/dL，直接型膽紅素0.8 mg/dL，Coombs test陰性。病人回憶他小 學時亦曾經在服用感冒藥後發生類似狀況，但幾天後就好了，當時並未去看醫生。此病人最可能的診斷為 何？",
     "options": {
       "A": "autoimmune hemolytic anemia",
       "B": "glucose 6-phosphate dehydrogenase（G6PD）deficiency",
@@ -419,7 +419,7 @@
   },
   {
     "question_number": 39,
-    "question_text": "一位62歲男性因跌倒就醫，實驗室檢查顯示Hb 7.6 g/dL，MCV 85 fL，platelet 120,000/μL。下圖分別為其骨髓 抹片及Ｘ光，其診斷最可能為下列何者？",
+    "question_text": "一位62歲男性因跌倒就醫，實驗室檢查顯示Hb 7.6 g/dL，MCV 85 fL，platelet 120，000/μL。下圖分別為其骨髓 抹片及Ｘ光，其診斷最可能為下列何者？",
     "options": {
       "A": "腺癌併多處骨轉移",
       "B": "vitamin D嚴重缺乏症",
@@ -529,7 +529,7 @@
   },
   {
     "question_number": 49,
-    "question_text": "急性呼吸窘迫症（acute respiratory distress syndrome, ARDS）與心因性肺水腫（cardiogenic pulmonary edema） 最大的不同在於：",
+    "question_text": "急性呼吸窘迫症（acute respiratory distress syndrome，ARDS）與心因性肺水腫（cardiogenic pulmonary edema） 最大的不同在於：",
     "options": {
       "A": "ARDS時，肺動脈wedge pressure通常＞18 mmHg",
       "B": "ARDS肺部浸潤較少見於肺部周圍（pulmonary periphery）",
@@ -872,10 +872,10 @@
     "question_number": 80,
     "question_text": "下列何者不是研究倫理常用的原則或準則？",
     "options": {
-      "A": "紐倫堡守則（the Nuremberg Code, 1947年）",
-      "B": "赫爾辛基宣言（the Declaration of Helsinki, 1964年）",
-      "C": "貝爾蒙報告書（the Belmont Report, 1979年）",
-      "D": "里斯本宣言（the Declaration of Lisbon, 1981年）"
+      "A": "紐倫堡守則（the Nuremberg Code，1947年）",
+      "B": "赫爾辛基宣言（the Declaration of Helsinki，1964年）",
+      "C": "貝爾蒙報告書（the Belmont Report，1979年）",
+      "D": "里斯本宣言（the Declaration of Lisbon，1981年）"
     },
     "answer": "D"
   }

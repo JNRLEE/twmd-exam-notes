@@ -45,7 +45,7 @@
   },
   {
     "question_number": 5,
-    "question_text": "史帝芬－強生氏症候群（Stevens-Johnson syndrome, SJS）及中毒性表皮壞死鬆解症（toxic epidermal necrolysis, TEN）是具致命危險的嚴重藥物過敏。在臺灣漢族血統者（Han Chinese），使用allopurinol而 引起SJS/TEN嚴重皮膚不良反應與下列那一個HLA基因型的相關性最高？",
+    "question_text": "史帝芬－強生氏症候群（Stevens-Johnson syndrome，SJS）及中毒性表皮壞死鬆解症（toxic epidermal necrolysis，TEN）是具致命危險的嚴重藥物過敏。在臺灣漢族血統者（Han Chinese），使用allopurinol而 引起SJS/TEN嚴重皮膚不良反應與下列那一個HLA基因型的相關性最高？",
     "options": {
       "A": "HLA-B*15:02",
       "B": "HLA-B*31:01",
@@ -56,7 +56,7 @@
   },
   {
     "question_number": 6,
-    "question_text": "有關缺血性心臟病（ischemic heart disease, IHD）診斷方式之敘述，下列何者最不適當？",
+    "question_text": "有關缺血性心臟病（ischemic heart disease，IHD）診斷方式之敘述，下列何者最不適當？",
     "options": {
       "A": "運動式心電圖是診斷IHD的工具之一，雖然有萬分之一的死亡風險，但只要有適當人員、設備在場，且限制 心率上限，於無併發症之心肌梗塞一週後即可進行檢查",
       "B": "當病人因關節疾病、衰弱等原因無法進行運動測試時，可安排如：adenosine thallium 201 scan、 dobutamine stress等影像學檢查",
@@ -111,9 +111,9 @@
   },
   {
     "question_number": 11,
-    "question_text": "58歲男性，有慢性肺病和糖尿病病史，住院期間診斷為多重起源心房心搏過速（multifocal atrial tachycardia, MAT）。心電圖顯示130 bpm的心率，並有三種不同形態的P波。血液報告顯示正常的凝血功 能，並未使用抗凝劑。關於MAT的血栓風險，下列敘述何者最適當？",
+    "question_text": "58歲男性，有慢性肺病和糖尿病病史，住院期間診斷為多重起源心房心搏過速（multifocal atrial tachycardia，MAT）。心電圖顯示130 bpm的心率，並有三種不同形態的P波。血液報告顯示正常的凝血功 能，並未使用抗凝劑。關於MAT的血栓風險，下列敘述何者最適當？",
     "options": {
-      "A": "MAT的血栓風險類似於心房顫動（atrial fibrillation, AF）",
+      "A": "MAT的血栓風險類似於心房顫動（atrial fibrillation，AF）",
       "B": "MAT的血栓風險目前缺乏大型臨床試驗證實",
       "C": "MAT的血栓風險與心室顫動相同",
       "D": "MAT患者需立即開始抗凝治療"
@@ -137,8 +137,8 @@
     "options": {
       "A": "於血管攝影時，冠狀動脈左前降支可能受心肌橋（myocardial bridge）壓迫，在心收縮期變細、舒張期恢 復正常",
       "B": "當冠狀動脈嚴重狹窄時，狹窄遠端血流會減少，以致顯影劑僅能微量充盈遠端血管，此種情況可定義為 TIMI三級血流",
-      "C": "血管內超音波（intravascular ultrasound, IVUS）及光學同調斷層攝影（optic coherence tomography, OCT）等檢查工具，可送入冠狀動脈內進行細部觀測，而OCT之空間解析度高於IVUS，但可觀察之範圍深度 較淺",
-      "D": "血流儲備分數（fractional flow reserve, FFR）實際上是測量狹窄遠端及近端的壓力比值，在以藥物引發 最大充血（maximal hyperemia）情況下，若FFR＜0.8表示病灶狹窄程度顯著，具有影響血行動力學之意義"
+      "C": "血管內超音波（intravascular ultrasound，IVUS）及光學同調斷層攝影（optic coherence tomography，OCT）等檢查工具，可送入冠狀動脈內進行細部觀測，而OCT之空間解析度高於IVUS，但可觀察之範圍深度 較淺",
+      "D": "血流儲備分數（fractional flow reserve，FFR）實際上是測量狹窄遠端及近端的壓力比值，在以藥物引發 最大充血（maximal hyperemia）情況下，若FFR＜0.8表示病灶狹窄程度顯著，具有影響血行動力學之意義"
     },
     "answer": "B"
   },
@@ -188,7 +188,7 @@
   },
   {
     "question_number": 18,
-    "question_text": "關於肝腎症候群（hepatorenal syndrome, HRS）的敘述，下列何者正確？",
+    "question_text": "關於肝腎症候群（hepatorenal syndrome，HRS）的敘述，下列何者正確？",
     "options": {
       "A": "HRS是一種結構性腎臟損傷，腎臟切片可明顯發現病理改變",
       "B": "HRS的主要病理機轉為腎血管擴張導致腎血流增加",
@@ -287,7 +287,7 @@
   },
   {
     "question_number": 27,
-    "question_text": "診斷間質性膀胱炎（interstitial cystitis/bladder pain syndrome, IC/BPS）通常要求症狀持續至少多久 時間？",
+    "question_text": "診斷間質性膀胱炎（interstitial cystitis/bladder pain syndrome，IC/BPS）通常要求症狀持續至少多久 時間？",
     "options": {
       "A": "1週",
       "B": "6週",
@@ -485,7 +485,7 @@
   },
   {
     "question_number": 45,
-    "question_text": "下列有關阻塞性睡眠呼吸中止症（obstructive sleep apnea, OSA）的敘述，何者最不適當？",
+    "question_text": "下列有關阻塞性睡眠呼吸中止症（obstructive sleep apnea，OSA）的敘述，何者最不適當？",
     "options": {
       "A": "apnea的定義為airflow停止≧10秒",
       "B": "apnea-hypopnea index（AHI）必須＞15 events／hour",
@@ -520,7 +520,7 @@
     "question_number": 48,
     "question_text": "65歲男性，每天抽菸1包，平時有爬山的習慣，來到急診時自訴咳嗽兩週，有黃色濃痰，呼吸有wheezing 聲，下列鑑別診斷中最不可能的是：",
     "options": {
-      "A": "慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）急性發作",
+      "A": "慢性阻塞性肺病（chronic obstructive pulmonary disease，COPD）急性發作",
       "B": "急性心臟衰竭（acute heart failure）",
       "C": "支氣管擴張症（bronchiectasis）惡化",
       "D": "細菌性肺炎"
@@ -598,7 +598,7 @@
     "question_text": "關於龐貝氏症（Pompe disease），下列敘述何者正確？",
     "options": {
       "A": "是一種體染色體隱性遺傳罕見疾病，通常在成年期發病",
-      "B": "又名肝醣儲積症第一型（Glycogen Storage Disease type Ⅰ, Type Ⅰ GSD）",
+      "B": "又名肝醣儲積症第一型（Glycogen Storage Disease type Ⅰ，Type Ⅰ GSD）",
       "C": "是由於肝臟磷酸化酶激酶（Liver Phosphorylase Kinase）缺乏無法分解肝醣所引起，最常見的症狀為肝臟 腫大、肌肉無力及心臟肥大等",
       "D": "在臺灣已被列為新生兒篩檢疾病之一，可藉由定期酵素替代治療（enzyme replacement therapy）來改善症 狀"
     },
@@ -606,7 +606,7 @@
   },
   {
     "question_number": 56,
-    "question_text": "潛伏性成人自體免疫糖尿病（Latent autoimmune diabetes in adults, LADA）的敘述，下列何者錯誤？",
+    "question_text": "潛伏性成人自體免疫糖尿病（Latent autoimmune diabetes in adults，LADA）的敘述，下列何者錯誤？",
     "options": {
       "A": "發病初期病人不須接受胰島素治療",
       "B": "發病年齡較典型第1型糖尿病來的晚",
@@ -672,11 +672,11 @@
   },
   {
     "question_number": 62,
-    "question_text": "48歲女性，主訴為3個月來腹痛、食慾不振、體重減輕。曾經吃過2至3天的抗生素，但沒有改善。過去病 史中，病人提及20年前有裝過子宮內避孕器（intrauterine contraceptive device, IUCD），理學檢查沒 有摸到明顯的腫塊，電腦斷層掃描（computed tomography, CT）顯示有子宮膿瘍，蔓延到腹腔壁。CT引導 的引流液中，抹片發現有革蘭氏陽性桿菌及黃色硫磺顆粒（sulfur granule）。下列敘述何者最不適當？",
+    "question_text": "48歲女性，主訴為3個月來腹痛、食慾不振、體重減輕。曾經吃過2至3天的抗生素，但沒有改善。過去病 史中，病人提及20年前有裝過子宮內避孕器（intrauterine contraceptive device，IUCD），理學檢查沒 有摸到明顯的腫塊，電腦斷層掃描（computed tomography，CT）顯示有子宮膿瘍，蔓延到腹腔壁。CT引導 的引流液中，抹片發現有革蘭氏陽性桿菌及黃色硫磺顆粒（sulfur granule）。下列敘述何者最不適當？",
     "options": {
       "A": "子宮內避孕器是得到此疾病的危險因子之一",
       "B": "治療可使用penicillin或是amoxicillin",
-      "C": "可使用電腦斷層掃描或核磁共振（magnetic resonance imaging, MRI）追蹤治療成效",
+      "C": "可使用電腦斷層掃描或核磁共振（magnetic resonance imaging，MRI）追蹤治療成效",
       "D": "建議抗生素治療時間為兩週"
     },
     "answer": "D"
@@ -751,7 +751,7 @@
     "question_number": 69,
     "question_text": "關於高山症的預防或處置，下列何者最符合現行建議或事實？",
     "options": {
-      "A": "建議若需要在海拔1,200公尺以上過夜時，應採取高山症預防措施",
+      "A": "建議若需要在海拔1，200公尺以上過夜時，應採取高山症預防措施",
       "B": "sildenafil能預防高山症頭痛症狀，建議在登山前後全程服用",
       "C": "dexamethasone有助於適應，也可改善急性高山症症狀",
       "D": "acetazolamide建議在登山前開始服用，持續到旅行者適應最高海拔後"
@@ -771,7 +771,7 @@
   },
   {
     "question_number": 71,
-    "question_text": "邊緣性人格障礙（borderline personality disorder, BPD）與功能不良、生活品質低落和死亡率增加有 關。大多數BPD病人需要心理健康專業人員進行持續1～2年的心理治療，以持久改善。下列何種類型的心理 治療，未被證明可以有效治療這類型的人格障礙？",
+    "question_text": "邊緣性人格障礙（borderline personality disorder，BPD）與功能不良、生活品質低落和死亡率增加有 關。大多數BPD病人需要心理健康專業人員進行持續1～2年的心理治療，以持久改善。下列何種類型的心理 治療，未被證明可以有效治療這類型的人格障礙？",
     "options": {
       "A": "辯證行為訓練（dialectical behavior training）",
       "B": "以移情為中心的心理治療（transference-focused psychotherapy）",
@@ -793,7 +793,7 @@
   },
   {
     "question_number": 73,
-    "question_text": "許多心臟病末期病人都有植入心律調節器（pacemakers）和植入式心臟去顫器（implantable cardioverter- defibrillators, ICDs）。關於使用上述裝置的描述，何者最不適當？",
+    "question_text": "許多心臟病末期病人都有植入心律調節器（pacemakers）和植入式心臟去顫器（implantable cardioverter- defibrillators，ICDs）。關於使用上述裝置的描述，何者最不適當？",
     "options": {
       "A": "心律調節器被認為可能延長生命的終點",
       "B": "停用心律調節器可能會導致心絞痛或呼吸困難",
@@ -852,7 +852,7 @@
     "options": {
       "A": "血糖65 mg/dL",
       "B": "血壓200/120 mmHg",
-      "C": "血小板85,000/mm3",
+      "C": "血小板85，000/mm3",
       "D": "電腦斷層顯示多葉低密度影像＞1/3大腦半球"
     },
     "answer": "A"

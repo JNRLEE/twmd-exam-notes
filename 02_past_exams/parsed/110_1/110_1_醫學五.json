@@ -3,9 +3,9 @@
     "question_number": 1,
     "question_text": "目前對於重大外傷病患的處理，大都依據Damage Control Principles；針對這種處理策略的敘述，下列何者錯 誤？",
     "options": {
-      "A": "外傷病患出現的lethal triad包括 hypotension, hypothermia, metabolic acidosis",
+      "A": "外傷病患出現的lethal triad包括 hypotension，hypothermia，metabolic acidosis",
       "B": "手術策略為積極復甦處置（aggressive resuscitation），快速止血處理（quickly managing bleeding），腸道破 裂快速縫合或局部切掉但不接回，及胸腹部開刀傷口暫時性關閉（temporary closure）",
-      "C": "軍方於戰場處理的經驗，建議resuscitation時，Packed RBC, FFP及platelet應使用1：1：1的比例",
+      "C": "軍方於戰場處理的經驗，建議resuscitation時，Packed RBC，FFP及platelet應使用1：1：1的比例",
       "D": "最近的文獻，亦有Tranexamic acid(TXA)應用在Damage Control Principles中"
     },
     "answer": "A"
@@ -39,7 +39,7 @@
       "A": "惡性腫瘤最常轉移的位置之一為肺臟及肋膜",
       "B": "尿中Bence Jones protein是淋巴癌的腫瘤生物指標（tumor biomarker）",
       "C": "手術切除肺臟、肝臟或腦部的單一轉移病灶，有機會延長病人存活率",
-      "D": "血液中癌胚蛋白（carcinoembryonic antigen, CEA）的敏感及專一性並不佳，但可做為手術後追蹤腫瘤復發的 參考"
+      "D": "血液中癌胚蛋白（carcinoembryonic antigen，CEA）的敏感及專一性並不佳，但可做為手術後追蹤腫瘤復發的 參考"
     },
     "answer": "B"
   },
@@ -193,7 +193,7 @@
       "A": "可以升降體溫",
       "B": "合併心臟麻痺液（cardioplegia）使用，可以讓心臟完全停止跳動",
       "C": "氧合器（oxygenator）可以暫時取代肺臟功能",
-      "D": "不會引發全身發炎反應症候群（systemic inflammatory response syndrome, SIRS）"
+      "D": "不會引發全身發炎反應症候群（systemic inflammatory response syndrome，SIRS）"
     },
     "answer": "D"
   },
@@ -210,7 +210,7 @@
   },
   {
     "question_number": 20,
-    "question_text": "下列對冠狀動脈繞道術（coronary artery bypass grafting, CABG）之描述何者錯誤？",
+    "question_text": "下列對冠狀動脈繞道術（coronary artery bypass grafting，CABG）之描述何者錯誤？",
     "options": {
       "A": "不使用心肺機之不停跳術式（off-pump coronary artery bypass）比傳統之停跳之術式，在各項研究皆顯示可 以減少發炎指數，即有更好之長期通暢率",
       "B": "如果病人是70歲女性，其三條冠狀血管皆有80到90%狹窄，且有糖尿病，冠狀動脈繞道術應該是首選之治療",
@@ -454,10 +454,10 @@
     "question_number": 42,
     "question_text": "一名12歲45公斤重的男童，因為急性闌尾炎接受腹腔鏡闌尾切除手術，下列何者是比較適當的點滴輸液？",
     "options": {
-      "A": "每24小時給與2,000毫升輸液，其中內含5%葡萄糖，0.45%氯化鈉，20毫當量／升（mEq/liter）鉀離子",
-      "B": "每24小時給與1,500毫升林格氏液（Ringer's solution）",
-      "C": "每24小時給與1,500毫升代用血漿（Gelofusine）",
-      "D": "每24小時給與2,000毫升0.9%生理食鹽水（normal saline）"
+      "A": "每24小時給與2，000毫升輸液，其中內含5%葡萄糖，0.45%氯化鈉，20毫當量／升（mEq/liter）鉀離子",
+      "B": "每24小時給與1，500毫升林格氏液（Ringer's solution）",
+      "C": "每24小時給與1，500毫升代用血漿（Gelofusine）",
+      "D": "每24小時給與2，000毫升0.9%生理食鹽水（normal saline）"
     },
     "answer": "A"
   },
@@ -532,9 +532,9 @@
     "question_text": "在急診室，一位30歲70公斤男性，主訴約60分鐘前左上腹部被刀刺傷，傷口疼痛，生命徵候：心跳105/分、 血壓110/95 mmHg、呼吸22/分，病人略顯焦慮，身體檢查發現左上腹部2公分傷口，四肢濕冷。預估該病人體 內出血量最可能為下列何者？",
     "options": {
       "A": "500 c.c.",
-      "B": "1,000 c.c.",
-      "C": "1,700 c.c.",
-      "D": "2,500 c.c."
+      "B": "1，000 c.c.",
+      "C": "1，700 c.c.",
+      "D": "2，500 c.c."
     },
     "answer": "B"
   },
@@ -696,7 +696,7 @@
     "question_number": 64,
     "question_text": "一位懷孕十週的30歲女士因為急性腹痛就診，尿液檢查呈現顯微性血尿以及尿路感染，超音波檢查發現左腎 中度積水，疑似左輸尿管結石造成阻塞以及感染，則下列何種治療最不適宜？",
     "options": {
-      "A": "施行經皮腎臟造瘻（percutaneous nephrostomy, PCN）引流",
+      "A": "施行經皮腎臟造瘻（percutaneous nephrostomy，PCN）引流",
       "B": "施行雙J導管放置（double-J ureteral stent）處置",
       "C": "即刻施行輸尿管鏡檢查以及雷射碎石手術或體外震波碎石術",
       "D": "補充液體並觀察症狀以及追蹤腎積水嚴重度"
@@ -760,7 +760,7 @@
   },
   {
     "question_number": 70,
-    "question_text": "一位45歲男性因左側腰痛，發燒到39度，至急診求診。電腦斷層掃描發現左側上1/3輸尿管有一1cm結石，合 併腎積水，右腎正常。病人尿量減少，血壓偏低（95/65 mmHg），血液白血球19,500/cumm，CRP值16 mg/dL。急診醫師立即抽血及收集尿液做細菌培養，給與靜脈輸液及抗生素治療。下列後續處置何者較適 當？",
+    "question_text": "一位45歲男性因左側腰痛，發燒到39度，至急診求診。電腦斷層掃描發現左側上1/3輸尿管有一1cm結石，合 併腎積水，右腎正常。病人尿量減少，血壓偏低（95/65 mmHg），血液白血球19，500/cumm，CRP值16 mg/dL。急診醫師立即抽血及收集尿液做細菌培養，給與靜脈輸液及抗生素治療。下列後續處置何者較適 當？",
     "options": {
       "A": "立即進行左側輸尿管鏡碎石手術",
       "B": "立即安排左側經皮腎臟引流",

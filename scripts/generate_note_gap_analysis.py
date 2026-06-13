@@ -185,9 +185,9 @@ def recommendation_text(row):
         text = explanation
 
     if len(text) > 320:
-        text = text[:320].rstrip("，。；,; ") + "。"
+        text = text[:320].rstrip("，。；，; ") + "。"
 
-    return f"補充（{row.get('exam_session')} {row.get('exam_subject')} Q{qn}, 答案{answer}）：{text}"
+    return f"補充（{row.get('exam_session')} {row.get('exam_subject')} Q{qn}，答案{answer}）：{text}"
 
 
 def classify_row(row, repeated_key_count):
@@ -295,7 +295,7 @@ def write_markdown(exam_session, analyses):
 
         f.write("## 已覆蓋，不需優先新增\n\n")
         for (subject, specialty, topic), items in sorted(grouped_covered.items()):
-            qlist = ", ".join(f"Q{x['question_number']}" for x in items)
+            qlist = "，".join(f"Q{x['question_number']}" for x in items)
             f.write(f"- {subject}｜{specialty}｜{topic}：{qlist}\n")
 
     return path

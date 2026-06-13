@@ -58,7 +58,7 @@
     "question_number": 6,
     "question_text": "作為產房值班的第一線醫師，以下有幾床病人表示希望施打減痛分娩。下列四位孕婦中，那一位最適合施打減 痛分娩的硬脊膜外導管（epidural catheter）？",
     "options": {
-      "A": "36歲王女士當天早上抽血血小板數量較低，僅100,000×106/L",
+      "A": "36歲王女士當天早上抽血血小板數量較低，僅100，000×106/L",
       "B": "33歲方女士開過腰椎手術，背部傷口附近有滲液，有感染的可能性",
       "C": "41歲的林女士罹患風濕性心臟病（rheumatic heart disease），且有重度的主動脈狹窄（aortic stenosis）",
       "D": "39歲的高女士在懷孕期間發現有腦部腫瘤"
@@ -114,7 +114,7 @@
     "question_text": "關於葡萄膜炎相關的實驗室檢查與相對應的疾病描述，下列敘述何者最不適當？",
     "options": {
       "A": "胸腔X-Ray（chest X-ray）可以協助類肉瘤症（sarcoidosis）或結核感染（tuberculosis）之診斷",
-      "B": "抽血檢驗HLA-B27陽性，與急性虹彩炎（acute anterior uveitis, AAU）和僵直性脊椎炎（ankylosing spondylitis）高度相關",
+      "B": "抽血檢驗HLA-B27陽性，與急性虹彩炎（acute anterior uveitis，AAU）和僵直性脊椎炎（ankylosing spondylitis）高度相關",
       "C": "在梅毒（syphilis）的診斷上，rapid plasma reagin（RPR）或是venereal disease research laboratory（VDRL）有重要的角色。兩者在感染後皆終身陽性，在治療後效價不會下降",
       "D": "在高眼壓性虹彩炎，如懷疑疱疹病毒（herpesviruses）或是巨細胞（cytomegalovirus）病毒引起，可施行 前房穿刺（aqueous tap）送檢polymerase chain reaction（PCR）"
     },
@@ -225,7 +225,7 @@
     "options": {
       "A": "蝶竇開口位於蝶竇前壁上側",
       "B": "翼管神經（vidian nerve）位於蝶竇外側壁",
-      "C": "三叉神經的上頜支（maxillary division, V2）位於蝶竇上側壁",
+      "C": "三叉神經的上頜支（maxillary division，V2）位於蝶竇上側壁",
       "D": "視神經位於蝶竇內上側壁"
     },
     "answer": "A"
@@ -408,7 +408,7 @@
   },
   {
     "question_number": 38,
-    "question_text": "衛生福利部國民健康署建議孕婦於第35至37週懷孕期間接受生殖道乙型鏈球菌（group B Streptococcus, GBS）菌落篩檢，針對下列何種情況最不建議進行臨產期抗生素預防性投藥？",
+    "question_text": "衛生福利部國民健康署建議孕婦於第35至37週懷孕期間接受生殖道乙型鏈球菌（group B Streptococcus，GBS）菌落篩檢，針對下列何種情況最不建議進行臨產期抗生素預防性投藥？",
     "options": {
       "A": "孕婦於此次懷孕期間發生GBS菌尿症（GBS bacteriuria）",
       "B": "孕婦於前一次懷孕的GBS菌落篩檢為陽性反應",
@@ -457,7 +457,7 @@
       "A": "肌瘤切除術（myomectomy）",
       "B": "Magnetic Resonance-Guided Focused Ultrasound（MRgFUS）",
       "C": "肌瘤溶解術（myolysis）",
-      "D": "子宮動脈栓塞術（uterine artery embolization,UAE）"
+      "D": "子宮動脈栓塞術（uterine artery embolization，UAE）"
     },
     "answer": "A"
   },
@@ -478,7 +478,7 @@
     "options": {
       "A": "患者通常是平均身高和原發性無月經",
       "B": "患者呈現性腺退化（streak gonads）",
-      "C": "染色體核型（karyotype）主要為 46,XX",
+      "C": "染色體核型（karyotype）主要為 46，XX",
       "D": "患者受益於雌激素療法"
     },
     "answer": "C"
@@ -608,10 +608,10 @@
     "question_number": 56,
     "question_text": "一對夫妻的頭兩次懷孕，都因為胎兒為甲型地中海貧血重症（alpha thalassemia major）於4個多月時終止 妊娠，後續檢查確定夫妻兩人皆為甲型地中海貧血帶因者。他們表示這段期間身心備受煎熬，想了解還有沒 有機會正常生育。下列何項建議最能避免因相同原因需要再次終止妊娠的可能性？",
     "options": {
-      "A": "絨毛膜穿刺取樣（chorionic villus sampling, CVS）",
+      "A": "絨毛膜穿刺取樣（chorionic villus sampling，CVS）",
       "B": "羊水穿刺診斷（amniocentesis）",
-      "C": "試管嬰兒加上胚胎著床前基因診斷（preimplantation genetic diagnosis, PGD）",
-      "D": "非侵入性產前染色體篩檢（noninvasive prenatal screening, NIPS）"
+      "C": "試管嬰兒加上胚胎著床前基因診斷（preimplantation genetic diagnosis，PGD）",
+      "D": "非侵入性產前染色體篩檢（noninvasive prenatal screening，NIPS）"
     },
     "answer": "C"
   },
@@ -749,7 +749,7 @@
   },
   {
     "question_number": 69,
-    "question_text": "有關日常生活活動功能（activities of daily living, ADLs）評估之敘述，下列何者最不適當？",
+    "question_text": "有關日常生活活動功能（activities of daily living，ADLs）評估之敘述，下列何者最不適當？",
     "options": {
       "A": "包括基本日常生活活動（basic ADLs）與工具性日常生活活動（instrumental ADLs）",
       "B": "基本日常生活活動（basic ADLs）包括進食、穿衣、如廁、大小便控制等例行的自我照顧項目",

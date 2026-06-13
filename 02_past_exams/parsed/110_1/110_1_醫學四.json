@@ -221,7 +221,7 @@
   },
   {
     "question_number": 21,
-    "question_text": "滿月的男嬰因嚴重尿道下裂來求診，檢查發現陰莖長度1.8公分，尿道開口位於陰囊與陰莖交界處，出生後抽 血檢查染色體核型為46,XY。下列那一項是最不可能的診斷？",
+    "question_text": "滿月的男嬰因嚴重尿道下裂來求診，檢查發現陰莖長度1.8公分，尿道開口位於陰囊與陰莖交界處，出生後抽 血檢查染色體核型為46，XY。下列那一項是最不可能的診斷？",
     "options": {
       "A": "Partial androgen insensitivity syndrome",
       "B": "Gonadal dysgenesis",
@@ -331,7 +331,7 @@
   },
   {
     "question_number": 31,
-    "question_text": "一位新生兒經身體診察懷疑唐氏症（Down syndrome），血液染色體核型（Karyotyping）證實為47,XX,+21。 下列敘述何者最為正確？",
+    "question_text": "一位新生兒經身體診察懷疑唐氏症（Down syndrome），血液染色體核型（Karyotyping）證實為47，XX，+21。 下列敘述何者最為正確？",
     "options": {
       "A": "病童的染色體都可以發現三條獨立的21號染色體",
       "B": "除外觀異常外，通常會呈現高張力（Hypertonia）",

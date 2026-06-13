@@ -396,7 +396,7 @@ def main():
     print(
         "Loaded "
         f"{len(all_note_blocks)} note blocks from "
-        f"{', '.join('01_notes/' + subject for subject in args.note_subjects)}."
+        f"{'，'.join('01_notes/' + subject for subject in args.note_subjects)}."
     )
 
     for subject in args.subjects:

@@ -56,7 +56,7 @@ def parse_moex_exam_pdf(pdf_path):
         if not line:
             continue
             
-        # 排除頁首頁尾常見干擾 (如：代號：xxx, 頁次：xxx)
+        # 排除頁首頁尾常見干擾 (如：代號：xxx，頁次：xxx)
         if "代號：" in line or "頁次：" in line or line.startswith("類別：") or line.startswith("科目："):
             continue
 
@@ -125,8 +125,8 @@ def parse_moex_answer_pdf(ans_pdf_path):
 
 def main():
     parser = argparse.ArgumentParser(description="Parse MOEX Exam PDFs to JSON/Markdown for AI Agents.")
-    parser.add_argument("exam_year_session", help="e.g., 112_1")
-    parser.add_argument("subject", help="e.g., 醫學三")
+    parser.add_argument("exam_year_session", help="e.g.，112_1")
+    parser.add_argument("subject", help="e.g.，醫學三")
     parser.add_argument("--ques_pdf", required=True, help="Path to the question PDF")
     parser.add_argument("--ans_pdf", help="Path to the answer PDF (optional)")
     parser.add_argument("--out_dir", default="../02_past_exams/parsed", help="Output directory")

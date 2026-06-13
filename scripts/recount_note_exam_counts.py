@@ -79,7 +79,7 @@ def main():
         h1, h2 = recount_note(note, section_counts)
         total_h1 += h1
         total_h2 += h2
-        print(f"{note.relative_to(ROOT)}: h1={h1}, h2={h2}")
+        print(f"{note.relative_to(ROOT)}: h1={h1}，h2={h2}")
     print(f"updated_h1={total_h1}")
     print(f"updated_h2={total_h2}")
 

@@ -36,8 +36,8 @@
     "question_number": 4,
     "question_text": "下列關於呼吸窘迫症候群（respiratory distress syndrome）的敘述，何者最不適當？",
     "options": {
-      "A": "臨床表現為early onset of tachypnea，可能合併retraction, grunting and cyanosis，通常剛出生就是呼吸窘迫最嚴 重時，在24～72小時內恢復",
-      "B": "胸部X光表現為low lung volumes, diffuse reticulogranular pattern, and air bronchograms",
+      "A": "臨床表現為early onset of tachypnea，可能合併retraction，grunting and cyanosis，通常剛出生就是呼吸窘迫最嚴 重時，在24～72小時內恢復",
+      "B": "胸部X光表現為low lung volumes，diffuse reticulogranular pattern，and air bronchograms",
       "C": "處置原則包括permissive hypercapnia及avoidance of hyperoxia",
       "D": "成因為surfactant deficiency，導致肺泡塌陷，無法維持適當功能肺餘容積"
     },
@@ -45,7 +45,7 @@
   },
   {
     "question_number": 5,
-    "question_text": "下列有關壞死性腸炎（necrotizing enterocolitis, NEC）風險因子的敘述，何者最不適當？",
+    "question_text": "下列有關壞死性腸炎（necrotizing enterocolitis，NEC）風險因子的敘述，何者最不適當？",
     "options": {
       "A": "母乳哺餵的新生兒較餵食配方乳者容易發生NEC",
       "B": "妊娠週數愈低的早產兒愈容易發生NEC",
@@ -188,7 +188,7 @@
   },
   {
     "question_number": 18,
-    "question_text": "關於兒童特發性血小板減少性紫斑症（idiopathic thrombocytopenic purpura, ITP），下列敘述何者最適當？",
+    "question_text": "關於兒童特發性血小板減少性紫斑症（idiopathic thrombocytopenic purpura，ITP），下列敘述何者最適當？",
     "options": {
       "A": "通常發生在病毒感染後1～4週後",
       "B": "好發年齡在11～14歲",
@@ -496,7 +496,7 @@
   },
   {
     "question_number": 46,
-    "question_text": "49歲男性平常有高血壓，因突發性右側肢體無力及麻木而就診，就診當天的無顯影劑腦部電腦斷層（non- contrast CT）檢查結果如下圖①，5天後的腦部磁振造影（MRI）檢查結果如下圖②（Fluid attenuated inversion recovery, FLAIR）及圖③無施打顯影劑之T1影像。下列何者最有可能是此病人的診斷？",
+    "question_text": "49歲男性平常有高血壓，因突發性右側肢體無力及麻木而就診，就診當天的無顯影劑腦部電腦斷層（non- contrast CT）檢查結果如下圖①，5天後的腦部磁振造影（MRI）檢查結果如下圖②（Fluid attenuated inversion recovery，FLAIR）及圖③無施打顯影劑之T1影像。下列何者最有可能是此病人的診斷？",
     "options": {
       "A": "高血壓引發腦出血",
       "B": "腦腫瘤合併中心壞死（central necrosis）",
@@ -509,7 +509,7 @@
     "question_number": 47,
     "question_text": "10歲女童因「夢遊症」求診，她入睡時間正常，但入睡後約1～3小時會突然從床上坐起來在房間走動，偶爾 會打開門走出去，又走回臥室。整個發作期間都是一些簡單沒有實際意義的行為，每週約發生1次，每次持續 約15～30分鐘，白天特別累時夜晚就容易發生，隔天早上不記得昨夜發生的事，腦波檢查沒有癲癇症的證 據。下列敘述何者錯誤？",
     "options": {
-      "A": "通常發生在非快速動眼期睡眠（non-rapid eye movement sleep, NREM sleep）之第三期（stage N3）",
+      "A": "通常發生在非快速動眼期睡眠（non-rapid eye movement sleep，NREM sleep）之第三期（stage N3）",
       "B": "有可能合併夜驚症（sleep terrors）和覺醒障礙症（confusional arousals）",
       "C": "發作時為夢境實演（dream enactment behavior）的行為",
       "D": "除非有安全上的考量，基本上不需要藥物治療"

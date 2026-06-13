@@ -237,7 +237,7 @@
       "A": "標靶治療",
       "B": "化學治療",
       "C": "開刀或無線射頻燒灼術（radiofrequency ablation）",
-      "D": "經動脈栓塞化學治療（transcatheter arterial chemoembolization, TACE）"
+      "D": "經動脈栓塞化學治療（transcatheter arterial chemoembolization，TACE）"
     },
     "answer": "C"
   },
@@ -276,7 +276,7 @@
   },
   {
     "question_number": 26,
-    "question_text": "65歲女性病人糖尿病已15年，1個月前血中肌酸酐（creatinine）為1.1 mg/dL，3天前開始咳嗽有痰、發燒、呼 吸困難、急促，今日意識不清、發燒持續，送至急診，血壓130/70 mmHg，身體診察右下胸有濁音，胸部X光 呈現右下肺浸潤病灶，血中白血球16,580 /μL、血中肌酸酐8.5 mg/dL、血中鉀離子6.5 mEq/L、HCO - 12 3 mEq/L，則病人此時最不適合接受何種治療？",
+    "question_text": "65歲女性病人糖尿病已15年，1個月前血中肌酸酐（creatinine）為1.1 mg/dL，3天前開始咳嗽有痰、發燒、呼 吸困難、急促，今日意識不清、發燒持續，送至急診，血壓130/70 mmHg，身體診察右下胸有濁音，胸部X光 呈現右下肺浸潤病灶，血中白血球16，580 /μL、血中肌酸酐8.5 mg/dL、血中鉀離子6.5 mEq/L、HCO - 12 3 mEq/L，則病人此時最不適合接受何種治療？",
     "options": {
       "A": "連續性靜脈血液過濾術（continuous venovenous hemofiltration）",
       "B": "間歇性血液透析術（hemodialysis）",
@@ -320,7 +320,7 @@
   },
   {
     "question_number": 30,
-    "question_text": "63歲女士因背痛服用diclofenac持續半年，因下肢水腫至門診求診，最近無噁心、嘔吐及腹瀉。身體診察查： 血壓126/66 mmHg，心跳每分鐘74下，雙側下肢水腫程度1+。血液檢查：白血球7,900/μL，血色素10.9 g/dL，血小板282,000/μL，球蛋白3.9 g/dL，白蛋白3.0 g/dL，尿素氮12 mg/dL，肌酸酐0.63 mg/dL，血糖84 mg/dL，乳酸去氫酶（LDH）288 U/L（正常值131～250 U/L），尿酸9.7 mg/dL，鈉離子136 mEq/L，鉀離子4.2 mEq/L，膽固醇260 mg/dL，三酸甘油脂80 mg/dL，低密度膽固醇175 mg/dL。尿液試紙檢查：尿蛋白陰性，尿 比重1.015，尿液沉渣無紅血球或白血球。尿液總蛋白質與肌酸酐比值為4.907克/克肌酸酐。下列有關此位病 患之敘述，何者正確？",
+    "question_text": "63歲女士因背痛服用diclofenac持續半年，因下肢水腫至門診求診，最近無噁心、嘔吐及腹瀉。身體診察查： 血壓126/66 mmHg，心跳每分鐘74下，雙側下肢水腫程度1+。血液檢查：白血球7，900/μL，血色素10.9 g/dL，血小板282，000/μL，球蛋白3.9 g/dL，白蛋白3.0 g/dL，尿素氮12 mg/dL，肌酸酐0.63 mg/dL，血糖84 mg/dL，乳酸去氫酶（LDH）288 U/L（正常值131～250 U/L），尿酸9.7 mg/dL，鈉離子136 mEq/L，鉀離子4.2 mEq/L，膽固醇260 mg/dL，三酸甘油脂80 mg/dL，低密度膽固醇175 mg/dL。尿液試紙檢查：尿蛋白陰性，尿 比重1.015，尿液沉渣無紅血球或白血球。尿液總蛋白質與肌酸酐比值為4.907克/克肌酸酐。下列有關此位病 患之敘述，何者正確？",
     "options": {
       "A": "病患蛋白尿的原因可能是非類固醇抗發炎藥（NSAID）造成",
       "B": "檢anti-phospholipase A receptor 抗體有助診斷病因 2",
@@ -331,7 +331,7 @@
   },
   {
     "question_number": 31,
-    "question_text": "27歲女性，主訴兩手小關節的酸痛，併有光過敏及Raynaud's phenomenon。在門診的檢查結果為：ANA 1： 160 speckled, RF 42 IU/mL（normal<10 IU/mL），hemoglobin：10.7 mg/dL，ESR 37 mm/1h，CRP：0.06 mg/dL，anti-dsDNA 144 IU/mL（normal<120 IU/mL），anti-SSB: 164 AU/mL（normal <120 AU/mL），anti- RNP：241 AU/mL（normal<120AU/mL），尿液常規檢查正常。這位患者最有可能的診斷為何？",
+    "question_text": "27歲女性，主訴兩手小關節的酸痛，併有光過敏及Raynaud's phenomenon。在門診的檢查結果為：ANA 1： 160 speckled，RF 42 IU/mL（normal<10 IU/mL），hemoglobin：10.7 mg/dL，ESR 37 mm/1h，CRP：0.06 mg/dL，anti-dsDNA 144 IU/mL（normal<120 IU/mL），anti-SSB: 164 AU/mL（normal <120 AU/mL），anti- RNP：241 AU/mL（normal<120AU/mL），尿液常規檢查正常。這位患者最有可能的診斷為何？",
     "options": {
       "A": "rheumatoid arthritis",
       "B": "systemic lupus erythematosus",
@@ -388,9 +388,9 @@
     "question_number": 36,
     "question_text": "一位36歲病人過去無特殊病史，最近發現頸部及腋下有多顆直徑1～3公分之淋巴結，腹股溝亦有數顆淋巴 結，最大者直徑約4公分。頸部淋巴結切片診斷為B細胞瀰漫性大細胞淋巴瘤（diffuse large B cell lymphoma）。對此病人最適當的治療為？",
     "options": {
-      "A": "cyclophosphamide, vincristine, prednisolone（COP）",
+      "A": "cyclophosphamide，vincristine，prednisolone（COP）",
       "B": "rituximab + COP",
-      "C": "cyclophosphamide, doxorubicin, vincristine, prednisolone（CHOP）",
+      "C": "cyclophosphamide，doxorubicin，vincristine，prednisolone（CHOP）",
       "D": "rituximab + CHOP"
     },
     "answer": "D"
@@ -452,7 +452,7 @@
   },
   {
     "question_number": 42,
-    "question_text": "一位18歲男性，因為輕微黃疸而來門診求醫。身體診察除了鞏膜泛黃之外，並無其他異常。患者血液數據顯 示：白血球10,000/μL，分類無明顯異常，血紅素13.3 g/dL，MCV（mean corpuscular volume）84.5 fL，MCHC（mean corpuscular hemoglobin concentration）37.0 g/dL，血小板218,000/μL，總膽紅素輕微升高4.63 mg/dL，直接膽紅素0.77 mg/dL，lactate dehydrogenase（LDH）173 U/L（參考區間140～271），而haptoglobin 是＜30 mg/dL（參考區間44～215）。自體免疫相關的檢查無異常。Direct Coombs’ test與indirect Coombs’ test 都是negative。其血液抹片如下圖所示。病人平時健康狀況良好，但是有膽結石。他的爸爸與祖父也有類似症 狀與臨床表徵。以下關於這位病人最可能的疾病之診斷與治療，何者錯誤？",
+    "question_text": "一位18歲男性，因為輕微黃疸而來門診求醫。身體診察除了鞏膜泛黃之外，並無其他異常。患者血液數據顯 示：白血球10，000/μL，分類無明顯異常，血紅素13.3 g/dL，MCV（mean corpuscular volume）84.5 fL，MCHC（mean corpuscular hemoglobin concentration）37.0 g/dL，血小板218，000/μL，總膽紅素輕微升高4.63 mg/dL，直接膽紅素0.77 mg/dL，lactate dehydrogenase（LDH）173 U/L（參考區間140～271），而haptoglobin 是＜30 mg/dL（參考區間44～215）。自體免疫相關的檢查無異常。Direct Coombs’ test與indirect Coombs’ test 都是negative。其血液抹片如下圖所示。病人平時健康狀況良好，但是有膽結石。他的爸爸與祖父也有類似症 狀與臨床表徵。以下關於這位病人最可能的疾病之診斷與治療，何者錯誤？",
     "options": {
       "A": "這個病人主要是血管內的溶血",
       "B": "脾臟切除是緩解這類病人之症狀的方式，但是必須小心使用，非嚴重的狀況，不建議使用",
@@ -463,7 +463,7 @@
   },
   {
     "question_number": 43,
-    "question_text": "一位31歲男性，過去無特殊病史，因血尿與倦怠無力而被送到急診求診。身體診察呈現結膜蒼白與多處皮膚 瘀青。實驗室數據顯示：白血球3,000/μL，分類blast 5%，promyelocyte 67%，segmented neutrophil 5%，lymphocyte 18%。血紅素9.0 g/dL，血小板31,000/μL，lactate dehydrogenase（LDH）1549 U/L（參考區間140 ～271）。FDP（fibrin degradation product）131.8 μg/mL（參考值＜4.6），D-dimer＞35.2 μg/mL（參考值＜ 0.56）。其血液抹片之異常細胞顯示如下圖所示。以下關於這位病人最可能的疾病之治療，何者錯誤？",
+    "question_text": "一位31歲男性，過去無特殊病史，因血尿與倦怠無力而被送到急診求診。身體診察呈現結膜蒼白與多處皮膚 瘀青。實驗室數據顯示：白血球3，000/μL，分類blast 5%，promyelocyte 67%，segmented neutrophil 5%，lymphocyte 18%。血紅素9.0 g/dL，血小板31，000/μL，lactate dehydrogenase（LDH）1549 U/L（參考區間140 ～271）。FDP（fibrin degradation product）131.8 μg/mL（參考值＜4.6），D-dimer＞35.2 μg/mL（參考值＜ 0.56）。其血液抹片之異常細胞顯示如下圖所示。以下關於這位病人最可能的疾病之治療，何者錯誤？",
     "options": {
       "A": "一般而言，此種疾病在現代的治療之下，長期存活率非常高",
       "B": "對於這位病人，目前研究顯示tretinoin加上arsenic trioxide的處方，免除傳統的chemotherapy，也可以達到很 好的治療效果",
@@ -511,7 +511,7 @@
     "options": {
       "A": "明顯氣道阻塞現象（airflow limitation）",
       "B": "全肺活量（total lung capacity）正常或減少",
-      "C": "一氧化碳瀰散量（CO diffusing capacity, DLco）降低",
+      "C": "一氧化碳瀰散量（CO diffusing capacity，DLco）降低",
       "D": "動脈血氧分壓（PaO ）容易下降 2"
     },
     "answer": "A"
@@ -576,9 +576,9 @@
     "question_text": "實體腫瘤（solid tumor）引起之高血鈣症，最常因腫瘤分泌下列何者而引起？",
     "options": {
       "A": "副甲狀腺素（parathyroid hormone）",
-      "B": "噬骨細胞活化因子（osteoclast activating factor, OAF）",
-      "C": "副甲狀腺素相關胜肽（parathyroid hormone-related peptide, PTHrP）",
-      "D": "1,25(OH) D 2"
+      "B": "噬骨細胞活化因子（osteoclast activating factor，OAF）",
+      "C": "副甲狀腺素相關胜肽（parathyroid hormone-related peptide，PTHrP）",
+      "D": "1，25(OH) D 2"
     },
     "answer": "C"
   },
@@ -826,7 +826,7 @@
   },
   {
     "question_number": 76,
-    "question_text": "下列關於糖尿病酮酸中毒（diabetes ketoacidosis, DKA）之敘述，何者最不適當？",
+    "question_text": "下列關於糖尿病酮酸中毒（diabetes ketoacidosis，DKA）之敘述，何者最不適當？",
     "options": {
       "A": "臨床表現與高血糖、液體不足（volume depletion）和酸血症（acidosis）有關",
       "B": "臨床檢驗會出現呼吸性酸血症（respiratory acidosis）",
