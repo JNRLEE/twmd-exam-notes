@@ -1826,7 +1826,7 @@
   - Intrinsic（腎內性）：
     - Acute tubular necrosis（ATN）：1st intrinsic。
       - Exam：U/R 鏡檢可見 muddy brown cast（色素沉澱）。
-      - Cause：腎前性缺血、藥物毒性（NSAIDs、顯影劑）。
+      - Cause：腎前性缺血、藥物毒性（NSAIDs、顯影劑）、腎移植後一週SE。
       - Tx：少尿期限水、利尿期補水、低鉀磷蛋白飲食、sodium bicarbonate（矯正酸中毒）、治療 underlying dx。
       - Tx if 橫紋肌溶解/尿酸相關腎病變：大量水＋利尿劑＋鹼化尿液。
     - Acute interstitial nephritis（AIN）：

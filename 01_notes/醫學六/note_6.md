@@ -583,7 +583,7 @@
 ## Female Endocrinology（考題16）
 
 - 生理週期
-  - Two-cell two-gonadotropin model（雙細胞雙性腺刺激素模型）：LH（luteinizing hormone，黃體生成素）刺激theca cell分泌androgen；FSH（follicle-stimulating hormone，濾泡刺激素）刺激granulosa cell把androgen轉成estrogen
+  - Two-cell two-gonadotropin model（雙細胞雙性腺刺激素模型）：LH（luteinizing hormone，黃體生成素）刺激theca cell（對應男性Leydig）分泌androgen；FSH（follicle-stimulating hormone，濾泡刺激素）刺激granulosa cell（對應男性Sertoli）把androgen轉成estrogen
   - 月經週期：平均28天
     - 濾泡期（Day 1-14）：末期estrogen第一高峰
     - 排卵期（Day 14）：LH/FSH高峰
@@ -1590,14 +1590,14 @@
 
 - 疼痛名詞（-algesia痛覺、-esthesia所有知覺）：
 
-  | Term                              | 定義                            |
-  | --------------------------------- | ----------------------------- |
-  | Allodynia                         | 非傷害性刺激也痛（輕觸痛）                 |
-  | Hyperalgesia                      | 傷害性刺激疼痛反應加劇                   |
-  | Analgesia                         | 痛覺消失/降低；cf. Anesthesia＝所有感覺消失 |
-  | Paresthesia                       | 異常感覺，不一定不舒服（麻、刺）              |
-  | Dysesthesia                       | 不舒服的異常感覺，可自發或誘發               |
-  | Central pain（中樞痛）                 | 中樞病灶造成疼痛（如中風後）                |
+  | Term                             | 定義                            |
+  | -------------------------------- | ----------------------------- |
+  | Allodynia                        | 非傷害性刺激也痛（輕觸痛）                 |
+  | Hyperalgesia                     | 傷害性刺激疼痛反應加劇                   |
+  | Analgesia                        | 痛覺消失/降低；cf. Anesthesia＝所有感覺消失 |
+  | Paresthesia                      | 異常感覺，不一定不舒服（麻、刺）              |
+  | Dysesthesia                      | 不舒服的異常感覺，可自發或誘發               |
+  | Central pain（中樞痛）                | 中樞病灶造成疼痛（如中風後）                |
   | Postherpetic neuralgia（帶狀皰疹後神經痛） | 帶狀皰疹後>3m疼痛，老人/免疫低下高風險         |
 
 - 疼痛類型：
@@ -1848,16 +1848,16 @@
 
 - 頸部淋巴 level 快分：
 
-  | Level | 名稱/界線 | 常考記法 |
-  | ----- | --------- | -------- |
-  | IA | Submental（頦下）：兩側anterior belly of digastric + hyoid bone + midline/mandible | 題幹出現「anterior belly of digastric + hyoid + midline」＝IA |
-  | IB | Submandibular（下頷下）：mandible + anterior/posterior belly of digastric；含submandibular gland | IA正中；IB在下頷骨下外側 |
-  | II | Upper jugular：顱底/二腹肌後腹附近 to hyoid下緣 | IIA＝spinal accessory nerve（副神經）之前/內側；IIB＝之後/外側 |
-  | III | Middle jugular：hyoid下緣 to cricoid下緣 | 舌骨到環狀軟骨 |
-  | IV | Lower jugular：cricoid下緣 to clavicle | 環狀軟骨到鎖骨 |
-  | V | 後頸三角：前＝SCM（sternocleidomastoid，胸鎖乳突肌）後緣，後＝trapezius前緣，下＝鎖骨 | Va＝cricoid上方；Vb＝cricoid下方 |
-  | VI | Anterior/central compartment：兩側carotid sheath間，hyoid to suprasternal notch | 甲狀腺/喉/氣管前旁淋巴 |
-  | VII | Superior mediastinal | 胸骨上窩以下到上縱膈 |
+  | Level | 名稱/界線                                                                                    | 常考記法                                                   |
+  | ----- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+  | IA    | Submental（頦下）：兩側anterior belly of digastric + hyoid bone + midline/mandible              | 題幹出現「anterior belly of digastric + hyoid + midline」＝IA |
+  | IB    | Submandibular（下頷下）：mandible + anterior/posterior belly of digastric；含submandibular gland | IA正中；IB在下頷骨下外側                                         |
+  | II    | Upper jugular：顱底/二腹肌後腹附近 to hyoid下緣                                                      | IIA＝spinal accessory nerve（副神經）之前/內側；IIB＝之後/外側         |
+  | III   | Middle jugular：hyoid下緣 to cricoid下緣                                                      | 舌骨到環狀軟骨                                                |
+  | IV    | Lower jugular：cricoid下緣 to clavicle                                                      | 環狀軟骨到鎖骨                                                |
+  | V     | 後頸三角：前＝SCM（sternocleidomastoid，胸鎖乳突肌）後緣，後＝trapezius前緣，下＝鎖骨                               | Va＝cricoid上方；Vb＝cricoid下方                              |
+  | VI    | Anterior/central compartment：兩側carotid sheath間，hyoid to suprasternal notch               | 甲狀腺/喉/氣管前旁淋巴                                           |
+  | VII   | Superior mediastinal                                                                     | 胸骨上窩以下到上縱膈                                             |
 
   - 淋巴廓清：
     - Radical＝傳統全切，for 大範圍轉移。
@@ -1865,15 +1865,14 @@
     - Selective＝只切特定level。
   - 頭頸癌淋巴轉移考題反射：
 
-    | 原發部位 | 常考/常規清掃level | 選項判斷 |
-    | -------- | ------------------ | -------- |
-    | 口腔癌（唇、舌前部、口底、頰黏膜） | I-III | 有Level I才合理 |
-    | 口咽癌、下咽癌、喉癌 | II-IV（lateral neck） | 下咽癌單側病灶＝同側II、III、IV |
-    | 鼻咽癌 | retropharyngeal、II-IV | 頸部腫塊/耳悶常見 |
-    | 甲狀腺、聲門下、頸段食道 | VI ± VII | 中央區/上縱膈 |
+    | 原發部位              | 常考/常規清掃level          | 選項判斷                |
+    | ----------------- | --------------------- | ------------------- |
+    | 口腔癌（唇、舌前部、口底、頰黏膜） | I-III                 | 有Level I才合理         |
+    | 口咽癌、下咽癌、喉癌        | II-IV（lateral neck）   | 下咽癌單側病灶＝同側II、III、IV |
+    | 鼻咽癌               | retropharyngeal、II-IV | 頸部腫塊/耳悶常見           |
+    | 甲狀腺、聲門下、頸段食道      | VI ± VII              | 中央區/上縱膈             |
 
   - Pitfall：Level I偏口腔；Level V偏後三角/鼻咽；VI-VII不是單側下咽癌最高風險。考「hypopharyngeal cancer（下咽癌）淋巴轉移最高風險」先選II-III-IV。
-
 - Deep neck infection（深頸部感染；S. pyogenes/GAS＝Group A Streptococcus、Streptococcus、Bacteroides為主）
   - Fascia（筋膜）分層：
     - Superficial cervical fascia＝platysma（頸闊肌）。
@@ -1885,18 +1884,15 @@
   - Source：成人多齒源性；兒童多扁桃腺/上呼吸道；其他＝醫源性、鰓裂囊腫、甲狀舌管囊腫感染。
   - SS：不對稱頸腫、trismus（牙關緊閉，pterygoid受影響）、耳痛、hot potato voice（含滷蛋聲）、Ludwig angina（口底/下頷下感染，先顧airway）。
   - Dx/Tx：contrast CT定位膿瘍；airway優先，IV antibiotics ± drainage（有膿瘍/壓迫/抗生素無效）。
-
 - 先天頸部腫塊
   - Thyroglossal duct cyst（甲狀舌管囊腫，惡性率<1%）：正中無痛腫塊；吞嚥/伸舌會動；Tx＝Sistrunk procedure（囊腫＋舌骨中段切除）。
   - Branchial cleft cyst（鰓裂囊腫）：側頸腫塊；Mainly 2nd cleft（沿SCM，走CN9/12之上、內外頸動脈間，開口tonsillar fossa）；SS＝cyst/sinus/fistula/贅皮；Tx＝感染控制後手術切除。
-
 - Sialolithiasis（唾石症，唾液腺結石）
   - RF：唾液少（脫水、抗膽鹼藥）、唾液成分改變（放射治療、Sjogren syndrome）。
   - Location：submandibular gland/Wharton's duct最常見（80%；cf. 腫瘤最常見在腮腺）；parotid gland/Stensen's duct次之；舌下腺/小唾液腺少見。
   - SS：餐後疼痛腫脹。
   - Exam：occlusal view for 下頷腺結石；腮腺結石X-ray約半數可見；CT、Echo。
   - Tx：小結石保守（熱敷、補水、口腔運動、酸味刺激）；失敗或大結石才取石。
-
 - Salivary gland tumor（唾液腺腫瘤）
   - Location：parotid gland（腮腺）最常見且多良性；sublingual/minor salivary gland較少但惡性比例高。
   - SS：無痛性腫塊；快速長大、皮膚凹陷/潰瘍、疼痛或面神經麻痺偏惡性。
@@ -1908,11 +1904,8 @@
   - Pleomorphic adenoma（多形性腺瘤/良性混合瘤，1st良性）：Mainly腮腺；pseudocapsule但有偽足，需完整切除；久了可變carcinoma ex pleomorphic adenoma。
   - Warthin tumor（乳頭狀囊腺淋巴瘤，2nd良性）：老年男性、吸菸；Tx＝腮腺淺葉切除即可。
     - cf. Wharton's duct＝下頷腺導管，不是Warthin tumor。
-
 - 頭頸癌（多為SCC＝squamous cell carcinoma；HPV＝human papillomavirus偏口咽癌；EBV＝Epstein-Barr virus偏鼻咽癌）
-
   ![Pyriform sinus anatomy](../assets/pyriform_sinus_anatomy.jpg)
-
   - General：
     - RF＝ABC（alcohol酒、betel quid檳榔、cigarette菸）為主；口咽癌另看HPV；鼻咽癌另看EBV。
     - Targeted Tx：Cetuximab（西妥昔單抗）target＝EGFR（epidermal growth factor receptor，表皮生長因子受體）。

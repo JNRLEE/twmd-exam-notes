@@ -8,91 +8,92 @@
   | 膀胱      | Urothelial carcinoma（尿路上皮癌/移形細胞癌）    |
   | 腎盂、輸尿管  | Urothelial carcinoma（尿路上皮癌/移形細胞癌）    |
   | 腎臟實質    | Renal cell carcinoma（RCC，腎細胞癌）       |
-  | 攝護腺/前列腺 | Adenocarcinoma（腺癌）                   |
+  | 攝護腺/前列腺 | **Adenocarcinoma**（腺癌）               |
 
 ## 腎臟疾病（考題21）
 
 - Renal Cyst：
   - 流病：>50 y/o盛行率3成
-  - SS：多無症狀；>10cm可能水腎
-  - Exam / Bosniak：惡性特徵＝囊腫抽取物血樣（懷疑papillary cancer）、CT septal/nodular變化、強顯影、Bosniak分級高分
-  - Tx：低分Obs；高分RFA/手術全切；疼痛可Acetaminophen、NSAIDs、經皮抽吸+注射硬化劑
+  - SS：多無症狀；**>10cm可能水腎**
+  - Exam：惡性特徵＝囊腫抽取物血樣（懷疑papillary cancer）、CT septal/nodular變化、**強顯影**、Bosniak分級高分
+  - Tx：低分Obs；高分RFA/手術全切；疼痛可Acetaminophen、NSAIDs、**經皮抽吸+注射硬化劑**
 - 腎臟外傷：
   - 流病：1st泌尿系統外傷，男多，鈍傷為主
   - Pitfall：血尿量與嚴重度無關
-  - 分級（五級）：膜下血腫（1）⭢1cm內撕裂傷（2）⭢未傷集尿系統（3）⭢傷集尿系統（4）⭢主血管/腎臟碎裂損傷（5）
+  - 分級（五級）：膜下血腫（1）⭢1cm內撕裂傷（2）⭢未傷集尿系統（3）⭢**傷集尿系統（4）**⭢主血管/腎臟碎裂損傷（5）
   - Exam：尿檢、影像學（CT、IVP）
   - Tx：觀察（1-2級）；引流／手術（3-5級）
 - 腎臟感染
   - Acute Pyelonephritis（急性腎盂腎炎）：
     - RF：性活躍女性、UTI家族史、DM
-    - Pathogen：80% E. coli
-    - SS triad：發燒/畏寒、knocking pain
+    - Pathogen：**80% E. coli**
+    - SS triad：**發燒、畏寒、knocking pain**
     - Exam：CT（發炎處perfusion defects）；尿培/血培一致率高
-    - Tx：oral antibiotics 14 days for 輕微；IV ampicillin/aminoglycoside，再加14 days if bacteremia
+    - Tx：oral antibiotics 14 days for 輕微；IV **ampicillin/aminoglycoside**，再加14 days if bacteremia
   - Chronic Pyelonephritis（慢性腎盂腎炎）：
     - 機轉：recurrent UTI⭢scarred/shrink，mainly兒童
-    - SS：多無症狀（也無感染）、視力模糊、高血壓、蛋白尿
+    - SS：多無症狀（也無感染）、**視力模糊、高血壓、蛋白尿**
     - Exam：影像學（CT/MRI）見腎臟萎縮、疤痕
     - Tx：控制感染、預防UV reflux（器質性問題，治療有限）
   - Emphysematous pyelonephritis（EPN，產氣性壞死性腎感染）：
-    - RF / Pathogen：DM為大RF；E. coli / Klebsiella發酵產氣
+    - RF / Pathogen：**DM為大RF；E. coli / Klebsiella發酵產氣**
     - SS：sepsis、抗生素後仍未改善、pneumaturia
-    - Exam：CT/KUB見腎實質/腎周gas
-    - Tx：IV抗生素＋控血糖＋引流/解除阻塞；嚴重才nephrectomy
+    - Exam：CT/KUB見腎實質/**腎周gas**
+    - Tx：IV抗生素＋**控血糖＋引流/解除阻塞**；嚴重才nephrectomy
   - Renal Abscess（腎膿瘍，難診斷）：
     - Pathogen：皮質＝Staphylococci；髓質＝E. coli、Proteus
     - SS：畏寒、腹痛、解尿疼痛>2 wks
-    - Exam：尿血培養>5成沒東西，影像2成正常
-    - Tx：廣效抗生素（vancomycin、cephalosporin）；CT引流 if anti 48 hr無果；手術
+    - Exam：**尿血培養>5成沒東西，影像2成正常**
+    - Tx：**廣效抗生素（vancomycin、cephalosporin）**；CT引流 if anti 48 hr無果；手術
 - 腎臟腫瘤
   - Renal parenchymal neoplasms實質腫瘤：
     - Benign：
-      - Oncocytoma嗜酸細胞瘤：男性、無症狀，影像不典型（像RCC）；Exam＝FNAC棕色病灶；Tx＝燒灼，超音波
-      - Angiomyolipoma（AML，血管肌肉脂肪瘤/hamartoma錯構瘤）：女多，黃病灶，60%合併結節硬化；Exam＝Echo白色高回音+CT黑色；Tx＝切除/動脈栓塞（>4cm/會痛）
+      - Oncocytoma嗜酸細胞瘤：男性、無症狀，影像不典型（像RCC）；Exam＝**FNAC棕色病灶**；Tx＝燒灼，超音波
+      - Angiomyolipoma（AML，血管肌肉脂肪瘤/hamartoma錯構瘤）：女多，黃病灶，**60%合併結節硬化**；Exam＝**Echo白色高回音+CT黑色**；Tx＝**切除/動脈栓塞**（>4cm/會痛）
     - Malignant：
       - RCC（85%，見下方說明）
-      - Meta（來源：肺（20%）>乳>胃）
+      - Meta（來源：**肺（20%）**>乳>胃）
       - Wilms tumor（兒童）：多無症狀，太大才被發現；Tx＝主手術，放化療都有反應
-  - Renal Cell Carcinoma（RCC，腎細胞癌；黃、富含脂質）：
-    - 流病：好發老、黑、男
+  - Renal Cell Carcinoma（RCC，腎細胞癌；**黃、富含脂質**）：
+    - 流病：好發**老、黑、男**
     - RF：體顯遺傳病（VHL disease、hereditary renal carcinoma）、環境因素（抽菸、石棉）
     - 病理：mixed carcinoma
-    - SS：無症狀（>50%）、副腫瘤症候群（高壓、高鈣）
-    - Exam：抽血（ESR⭡、血尿、貧血）、Echo（準度高）、CT（arterial enhancement、venous early washout，HCC也會）、其他進階影像學/膀胱鏡都有效
-    - Tx：手術（唯一cure方法）；標靶治療 for 轉移性clear cell RCC
-    - Metastatic RCC risk model：International Metastatic Kidney Cancer Database Consortium（IMDC，轉移性RCC預後分層）＝Karnofsky performance status低、Dx-to-Tx<1 yr、Hb低、corrected Ca高、neutrophil高、platelet高；lactate dehydrogenase（LDH）屬Memorial Sloan Kettering Cancer Center（MSKCC）舊模型，不是IMDC
+    - SS：**無症狀（>50%）**、副腫瘤症候群（高壓、高鈣）
+    - Exam：抽血（ESR⭡、血尿、貧血）、**Echo（準度高）**、CT（arterial enhancement、venous early washout，HCC也會）、其他進階影像學/膀胱鏡都有效
+    - Tx：手術（唯一cure方法）；**標靶治療 for 轉移性clear cell RCC**
+    - Metastatic RCC risk model：International Metastatic Kidney Cancer Database Consortium（IMDC，轉移性RCC預後分層）＝Karnofsky performance status低（<80%）、Dx-to-Tx<1 yr（發病到需要全身治療）、Hb低、corrected Ca高、neutrophil高、platelet高
+      - lactate dehydrogenase（LDH）屬Memorial Sloan Kettering Cancer Center（MSKCC）舊模型，不是IMDC
   - Renal pelvic/ureteral tumor（腎盂/輸尿管腫瘤）：
     - cf.：40%合併膀胱癌（尿路上皮細胞癌1st部位）
     - RF：橡膠/苯暴露、濫用止痛藥、中藥馬兜鈴酸、埃及血吸蟲
-    - subtype：Transitional cell carcinoma移形細胞癌（90%）、SCC（8%）、Adenoma（1%）、Fibroepithelial polyp（1st良性）
-    - Exam：CT/MRI/Sono（鈣化、papillary necrosis）；輸尿管鏡（filling defect/切片，非必要，會低估且不影響處置）
-    - Tx（放療無效）：手術、雷射、化學治療（cisplatin for 遠端轉移，palliative，對延長生命無效）
+    - subtype：**Transitional cell carcinoma移形細胞癌（90%）**、SCC（8%）、Adenoma（1%）、Fibroepithelial polyp（1st良性）
+    - Exam：**CT/MRI/Sono（鈣化、papillary necrosis）**；輸尿管鏡（filling defect/切片，非必要，會低估且不影響處置）
+    - Tx（**放療無效**）：手術、雷射、化學治療（cisplatin for 遠端轉移，palliative，對延長生命無效）
 - 腎臟移植：
   - 捐贈者：
     - 活捐者：預後同一般人
-    - 死捐者：5-50 y/o；50-60有高血壓/腦血管dx；>60健康可捐
+    - 死捐者：**5-50 y/o**；50-60有高血壓/腦血管dx；**>60健康可捐**
   - 保存：體外保存液＝高鉀、低鈉，4度保存
-  - 受贈者評估：ABO血型/T cell cross match即可，HLA相對沒關係
+  - 受贈者評估：**ABO血型/T cell cross match即可**，HLA相對沒關係
   - 原腎處理：90%保留原腎；移除理由＝頑固性高血壓（1st）、嚴重蛋白尿、持續感染因子（結石、囊腫、逆流）
-  - 手術：捐左腎（靜脈長），種右邊（iliac fossa）
+  - 手術：**捐左腎（靜脈長），種右邊（iliac fossa）**
   - 術後觀察：
-    - 血流：中心靜脈壓10-15 cm
-    - 腎功能：creatinine過一週還上升要洗腎，主因ATN
+    - 血流：**中心靜脈壓10-15 cm**
+    - 腎功能：**creatinine過一週還上升要洗腎，主因ATN**
     - 排尿量：echo看有無阻塞／廔管/血流不足
   - C/I：active感染/腫瘤（原位癌例外，可移植）、周邊動脈血管硬化、腎還有救（e.g. cystinosis胱氨酸血症）
-  - Pitfall：過去有TB感染要投藥isoniazid一年才可移植
+  - Pitfall：TB感染史者要投藥**isoniazid**一年才可移植
 
 ## 下泌尿道（考題16）
 
 - 解剖
-  - 男性尿道：尿道口→陰莖段/海綿體尿道→球部尿道→膜部尿道（尿道外括約肌 external urethral sphincter）→前列腺部尿道（精阜 verumontanum / seminal colliculus）→肥大的前列腺組織→膀胱頸（bladder neck）→膀胱
+  - 男性尿道：尿道口→陰莖段/海綿體尿道→球部尿道→**膜部尿道（尿道外括約肌 external urethral sphincter）**→前列腺部尿道（精阜 verumontanum / seminal colliculus）→肥大的前列腺組織→膀胱頸（bladder neck）→膀胱
 - 構造異常（多遺傳性，要手術）
   - 輸尿管成因
-    - Duplicated ureter（雙套輸尿管）：女多，具遺傳性
-      - 分類：不完全型（Y，只有一條接膀胱，多無症狀） vs 完全型（兩條通道接膀胱；上腎盂輸尿管易異位/ureterocele/阻塞，下腎盂輸尿管易VUR）
+    - Duplicated ureter（雙套輸尿管）：**女多**，具遺傳性
+      - 分類：不完全型（Y，只有一條接膀胱，多無症狀） vs 完全型（兩條通道接膀胱；**上腎盂輸尿管（接到下內側膀胱）易異位/囊腫/阻塞**，下腎盂輸尿管易VUR）
       - Tx＝手術
-    - Ureteropelvic junction obstruction（UPJ obstruction，輸尿管腎盂接口處狹窄）：男、左腎為主；多無症狀，infant可嘔吐/疼痛
+    - Ureteropelvic junction obstruction（UPJ obstruction，輸尿管腎盂接口處狹窄）：男、**左腎為主**；多無症狀，infant可嘔吐/疼痛
       - Exam＝Echo、renal scan、voiding cystourethrogram（VCUG，排尿膀胱尿道攝影）
       - Tx＝手術，預後佳
     - Ectopic ureter（輸尿管開口異位）：女多
@@ -101,87 +102,85 @@
       - 分級＝Grade I-V；III輕微擴大，IV輸尿管扭曲，V腎乳突壓跡消失
       - Tx＝手術
   - 膀胱成因
-    - Interstitial cystitis（間質性膀胱炎）：40y/o女
+    - Interstitial cystitis（**間質性膀胱炎**）：40y/o女
       - SS＝頻尿、尿急、骨盆痛
-      - Exam＝動力學膀胱張力強/順應性差；膀胱鏡見Hunner lesion（較特異，紅斑/放射狀血管/潰瘍樣病灶）或 glomerulation（黏膜點狀出血）
-      - Tx＝飲食控制（少酒/咖啡/甜味劑）、藥物（amitriptyline）、膀胱灌藥（DMSO、lidocaine）、手術（膀胱灌水擴張、打肉毒）
+      - Exam＝動力學膀胱張力強/順應性差；膀胱鏡見**Hunner lesion**（較特異，紅斑/放射狀血管/潰瘍樣病灶）或 **glomerulation（黏膜點狀出血）**
+      - Tx＝飲食控制（少酒/咖啡/甜味劑）、**藥物（amitriptyline）**、膀胱灌藥（DMSO、lidocaine）、手術（膀胱灌水擴張、打肉毒）
 - 外傷
   - 輸尿管外傷：多穿刺傷（cf. 腎/膀胱多鈍傷）
-    - Exam＝CT（urinoma尿液腫、顯影劑外露）
+    - Exam＝CT（**urinoma尿液腫、顯影劑外露**）
     - Tx＝雙J導管引流（輸尿管受傷必備）、手術
   - 膀胱外傷：多撞擊鈍傷（容器狀的都多鈍傷），男多
-    - Exam＝逆行膀胱攝影
+    - Exam＝逆行膀胱攝影（打顯影後CT）
     - Tx＝腹膜外單純破裂導尿；腹膜內/複雜破裂手術
 - 感染
   - Acute cystitis：女、DM
     - SS＝急尿、頻尿、惡臭
-    - Tx＝症狀診斷後直接anti TMP-SMX 3-5天（PCN類普遍抗藥不用，驗尿/影像skip）
+    - Tx＝症狀診斷後直接**anti TMP-SMX** 3-5天（PCN類普遍抗藥不用，驗尿/影像skip）
   - Recurrent cystitis：女
     - Tx＝移除感染源（if 尿中持續有菌）；預防性抗生素（if 反覆治好又感染）
   - Urinary TB：>30y/o成人
-    - SS＝多無症狀（if 腎/輸尿管/攝護腺感染）；刺激/血尿（if 膀胱炎）
-    - Exam＝尿檢（持續濃尿+培養陰性）、觸診（輸精管球狀結節bead chain）、X ray（moth-eaten腎盞）、TB培養（fast stain/晨尿）
+    - SS＝**多無症狀（if 腎/輸尿管/攝護腺感染）**；刺激/血尿（if 膀胱炎）
+    - Exam＝尿檢（持續濃尿+培養陰性）、觸診（**輸精管球狀結節bead chain**）、X ray（**moth-eaten腎盞**）、TB培養（**fast stain/晨尿**）
     - Tx＝抗結核藥物
 - 膀胱癌（2nd泌尿道惡腫，cf. 攝護腺癌）：老白人病，75％診斷時膀胱局限
   - RF＝抽菸、橡膠、苯、膀胱受傷、洗腎
-  - 分類＝移形上皮（90%）、SCC（5%，伴隨發炎/血尿/埃及血吸蟲）、mixed carcinoma、papilloma（＝PUNLMP低惡性泌尿乳突瘤）
-  - SS＝間歇性血尿、頻尿
+  - 分類＝移形上皮（90%）、SCC（5%，伴隨**發炎/血尿/埃及血吸蟲**）、mixed carcinoma、papilloma（＝PUNLMP低惡性泌尿乳突瘤）
+  - SS＝**間歇性血尿、頻尿**
   - Exam＝膀胱鏡（確診）；影像判斷轉移（X for肺、bone scan for骨）；Lab/cytology不準
-  - Tx＝手術（TURBT）+膀胱灌藥物（Mitomycin C、BCG）→radical cystectomy（侵犯肌肉層T2，切骨盆器官，合併骨盆淋巴廓清）→chemo（333 rule：1/3反應、1/3縮小、1/3沒反應）、immune
+  - Tx＝手術（TURBT；經尿道可根除性切除）+膀胱灌藥物（**Mitomycin C、BCG**）→radical cystectomy（侵犯肌肉層T2，切骨盆器官，合併骨盆淋巴廓清）→chemo（**333 rule：1/3反應、1/3縮小、1/3沒反應**）、immune
 
 ## 外生殖器（考題29）
 
 - 構造異常
   - 先天
-    - Posterior urethral valve（PUV，後尿道瓣膜）：漏尿、感染、水腎
+    - Posterior urethral valve（PUV，後尿道瓣膜）：感染、水腎、漏尿（膀胱長期高壓失代償）
       - Exam＝VCUG，Echo（28wks即可見水腎）
       - Tx＝內視鏡燒灼
-    - Hypospadias（尿道下裂）：多在龜頭近端／冠狀溝
-      - RF＝家族遺傳性，胎兒孕期過度estrogen/progestin暴露
-      - Tx＝保留尿道板＋拿包皮重建皮瓣（不要行割禮）；手術失敗要等6-12月再重建
-    - Cryptorchidism（隱睪）：卡在睪丸下降路徑，prepubic為主
+    - Hypospadias（**尿道下裂**）：多在**龜頭近端／冠狀溝**
+      - RF＝家族遺傳性，胎兒**孕期過度estrogen/progestin暴露**
+      - Tx＝保留尿道板＋拿**包皮重建皮瓣（不要行割禮）**；手術失敗要等6-12月再重建
+    - Cryptorchidism（隱睪）：卡在睪丸下降路徑，**prepubic**為主
       - RF＝早產、家族史
-      - Tx＝睪丸固定（<1.5y/o）；睪丸切除（>10 y/o，∵易睪丸癌（Seminoma））
-    - 異位睪丸：卡在superficial inguinal為主
+      - Tx＝睪丸固定（<1.5y/o）；睪丸切除（>10 y/o，∵易睪丸癌（**Seminoma**））
+    - 異位睪丸：卡在**superficial inguinal pouch**為主
       - cf. Cryptorchidism＝卡在睪丸下降路徑
     - Inguinal hernia
       - Indirect：小孩99%；patent processus vaginalis腹膜鞘狀突未閉合，從deep inguinal ring突出⭢走inguinal canal，inferior epigastric vessels外側；Tx＝高位結紮ASAP
       - Direct：老人；從Hesselbach triangle/posterior wall突出，inferior epigastric vessels內側，比indirect易復發；Tx＝Mesh（cf. 兒童不常規Mesh）
-      - Femoral hernia：inguinal ligament下方／股靜脈內側，女多，incarceration風險高
+      - Femoral hernia：inguinal ligament下方／股靜脈內側，女多，incarceration（嵌頓）風險高
       - Inguinal canal map：deep inguinal ring＝transversalis fascia開口；superficial inguinal ring＝external oblique aponeurosis開口；spermatic cord coverings＝internal spermatic fascia（transversalis fascia延伸）＋cremaster muscle/fascia（internal oblique延伸）＋external spermatic fascia（external oblique aponeurosis延伸）；ilioinguinal n.伴隨cord出superficial ring（不經deep ring），iliohypogastric n.不在spermatic cord；testicular a.來自abdominal aorta
-      - 圖：![Inguinal canal map](../assets/inguinal_canal_map.png)
-      - 圖源：本機下載圖片
-      - 圖：![Common sites of lower abdominal hernias](../assets/common_sites_lower_abdominal_hernias.jpg)
-      - 圖源：Dennis M. DePace，PhD / Wikimedia Commons，CC BY-SA 4.0
+      ![Inguinal canal map](../assets/inguinal_canal_map.png)
+      ![Common sites of lower abdominal hernias](../assets/common_sites_lower_abdominal_hernias.jpg)
   - 後天
-    - Priapism（陰莖異常勃起）：持續勃起>4hr，多缺血型（陰莖硬龜頭軟）；其他＝白血病、藥物、外傷
+    - Priapism（陰莖異常勃起）：持續勃起>4hr，多缺血型（**陰莖硬龜頭軟**）；其他＝白血病、藥物、外傷
       - Exam＝Doppler
-      - Tx＝冰敷、放血、alpha-agonist、動靜脈瘻管
+      - Tx＝冰敷、放血、**alpha-agonist（海綿肌放鬆動脈收縮）**、動靜脈瘻管
     - Penile curvature（陰莖彎曲）：彎超過30度
       - 先天＝白膜異常、尿道下裂
-      - 後天＝Peyronie's dx（發炎纖維斑塊化）
-      - Tx＝Vit E、抗纖維藥、手術
+      - 後天＝**Peyronie's dx**（發炎纖維斑塊化）
+      - Tx＝**Vit E、抗纖維藥、手術**
     - Phimosis（包莖）
       - 併發症＝龜頭炎、嵌頓式包莖、陰莖癌、性病⭡
       - Tx＝anti、手術
     - Urethral stricture（尿道狹窄）
       - Mainly＝感染
-      - Tx＝擴張／重建
-    - Testicular torsion（睪丸扭轉）：青少年急症；Bell-clapper deformity（鞘狀膜異常包覆⭢睪丸可自由旋轉）
-      - SS＝突發性陰囊痛、腫脹、高位／橫躺睪丸、negative Prehn's sign陰性（抬高不緩解）、cremasteric reflex消失（Rabinowitz sign相關）
-      - Exam＝Doppler（血流減少），Tc-99m cold
+      - Tx＝擴張、重建
+    - Testicular torsion（睪丸扭轉）：青少年急症；**Bell-clapper deformity**（鞘狀膜異常包覆⭢睪丸可自由旋轉）
+      - SS＝突發性陰囊痛、腫脹、高位／橫躺睪丸、**negative Prehn's sign陰性（抬高不緩解）**、cremasteric reflex消失（Rabinowitz sign相關）
+      - Exam＝Doppler（血流減少），**Tc-99m cold**
       - Tx＝手術復位，6hr內90%有救
-      - 補＝新生兒多extravaginal（常產前，預後差），青少年多intravaginal；開刀前先manual detorsion＝open the book（多由內向外轉，暫時恢復血流），正常側術中也要預防性固定
+      - 補＝新生兒多extravaginal鞘膜外（常產前，連同鞘膜旋轉，預後差），青少年多intravaginal鞘膜內（在鞘膜內自行旋轉）；開刀前先manual detorsion＝open the book（多由內向外轉，暫時恢復血流），**正常側術中也要預防性固定**
     - Varicocele（精索靜脈曲張）：1st男不孕，左側為主
-      - MOA＝nutcracker effect，左腎靜脈被SMA/aorta夾住⭢左側易血尿、varicocele
-      - Exam＝Doppler靜脈>3.5mm
+      - MOA＝nutcracker effect，左腎靜脈**被SMA/aorta夾住**⭢左側易血尿、varicocele
+      - Exam＝Doppler靜脈**>3.5mm**
       - Tx＝手術（70%改善精子品質）
 - 感染
   - 尿道炎：性傳播
     - 感染源＝淋病、非淋病（HSV、Chlamydia、Trichomonas）
     - SS＝5成無症狀、尿道分泌物、排尿疼痛
-    - Exam＝尿道取樣（分泌物取樣不準），不依靠影像學
-    - Tx＝抗生素（淋病ceftriaxone、非淋病doxycycline）；預防>治療
+    - Exam＝**尿道取樣**（分泌物取樣不準），不依靠影像學
+    - Tx＝**抗生素（淋病ceftriaxone、非淋病doxycycline）**；預防>治療
   - Chlamydia三兄弟快分：
 
     | 菌種                    | 疾病                                                                                     | 典型情境          |
@@ -191,72 +190,72 @@
     | Chlamydia psittaci    | psittacosis（鸚鵡熱）/非典型肺炎                                                                 | 鳥類暴露（鸚鵡、家禽）   |
 
   - 睪丸附睪炎：泌尿道感染後上行傳染，幼童多肺炎／病毒後感染引起
-    - 成因＝E.coli（老人、小孩、肛交）、Chlamydia/Gonorrhea（成人）
-    - SS＝急性睪丸痛、腫脹、血精
+    - 成因＝**E.coli（老人、小孩、肛交）**、Chlamydia/Gonorrhea（成人）
+    - SS＝急性**睪丸痛、腫脹、血精**
     - Exam＝尿/血WBC⭡，超音波（增強血流，可DDx torsion）
     - Tx＝抗生素（ceftriaxone+doxycycline）、NSAIDs消炎、伴侶一起治療
   - Warts（性行為傳播）
     - Exam＝膀胱尿道鏡
-    - Tx＝電燒、5-Fu尿道貫注
+    - Tx＝電燒、**5-Fu尿道貫注**
   - Fournier gangrene（會陰部壞死性筋膜炎）
     - RF＝感染、局部外陰瘻管、DM
     - 蔓延＝沿淺層筋膜（Colles' / Dartos / Scarpa's fascia），不是深層筋膜
-    - Tx＝立即清瘡（不可少清）；但睪丸、陰莖海綿體sparing（被deep Buck's fascia保護）
-    - 圖：![Penis Buck's and Dartos fascia](../assets/penis_buck_dartos_fascia.jpg)
+    - Tx＝**立即清瘡（不可少清）**；但睪丸、陰莖海綿體sparing（被deep Buck's fascia保護）
+    ![Penis Buck's and Dartos fascia](../assets/penis_buck_dartos_fascia.jpg)
 - 外傷
   - Buck's fascia判斷瘀青／陰莖血腫
     - Buck's fascia沒破＝血腫侷限陰莖
-    - Buck's fascia破了＝血液可進Colles' / Scarpa's / Dartos fascia，會陰／陰囊／下腹butterfly狀
-  - Tx＝逆行性尿道攝影，膀胱造口引流（不可放foley），手術
-  - membranous urethra（後段）：最常受傷，合併血腫&攝護腺上移（high riding prostate）
-  - bulbous（前段）：陰莖前段1st；SS＝Straddle injury（跨座式傷害）
+    - Buck's fascia破了＝血液可進Colles' / Scarpa's / Dartos fascia，**會陰／陰囊／下腹butterfly狀**
+  - Tx＝逆行性尿道攝影、膀胱造口引流（不可放foley）、手術
+  - **membranous urethra（中段）**：最常受傷，合併血腫&攝護腺上移（high riding prostate）
+  - bulbous（前段）：陰莖前段1st；SS＝**Straddle injury（跨座式傷害）**
   - 陰莖骨折：白膜破裂
 - 腫瘤
-  - 睪丸癌：Mainly germ cell tumor（年輕男1st固態腫瘤；seminoma>non-seminoma）
-    - 淋巴擴散＝睪丸沿下降路徑回流⭢retroperitoneal/para-aortic nodes（非先到inguinal）
-    - SS＝無痛腫大（70%）
-    - Exam＝Lab（HCG+AFP+LDH）＋影像（超音波深色病灶，CXR看肺部轉移，腹部骨盆CT看淋巴轉移）
-    - Tx＝手術（睪丸必切除），化療（全Stage都可輔助，復發能化療就化療，不能就努力切），放療（for seminoma，中低Stage才做）
+  - 睪丸癌：Mainly germ cell tumor（年輕男1st固態腫瘤；**seminoma>non-seminoma**）
+    - 淋巴擴散＝睪丸沿下降路徑回流⭢**retroperitoneal**/para-aortic nodes（非先到inguinal）
+    - SS＝**無痛腫大（70%）**
+    - Exam＝Lab（HCG+AFP+LDH）＋影像（超音波深色病灶，**CXR看肺部轉移**，腹部**骨盆CT看淋巴轉移**）
+    - Tx＝手術（睪丸必切除），化療（全Stage都可輔助，復發能化療就化療，不能就努力切），**放療（for seminoma**，中低Stage才做）
   - Penile cancer：SCC為主
-    - RF＝>65 y/o、HPV（+）、phimosis（包莖）、抽菸
-    - SS＝Balanitis xerotica obliterans（BXO，閉鎖硬化龜頭，DM常見）、陰莖無痛腫塊／潰瘍、腹股溝淋巴腫（發炎，非侵犯）、Bowen's dx（紅色結痂）、Erythroplasia of Queyrat（紅皮潰瘍）
-    - Exam＝病理最準（leukoplakia），Lab/影像都不準
-    - 分級＝Jackson分級（1-4，1龜頭，2主幹，3淋巴結，4遠端）
-    - Tx＝局部化療（Tis）、手術⭢電燒⭢放療（T2）⭢抗生素（淋巴腫）；if 無淋巴轉移8成可治癒，目標為保留陰莖
+    - RF＝>65 y/o、HPV（+）、**phimosis（包莖）**、抽菸
+    - SS＝**Balanitis xerotica obliterans**（BXO，閉鎖硬化龜頭，DM常見）、陰莖無痛腫塊／潰瘍、腹股溝淋巴腫（發炎，非侵犯）、**Bowen's dx**（紅色結痂）、Erythroplasia of Queyrat（紅皮潰瘍）
+    - Exam＝病理最準（**leukoplakia白斑**），Lab/影像都不準
+    - 分級＝**Jackson分級**（1-4，1龜頭，2主幹，3淋巴結，4遠端）
+    - Tx＝局部化療（Tis）、手術⭢電燒⭢放療（T2）⭢抗生素（淋巴腫，用以排除感染導致）；if 無淋巴轉移8成可治癒，目標為保留陰莖
 
 ## 攝護腺（考題7）
 
 - 感染：
-  - 細菌性攝護腺炎：多<50y/o，急性以E.coli為主
+  - 細菌性攝護腺炎：**多<50y/o**，急性以E.coli為主
     - SS＝下泌尿道症狀+系統性感染症狀（急性）；慢性可無症狀
-    - Exam＝慢性可做前列腺按摩後前段尿（取前列腺液）
-    - Tx＝經驗性抗生素（急性6wks，慢性3m）；尿滯留用恥骨上膀胱引流，不放foley
+    - Exam＝慢性可做**前列腺按摩後前段尿**（取前列腺液）
+    - Tx＝經驗性抗生素（**急性6wks，慢性3m**）；尿滯留用**恥骨上膀胱引流，不放foley**
   - 攝護腺膿瘍：
     - RF＝急性攝護腺炎沒治好、長期導尿、DM
-    - SS＝攝護腺症狀+DRE摸到腫大/脈動/疼痛攝護腺
+    - SS＝攝護腺症狀+**DRE摸到腫大/脈動/疼痛攝護腺**
     - Exam＝超音波/CT
     - Tx＝影像引導引流
 - 攝護腺增生（BPH）：
-  - 病理＝老男，Transitional zone細胞數增加；往外壓迫transition zone形成surgical capsule，可作為手術邊界
+  - 病理＝老男，Transitional zone細胞數增加；往外壓迫peripheral zone形成surgical capsule，可作為手術邊界
   - SS＝LUTS下泌尿道症狀
-  - Exam＝FUN-WISE score（Frequency、Urgency、Nocturia、Weak stream、Intermittent stream、Straining、Emptying）
+  - Exam＝FUN-WISE score（**Frequency、Urgency、Nocturia、Weak stream、Intermittent stream、Straining、Emptying**）
     - 每項0-5分；>8分中度，>20分重度
   - Tx：
-    - 藥物：for >8分；α-blocker（放鬆膀胱）、5α-reductase inhibitor（攝護腺>40ml才明顯縮小體積，也可降癌症發生率；e.g. Finasteride、Dutasteride）、副交感（興奮劑/抑制劑皆有幫助）、TCA
+    - 藥物：for >8分；**α-blocker**（放鬆膀胱）、5α-reductase inhibitor（攝護腺>40ml才明顯縮小體積，也可降癌症發生率；e.g. Finasteride、Dutasteride）、副交感（興奮劑/抑制劑皆有幫助）、TCA
     - 手術：反覆發作或移除尿管失敗；Transurethral Incision for <30ml，Transurethral vaporization for 30-80ml
-![Prostate zones](../assets/prostate_zones.png)
+    ![Prostate zones](../assets/prostate_zones.png)
 - 攝護腺癌：
-  - 定位＝1st泌尿癌症（美國男性第一癌，台灣前三）；adenocarcinoma in peripheral zone為主
-  - RF＝年齡、人種（黑>白>黃）、紅肉飲食、特定營養缺乏（茄紅素，Vit D，Omega-3）
-  - 轉移＝經Batson's venous plexus（脊椎靜脈叢）至脊椎骨盆
-  - SS＝多無症狀，發現時已轉移（cf. 陰莖癌，膀胱癌）
-  - Exam＝DRE像石頭、PSA>4ng/ml（free form比值越小越惡性）、TRUS常見異常低回音、MRI低訊號
-  - 分類＝切片Gleason grading（最大片+最高分分數）；7分中風險，>7高風險
-  - Tx：
-    - localized且預期壽命>10y：依風險做active surveillance/根除性攝護腺切除/放療
-    - Pitfall＝TURP不是根除手術；hormone不當第一線單用
-    - 放療可合併androgen deprivation therapy（中風險6ms，高風險3yrs）
-    - metastatic：androgen deprivation therapy（雙側睪丸切除 or LHRH/GnRH agonist/antagonist效果相近）
+  - 定位＝1st泌尿癌症（美國男性第一癌，台灣前三）；**adenocarcinoma** in **peripheral** zone為主
+  - RF＝年齡、人種（黑>白>黃）、**紅肉飲食**、特定營養缺乏（**茄紅素，Vit D，Omega-3**）
+  - 轉移＝**經Batson's venous plexus（脊椎靜脈叢）至脊椎骨盆**
+  - SS＝多無症狀，**發現時已轉移（cf. 陰莖癌，膀胱癌）**
+  - Exam＝DRE像石頭、**PSA>4ng/ml**（**free form比值越小越惡性**）、TRUS常見異常**低回音**、MRI**低訊號**
+  - 分類＝切片**Gleason grading**（最大片+最高分分數）；7分中風險，>7高風險
+  - Tx（先看stage/壽命/風險）：
+    - 低風險且預期壽命>10y：active surveillance（主動監測；定期PSA/DRE/切片，進展才根治）；預期壽命<10y或不適合根治＝watchful waiting（等待觀察，症狀出現再症狀治療）
+      - **localized：中高風險且預期壽命>10y**：根除性攝護腺切除（**radical prostatectomy**）或放療；放療可合併androgen deprivation therapy（ADT，雄性素剝奪治療；中風險約4-6mo〔常考6mo〕，高風險2-3y）
+      - metastatic：ADT為骨幹（**雙側睪丸切除 or LHRH/GnRH agonist/antagonist效果相近**）；若問全身治療，常合併**androgen receptor pathway inhibitor（ARPI，雄性素受體路徑抑制劑）或docetaxel**
+    - Pitfall＝TURP攝護腺不是癌症根除手術；localized不能只用hormone當根治
 
 ## 結石（考題7）
 
@@ -275,11 +274,11 @@
 - SS：
   - hematuria（9成）
   - pain：colicky pain＝石頭拉扯痛；noncolicky pain＝積尿痛；石頭大小與痛度無正比關係
-  - 三狹窄堵塞＝UPJ輸尿腎盂、iliac vessels髂血管旁、UVJ輸尿膀胱
+  - 三狹窄堵塞＝UPJ輸尿腎盂、**iliac vessels髂血管旁**、UVJ輸尿膀胱
   - 感染＝Mainly Proteus（struvite結石）
 - Exam：
-  - 首選NCCT（non-contrast CT；可見多數結石與阻塞，indinavir可看不到）
-  - KUB＝可見radiopaque stone；含鈣較清楚，struvite可見但較模糊，uric acid/indinavir常看不到
+  - 首選NCCT（**non-contrast CT**；可見多數結石與阻塞，indinavir可看不到）
+  - **KUB**＝可見radiopaque stone；**含鈣較清楚**，struvite可見但較模糊，uric acid/indinavir常看不到
   - US＝適合孕婦/小兒或看 hydronephrosis
   - Retrograde pyelography＝可見 filling defect，常用於CT不清楚、不能打IV contrast或術中定位
   - Pitfall＝RUG是尿道外傷/狹窄檢查，只能到膀胱
@@ -288,34 +287,33 @@
   - hydration＝喝水2500ml⭡，排水2000ml⭡
   - 改變尿pH：
     - 含鈣結石：citrate（抓走 free Ca）/避免鹼化
-    - 尿酸/Cystine結石：鹼化尿液；Cystine亦可用Tiopronin/Penicillamine抓走
+    - 尿酸/Cystine結石：鹼化尿液；Cystine亦可用**Tiopronin/Penicillamine**抓走
     - Struvite結石：酸化尿液
-  - 碎石/取石＝小輸尿管結石可觀察/MET，<1cm ESWL/URS，>1-2cm或staghorn⭢PCNL
-  - 飲食/藥物＝低普林、減少動物蛋白；febuxostat降尿酸生成；禁用Benzbromarone（⭡尿酸排出）
-  - 草酸鈣結石：pH值在生理範圍內影響不大；攝取鹼性物質for ⭡尿中Citrate（不要過度鹼化尿液）；要補鈣（減少腸道草酸吸收）
-  - 磷酸鈣結石：腎本來就不好（e.g Tumor lysis）；不用特別酸化尿液
-  - 鹼化尿液：Potassium based Bicarbonate為主；Sodium based會增加Ca排出
-  - ESWL體外碎石禁忌：孕婦、腹主動脈瘤、重度水腎、出血傾向
+  - 碎石/取石＝小輸尿管結石可觀察/MET藥物排石，<1cm ESWL體外震波/URS輸尿管鏡碎石，>1-2cm或staghorn⭢PCNL經皮取石
+  - 飲食/藥物＝**低普林、減少動物蛋白**；febuxostat降尿酸生成；**禁用Benzbromarone**（⭡尿酸排出）
+  - 草酸鈣結石：pH值在生理範圍內影響不大；**攝取鹼性物質for ⭡尿中Citrate**（不要過度鹼化尿液）；要**補鈣（減少腸道草酸吸收）**
+  - 鹼化尿液：**Potassium based Bicarbonate**為主；Sodium based會增加Ca排出
+  - ESWL體外碎石禁忌：孕婦、腹主動脈瘤、**重度水腎**、出血傾向
 
 ## 泌尿道細菌感染（考題0）
 
 - 防禦：
   - 宿主＝沖刷、上皮
   - 女＝乳酸菌保護；男＝Zinc in 前列腺
-- RF＝導尿管放一天多5%感染率
+- RF＝導尿管放一天**多5%**感染率
 - 常用藥：
-  - TMP+SMX＝for uncomplicated UTI；綠膿/Enterococci無效，孕婦小孩禁用
+  - TMP+SMX＝for uncomplicated UTI；**綠膿/Enterococci無效，孕婦小孩禁用**
   - Fluoroquinolone＝for G（-）；孕婦小孩禁用
-  - Nitrofurantoin＝for G（-）/Enterococci；綠膿/Proteus無效，孕婦小孩禁用
+  - Nitrofurantoin＝for G（-）/Enterococci/純下泌尿道；綠膿/Proteus無效，孕婦小孩禁用
   - Aminoglycoside＝for G（-）/Enterococci；腎耳毒性，孕婦小孩禁用
   - PCN＝孕婦可用，但多數細菌有抗藥性
-  - Cephalosporin＝孕婦可用
+  - **Cephalosporin＝孕婦可用**
 
 ## 泌尿道功能工程（考題1）
 
 - Urodynamics：
-  - Urinary flow rate（尿流速圖）＝鐘型曲線；最大流速<15懷疑、<10確診阻塞/逼尿功能障礙
-  - Cystometrogram（CMG，膀胱壓力圖）＝逼尿肌壓力（Pdet）＝膀胱內壓（Pves）-腹內壓（Pabd）；膀胱體積150ml開始尿意、450ml最大容積
+  - Urinary flow rate（尿流速圖）＝鐘型曲線；最大流速**<15懷疑**、<10確診阻塞/逼尿功能障礙
+  - Cystometrogram（CMG，膀胱壓力圖）：逼尿肌壓力（Pdet）＝膀胱內壓（Pves）-腹內壓（Pabd）；膀胱體積150ml開始尿意、450ml最大容積
   - Urethral pressure profile/Sphincter electromyography＝尿道壓力圖/括約肌電圖 for括約肌偵測
   - Videourodynamic＝尿路攝影＋pressure-flow/CMG
 - 下泌尿道功能異常：
@@ -323,20 +321,20 @@
     - 收縮問題＝detrusor hyporeflexia
     - 出口問題＝狹窄、外括約肌異常
   - Postoperative urinary retention（POUR，術後尿滯留）：
-    - RF＝男/高齡/BPH、IV fluid過多（膀胱過度充盈）、spinal/epidural anesthesia>general anesthesia（抑制排尿反射）、anorectal/pelvic surgery（疼痛與反射性括約肌收縮）、opioid/抗膽鹼
+    - RF＝男/高齡/BPH、IV fluid過多（膀胱過度充盈）、spinal/epidural anesthesia>general anesthesia（抑制排尿反射）、anorectal/pelvic surgery（疼痛與反射性括約肌收縮）、**opioid/抗膽鹼**
     - Tx＝膀胱掃描，導尿/間歇導尿，處理疼痛與藥物
   - 尿失禁：
     - 流病＝Mainly女（盛行率>4成）
     - Exam＝Marshall test（Lithotomy position，膀胱灌水後咳嗽看漏尿量）
     - 分類：
-      - Stress＝活動漏尿 in中年女骨盆肌肉鬆弛；Tx＝Kegel運動、口服Duloxetine、手術
-      - Urge＝急迫性漏尿，逼尿肌不自主收縮，in女/中風/帕金森；Tx＝Kegel運動、口服抗膽鹼（tolterodine，oxybutynin）、M3抑制劑（solifenacin）
+      - Stress＝活動漏尿 in中年女骨盆肌肉鬆弛；Tx＝Kegel運動、口服Duloxetine（SNRI）、手術
+      - Urge＝急迫性漏尿，逼尿肌不自主收縮，in女/中風/帕金森；Tx＝Kegel運動、**口服抗膽鹼（tolterodine，oxybutynin）、M3抑制劑（solifenacin）**
       - Overflow＝積尿漏尿；e.g BPH阻塞、detrusor無力排尿；Tx＝治療原發病因，可能需要導尿
       - Mixed＝混合性漏尿
   - Neuropathic bladder：
-    - 神經＝儲尿中樞：橋腦；排尿中樞：旁水道灰質（PAG，參與儲尿與排尿轉換）；額葉抑制與交感/陰部神經才是維持留尿主力
-    - 分類＝S2以上受傷：S2-4薦反射弧保留，膀胱過動；S2以下受傷：薦反射弧受損，膀胱無力/鬆弛，overflow incontinence
-    - Tx Goal＝膀胱儲尿時保持低壓，防止感染
+    - 神經＝儲尿中樞：橋腦；排尿中樞：旁水道灰質（PAG，參與儲尿與排尿轉換）；額葉抑制與交感/**陰部神經**才是維持留尿主力
+    - 分類＝S2以上受傷：**S2-4薦反射弧保留，膀胱過動**；S2以下受傷：薦反射弧受損，膀胱無力/鬆弛，overflow incontinence
+    - Tx Goal＝膀胱儲尿時保持低壓、防止感染
       - 過動膀胱：副交感阻斷（oxybutynin，trospium）、膀胱內灌藥、肉毒
       - 無力膀胱：膀胱訓練、副交感興奮、間歇導尿
 
@@ -346,19 +344,19 @@
   - 神經：
     - Erection＝副交感S2-4（pelvic splanchnic/cavernosal nerve，NO）
     - Emission/射精前段＝交感T11-L2（hypogastric，輸精管/精囊/前列腺收縮＋內括約肌關閉）
-    - Expulsion/射出＝陰部神經S2-4（bulbospongiosus收縮）
+    - Expulsion/射出＝陰部神經S2-4（**bulbospongiosus**收縮）
   - 勃起障礙（ED＝impotence）：
-    - RF＝抽菸、DM、HTN、CAD（80%）、PAD（90%）
+    - RF＝抽菸、DM、HTN、CAD（80%）、**PAD（90%）**
     - Exam＝空腹血糖（排除DM）、血中睪固酮/prolactin（抑制testosterone）、夜間陰莖勃起測試（Snap-Gauge test；三條橡皮筋看破幾條，if正常⭢排除器質因素）、Doppler超音波（血流量）
-    - Tx＝治療原發病因、PDE5抑制劑（sildenafil，抑制PDE-5，增加NO-cGMP）、陰莖注射藥物（prostaglandin E1）、真空裝置、手術（陰莖假體植入）
+    - Tx＝治療原發病因、**PDE5抑制劑（sildenafil**，抑制PDE-5，增加NO-cGMP）、陰莖注射藥物（prostaglandin E1）、真空裝置、手術（陰莖假體植入）
   - 男性不孕症：
     - 定義＝一年無套未孕
-    - 成因＝睪丸前（下視丘-垂體-睪丸軸問題）、睪丸內（染色體：Klinefelter's disease（47XXY，小睪丸男性女乳）、Noonan's；varicocele）、睪丸後
-    - Exam＝排除藥物（血壓CCB、BB、spironolactone、尿酸藥（秋水仙、allopurinol）、精神科藥）、PE（正常大小18ml）、精液分析（正常>1.5ml、>15 million/ml、活動率>40%、正常形態>4%）
+    - 成因＝睪丸前（下視丘-垂體-睪丸軸問題）、睪丸內（染色體：**Klinefelter's disease**（47XXY，小睪丸男性女乳）、**Noonan's、varicocele**）、睪丸後
+    - Exam＝排除藥物（血壓CCB、BB、spironolactone、尿酸藥（秋水仙、allopurinol）、精神科藥）、PE（正常大小**18ml**）、精液分析（**正常>1.5ml、>15 million/ml、活動率>40%、正常形態>4%**）
     - Tx＝underlying dx、Endocrine tx（1st內科治療，用clomiphene/SERM）、手術
   - 低testosterone但想生育：
     - Pitfall＝禁用外源性testosterone（抑制GnRH-LH/FSH⭢睪丸內T下降⭢spermatogenesis變差）
-    - Tx＝SERM（clomiphene）、aromatase inhibitor、hCG刺激內源性T
+    - Tx＝SERM（clomiphene）、aromatase inhibitor、hCG刺激內源性T（模仿LH刺激Leydig cell）
 
 ## 腎上腺（考題16）
 
@@ -369,38 +367,38 @@
     - Zona reticulosa（網狀帶）：Androgen（口訣＝網路宅男）
   - 髓質：Catecholamine（Epinephrine/NE）；過多＝Pheochromocytoma
 - Conn's dx（原發性醛皮質素增多症，治療預後good）：
-  - SS＝高壓低鉀頭痛夜尿
+  - SS＝高壓、低鉀、**頭痛、夜尿**
   - Exam＝aldosterone/renin ratio>30（Aldosterone⭡，Renin⭣），24 hr尿中Aldosterone⭡
-  - Tx＝手術切除（單側）；Spironolactone＋Amiloride for雙側
+  - Tx＝手術切除（單側）；**Spironolactone＋Amiloride** for雙側/無法開刀者
 - Cushing's：
-  - subtype＝Cushing disease（80%，腦垂Adenoma/hyperplasia），Adrenal tumor（20%，<4cm良性Adenoma，>6cm惡性Carcinoma；腎上腺tumor>4cm一概切除），Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH，如小細胞肺癌，常低血鉀/代謝鹼中毒）
-  - SS＝Buffalo hump，Central obesity，皮膚變薄，易瘀青，骨質疏鬆，DM，Hirsutism，Moon face
+  - subtype＝Cushing disease（**80%，腦垂Adenoma/hyperplasia**），Adrenal tumor（20%，<4cm良性Adenoma，>6cm惡性Carcinoma；**腎上腺tumor>4cm一概切除**），Ectopic ACTH syndrome（非垂體腫瘤分泌ACTH，如**小細胞肺癌，常低血鉀/代謝鹼中毒**）
+  - SS＝Buffalo hump、Central obesity、皮膚變薄、易瘀青、骨質疏鬆、DM、Hirsutism、Moon face
   - Exam：
     - Cortisol screen＝24hr尿游離Cortisol⭡；夜間給1mg Dexamethasone但Cortisol⭡
     - Cortisol diag＝Dexamethasone 0.5mg q6h for 2 days仍無抑制可確診
     - ACTH DDx＝<10（Adrenal tumor，ACTH independent，排腹部CT）；>10（腦垂Adenoma/Ectopic adenoma，排腦部MRI）；>200（Small cell lung ca.，排胸部CT）
-  - Tx＝手術切除腫瘤（腦垂/Adrenal tumor，成功率80%）⭢類固醇~3年；Ketoconazole抑制Cortisol合成 for難手術者
+  - Tx＝手術切除腫瘤（腦垂/Adrenal tumor，成功率80%）⭢類固醇長期（直到腎上腺習慣低濃度ACTH）；Ketoconazole抑制Cortisol合成 for難手術者
 - Adrenal insufficiency（腎上腺功能不全）：
-  - Primary（原發性，Addison's disease）：1st，腎上腺本身被破壞（自體免疫攻擊/感染（幼兒綠膿，腦膜炎球菌血症）/出血（成人凝血功能異常）/藥物（Ketoconazole，Rifampin）/遺傳性（21-hydroxylase缺乏））
-    - Primary特異SS＝高血鉀，Hyperpigmentation（ACTH過多刺激melanocyte stimulating hormone）
+  - Primary（原發性，Addison's disease）：1st，腎上腺本身被破壞（自體免疫攻擊/感染（**幼兒綠膿，腦膜炎球菌血症**）/出血（成人凝血功能異常）/藥物（Ketoconazole，Rifampin）/遺傳性（21-hydroxylase缺乏））
+    - Primary特異SS＝高血鉀，**Hyperpigmentation**（ACTH過多刺激melanocyte stimulating hormone）
   - Secondary（次發性）：腦垂體無法製造ACTH（外部壓迫/Glucocorticoid長期使用）
-  - 共同SS＝疲倦，體重減輕，食慾不振，低血壓，低血糖，低血鈉
+  - 共同SS＝疲倦、體重減輕、食慾不振、**低血壓、低血糖、低血鈉**
   - Exam＝注射250ug Cosyntropin（合成ACTH）⭢primary無反應；secondary早期可有反應、久病可能反應差
   - Tx：
     - cortisone
-    - 長效藥物（Dexamethasone，可過BBB）：越長效Glucocorticoid越強，Mineralocorticoid作用越弱
+    - 長效藥物（**Dexamethasone**，可過BBB）：越長效Glucocorticoid越強，Mineralocorticoid作用越弱
     - 副作用：短期脈衝<長期少量投藥；∴急性狼瘡用脈衝
-  - Adrenal crisis（急性腎上腺危象）：感染/手術/外傷/停藥⭢急性Adrenal失能；SS＝休克，發燒，嗜睡；Tx＝IV fluids＋IV hydrocortisone
+  - Adrenal crisis（急性腎上腺危象）：感染/手術/外傷/停藥⭢急性Adrenal失能；SS＝休克、發燒、嗜睡；Tx＝**IV fluids＋IV hydrocortisone**
   - CIRCI（critical illness-related corticosteroid insufficiency，重症相關皮質類固醇不足）：重症病人腎上腺需求上升6~10x，無法應付壓力；SS＝休克；Tx＝IV hydrocortisone
 - Pheochromocytoma（嗜鉻細胞瘤＝adrenal medulla chromaffin cell tumor，常分泌Catecholamine，代謝物＝Metanephrine）
   - cf. Paraganglioma（＝extra-adrenal paraganglia tumor，可分泌Catecholamine）
   - Rule of 10＝腎上腺外10%，雙側侵犯10%，家族性10%，惡性10%
   - SS：5P＝Pressure（高血壓），Pain，Palpitation，Perspiration（多汗），Pallor（血管收縮蒼白）
-  - Exam＝24hr尿Metanephrine⭡（也可Vanillymandelate（VMA）/Catecholamine）；CT/MRI定位；MIBG scan if懷疑長在腎上腺外
-  - Tx（完整切除為目標）＝α-blocker/β-blocker控血壓（先α再β）⭢手術
+  - Exam＝24hr尿**Metanephrine**⭡（也可Vanillymandelate（VMA）/Catecholamine）；CT/MRI定位；**MIBG scan if懷疑長在腎上腺外**
+  - Tx（**完整切除為目標**）＝α-blocker/β-blocker控血壓（先α再β）⭢手術
 - Adrenal incidentaloma（偶發腎上腺腫瘤）：
-  - Exam＝CT/MRI；排除Pheochromocytoma；若有惡性腫瘤hx，CT-guided FNA主要評估轉移（良惡性區分不佳）
-  - Tx＝切除 if 功能性腫瘤/無功能>6cm/惡性特徵（不規則邊界，密度>10HU，增強後washout<50%）
+  - Exam＝CT/MRI；排除Pheochromocytoma；若有惡性腫瘤hx，**CT-guided FNA主要評估轉移**（良惡性區分不佳）
+  - Tx＝切除 if **功能性腫瘤/無功能>6cm/惡性特徵（不規則邊界，密度>10HU，增強後washout<50%退的慢）**
 - Neuroblastoma（神經母細胞瘤）：兒童腎上腺惡性腫瘤，3rd兒童癌症；5成長在腎上腺，7成發現時已轉移，預後差
   - SS＝腹部腫塊，發燒，骨痛
   - Dx＝CT/MRI，24hr尿VMA/HVA⭡
@@ -519,13 +517,13 @@
   - Free flap 受區血管常用 internal mammary vessels（內乳血管）
 - 常考血供：
 
-  | 皮瓣/肌肉 | 血供 | 考點 |
-  | --- | --- | --- |
+  | 皮瓣/肌肉                                           | 血供                                     | 考點                  |
+  | ----------------------------------------------- | -------------------------------------- | ------------------- |
   | Pectoralis major myocutaneous flap（PMMC，胸大肌肌皮瓣） | thoracoacromial artery pectoral branch | 不是 internal mammary |
-  | Submental flap（頦下皮瓣） | submental artery（from facial artery） | 口腔/頭頸缺損可考 |
-  | Supraclavicular flap（鎖骨上皮瓣） | supraclavicular artery | 薄皮瓣，頭頸外側重建 |
-  | Latissimus dorsi（闊背肌） | thoracodorsal artery | Mathes-Nahai type V |
-  | TRAM/DIEP | deep inferior epigastric system | 乳房自體重建 |
+  | Submental flap（頦下皮瓣）                            | submental artery（from facial artery）   | 口腔/頭頸缺損可考           |
+  | Supraclavicular flap（鎖骨上皮瓣）                     | supraclavicular artery                 | 薄皮瓣，頭頸外側重建          |
+  | Latissimus dorsi（闊背肌）                           | thoracodorsal artery                   | Mathes-Nahai type V |
+  | TRAM/DIEP                                       | deep inferior epigastric system        | 乳房自體重建              |
 
 # 骨科（考題48）
 
@@ -550,7 +548,6 @@
     - Tx＝保守、止痛、支架 ± 骨鬆治療。
   - Unstable：middle column 受損（burst fracture、後壁 retropulsion）或 >=2 柱受損。
     - 考試反應＝神經壓迫風險高，常需手術固定。
-
 - Spinal nerve roots（脊神經根）出孔規則：
   - 核心：cervical spine（頸椎）有 8 條 root、7 節 vertebra（椎骨），所以 C8 是例外。
   - C1-C7 root＝從同名椎骨上方出。
@@ -910,24 +907,24 @@
 
 - Tall stature / 高瘦體型骨科快辨：
 
-  | 疾病 | 骨科/外觀提示 | 其他關鍵 |
-  | --- | --- | --- |
-  | Marfan syndrome | 高瘦、長肢、arachnodactyly（蜘蛛指）、關節鬆 | 晶狀體上外脫位、主動脈根部擴張 |
-  | Homocystinuria | Marfanoid habitus（類 Marfan 體型）、高瘦長肢 | 晶狀體下內脫位、血栓、智能障礙 |
-  | Klinefelter syndrome（47,XXY） | 長腿高身材、類無睪丸發育 | 小睪丸、男性女乳、不孕 |
-  | Scheuermann disease | 高瘦青少年＋僵硬胸椎駝背 | 結構性 kyphosis（駝背），不是姿勢性駝背 |
-  | MEN2B（multiple endocrine neoplasia type 2B，多發性內分泌腫瘤第二型B） | Marfanoid habitus | 黏膜神經瘤＋甲狀腺髓質癌＋嗜鉻細胞瘤 |
+  | 疾病                                                       | 骨科/外觀提示                             | 其他關鍵                     |
+  | -------------------------------------------------------- | ----------------------------------- | ------------------------ |
+  | Marfan syndrome                                          | 高瘦、長肢、arachnodactyly（蜘蛛指）、關節鬆       | 晶狀體上外脫位、主動脈根部擴張          |
+  | Homocystinuria                                           | Marfanoid habitus（類 Marfan 體型）、高瘦長肢 | 晶狀體下內脫位、血栓、智能障礙          |
+  | Klinefelter syndrome（47,XXY）                             | 長腿高身材、類無睪丸發育                        | 小睪丸、男性女乳、不孕              |
+  | Scheuermann disease                                      | 高瘦青少年＋僵硬胸椎駝背                        | 結構性 kyphosis（駝背），不是姿勢性駝背 |
+  | MEN2B（multiple endocrine neoplasia type 2B，多發性內分泌腫瘤第二型B） | Marfanoid habitus                   | 黏膜神經瘤＋甲狀腺髓質癌＋嗜鉻細胞瘤       |
 
 - 兒童骨折照護：
   - 單純骨折：多可保守治療。
   - 日常照護：患側先穿衣、後脫衣。
   - 兒童不完全骨折：
 
-    | Type | 特徵 |
-    | --- | --- |
-    | Greenstick fracture（青枝骨折） | 一側 cortex（皮質骨）斷裂，對側 cortex 彎曲 / plastic deformation（塑性變形） |
-    | Torus/Buckle fracture（隆起骨折） | 壓迫造成 cortex 隆起/皺褶，無明顯 cortical break（皮質斷裂） |
-    | Plastic bowing（塑性彎曲） | 骨頭彎曲變形，無明顯 fracture line（骨折線） |
+    | Type                        | 特徵                                                        |
+    | --------------------------- | --------------------------------------------------------- |
+    | Greenstick fracture（青枝骨折）   | 一側 cortex（皮質骨）斷裂，對側 cortex 彎曲 / plastic deformation（塑性變形） |
+    | Torus/Buckle fracture（隆起骨折） | 壓迫造成 cortex 隆起/皺褶，無明顯 cortical break（皮質斷裂）                |
+    | Plastic bowing（塑性彎曲）        | 骨頭彎曲變形，無明顯 fracture line（骨折線）                             |
 
 - 先天脊椎 / 上肢連結異常：
   - Congenital scoliosis（先天性脊椎側彎）：
@@ -941,7 +938,6 @@
   - Congenital radioulnar synostosis（先天性尺橈骨融合）：
     - Pattern：80% 雙側，前臂 pronation deformity（旋前變形）。
     - Tx＝觀察；嚴重者五歲前開刀。
-
 - Slipped capital femoral epiphysis（SCFE，股骨頭骨骺滑脫症）：
   - Pattern：肥胖男孩、mainly 左側；股骨頭骨骺後下位移＋external rotation（外旋）。
   - SS：髖部/膝部疼痛、髖內轉受限（無法翹腳）、跛行；雙側 20-40%。
@@ -963,8 +959,8 @@
     - X-ray：>6 m，已骨化。
   - Tx：
     - <6 m＝Pavlik harness（吊帶）。
-    - >6 m＝reduction（復位）。
-    - >2 y/o＝osteotomy（截骨術）。
+    - > 6 m＝reduction（復位）。
+    - > 2 y/o＝osteotomy（截骨術）。
 - Legg-Calve-Perthes disease（股骨頭缺血壞死）：
   - Pattern：4-10 歲男孩，股骨頭 epiphysis（骨骺）不明原因壞死。
   - RF＝低社經、二手菸男孩、Protein S/C deficiency（Protein S/C 缺乏）。
