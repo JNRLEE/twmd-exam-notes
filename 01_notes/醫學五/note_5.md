@@ -435,13 +435,13 @@
   - 低風險部位：
     - 臉部、頭皮、軀幹、近端肢體
     - 原因＝血循較豐富
-- 病原與抗生素：
+- 病原與抗生素（都是Augmentin）：
   - 貓咬：
     - 常見病原＝Pasteurella multocida（感染快、深部穿刺）
-    - 首選抗生素＝amoxicillin-clavulanate（Augmentin）
+    - 首選抗生素＝amoxicillin-clavulanate（**Augmentin**）
   - 狗咬：
     - 常見病原＝Pasteurella、Capnocytophaga（脾切/酒癮者怕敗血症）
-    - 首選抗生素＝amoxicillin-clavulanate（Augmentin）
+    - 首選抗生素＝amoxicillin-clavulanate（**Augmentin**）
   - 人咬：
     - 常見病原＝Streptococcus（鏈球菌）、Staphylococcus（葡萄球菌）、Eikenella、厭氧菌
     - 首選抗生素＝amoxicillin-clavulanate（Augmentin）
@@ -460,7 +460,7 @@
   - Tx：抗生素 ± percutaneous drainage（經皮引流）
 - Colon/rectum（結直腸手術）：
   - if 污染重/低灌流/休克/吻合張力大 ⭢ 避免 primary anastomosis（一次吻合）
-  - Bail-out：diverting stoma（近端轉流造口）or Hartmann procedure（Hartmann 手術：遠端封閉＋近端造口）
+  - Bail-out：diverting stoma（近端轉流造口）or **Hartmann procedure**（Hartmann 手術：遠端封閉＋近端造口）
 - Abdominal trauma/sepsis（腹部外傷/敗血症）：
   - if 不穩＋coagulopathy（凝血異常）/acidosis（酸中毒）/hypothermia（低體溫） ⭢ damage control surgery（損害控制手術）
   - Tx：packing（填塞止血）/暫時關腹＋ICU（intensive care unit，加護病房）復甦後 planned reoperation（計畫性再手術）
@@ -476,8 +476,8 @@
   - Colectomy：短期恢復佳；oncologic outcome（腫瘤結果）可相近
 - Robot（機器手臂）真正強項：
   - Radical prostatectomy（根除性攝護腺切除）⭢ 失血/輸血少、住院短
-  - Partial nephrectomy（部分腎切除）⭢ 深部縫合/renorrhaphy（腎臟縫合）較順；保腎手術較好做；失血/住院少
-  - Deep pelvic surgery（深骨盆手術）⭢ 狹窄骨盆內 3D 視野＋wristed instruments（腕式器械）利於縫合/剝離
+  - Partial nephrectomy（部分腎切除）⭢ 深部縫合/renorrhaphy（腎臟縫合）較順；**保腎手術較好做**；失血/住院少
+  - Deep pelvic surgery（深骨盆手術）⭢ 狹窄骨盆內 3D 視野＋**wristed instruments（腕式器械）利於縫合/剝離**
 - Robot 沒明顯贏 lap：
   - 常見：appendectomy/cholecystectomy/hernia repair（疝氣修補）/多數一般外科
   - Pitfall：outcome（結果）相近但 cost（成本）高、OR time（operating room time，手術室時間）長
@@ -491,7 +491,7 @@
   - 未穿孔闌尾炎切除後 ⭢ 不用延長
   - 未穿孔腸壞死切除後 ⭢ ≤24 hr
   - 穿孔/複雜腹內感染，source control 足夠 ⭢ 約 4 天
-  - 腹內感染合併敗血症/休克 ⭢ 約 7-10 天
+  - **腹內感染合併敗血症/休克 ⭢ 約 7-10 天**
 
 ## 整形外科重建（考題3）
 
@@ -506,26 +506,72 @@
     - 原則＝bone before nerve；先穩定骨架，再做精細血管/神經吻合，避免復位牽拉撕裂吻合處
 - Skin graft vs flap：
   - Skin graft：無自帶血流，靠受床存活
-    - Split-thickness skin graft（STSG，部分皮層皮膚移植）：較易存活，donor 可再生；缺點＝secondary contraction（次發攣縮）與色差較多
-    - Full-thickness skin graft（FTSG，全層皮膚移植）：外觀較好、收縮少；缺點＝需血流好，donor 需縫合
+    - Split-thickness skin graft（STSG，部分皮層皮膚移植）：**較易存活**，donor 可再生；缺點＝**secondary contraction**（次發攣縮）與色差較多
+    - Full-thickness skin graft（FTSG，全層皮膚移植）：外觀較好、收縮少；缺點＝**需血流好，donor 需縫合**
   - Flap：自帶血流
-    - Local/regional flap：保留 pedicle（血管蒂）
-    - Free flap：需 microvascular anastomosis（顯微血管吻合）
+    - Local/regional flap：保留 **pedicle**（血管蒂）
+    - Free flap：需 **microvascular anastomosis**（顯微血管吻合）
     - Random flap：靠皮下血管叢；axial flap：有明確血管
 - Breast reconstruction（乳房重建）：
   - Autologous reconstruction（自體組織重建）：Deep inferior epigastric perforator flap（DIEP）/transverse rectus abdominis myocutaneous flap（TRAM）較自然但手術大
   - Free flap 受區血管常用 internal mammary vessels（內乳血管）
 - 常考血供：
 
-  | 皮瓣/肌肉                                           | 血供                                     | 考點                  |
-  | ----------------------------------------------- | -------------------------------------- | ------------------- |
-  | Pectoralis major myocutaneous flap（PMMC，胸大肌肌皮瓣） | thoracoacromial artery pectoral branch | 不是 internal mammary |
-  | Submental flap（頦下皮瓣）                            | submental artery（from facial artery）   | 口腔/頭頸缺損可考           |
-  | Supraclavicular flap（鎖骨上皮瓣）                     | supraclavicular artery                 | 薄皮瓣，頭頸外側重建          |
-  | Latissimus dorsi（闊背肌）                           | thoracodorsal artery                   | Mathes-Nahai type V |
-  | TRAM/DIEP                                       | deep inferior epigastric system        | 乳房自體重建              |
+  | 皮瓣/肌肉                                           | 血供                                         | 考點                      |
+  | ----------------------------------------------- | ------------------------------------------ | ----------------------- |
+  | Pectoralis major myocutaneous flap（PMMC，胸大肌肌皮瓣） | **thoracoacromial artery pectoral branch** | 不是 internal mammary     |
+  | Submental flap（頦下皮瓣）                            | submental artery（from facial artery）       | 口腔/頭頸缺損可考               |
+  | Supraclavicular flap（鎖骨上皮瓣）                     | supraclavicular artery                     | 薄皮瓣，頭頸外側重建              |
+  | Latissimus dorsi（闊背肌）                           | thoracodorsal artery                       | Mathes-Nahai **type V** |
+  | TRAM/DIEP                                       | **deep inferior epigastric system**        | 乳房自體重建                  |
 
 # 骨科（考題48）
+
+## 骨科 Test / Sign 概論（考前快查）（考題0）
+
+- 原則：test/sign 先定位，最後多靠 X-ray/MRI/CT 確認；創傷先看神經血管（pulse、5P、hard signs）再看局部關節。
+- 脊椎：
+  - Jefferson fracture：open-mouth view/CT 看 C1 lateral mass 外移；transverse atlantal ligament（橫韌帶）斷＝不穩。
+- 足踝：
+  - Ottawa ankle rules：malleolar/midfoot zone 骨壓痛或無法負重走 4 步才照 X-ray。
+  - Mondor sign：足底血腫延伸，支持 calcaneus fracture（跟骨骨折）。
+  - Bohler's angle：<20 度支持 calcaneus fracture。
+  - Thompson test：壓腓腸肌無 plantar flexion（蹠屈）＝Achilles tendon rupture（阿基里斯肌腱斷裂）。
+- 膝：
+  - Lachman test：膝 30 度前拉，ACL（anterior cruciate ligament，前十字韌帶）最敏感。
+  - Posterior drawer test：膝 90 度後推，PCL（posterior cruciate ligament，後十字韌帶）最敏感。
+  - McMurray test：膝髖屈曲再伸直誘發卡痛＝meniscus injury（半月板損傷）。
+- 創傷/血管：
+  - Vascular hard signs：pulsatile bleeding、expanding hematoma、pulse deficit/ischemia（5P）、bruit/thrill；有就先血管手術評估。
+  - ABI（ankle-brachial index，踝肱指數）：<0.8 懷疑下肢血管阻塞。
+  - Compartment syndrome 5P：pain out of proportion、pallor、paresthesia、paralysis、pulselessness；壓力>30 或 delta pressure<30 要 fasciotomy。
+- 髖/骨盆：
+  - ONFH（osteonecrosis of femoral head，股骨頭缺血性壞死）：X-ray crescent sign；MRI T1 serpentine low signal band、T2 double line sign。
+  - FAIR test：hip flexion＋adduction＋internal rotation 誘發臀痛/坐骨痛＝piriformis syndrome（梨狀肌症候群）。
+- 肩肘上肢：
+  - AC joint injury：AP X-ray 見 coracoid 到 clavicle 距離增加＝CC ligament 受拉/斷裂。
+  - Shoulder posterior dislocation：light bulb sign（肱骨頭內旋像燈泡）。
+  - Rotator cuff tear：Drop arm test（抬手 30-90 度無力/掉落）。
+  - Supracondylar fracture：fat pad sign（前 sail sign、後脂肪墊可見）提示 occult fracture。
+  - Distal radius fracture：silver-fork deformity（餐叉變形）。
+- 手部：
+  - CTS（carpal tunnel syndrome，腕隧道症候群）：Durkan's test 最準；Tinel's sign、Phalen's test 也可考。
+  - Scaphoid fracture：FOOSH 後 anatomic snuff box 壓痛；初期 X-ray 可正常，先 thumb spica 副木固定追蹤。
+  - de Quervain disease：Finkelstein test（拇指握拳內＋ulnar deviation 誘發疼痛）。
+  - Mallet finger：DIP 下垂不能伸；Boutonniere deformity：PIP 彎曲＋DIP 過伸。
+- 骨腫瘤影像 sign：
+  - Osteoid osteoma：night pain＋sclerotic bone 包住 nidus。
+  - Fibrous dysplasia：**ground-glass、shepherd's crook deformity。**
+  - Osteosarcoma：sunburst pattern、Codman triangle。
+  - Chondrosarcoma：endosteal scalloping。
+  - Giant cell tumor：epiphysis soap-bubble。
+  - Ewing sarcoma：onion-skin/onion-like、moth-eaten。
+  - Unicameral bone cyst：fallen fragment sign。
+  - Aneurysmal bone cyst：bubble appearance、fluid level。
+- 小兒骨科：
+  - DDH（developmental dysplasia of hip，發展性髖關節發育不良）：Ortolani＝外展看可否復位；Barlow＝測可否推出髖臼；Galeazzi＝患側膝低。
+  - Legg-Calve-Perthes disease：Trendelenburg gait；X-ray 用 Waldenstrom/Herring lateral pillar classification，MRI 看 femoral head 缺血。
+  - Osteoporosis：DEXA T-score 正常 > -1、osteopenia -1~-2.5、osteoporosis < -2.5。
 
 ## 脊椎與神經根（考題7）
 
@@ -533,20 +579,20 @@
   - 考試定位：先分 C1 / C2，再看機轉與是否不穩。
   - Exam：X-ray / CT（computed tomography，電腦斷層）定位；Jefferson fracture 特別看 open-mouth view / CT 與 transverse atlantal ligament（橫韌帶）。
 
-| Fracture           | 位置 / 本質                                                                    | 常見機轉                                             | 影像與穩定性考點                                                                       | 考題一句話                                      |
-| ------------------ | -------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------ |
-| Jefferson fracture | C1 atlas burst fracture，前後弓/環狀結構破裂                                         | Axial loading（跳水、頭頂受力）                           | C1 lateral mass向外分開；重點看transverse atlantal ligament是否斷，斷了就不穩                   | C1爆裂＝Jefferson；因環往外爆，單純型較少神經缺損             |
-| Odontoid fracture  | C2 dens（齒突）骨折                                                              | 老人跌倒低能量或年輕高能量；flexion/extension都可                | Anderson-D'Alonzo：Type I尖端較穩；Type II齒突基底最常見且nonunion風險高；Type III延伸進C2 body較易癒合 | C2齒突＝Odontoid；考Type II不癒合                  |
-| Hangman fracture   | C2 pars interarticularis / pedicle雙側骨折，traumatic spondylolisthesis of axis | Hyperextension + axial load/distraction，車禍/吊刑型機轉 | C2相對C3前移；看C2-3 disc/ligament injury與位移角度，穩定型多可外固定                              | C2 pars斷＋C2 on C3＝Hangman；神經缺損也常不明顯，因椎管被拉寬 |
+| Fracture           | 位置 / 本質                                                                    | 常見機轉                                             | 影像與穩定性考點                                                                       | 考題一句話                                              |
+| ------------------ | -------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------ | -------------------------------------------------- |
+| Jefferson fracture | C1 atlas burst fracture，前後弓/環狀結構破裂                                         | Axial loading（跳水、頭頂受力）                           | C1 lateral mass向外分開；重點看**transverse atlantal ligament**是否斷，斷了就不穩               | C1爆裂＝Jefferson；因環往外爆，單純型**較少神經缺損**                 |
+| Odontoid fracture  | C2 dens（齒突）骨折                                                              | 老人跌倒低能量或年輕高能量；flexion/extension都可                | Anderson-D'Alonzo：Type I尖端較穩；Type II齒突基底最常見且nonunion風險高；Type III延伸進C2 body較易癒合 | C2齒突＝Odontoid；考**Type II不癒合**                      |
+| Hangman fracture   | C2 pars interarticularis / pedicle雙側骨折，traumatic spondylolisthesis of axis | Hyperextension + axial load/distraction，車禍/吊刑型機轉 | C2相對C3前移；看C2-3 disc/ligament injury與位移角度，穩定型多可外固定                              | **C2 pars**斷＋C2 on C3＝Hangman；**神經缺損也常不明顯，因椎管被拉寬** |
 
 - Denis three-column theory（三柱理論；胸腰椎骨折穩定性）：
   - Anterior column（前柱）＝anterior longitudinal ligament（ALL，前縱韌帶）＋椎體/椎間盤前半。
-  - Middle column（中柱）＝椎體/椎間盤後半＋posterior longitudinal ligament（PLL，後縱韌帶）。
-    - 考點：middle column 最關鍵；受損時要想 unstable。
+  - Middle column（中柱）＝椎體/椎間盤後半＋**posterior longitudinal ligament（PLL**，後縱韌帶）。
+    - 考點：**middle column 最關鍵；受損時要想 unstable**。
   - Posterior column（後柱）＝椎弓＋facet joint（小面關節）＋後方韌帶群。
   - Stable：單純骨鬆 wedge compression fracture（楔形壓迫性骨折）多只傷前柱。
-    - Tx＝保守、止痛、支架 ± 骨鬆治療。
-  - Unstable：middle column 受損（burst fracture、後壁 retropulsion）或 >=2 柱受損。
+    - Tx＝**保守、止痛、支架 ± 骨鬆治療**。
+  - Unstable：middle column 受損（**burst fracture、後壁 retropulsion**）或 >=2 柱受損。
     - 考試反應＝神經壓迫風險高，常需手術固定。
 - Spinal nerve roots（脊神經根）出孔規則：
   - 核心：cervical spine（頸椎）有 8 條 root、7 節 vertebra（椎骨），所以 C8 是例外。
@@ -600,15 +646,15 @@
   - RF＝1st單踝骨折；車禍、老人
   - Ligament：
     - ATFL（anterior talofibular ligament，前距腓韌帶）：防止talus前滑脫；最常斷，常見機轉＝supination-external rotation/內翻
-    - PTFL（posterior talofibular ligament，後距腓韌帶）：最壯
+    - PTFL（posterior talofibular ligament，後距腓韌帶）：**最壯**
     - CFL（calcaneofibular ligament，跟腓韌帶）：防止內翻
   - Exam＝X-ray；Ottawa ankle rules（踝足照 X 光規則）：malleolar/midfoot zone骨壓痛或無法負重走4步才照
-  - Tx＝先上石膏；骨折位移>3 mm才手術
+  - Tx＝先上石膏；**骨折位移>3 mm**才手術
 - Calcaneus fracture（跟骨骨折）：
-  - RF/MOA＝高處跌落、車禍；常合併subtalar joint（距下關節）關節內骨折，尤其talar-calcaneus posterior facet（距跟後關節面）
-  - SS＝高處跌落史、無法負重、Mondor sign（hematoma延伸到腳底）
-  - Exam＝X-ray量Bohler's angle（<20度支持fracture）
-  - Tx＝open reduction and internal fixation（ORIF，開放復位內固定；合併其他骨折）；固定（if只有跟骨）
+  - RF/MOA＝高處跌落、車禍；常**合併subtalar joint（距下關節）關節內骨折**，尤其talar-calcaneus posterior facet（距跟後關節面）
+  - SS＝高處跌落史、無法負重、**Mondor sign（hematoma延伸到腳底）**
+  - Exam＝X-ray量**Bohler's angle**（<20度支持fracture）
+  - Tx＝open reduction and internal fixation（ORIF，開放復位內固定；合併其他骨折）；**固定（if只有跟骨）**
 - 阿基里斯肌腱撕裂傷：
   - RF＝運動男
   - SS＝小腿/腳踝腫，小腿跟骨交界凹陷
@@ -630,18 +676,18 @@
   - SS＝下樓不舒服
   - Exam＝posterior drawer test最敏感：膝90度，垂直後推疼痛
   - Tx：
-    - 手術重建＝合併ACL、膝關節不穩定、bony avulsion（骨性撕脫）
+    - 手術重建＝合併ACL、膝關節不穩定、**bony avulsion（骨性撕脫）**
     - 保守治療＝單純PCL斷且膝關節穩定
 - 半月板 injury：
-  - 特性＝Type I collagen；形狀口訣：內大C、外小O
+  - 特性＝**Type I collagen**；形狀口訣：內大C、外小O
   - RF/MOA＝中年男性、扭轉、蹲踞受傷
   - 常考＝內半月板較常見，vertical tear
   - SS＝腫脹、locking感
-  - Exam＝McMurray test（膝髖屈曲再伸直）
+  - Exam＝**McMurray test**（膝髖屈曲再伸直）
   - Tx＝部分切除、修補、transplant；避免全切除
 - Osteochondritis dissecans（OCD，分離性骨軟骨炎）：
-  - RF＝青少年/年輕人；常見膝、踝、肘
-  - SS＝軟骨下骨病灶不穩定⭢loose body（關節內游離體）/locking
+  - RF＝青少年/年輕人；常見膝、踝、肘（內側股骨踝為主）
+  - SS＝**軟骨下骨病灶不穩定⭢loose body（關節內游離體）/locking**
   - Exam＝MRI
   - Pitfall＝不是老人股骨頭avascular necrosis（AVN，缺血性壞死）
 
@@ -652,38 +698,38 @@
     - 封閉式＝皮膚肌肉完整，不見骨
     - 開放式＝皮膚肌肉破裂，骨頭外露
   - 固定（讓斷骨兩端接合）：
-    - 外固定＝固定器沒碰骨頭，e.g. 石膏
+    - **外固定＝固定器沒碰骨頭，e.g. 石膏**
     - 內固定＝釘在骨頭上
 - 開放性骨折：
   - 定義＝骨頭外露
-  - 常見感染＝Staphylococcus aureus（金黃色葡萄球菌）
-  - Gustilo-Anderson classification：
+  - 常見感染＝**Staphylococcus aureus**（金黃色葡萄球菌）
+  - **Gustilo-Anderson classification**：
     - I＝傷口<1 cm
     - II＝傷口1-10 cm
     - III＝傷口>10 cm or dirty；IIIA軟組織可覆蓋骨頭，IIIB無法覆蓋，IIIC合併神經血管受損
   - Tx＝清洗/留culture ⭢ 外固定（有感染）⭢ secondary closure＋內固定（感染解決後）
 - Penetrating extremity trauma（穿刺性四肢傷）：
   - Exam first＝先看vascular injury hard signs（血管損傷硬徵象）
-    - pulsatile/active bleeding
-    - expanding hematoma
+    - **pulsatile/active bleeding**
+    - **expanding hematoma**
     - pulse deficit/ischemia（5P）
-    - bruit/thrill（提示AV fistula動靜脈瘻或pseudoaneurysm假性動脈瘤）
+    - **bruit/thrill（提示AV fistula動靜脈瘻或pseudoaneurysm假性動脈瘤）**
   - Tx/Flow＝有hard sign⭢vascular surgery/手術評估；無hard sign再做ABI（ankle-brachial index，踝肱指數）/CTA（computed tomography angiography，電腦斷層血管攝影）
   - Pitfall＝噴血先direct pressure/止血帶，不盲夾血管
 - Femoral shaft fracture（股骨幹骨折）：
   - RF＝雙峰；年輕車禍，年老摔倒
-  - Exam＝ABI<0.8懷疑下肢血管阻塞
-  - Tx＝survey頭胸腹（股骨不易斷）⭢穩定vital signs⭢ intramedullary fixation（IM fix，骨髓內固定）；有開放性骨折要等感染控制後再做
+  - Exam＝**ABI<0.8**懷疑下肢血管阻塞
+  - Tx＝survey頭胸腹（股骨不易斷）⭢穩定vital signs⭢** intramedullary fixation（IM fix，骨髓內固定）**；有開放性骨折要等感染控制後再做
   - 併發症＝infection（INF，感染）、長短腳、malrotation（旋轉不良）、malunion（癒合不良）
 - Tibial-fibular fracture（脛腓骨骨折）：
   - 特性＝常見骨折，常見車禍；脛骨承重、腓骨相對非承重，不嚴重可觀察
   - 併發症/nerve：
     - tibial head fracture＝common fibular nerve（腓總神經）受傷
-    - tibial shaft fracture＝deep peroneal nerve（深腓神經）受傷；common fibular nerve繞過tibial外側再分出
+    - tibial shaft fracture＝deep peroneal nerve（深腓神經）受傷；common fibular nerve繞過tibial**外側**再分出
   - Tx＝observe（if 沒有傷及神經/血管/關節）；開刀（if 神經/血管/關節受傷）
 - Acute compartment syndrome（急性腔室症候群）：
   - SS＝5P：pain（受傷與疼痛不成比例）、pallor、paresthesia（麻木）、paralysis、pulselessness
-  - Tx＝移除外部壓迫＋筋膜切開；門檻＝腔室壓>30 mmHg或delta pressure<30 mmHg；必要時清創壞死肌肉
+  - Tx＝移除外部壓迫＋筋膜切開；**門檻＝腔室壓>30 mmHg**或delta pressure<30 mmHg；必要時清創壞死肌肉
 
 ## 骨盆與髖部（考題3）
 
@@ -691,39 +737,39 @@
   - 上到下＝pelvis ⭢ femoral head ⭢ femoral neck ⭢ intertrochanteric region
   - Classification多，考試先抓「位置＋穩定性＋血流/癒合」
 - Osteonecrosis of femoral head（ONFH，股骨頭缺血性壞死）：
-  - RF＝年輕亞裔；8成雙側侵犯
+  - RF＝年輕亞裔；**8成雙側侵犯**
   - Cause＝外傷（骨折）；非外傷（類固醇、酒精、systemic lupus erythematosus, SLE、感染）
   - SS＝前髖部痛，爬樓梯加重
   - Stage＝FICAT stage
   - Exam＝X-ray（crescent sign）；MRI（T1 serpentine low signal band、T2 double line sign）
-  - Tx＝保守治療（早期，NSAIDs, non-steroidal anti-inflammatory drugs止痛）；外科（FICAT III以上要人工關節）
+  - Tx＝保守治療（早期，NSAIDs止痛）；外科（**FICAT III（crescent sign/head collapse）以上要人工關節**）
 - Arthroplasty infection prevention（人工關節感染預防）：
-  - Antibiotics＝依菌相/RF選擇，常用cefazolin
+  - Antibiotics＝依菌相/RF選擇，常用**cefazolin**
   - Timing＝切皮前60 min內給藥；vancomycin因輸注時間可在120 min內開始；術後通常24 hr內停
-  - Pitfall＝vancomycin/clindamycin不是routine人人用；MRSA（methicillin-resistant Staphylococcus aureus，抗藥性金黃色葡萄球菌）高風險或beta-lactam allergy才考慮
+  - Pitfall＝vancomycin/clindamycin不是routine人人用；MRSA（methicillin-resistant Staphylococcus aureus，抗藥性金黃色葡萄球菌）高風險或**beta-lactam allergy**才考慮
 - Piriformis syndrome（梨狀肌症候群）：
   - MOA＝梨狀肌緊繃/肥厚壓迫坐骨神經
-  - SS＝臀部深層痛，久坐/姿勢誘發，局部壓痛，可有坐骨神經痛
+  - SS＝臀部深層痛，久坐/姿勢誘發，局部壓痛，可有**坐骨神經痛**
   - Exam＝FAIR test（hip flexion屈曲＋adduction內收＋internal rotation內旋）誘發臀痛/坐骨痛
   - Pitfall＝髖關節術後也避免FAIR姿勢
-- Femoral neck fracture（股骨頸骨折；femoral head到intertrochanteric line）：
+- Femoral neck fracture（股骨頸骨折；femoral head到intertrochanteric line；內固定直接上）：
   - RF＝老人
-  - SS/Complication＝medial circumflex femoral artery（內側旋股動脈）受損＋血腫；此處無periosteum包覆，難癒合
+  - SS/Complication＝medial circumflex femoral artery（內側旋股動脈）受損＋血腫；此處**無periosteum包覆**，難癒合
   - Garden classification：
     - I＝不完全骨折，無移位
-    - II＝完全骨折，無移位；I-II內固定預後佳
+    - II＝完全骨折，無移位；I-II內固定即可，預後佳
     - III＝部分移位
     - IV＝完全移位
   - Tx＝內固定（I、II、<60 y/o的III/IV）；半人工髖關節置換（>60 y/o的III/IV）
 - Intertrochanteric fracture（轉子間骨折；大轉子與小轉子之間）：
-  - 特性＝intertrochanteric line以下；cancellous bone＋metaphysis血流佳＋有periosteum，所以癒合力好、罕見AVN
+  - 特性＝intertrochanteric line以下；**cancellous bone＋metaphysis**血流佳＋有periosteum，所以癒合力好、罕見AVN
   - Evans classification＝stable（posteromedial cortex完整）/unstable
-  - Tx＝內固定（stable）；IM fix（unstable）
+  - Tx＝**內固定（stable）**；IM fix（unstable）
 - Pelvic fracture（骨盆骨折）：
   - 特性＝高能量創傷；併發症多（出血、泌尿生殖道損傷、神經損傷）；高死亡率（多併發者>50%）
   - AO Universal Classification：
     - A＝stable
-    - B＝rotationally unstable；B1 open book（正面撞擊⭢翻書打開狀），B2 lateral compression injury（1st骨盆骨折）
+    - B＝rotationally unstable；**B1 open book**（正面撞擊⭢翻書打開狀），**B2 lateral compression injury（1st骨盆骨折）**
     - C＝rotationally＋vertically unstable
   - Tx＝observe；手術（嚴重B、所有C）
   - 併發症＝nonunion、malunion、慢性arthritis、排尿異常
@@ -732,96 +778,95 @@
 
 - Acromioclavicular（AC，肩鎖）joint injury：
   - RF/機轉＝男運動員、肩峰直接著地撞擊
-  - Anatomy＝AC ligament管水平穩定；coracoclavicular（CC，喙鎖）ligament管垂直穩定；coracoacromial ligament為鄰近支撐
+  - Anatomy＝**AC ligament管水平穩定**；coracoclavicular（CC，喙鎖）ligament管垂直穩定；coracoacromial ligament為鄰近支撐
   - Exam＝AP Xray；coracoid上端到clavicle下端距離增加，提示CC ligament受拉/斷裂
   - Rockwood classification：
     - Type I＝AC sprain
     - Type II＝AC torn + CC sprain
-    - Type III＝AC + CC torn；多先sling、冰敷、止痛
-    - Type IV-VI＝關節明顯錯位（posterior/superior/inferior）；Tx＝open reduction（開放式復位）± fixation
+    - **Type III＝AC + CC torn**；多先sling、冰敷、止痛
+    - **Type IV-VI＝關節明顯錯位**（後/上/下；嚴重錯位中沒有前錯位）；Tx＝open reduction（開放式復位）± fixation
   - 圖：![Right shoulder AC ligaments](../assets/right_shoulder_ac_ligaments.jpg)
   - 圖源：Koachinyung / Wikimedia Commons，CC BY-SA 3.0 or GFDL
 - Shoulder dislocation（肩關節脫位）與 rotator cuff（旋轉肌袖）：
   - Shoulder dislocation：
-    - Exam point＝1st常見關節脫位；約9成 anterior dislocation，先檢查axillary nerve（腋神經）與血管
+    - Exam point＝**1st常見關節脫位**；約9成 anterior dislocation，先檢查**axillary nerve**（腋神經）與血管
     - Anatomy＝glenohumeral ligaments（肩盂肱骨韌帶）構成capsule；rotator cuff＝SItS（Supraspinatus棘上肌、Infraspinatus棘下肌、teres minor小圓肌、Subscapularis肩胛下肌）
-    - Pitfall＝年輕人常合併Bankart lesion（前下關節唇撕裂，復發率高）；老人常合併rotator cuff tear
-    - Exam＝AP/Y view Xray確認humeral head是否在glenoid fossa；posterior dislocation可見light bulb sign（肱骨頭內旋像燈泡）
-    - Tx＝closed reduction（閉鎖復位）為主；年輕復發/Bankart、合併骨折或軟組織嚴重受傷才偏手術
+    - Pitfall＝年輕人常合併**Bankart lesion**（**前下關節唇撕裂**，復發率高）；老人常合併rotator cuff tear
+    - Exam＝AP/Y view Xray確認humeral head是否在glenoid fossa；**posterior dislocation可見light bulb **sign（肱骨頭內旋像燈泡）
+    - **Tx＝closed reduction（閉鎖復位）**為主；年輕復發/Bankart、合併骨折或軟組織嚴重受傷才偏手術
   - Rotator cuff injury：
     - Main＝Supraspinatus棘上肌最常受傷
-    - Exam＝Drop arm test（抬手約30-90度無力/掉落）、Xray排除骨性病灶，必要時ultrasound/MRI/arthrography
-    - Tx＝先保守復健止痛；持續無力、年輕外傷性全層撕裂或保守失敗才修補（arthroscopic優先，必要時open）
+    - Exam＝**Drop arm test**（抬手約30-90度無力/掉落）、Xray排除骨性病灶，必要時ultrasound/MRI/arthrography
+    - Tx＝先保守復健止痛；持續無力、年輕外傷性全層撕裂或保守失敗才修補（**arthroscopic優先**，必要時open）
 - Proximal humerus fracture（近端肱骨骨折）：
   - Neer parts＝head、shaft、greater tuberosity（大結節）、lesser tuberosity（小結節）
   - Displaced part＝位移>1 cm或角度>45度
   - Tx：
-    - 年輕＋可重建四部分骨折＝open reduction and internal fixation（ORIF，開放復位內固定），盡量保留humeral head
-    - 高齡、粉碎不可重建、avascular necrosis（AVN，缺血性壞死）高風險＝hemiarthroplasty或reverse shoulder arthroplasty
+    - **年輕＋可重建四部分骨折＝open reduction and internal fixation（ORIF，開放復位內固定），盡量保留humeral head**
+    - 高齡、粉碎不可重建、avascular necrosis（AVN，缺血性壞死）高風險＝**hemiarthroplasty半關節置換或reverse shoulder arthroplasty（關節球轉位，讓三角肌來負責關節）**
 - Brachial plexus（臂神經叢）到上肢周邊神經快辨：
-  - Median nerve（正中神經）：橈側三指半感覺、拇指對掌/外展、前臂屈肌與pronator teres/quadratus；Dx＝carpal tunnel syndrome（腕隧道症候群）
+  - Median nerve（正中神經）：橈側三指半感覺、拇指對掌/外展、前臂屈肌與前旋**pronator teres/quadratus**；Dx＝carpal tunnel syndrome（腕隧道症候群）
   - Ulnar nerve（尺神經）：尺側一指半到兩指感覺、手內在肌精細動作、前臂尺側屈肌；Dx＝claw hand、cubital tunnel syndrome（肘隧道症候群）
-  - Radial nerve（橈神經）：手腕/手指伸肌、肱三頭肌、橈背近端感覺；Dx＝wrist drop（垂腕）、posterior interosseous nerve（PIN，後骨間神經）壓迫
-- Supracondylar humerus fracture（肱骨髁上骨折）：
-  - Exam point＝兒童最常見肘部骨折之一，最怕neurovascular injury（神經血管傷）
-  - Mechanism＝extension type最多（約95%），fall on outstretched hand（FOOSH，伸手撐地）後distal fragment往後移，近端斷端往前頂到brachial artery（肱動脈）/median nerve（正中神經）
+  - Radial nerve（橈神經）：手腕/手指伸肌、肱三頭肌、橈背近端感覺；Dx＝wrist drop（垂腕）、**posterior interosseous nerve（PIN，後骨間神經）**壓迫
+- Supracondylar humerus fracture（肱骨髁上骨折；內固定很後線）：
+  - Exam point＝**兒童最常見肘部骨折之一**，最怕neurovascular injury（神經血管傷）
+  - Mechanism＝**extension type最多（約95%）**，fall on outstretched hand（FOOSH，伸手撐地）後distal fragment往後移，**近端斷端往前頂到brachial artery（肱動脈）/median nerve（正中神經）**
   - Gartland classification / Tx：
     - Type I＝無位移；Tx＝sling/cast固定
     - Type II＝後方骨膜仍部分連續；Tx＝closed reduction（閉鎖復位）± percutaneous pinning（經皮鋼針固定）
-    - Type III＝完全位移；Tx＝closed reduction + pinning，若血管受壓、開放傷或復位失敗才open reduction
-  - Complications＝brachial artery injury、median nerve/anterior interosseous nerve（AIN，前骨間神經）injury、Volkmann contracture
-  - 圖：![Extension-type supracondylar fracture](../assets/supracondylar_fx_extension.svg)
-  - 圖源：self-made schematic
-  - Xray＝fat pad sign（前脂肪墊sail sign、後脂肪墊可見）提示occult fracture（隱性骨折）；無位移骨折初始可不明顯，約1週後骨吸收/骨膜反應較清楚；骨釘旁lucency考慮鬆動/感染
+    - **Type III＝完全位移；Tx＝closed reduction + pinning，若血管受壓、開放傷或復位失敗才open reduction**
+  - Complications＝brachial artery injury、median nerve/anterior interosseous nerve（AIN，前骨間神經）injury、Volkmann contracture（supracondylar fracture 後，前臂缺血造成屈肌攣縮）
+  - Xray＝fat pad sign（前脂肪墊**sail sign**、後脂肪墊可見）提示occult fracture（隱性骨折）；無位移骨折初始可不明顯，約1週後**骨吸收（變淡）/骨膜反應（變白）較清楚**；骨釘旁lucency考慮鬆動/感染（變淡）
 - Epicondylitis（肱骨上髁炎）：
   - Lateral epicondylitis＝網球肘；extensor carpi radialis brevis（ECRB，橈側伸腕短肌）肌腱發炎，resisted wrist extension會痛
   - Medial epicondylitis＝高爾夫球肘；flexor-pronator tendon發炎，resisted wrist flexion/pronation會痛
-- Elbow dislocation（肘關節脫位）：
-  - Exam point＝2nd常見脫位（cf. shoulder）；多為posterior/posterolateral，anterior少見
-  - Simple dislocation＝無骨折；closed reduction後多穩定，慢性再脫臼少
-  - Tx＝復位後穩定則短期固定＋早期range of motion（ROM，關節活動度）訓練，避免固定2個月造成僵硬
+- Elbow dislocation（肘關節脫位；外固定很有效）：
+  - Exam point＝**2nd常見脫位**（cf. shoulder）；多為posterior/posterolateral，anterior少見
+  - Simple dislocation＝無骨折；**closed reduction後多穩定**，慢性再脫臼少
+  - Tx＝復位後穩定則短期固定＋**早期range of motion（ROM，關節活動度）訓練**，避免固定2個月造成僵硬
   - Surgery＝復位後不穩定或terrible triad（lateral ulnar collateral ligament, LUCL，外側尺側副韌帶＋radial head fx＋coronoid fx）
   - c.f 膝關節 unhappy triad＝ACL前十字韌帶＋medial collateral lig內側副韌帶＋medial meniscus內半月板
 - Distal radius fracture（遠端橈骨骨折）：
-  - RF＝年輕人高能量跌倒、老年女性骨鬆；血流相對好，預後通常比scaphoid好
-  - Exam＝背側移位可見silver-fork deformity（餐叉變形）
+  - RF＝年輕人高能量跌倒、老年女性骨鬆；血流相對好，**預後通常比scaphoid好**
+  - Exam＝背側移位可見**silver-fork deformity**（餐叉變形）
   - Xray：
-    - AP＝radial height下降、radial inclination<20度、ulnar variance>0
+    - AP＝radial height下降、**radial inclination<20度**、ulnar variance>0
     - Lateral＝palmar tilt<0（背側傾斜）
-    - Frykman classification＝Type 1-8；Type >=3代表延伸到關節面
-  - Tx＝穩定/低需求可保守；明顯位移、關節內、年輕高需求＝ORIF（開放復位內固定）
-  - Complications＝carpal tunnel syndrome（腕隧道症候群）、晚期extensor pollicis longus（EPL，伸拇長肌）斷裂、腕關節不穩定
+    - Frykman classification＝Type 1-8；**Type >=3代表延伸到關節面**
+  - Tx＝穩定/低需求可保守；**明顯位移、關節內、年輕高需求＝ORIF**（開放復位內固定）
+  - Complications＝carpal tunnel syndrome（腕隧道症候群）、晚期**extensor pollicis longus**（EPL，伸拇長肌）斷裂、腕關節不穩定
 
 ## 手部（考題5）
 
 - Carpal tunnel syndrome（CTS，腕隧道症候群）：
-  - RF＝肥胖、懷孕、甲狀腺低下、rheumatoid arthritis（RA，類風濕性關節炎）、重複腕部動作
-  - SS＝握力下降、大魚際肌無力/萎縮、夜間麻、屈腕加劇
+  - RF＝**肥胖、懷孕、甲狀腺低下**、rheumatoid arthritis（RA，類風濕性關節炎）、重複腕部動作
+  - SS＝握力下降、**大魚際肌無力/萎縮**、夜間麻（大魚際肌不麻）、屈腕加劇
   - Pitfall＝thenar eminence（魚際部）皮膚通常不麻，因median nerve palmar cutaneous branch走在carpal tunnel外
-  - PE＝carpal tunnel compression test（Durkan's test最準）、Tinel's sign、Phalen's test
-  - Tx＝夜間副木、NSAID/局部類固醇；失敗或肌萎縮＝surgical release（手術切開減壓）
+  - PE＝**carpal tunnel compression test**（Durkan's test最準）、Tinel's sign、Phalen's test
+  - Tx＝**夜間副木**、NSAID/局部類固醇；失敗或肌萎縮＝surgical release（手術切開減壓）
   - Carpal tunnel contents＝transverse carpal ligament下方包住median nerve + 9條肌腱（4條flexor digitorum superficialis、4條flexor digitorum profundus、1條flexor pollicis longus）；palmaris longus在外面
+    - 走在外面=**FCR/FCU/掌長/Ulnar a./n.**
 - Scaphoid fracture（舟狀骨骨折）：
-  - Exam point＝1st常見腕骨骨折；FOOSH後anatomic snuff box壓痛
-  - Exam＝Xray初期可正常；高度懷疑時thumb spica固定後追蹤影像
-  - Tx＝無位移可固定；位移/近端骨折/高需求＝screw fixation（螺絲固定）
+  - Exam point＝**1st常見腕骨骨折**；FOOSH後**anatomic snuff box壓痛**
+  - Exam＝Xray初期可正常；高度**懷疑時thumb spica固定**後追蹤影像
+  - Tx＝無位移可固定；位移/近端骨折/高需求＝**screw fixation（螺絲固定）**
   - Complications＝近端血流差，易avascular necrosis（AVN，缺血性壞死）、nonunion、scapholunate advanced collapse（SLAC，舟月骨進行性崩解）
-  - c.f. Scaphoid旁拇指指掌關節＝1st常見扭傷關節
+  - c.f. Scaphoid旁**拇指指掌關節＝1st常見扭傷關節**
 - Lunate bone AVN（Kienbock disease，月狀骨缺血壞死）：
-  - RF＝中年男、反覆腕部受傷、negative ulnar variance（尺骨較短）使lunate壓力上升
-  - Exam＝Xray可見sclerotic change（硬化變白）與ulnar variance下降
+  - RF＝中年男、反覆腕部受傷、**negative ulnar variance（尺骨較短）**使lunate壓力上升（c.f Distal radial fx）
+  - Exam＝Xray可見**sclerotic change**（硬化變白）與ulnar variance下降
   - Tx＝無位移先外固定；進展/塌陷則局部減壓或腕骨重建手術
 - Ganglion cyst（腱鞘囊腫）：
   - Exam point＝手部最常見軟組織腫塊
   - 四大位置：
-    - Dorsal wrist（腕背）＝最常見，多來自scapholunate區
-    - Volar wrist（腕掌側）＝靠近橈動脈
-    - Flexor tendon sheath（屈肌腱鞘）＝A1 pulley附近，可和trigger finger同區
+    - Dorsal wrist（腕背）＝最常見，多來自**scapholunate**區
+    - Volar wrist（腕掌側）＝靠近**橈動脈**
+    - Flexor tendon sheath（屈肌腱鞘）＝**A1 pulley**附近，可和trigger finger同區
     - DIP mucous cyst（遠端指間關節黏液囊腫）＝常合併osteoarthritis（OA，退化性關節炎）
 - Tendon injury（肌腱受損）快辨：
   - Mallet finger（槌狀指）：terminal extensor tendon受傷，DIP下垂不能伸；Tx＝急性期伸直副木，慢性期手術
   - Boutonniere deformity（扣眼變形）：central slip受傷，PIP彎曲＋DIP過伸
-- Stenosing tenosynovitis（狹窄腱鞘炎）：腱鞘問題，非骨頭壓迫；通常不用Xray診斷
+- **Stenosing tenosynovitis（狹窄腱鞘炎）**：腱鞘問題，**非骨頭壓迫**；通常不用Xray診斷
   - 圖：![De Quervain vs intersection syndrome](../assets/de_quervain_intersection_syndrome.jpg)
   - de Quervain disease（媽媽手）：
     - Site＝第一背側隔間，abductor pollicis longus（APL，外展拇長肌）＋extensor pollicis brevis（EPB，伸拇短肌）
@@ -829,8 +874,8 @@
     - Exam＝Finkelstein test（拇指握在拳內，再ulnar deviation誘發疼痛）
     - Tx＝副木、NSAID、局部類固醇；失敗才切開減壓
   - Intersection syndrome（交叉症候群）：
-    - Site＝第1/2背側隔間交叉處肌腱發炎
-    - SS＝前臂遠端背橈側疼痛，腕部活動時加劇，可有摩擦感
+    - Site＝**第1/2背側隔間交叉處肌腱發炎**
+    - SS＝前臂遠端背橈側疼痛，腕部活動時加劇，可有**摩擦感**
   - Trigger finger（扳機指）：
     - Site＝A1 pulley狹窄性腱鞘炎
     - SS＝手指彎曲卡住/彈響，嚴重時無法伸直
@@ -849,71 +894,71 @@
   - Metastasis（轉移）：
     - Meta進來（>50%骨腫瘤）＝肺、乳、前列腺、甲狀腺、肝癌；前列腺多osteoblastic/mixed，其他多osteolytic
     - Meta出去＝血行微轉移；skip lesion（跳躍式病灶）要想到OS局部外擴
-  - 原發位置口訣：
-    - Epiphysis（骨骺）＝GCT（giant cell tumor，骨巨細胞瘤）、CB（chondroblastoma，軟骨母細胞瘤）、clear cell chondrosarcoma（透明細胞軟骨肉瘤）
+  - 原發位置口訣（Epiphysis⭢生長板⭢Diaphysis⭢Metaphysis）：
+    - Epiphysis（骨骺）＝GCT（giant cell tumor，骨巨細胞瘤）、CB（chondroblastoma，軟骨母細胞瘤）、clear cell **chondrosarcoma**（透明細胞軟骨肉瘤）
     - Diaphysis（骨幹；FALOMMEE）＝Fibrous dysplasia（纖維性骨發育不良）、Adamantinoma、Lymphoma、Osteomyelitis、Meta、MM、Ewing sarcoma、Eosinophilic granuloma
     - Metaphysis（幹骺端）＝其他；考青少年膝附近侵襲性病灶先想OS
   - 來源分類：
-    - Osseous（骨性）＝Osteo-、Fibrous dysplasia
+    - Osseous（骨性）＝Osteo-、**Fibrous dysplasia**
     - Cartilaginous（軟骨性）＝Chondro-
     - Fibrous（纖維性）＝不包含Fibrous dysplasia
     - 其他＝Ewing sarcoma、bone cyst
 - Osseous tumor（骨性腫瘤）：
   - Osteoid osteoma（OO，骨樣骨瘤）：
-    - Exam：青年＋night pain；Xray＝sclerotic bone亮白包住nidus（黑色病灶）
-    - Tx：NSAIDs/aspirin可緩解；不行再手術/放射治療
+    - Exam：青年＋**night pain**；Xray＝sclerotic bone亮白包住**nidus**（黑色病灶）
+    - Tx：**NSAIDs/aspirin可緩解**；不行再手術/放射治療
   - Osteoblastoma（OB，骨母細胞瘤）：
-    - Exam：年輕男、脊椎/長骨diaphysis；Xray＝lytic lesion黑影
+    - Exam：年輕男、脊椎/長骨diaphysis；Xray＝**lytic lesion黑影**
     - Tx：不擴大可Obs；侵犯性較高但屬良性
   - Fibrous dysplasia（FD，纖維性骨發育不良）：
-    - Exam：<30 y/o女多；單骨常見，diaphysis/metaphysis；Xray＝ground-glass、thin expanded cortex、shepherd's crook deformity
+    - Exam：**<30 y/o女多**；單骨常見，diaphysis/metaphysis；Xray＝**ground-glass**、thin expanded cortex、**shepherd's crook deformity**
     - Tx：Obs；骨折/變形/疼痛才手術刮除
   - Osteosarcoma（OS，骨肉瘤）：
     - Exam：青少年長骨metaphysis，尤其distal femur/proximal tibia；慢性痛＋侵襲性骨病灶/osteoid matrix（骨樣基質）
     - Xray：sunburst pattern、Codman triangle（非專一性）
-    - Risk：雙峰分布；老人多伴Paget disease或放射線暴露後
-    - Tx：手術切除＋化療；復發/不可保肢才截肢
+    - Risk：**雙峰分布**；老人多伴Paget disease或放射線暴露後
+    - Tx：手術切除＋化療（放療無效）；復發/不可保肢才截肢
   - Osteochondroma（OC，骨軟骨瘤）：
-    - Exam：1st良性骨腫瘤；Xray＝長骨表面sessile（寬基底）或pedunculated（細蒂）骨突起
+    - Exam：1st良性骨腫瘤；Xray＝長骨表面**sessile（寬基底）或pedunculated**（細蒂）骨突起
     - Pattern：多發＝autosomal dominant（體顯）
     - Tx：Obs
 - Cartilaginous tumor（軟骨性腫瘤）：
   - Chondroma（軟骨瘤）：
     - Exam：良性、年輕男；長骨中央＝enchondroma（內生軟骨瘤）；長很慢但常建議切
-    - Pattern：enchondromatosis可惡性轉CS；Ollier＝multiple enchondromas；Maffucci＝Ollier＋hemangiomas
+    - Pattern：**enchondromatosis可惡性轉CS**；Ollier＝multiple enchondromas；Maffucci＝Ollier＋**hemangiomas**
   - Chondrosarcoma（CS，軟骨肉瘤）：
-    - Exam：成人/老人；好發pelvis、scapula、femur；Xray＝分葉透明化、endosteal scalloping
+    - Exam：成人/老人；好發pelvis、scapula、femur；Xray＝**分葉透明化、endosteal scalloping**
     - Tx：手術；high grade要連周圍組織一併切
-  - Chondroblastoma（CB，軟骨母細胞瘤）：生長板關閉前才會長（cf. GCT＝epiphyseal line癒合後）
+  - Chondroblastoma（CB，軟骨母細胞瘤）：生長板關閉前才會長（cf.** GCT＝epiphyseal line癒合後**）
 - Fibrous tumor（纖維性腫瘤）：
   - Giant cell tumor（GCT，骨巨細胞瘤）：
     - Exam：良性、20-40 y/o女；epiphyseal line癒合後才長，位置在epiphysis；Xray＝大空洞/soap-bubble
-    - Tx：刮除＋冷凍/局部輔助治療
+    - Tx：**刮除＋冷凍/局部輔助治療**
 - 其他：
   - Ewing sarcoma（尤文氏肉瘤）：
-    - Exam：2nd兒童惡性骨腫瘤，幼童為主；<10 y/o惡性骨腫瘤先想Ewing；t(11;22) translocation
+    - Exam：2nd兒童惡性骨腫瘤，幼童為主；<10 y/o惡性骨腫瘤先想Ewing；**t(11;22) translocation**
     - SS：發燒、疼痛、ESR/LDH/ALP（alkaline phosphatase，鹼性磷酸酶）上升
-    - Xray：onion-skin/onion-like洋蔥狀、moth-eaten
-    - Dx：PAS染色＋CD99/HBA-71支持Ewing，仍需病理/免疫染色/分子檢測
+    - Xray：onion-skin/onion-like洋蔥狀、**moth-eaten**
+    - Dx：PAS染色（+）＋CD99/HBA-71（+）支持Ewing，仍需病理/免疫染色/分子檢測
     - Tx：chemotherapy（VCD：vincristine、cyclophosphamide、doxorubicin）＋手術
   - Unicameral bone cyst（UBC，單純性骨囊腫）：
-    - Exam：青少年無症狀、non-neoplastic lesion；近端肱骨常見；Xray＝邊緣清晰、serous fluid、fallen fragment sign（骨碎片掉在囊腫內）
+    - Exam：青少年無症狀、non-neoplastic lesion；近端肱骨常見；Xray＝邊緣清晰、serous fluid、**fallen fragment sign**（骨碎片掉在囊腫內）
     - Tx：類固醇/局部抽吸
   - Aneurysmal bone cyst（ABC，動脈瘤性骨囊腫）：
-    - Exam：青年男；Xray＝lytic、bubble appearance、含血fluid level
+    - Exam：青年男；Xray＝**lytic、bubble appearance**、含血fluid level
     - Tx：手術刮除＋修補
 
 ## 小兒骨科（考題11）
 
 - Tall stature / 高瘦體型骨科快辨：
 
-  | 疾病                                                       | 骨科/外觀提示                             | 其他關鍵                     |
-  | -------------------------------------------------------- | ----------------------------------- | ------------------------ |
-  | Marfan syndrome                                          | 高瘦、長肢、arachnodactyly（蜘蛛指）、關節鬆       | 晶狀體上外脫位、主動脈根部擴張          |
-  | Homocystinuria                                           | Marfanoid habitus（類 Marfan 體型）、高瘦長肢 | 晶狀體下內脫位、血栓、智能障礙          |
-  | Klinefelter syndrome（47,XXY）                             | 長腿高身材、類無睪丸發育                        | 小睪丸、男性女乳、不孕              |
-  | Scheuermann disease                                      | 高瘦青少年＋僵硬胸椎駝背                        | 結構性 kyphosis（駝背），不是姿勢性駝背 |
-  | MEN2B（multiple endocrine neoplasia type 2B，多發性內分泌腫瘤第二型B） | Marfanoid habitus                   | 黏膜神經瘤＋甲狀腺髓質癌＋嗜鉻細胞瘤       |
+  | 疾病                                                           | 骨科/外觀提示                             | 其他關鍵                         |
+  | ------------------------------------------------------------ | ----------------------------------- | ---------------------------- |
+  | Marfan syndrome                                              | 高瘦、長肢、arachnodactyly（蜘蛛指）、關節鬆       | 晶狀體上外脫位、主動脈根部擴張              |
+  | Homocystinuria                                               | Marfanoid habitus（類 Marfan 體型）、高瘦長肢 | 晶狀體下內脫位、**血栓、智能障礙**          |
+  | Klinefelter syndrome（47,XXY）                                 | 長腿高身材、類無睪丸發育                        | 小睪丸、男性女乳、**不孕**              |
+  | Scheuermann disease                                          | 高瘦青少年＋僵硬胸椎駝背                        | **結構性 kyphosis（駝背）**，不是姿勢性駝背 |
+  | MEN2B（multiple endocrine neoplasia **type 2B**，多發性內分泌腫瘤第二型B） | Marfanoid habitus                   | **黏膜神經瘤＋甲狀腺髓質癌＋嗜鉻細胞瘤**       |
 
 - 兒童骨折照護：
   - 單純骨折：多可保守治療。
@@ -927,29 +972,29 @@
     | Plastic bowing（塑性彎曲）        | 骨頭彎曲變形，無明顯 fracture line（骨折線）                             |
 
 - 先天脊椎 / 上肢連結異常：
-  - Congenital scoliosis（先天性脊椎側彎）：
+  - **Congenital scoliosis**（先天性脊椎側彎）：
     - 成因＝failure of formation/segmentation（形成/分節失敗：半椎體、未分節骨橋）。
-    - Exam：常合併心、腎、脊髓/顱內異常。
-    - Tx：brace（支架）效果差；<10y/o 只做 posterior fusion（後方融合）可能 crankshaft phenomenon（前方持續長、後方被固定）。
+    - Exam：常**合併心、腎、脊髓/顱內異常**。
+    - Tx：brace（支架）效果差；**<10y/o 只做 posterior fusion（後方融合）可能 crankshaft phenomenon**（前方持續長、後方被固定）。
   - Klippel-Feil syndrome（先天性頸椎融合）：
-    - 成因＝胚胎 3-8 wk cervical segmentation failure（頸椎分節失敗）；預後好。
-    - Triad＝短頸＋低後髮際線＋neck range of motion（頸部活動度）受限。
+    - 成因＝胚胎 **3-8 wk cervical segmentation failure**（頸椎分節失敗）；預後好。
+    - Triad＝**短頸＋低後髮際線＋neck range of motion**（頸部活動度）受限。
     - Exam：常合併泌尿、神經、心肺、聽力異常。
   - Congenital radioulnar synostosis（先天性尺橈骨融合）：
-    - Pattern：80% 雙側，前臂 pronation deformity（旋前變形）。
+    - Pattern：**80% 雙側**，前臂 pronation deformity（旋前變形）。
     - Tx＝觀察；嚴重者五歲前開刀。
-- Slipped capital femoral epiphysis（SCFE，股骨頭骨骺滑脫症）：
-  - Pattern：肥胖男孩、mainly 左側；股骨頭骨骺後下位移＋external rotation（外旋）。
+- Slipped capital femoral epiphysis（SCFE，股骨頭骨骺滑脫症；激進治療）：
+  - Pattern：**肥胖男孩、mainly 左側**；股骨頭骨骺後**下位移**＋external rotation（外旋）。
   - SS：髖部/膝部疼痛、髖內轉受限（無法翹腳）、跛行；雙側 20-40%。
-  - Risk：常合併內分泌異常（甲狀腺低下、生長激素缺乏）。
+  - Risk：常**合併內分泌異常（甲狀腺低下、生長激素缺乏）**。
   - Tx＝single-screw fixation（單螺釘固定）。
   - Complication＝avascular necrosis（缺血性壞死）。
-- Osgood-Schlatter disease（脛骨粗隆骨骺炎）：
-  - Pattern：青少年膝蓋生長板炎，脛骨粗隆牽拉性骨骺炎。
-  - Tx＝休息、冰敷、伸展運動；少數持續疼痛才手術處理發炎組織/骨片。
+- Osgood-Schlatter disease（脛骨粗隆骨骺炎；保守治療）：
+  - Pattern：青少年膝蓋生長板炎，**脛骨粗隆牽拉性骨骺炎**。
+  - Tx＝**休息、冰敷、伸展運動**；少數持續疼痛才手術處理發炎組織/骨片。
 - Developmental dysplasia of hip（DDH，發展性髖關節發育不良）：
   - Exam cue：1st 新生兒骨科病。
-  - RF（risk factor，危險因子）＝第一胎、女、足位生產（breech presentation）、家族史。
+  - RF（risk factor，危險因子）＝第一胎、**女**、足位生產（breech presentation）、家族史。
   - SS＝患髖 abduction（外展）受限。
   - Exam：
     - Ortolani test：外展髖關節評估可否復位。
@@ -958,46 +1003,46 @@
     - Ultrasound（超音波）：6 m 內。
     - X-ray：>6 m，已骨化。
   - Tx：
-    - <6 m＝Pavlik harness（吊帶）。
+    - **<6 m＝Pavlik harness（吊帶，維持外展即可不用刻意復位）**。
     - > 6 m＝reduction（復位）。
     - > 2 y/o＝osteotomy（截骨術）。
-- Legg-Calve-Perthes disease（股骨頭缺血壞死）：
-  - Pattern：4-10 歲男孩，股骨頭 epiphysis（骨骺）不明原因壞死。
+- Legg-Calve-Perthes disease（**股骨頭缺血壞死**）：
+  - Pattern：**4-10 歲男孩**，股骨頭 epiphysis（骨骺）不明原因壞死。
   - RF＝低社經、二手菸男孩、Protein S/C deficiency（Protein S/C 缺乏）。
-  - SS＝跛行、Trendelenburg gait（臀中肌跛行；髖外展/內旋角度下降，走路健側 tilt）。
+  - SS＝跛行、**Trendelenburg gait**（臀中肌跛行；髖外展/內旋角度下降，走路患側 tilt）。
   - Exam：
     - X-ray：Waldenstrom / Herring lateral pillar classification（外側柱分類）。
     - MRI（magnetic resonance imaging，磁振造影）：femoral head（股骨頭）缺血。
   - Tx：
-    - 保守＝<8 y/o、type A（lateral pillar 高度正常）。
-    - 手術＝>8 y/o、type B/C（lateral pillar 高度減少）。
+    - 保守＝**<8 y/o、type A**（lateral pillar 高度正常）。
+    - 手術＝**>8 y/o、type B/C（lateral pillar 高度減少）**。
 
 ## 內科骨疾病（考題4）
 
 - Osteoporosis（骨質疏鬆）：
   - 成因：
     - Primary（原發性）：
-      - 停經：第一型；脊椎、遠端橈骨骨折。
+      - 停經：**第一型**；脊椎、遠端橈骨骨折。
       - 老化：第二型；脊椎、髖骨骨折。
     - Secondary（次發性）：副甲亢、庫欣、DM（diabetes mellitus，糖尿病）、藥物（glucocorticoid 類固醇、lithium 鋰鹽）。
   - Exam：
-    - DEXA（dual-energy X-ray absorptiometry，雙能量 X 光吸收儀）：T-score > -1 正常；-1~-2.5 osteopenia（骨量低下）；< -2.5 osteoporosis。
-    - QUS（quantitative ultrasound，定量超音波）：足跟測量。
+    - DEXA（dual-energy X-ray absorptiometry，雙能量 X 光吸收儀）：T-score > -1 正常；-1~-2.5 **osteopenia**（骨量低下）；< -2.5 osteoporosis。
+    - QUS（quantitative ultrasound，定量超音波）：**足跟測量**。
   - Tx：
-    - 基本＝運動、補鈣 1200 mg/day。
-    - 藥物＝bisphosphonate、女性賀爾蒙 / SERM（selective estrogen receptor modulator，選擇性雌激素受體調節劑；副作用較少）、calcitonin（效果較弱）、strontium ranelate（鍶鹽；抑制 osteoclast 破骨細胞、促進 osteoblast 成骨細胞；歐洲可用）、脈衝副甲狀腺素。
+    - 基本＝運動、補鈣** 1200 mg/day。**
+    - 藥物＝bisphosphonate、女性賀爾蒙 / SERM（selective estrogen receptor modulator，選擇性雌激素受體調節劑；副作用較少）、calcitonin（效果較弱）、**strontium ranelate**（鍶鹽；抑制 osteoclast 破骨細胞、促進 osteoblast 成骨細胞；歐洲可用）、脈衝副甲狀腺素。
     - Procedure＝percutaneous vertebroplasty（經皮椎體成形術，骨水泥注射）for 壓迫性骨折。
 - 骨代謝疾病與數值（Ca 鈣、P 磷、ALP alkaline phosphatase 鹼性磷酸酶、PTH parathyroid hormone 副甲狀腺素）：
-  - Osteopetrosis（大理石骨）：無法骨吸收；骨頭變硬但脆。
-  - Osteomalacia / Rickets（骨軟化症 / 佝僂病）：缺維他命 D；Ca 低或正常、P 低、PTH/ALP 上升。
-  - Osteitis fibrosa cystica（纖維囊性骨炎，brown tumor）：副甲亢；Ca/ALP/PTH 上升、P 下降。
-  - Paget disease（Paget 骨病）：Paramyxovirus 感染；破骨＋成骨都活躍，骨亂長＋粉筆式骨折；易伴 osteosarcoma（骨肉瘤）；ALP 上升。
+  - Osteopetrosis（大理石骨）：無法骨吸收；骨頭變**硬但脆**。
+  - Osteomalacia / Rickets（**骨軟化症 / 佝僂病**）：缺維他命 D；Ca 低或正常、P 低、PTH/ALP 上升。
+  - Osteitis fibrosa cystica（纖維囊性骨炎，**brown tumor（骨內出血，骨吸收後的纖維血性病灶）**）：副甲亢；Ca/ALP/PTH 上升、P 下降。
+  - Paget disease（Paget 骨病）：**Paramyxovirus** 感染；破骨＋成骨都活躍，骨亂長＋**粉筆式骨折**；易伴 **osteosarcoma**（骨肉瘤）；ALP 上升。
 - 關節炎分類：
   - 發炎性：
     - Seropositive（血清陽性）＝RA（rheumatoid arthritis，類風濕性關節炎）：中年女，MCP（metacarpophalangeal，掌指關節）＋PIP（proximal interphalangeal，近端指間關節）。
     - Seronegative（血清陰性）：
-      - Ankylosing spondylitis（僵直性脊椎炎）：1st 血清陰性；男多，bamboo spine（竹節脊椎）、dactylitis（香腸指）、HLA-B27（+）。
-      - Psoriatic arthritis（乾癬性關節炎）：常見乾癬患者；DIP（distal interphalangeal，遠端指間關節）、不對稱晨僵。
+      - Ankylosing spondylitis（僵直性脊椎炎）：1st 血清陰性；男多，bamboo spine（竹節脊椎）、dactylitis（香腸指）、**HLA-B27（+）**。
+      - Psoriatic arthritis（乾癬性關節炎）：常見乾癬患者；**DIP**（distal interphalangeal，遠端指間關節）、不對稱晨僵。
       - Reactive arthritis（反應性關節炎）。
   - 非發炎性：
     - OA（osteoarthritis，骨關節炎）：1st 關節炎；DIP 常見 Heberden nodes（赫伯登結節），偏活動痛/退化性。

@@ -1,6 +1,6 @@
 # 小兒科（考題157）
 
-## 小兒急症初評
+## 小兒急症初評（考題0）
 
 - Exam：Pediatric assessment triangle（PAT，兒童評估三角）
   - 用途：快速目視判斷 sick/not sick
@@ -559,7 +559,7 @@
     - Exam：肌電圖（myotonic discharge），**肌肉切片（type 1 fiber萎縮），基因檢測**
     - Tx：支持性療法（物理治療，心律不整治療）
   - 其他：
-    - Guillain-Barre syn：感染後免疫攻擊髓鞘，Landry ascending paralysis，預後好；Tx＝支持，避免呼吸窘迫
+    - Guillain-Barre syn：感染後免疫攻擊髓鞘，Landry ascending paralysis（遠端下肢先→近端上行），預後好；Tx＝IVIG/plasma exchange＋呼吸支持
     - Bell's palsy：感染後單側面神經麻痺（病毒無入侵），預後好；Tx＝Steroid，眼藥水
     - Cerebral palsy：腦發展不良，1st運動障礙dx，無有效Tx
       - SS：運動障礙（下肢痙攣/無力），智力障礙，癲癇，手足徐動
@@ -848,14 +848,16 @@
       - SS：病毒感染後發病
       - Exam：排除性診斷
       - Tx：Steroid，**Anti-Rh（D） IgG/IVIG for Rh（+）嬰兒**
-    - Hemolytic uremic syndrome（HUS，kidney local）：
-      - 成因：E. coli O157：H7/Shiga toxin；
-      - SS：Triad（**溶血，AKI，血小板減少**）
-      - Lab：紅血球schistocytes（helmet shape破壞）
+    - TTP/HUS（thrombotic microangiopathy，TMA；微血管血栓病）共同：
+      - SS triad：**血小板低下＋microangiopathic hemolytic anemia（MAHA，微血管性溶血）＋腎功能異常**
+      - Lab：schistocytes（helmet cell）、LDH⭡、haptoglobin⭣；**PT/aPTT不延長**（cf. DIC＝PT/aPTT延長）
+    - Hemolytic uremic syndrome（HUS，kidney local；會溶血）：
+      - 成因：E. coli O157：H7/Shiga toxin；多兒童血便後AKI
+      - Tx：支持治療（補液/透析）；典型Shiga toxin HUS避免抗生素/止瀉藥
     - Thrombotic thrombocytopenic purpura（TTP，systemic）：
-      - 成因：藥物/感染/妊娠發病，ADAMTS13缺乏（**體顯**）
-      - **SS：Pentad（HUS triad+，fever，CNS症狀）**
-      - Lab：紅血球schistocytes（helmet shape破壞）
+      - 成因：多後天抗ADAMTS13（嚴重下降常<10-15%）→ vWF multimer清不掉 → platelet microthrombi
+      - SS：HUS triad + fever/CNS症狀；成人、神經症狀明顯較偏TTP
+      - Tx：血漿置換（plasma exchange）急救；可加steroid/rituximab
 - 凝血問題：
   - 新生兒Vit K related：2，7，9，10；PT＝外在路徑
   - Protein C/S：量只有成人50%
@@ -1497,6 +1499,7 @@
   - 角質cell增生週期⭣、棘皮層增厚
   - **Th1活化** ⭢ Munro's microabscess（表皮內中性球膿皰）
   - Koebner phenomenon：抓癢/外傷處容易增生同型病灶
+  - Flare trigger：**TIDES**＝Trauma（Koebner）、Infection（GAS→guttate psoriasis）、Drug（**ABCD+GI**：ACEi、anti-malarial（chloroquine）、β-blocker、corticosteroid/停藥 rebound、lithium、Gemfibrozil、Imiquimod、IFN）、Environment、Sun（phototherapy可治療；反覆日曬/曬傷可惡化）
 - SS：
   - 紅色斑塊覆蓋**銀白色鱗屑**；沖洗後紅斑不退
   - 關節/指甲侵犯
@@ -1748,6 +1751,7 @@
 - 預後：
   - 好＝晚發、女性、急性發病（代表有誘因）、已婚、有情感症狀（e.g. 憂鬱）、無負向症狀
   - 差＝早發/男性、負向症狀明顯
+  - 長期社會/職業功能差預測力（強→弱）：**認知功能缺損 ≈ 負向症狀**（意志缺乏、社交退縮、情感平板） > 病前功能差 > 早發/DUP長（duration of untreated psychosis，未治療精神病期） > 正向症狀 > 情緒症狀
 - subtype：
   - Paranoid：妄想/幻聽，20-30y/o發病，**預後好**
   - Disorganized：原始/混亂思考，預後差
@@ -2309,7 +2313,7 @@
   - Guillain-Barre syndrome（GBS，AIDP）
     - 基本：急性周邊神經去髓鞘
     - RF：中年，EBV/CMV感染（單核球 dominant，但 WBC 正常）
-    - SS：**對稱性無力（ascending paralysis，下肢開始）**，反射消失；嚴重可呼吸衰竭
+    - SS：**對稱性無力（遠端下肢先→近端上行，ascending paralysis）**，反射消失；嚴重可呼吸衰竭
     - Tx：IVIG，plasma exchange；**類固醇效果不佳（AIDP是急性抗體攻擊鞘細胞）**
   - Chronic inflammatory demyelinating polyneuropathy（CIDP）
     - 基本：慢性周邊神經去髓鞘，無特定成因（cf. AIDP post infection）
@@ -2334,10 +2338,11 @@
 
 - 肌肉vs神經病變：大肌肉在中間（近端先失調），神經如電線（遠端先失調）
 - 神經接合疾病（死因多呼吸衰竭）
+  - 方向鑑別：GBS＝遠端下肢→近端上行；MG＝眼/口咽/近端易疲勞、不是上行；Botulism＝眼口/腦神經→四肢下行
   - Myasthenia gravis（MG，重症肌無力）
     - MOA：抗 Ach receptor 抗體攻擊神經肌肉接合處
     - RF：**年輕女，年老男**；合併 thymus hyperplasia（胸腺增生）者 66%
-    - SS：單側**小肌肉無力，眼肌（可能 ptosis/復視）與頸部常見**；越動越嚴重，下午惡化
+    - SS：單側**小肌肉無力，眼肌（可能 ptosis/復視）與頸部常見**；越動越嚴重，下午惡化；不是 ascending paralysis
     - Exam：**Edrophonium test**（短效 AchE inhibitor，MG症狀改善）；EMG＝神經刺激後肌肉反應減弱
     - Tx：AchE inhibitor（Mestinon），切胸腺，plasma exchange
   - Lambert-Eaton myasthenic syndrome（LEMS）

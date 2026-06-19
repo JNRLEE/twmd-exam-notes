@@ -1,5 +1,6 @@
 import json
 import re
+import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -13,12 +14,37 @@ NOTES = [
 ]
 FOCUSED = ROOT / "03_focused_topics"
 
-COUNT_SUFFIX = re.compile(r"（考題\d+）$")
+COUNT_SUFFIX = re.compile(r"[（(]考題\d+[）)]$")
+TRAILING_ENGLISH_AFTER_CJK = re.compile(r"(?<=[\u4e00-\u9fff])\s*[A-Za-z][A-Za-z0-9/ -]*$")
 
 
 def strip_count(title: str) -> str:
     title = COUNT_SUFFIX.sub("", title or "").strip()
     return title.rstrip(":：").strip()
+
+
+def title_key(title: str) -> str:
+    title = unicodedata.normalize("NFKC", strip_count(title))
+    title = COUNT_SUFFIX.sub("", title).strip()
+    title = title.rstrip(":：").strip()
+    return re.sub(r"\s+", "", title)
+
+
+def candidate_title_keys(title: str) -> list[str]:
+    normalized = unicodedata.normalize("NFKC", strip_count(title)).strip()
+    keys = [title_key(normalized)]
+    stripped = TRAILING_ENGLISH_AFTER_CJK.sub("", normalized).strip()
+    if stripped != normalized:
+        keys.append(title_key(stripped))
+    return keys
+
+
+def lookup_count(section_counts: Counter, rel: str, specialty: str, topic: str) -> int:
+    for topic_key in candidate_title_keys(topic):
+        count = section_counts.get((rel, specialty, topic_key), 0)
+        if count:
+            return count
+    return 0
 
 
 def load_section_counts() -> Counter:
@@ -27,9 +53,9 @@ def load_section_counts() -> Counter:
         rows = json.loads(path.read_text(encoding="utf-8"))
         for row in rows:
             note_path = row.get("matched_note_path")
-            specialty = strip_count(row.get("classified_specialty", ""))
-            topic = strip_count(row.get("classified_topic", ""))
-            if note_path and specialty and topic and topic != "未匹配":
+            specialty = title_key(row.get("classified_specialty", ""))
+            topic = title_key(row.get("classified_topic", ""))
+            if note_path and specialty and topic and topic != title_key("未匹配"):
                 counts[(note_path, specialty, topic)] += 1
     return counts
 
@@ -47,12 +73,11 @@ def recount_note(path: Path, section_counts: Counter) -> tuple[int, int]:
     for idx, line in enumerate(lines):
         if line.startswith("# ") and not line.startswith("## "):
             current_h1 = idx
-            current_specialty = strip_count(line[2:].strip())
+            current_specialty = title_key(line[2:].strip())
             h1_indices.append(idx)
             continue
         if line.startswith("## "):
-            topic = strip_count(line[3:].strip())
-            count = section_counts.get((rel, current_specialty, topic), 0)
+            count = lookup_count(section_counts, rel, current_specialty, line[3:].strip())
             h2_counts_by_index[idx] = count
             if current_h1 is not None:
                 h1_children[current_h1].append(idx)

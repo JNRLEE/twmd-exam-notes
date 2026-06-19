@@ -310,6 +310,7 @@
   - Ind：
     - Atropine：for bradycardia。
     - Adenosine：for PSVT。
+      - Adenosine = 超短效 AV node blocker，用於 AVNRT 與規則窄 QRS SVT；WPW 合併 AF 時禁用。
     - MgSO4：for torsades de pointes。
   - C/I：
     - Class Ic：避免結構性心臟病。
@@ -854,7 +855,7 @@
     - AHI（apnea-hypopnea index）：apnea＝不呼吸>10sec；hypopnea＝氣流下降>10sec且伴低氧/覺醒。
     - 診斷：AHI≥5＋典型症狀（白天嗜睡、打鼾、睡眠中呼吸暫停）或AHI≥15即使無症狀。
     - 嚴重度：AHI 5-15輕度、15-30中度、>30重度；夜間低血氧與白天嗜睡也反映嚴重度，**BMI是RF不是嚴重度指標**。
-  - Tx：減重、側睡、戒酒/鎮靜藥；CPAP（continuous positive airway pressure，連續正壓呼吸器）一線；UPPP/鼻咽手術for解剖阻塞或CPAP失敗。
+  - Tx：減重、側睡/避免仰睡（positional therapy；考試多寫側睡，不是趴睡為標準）、戒酒/鎮靜藥；CPAP（continuous positive airway pressure，連續正壓呼吸器）一線；UPPP/鼻咽手術for解剖阻塞或CPAP失敗。
 
 ## Malignant（記NSCLC特徵，剩下猜SCLC）（考題5）
 
@@ -2125,7 +2126,7 @@
 - RNA 病毒：
   - 腸胃道病毒：picornavirus（enterovirus、coxsackievirus＝手足口病/1st 病毒性心肌炎、echovirus＝無菌腦膜炎）、reovirus（rotavirus＝嬰兒腹瀉）。
   - 蟲媒病毒：togavirus（rubella 為呼吸道傳播非蚊蟲）、flavivirus、Zika virus（垂直傳染小頭症、Guillain-Barre syndrome（對稱上升性無力，常見於C.jejuni、CMV、EBV、HIV、Zika））。
-  - 呼吸道病毒：coronavirus（SARS/MERS/COVID-19；Tx＝支持）、influenza（B/C 只人傳人；H5N1 第一類法定；HA 進細胞、NA 出細胞；Tx＝oseltamivir/baloxavir）、paramyxovirus（measles＝3C（Cough + Coryza + Conjunctivitis）＋Koplik's spot＋SSPE（Subacute sclerosing panencephalitis，感染多年後出現進行性神經退化）；mumps＝腮腺腫痛/睪丸炎/卵巢炎；RSV＝嬰兒呼吸道感染；parainfluenza croup）。
+  - 呼吸道病毒：coronavirus（SARS/MERS/COVID-19；Tx＝支持）、influenza（B/C 只人傳人；H5N1 第一類法定；HA 進細胞、NA 出細胞；Tx＝oseltamivir/baloxavir）、paramyxovirus（measles＝3C（Cough + Coryza + Conjunctivitis）＋Koplik's spot＋SSPE（Subacute sclerosing panencephalitis，感染多年後出現進行性神經退化、Paget disease）；mumps＝腮腺腫痛/睪丸炎/卵巢炎；RSV＝嬰兒呼吸道感染；parainfluenza croup）。
     - Pitfalls：Epiglottis by Hib，croup by parainfluenza
   - 人畜共通病毒：rabies（Negri inclusion；SS＝恐水症；Tx＝免疫球蛋白＋疫苗 0/3/7/14/28 days）、hantavirus（鼠類排泄物；HPS＝急性肺水腫，HFRS＝發燒/血小板**低下**/急性間質腎炎）。
 - 抗病毒藥物：
@@ -2667,7 +2668,9 @@
     - DCIS（Ductal Carcinoma In Situ原位乳管癌）：lumpectomy＋放療
     - 化療：for TNBC/HER2+/LN+
     - Hormonal：ER/PR+；停經前 Tamoxifen，停經後 **aromatase inhibitor**
-    - PARP inhibitor（Olaparib/Talazoparib）：for BRCA1/2＋TNBC（三陰性）
+    - PARP inhibitor（Olaparib/Talazoparib）：for
+    **Aromatase**
+    1/2＋TNBC（三陰性）
   - Occult breast cancer：腋下 adenocarcinoma＋乳房影像陰性；Exam＝ER/PR/HER2/GATA3；Tx＝不用切乳房，腋下處理＋全乳放療 ± 全身治療
 - Colorectal cancer（CRC，大腸癌）：
   - SS：直腸＝血便/裡急後重；降結腸＝阻塞為主；升結腸＝腸寬便軟，常較晚發現，以缺鐵貧血表現
