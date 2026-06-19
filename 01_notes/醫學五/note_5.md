@@ -60,7 +60,8 @@
     - 病理：mixed carcinoma
     - SS：**無症狀（>50%）**、副腫瘤症候群（高壓、高鈣）
     - Exam：抽血（ESR⭡、血尿、貧血）、**Echo（準度高）**、CT（arterial enhancement、venous early washout，HCC也會）、其他進階影像學/膀胱鏡都有效
-    - Tx：手術（唯一cure方法）；**標靶治療 for 轉移性clear cell RCC**
+    - Tx：手術（唯一cure方法）；**標靶治療 for 轉移性clear cell RCC 用**
+      **VEGF/VEGFR 標靶 ± 免疫治療**
     - Metastatic RCC risk model：International Metastatic Kidney Cancer Database Consortium（IMDC，轉移性RCC預後分層）＝Karnofsky performance status低（<80%）、Dx-to-Tx<1 yr（發病到需要全身治療）、Hb低、corrected Ca高、neutrophil高、platelet高
       - lactate dehydrogenase（LDH）屬Memorial Sloan Kettering Cancer Center（MSKCC）舊模型，不是IMDC
   - Renal pelvic/ureteral tumor（腎盂/輸尿管腫瘤）：
@@ -149,8 +150,8 @@
       - Indirect：小孩99%；patent processus vaginalis腹膜鞘狀突未閉合，從deep inguinal ring突出⭢走inguinal canal，inferior epigastric vessels外側；Tx＝高位結紮ASAP
       - Direct：老人；從Hesselbach triangle/posterior wall突出，inferior epigastric vessels內側，比indirect易復發；Tx＝Mesh（cf. 兒童不常規Mesh）
       - Femoral hernia：inguinal ligament下方／股靜脈內側，女多，incarceration（嵌頓）風險高
-      - Inguinal canal map：deep inguinal ring＝transversalis fascia開口；superficial inguinal ring＝external oblique aponeurosis開口；spermatic cord coverings＝internal spermatic fascia（transversalis fascia延伸）＋cremaster muscle/fascia（internal oblique延伸）＋external spermatic fascia（external oblique aponeurosis延伸）；ilioinguinal n.伴隨cord出superficial ring（不經deep ring），iliohypogastric n.不在spermatic cord；testicular a.來自abdominal aorta
-      ![Inguinal canal map](../assets/inguinal_canal_map.png)
+      - Inguinal canal map：deep inguinal ring＝transversalis fascia開口；superficial inguinal ring＝external oblique aponeurosis開口；spermatic cord coverings＝internal spermatic fascia（transversalis fascia延伸）＋cremaster muscle/fascia（internal oblique延伸）＋external spermatic fascia（external oblique aponeurosis延伸）；ilioinguinal n.伴隨cord出superficial ring（不經deep ring），iliohypogastric n.不在spermatic cord；testicular a.來自abdominal aorta  
+      ![Inguinal canal map](../assets/inguinal_canal_map.png)  
       ![Common sites of lower abdominal hernias](../assets/common_sites_lower_abdominal_hernias.jpg)
   - 後天
     - Priapism（陰莖異常勃起）：持續勃起>4hr，多缺血型（**陰莖硬龜頭軟**）；其他＝白血病、藥物、外傷
@@ -200,7 +201,7 @@
   - Fournier gangrene（會陰部壞死性筋膜炎）
     - RF＝感染、局部外陰瘻管、DM
     - 蔓延＝沿淺層筋膜（Colles' / Dartos / Scarpa's fascia），不是深層筋膜
-    - Tx＝**立即清瘡（不可少清）**；但睪丸、陰莖海綿體sparing（被deep Buck's fascia保護）
+    - Tx＝**立即清瘡（不可少清）**；但睪丸、陰莖海綿體sparing（被deep Buck's fascia保護）  
     ![Penis Buck's and Dartos fascia](../assets/penis_buck_dartos_fascia.jpg)
 - 外傷
   - Buck's fascia判斷瘀青／陰莖血腫
@@ -242,7 +243,7 @@
     - 每項0-5分；>8分中度，>20分重度
   - Tx：
     - 藥物：for >8分；**α-blocker**（放鬆膀胱）、5α-reductase inhibitor（攝護腺>40ml才明顯縮小體積，也可降癌症發生率；e.g. Finasteride、Dutasteride）、副交感（興奮劑/抑制劑皆有幫助）、TCA
-    - 手術：反覆發作或移除尿管失敗；Transurethral Incision for <30ml，Transurethral vaporization for 30-80ml
+    - 手術：反覆發作或移除尿管失敗；Transurethral Incision for <30ml，Transurethral vaporization for 30-80ml  
     ![Prostate zones](../assets/prostate_zones.png)
 - 攝護腺癌：
   - 定位＝1st泌尿癌症（美國男性第一癌，台灣前三）；**adenocarcinoma** in **peripheral** zone為主

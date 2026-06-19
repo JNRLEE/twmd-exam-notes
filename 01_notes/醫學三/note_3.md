@@ -469,11 +469,13 @@
 ## Pericarditis（心包膜疾病）（考題2）
 
 - Acute pericarditis（急性心包膜炎）：
+  - 分類：infectious、Non-infectious、Fibrous、Purulent、Hemorrhagic
   - Cause：idiopathic/ Coxsackie viral（最常見）、bacterial、autoimmune、uremia。
   - Dx：pleuritic chest pain（吸氣痛）＋pericardial friction rub＋EKG diffuse ST elevation / PR depression。
   - Tx：
     - NSAID＋colchicine：for 預防復發。
     - Steroid：Ind＝NSAID無效或特定自體免疫。
+    - Colchicine：服用>3months，顯著下降復發率
 - Constrictive pericarditis（束縮性心包炎）：慢性心包膜肥厚/纖維化，常需和RCM鑑別
   - Dx：Kussmaul sign（吸氣時JVP反而上升）。
   - Tx：pericardiectomy（心包膜切除，唯一根治）。
@@ -788,6 +790,7 @@
 - 成因/Risk：
   - 來源：80%來自DVT（deep vein thrombosis，深部靜脈血栓）。
   - Risk：術後、臥床、癌症、懷孕/OCP、高凝狀態。
+  - 主要死因：右心衰竭。
   - Pitfall：癌症病人術後突然喘，或喘但CXR幾乎正常，要想到PE（pulmonary embolism，肺栓塞）。
 - SS：突發呼吸困難、pleuritic chest pain、咳血、心搏快；massive PE可低血壓/休克。
 - Exam：
@@ -867,7 +870,7 @@
     - Limited stage：platinum（cis/carboplatin）＋etoposide＋thoracic RTx；無progression後可durvalumab consolidation。
     - Extensive stage：platinum＋etoposide＋PD-L1 inhibitor（atezolizumab/durvalumab）。
   - NSCLC（non-small cell lung cancer，非小細胞肺癌）：較可手術；晚期依driver mutation/PD-L1選標靶或免疫治療。
-    - Adenocarcinoma（腺癌）：台灣最常見；女性/非吸菸者、peripheral、EGFR常見；可有hypertrophic pulmonary osteoarthropathy，容易遠端/腦轉移。
+    - Adenocarcinoma（腺癌）：台灣最常見；女性/非吸菸者、peripheral、EGFR常見；可有hypertrophic pulmonary osteoarthropathy，容易遠端/腦轉移；但預後最好。
       - Driver tests：EGFR（Osimertinib、Afatinib、Gefitinib）、ALK（Alectinib、Crizotinib）、ROS1（Crizotinib）、PD-L1（Pembrolizumab、Atezolizumab）。
       - 病理subtype預後：lepidic（伏壁型/GGO/AIS-MIA概念）最好；acinar/papillary中間；micropapillary/solid最差。
     - Squamous cell carcinoma（SCC，鱗狀細胞癌）：抽菸男性、central cavitation；PTHrP高血鈣。
@@ -1034,12 +1037,13 @@
     - Type II：MEN1/Zollinger-Ellison； Gastrinoma分泌gastrin導致胃酸過多胃潰瘍/Type II Gastric NET在胃中產生。
     - Type III：sporadic，預後最差。
     - Localized Tx：complete resection。
-- 功能性 NET 快分：
 
-  | 腫瘤                     | 位置/惡性                                             | 典型表現                                                                               | 診斷快分                                                                               | Tx                                                                     |
-  | ---------------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-  | Insulinoma（胰島素瘤）       | >99%在pancreas；惡性率低、轉移約5-15%                       | fasting hypoglycemia、Whipple triad（症狀＋低血糖＋補糖改善）                                    | 低血糖時 insulin/C-peptide/proinsulin 不該高卻高；排除 sulfonylurea                            | enucleation/resection；不能開可 **diazoxide**（K ATP channel opener；抑制胰島素釋放） |
-  | Gastrinoma（胃泌素瘤；也是NET） | 現在多抓duodenum/小腸側45-100%（pancreas 2%）；惡性/轉移約60-90% | Zollinger-Ellison syndrome（ZES）：refractory/multiple ulcers、GERD、secretory diarrhea | fasting gastrin 高＋gastric pH <2；疑難時 secretin stimulation test（給secretin無法抑制G cell） | PPI控酸＋能切則切；MEN1常多發                                                     |
+功能性 NET 快分：
+
+| 腫瘤                     | 位置/惡性                                             | 典型表現                                                                               | 診斷快分                                                                               | Tx                                                                     |
+| ---------------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Insulinoma（胰島素瘤）       | >99%在pancreas；惡性率低、轉移約5-15%                       | fasting hypoglycemia、Whipple triad（症狀＋低血糖＋補糖改善）                                    | 低血糖時 insulin/C-peptide/proinsulin 不該高卻高；排除 sulfonylurea                            | enucleation/resection；不能開可 **diazoxide**（K ATP channel opener；抑制胰島素釋放） |
+| Gastrinoma（胃泌素瘤；也是NET） | 現在多抓duodenum/小腸側45-100%（pancreas 2%）；惡性/轉移約60-90% | Zollinger-Ellison syndrome（ZES）：refractory/multiple ulcers、GERD、secretory diarrhea | fasting gastrin 高＋gastric pH <2；疑難時 secretin stimulation test（給secretin無法抑制G cell） | PPI控酸＋Somastatin控制；手術if保守治療不佳/mass effect（MEN1常多發）                     |
 
 ## 切胃後遺症（考題2）
 
@@ -1295,7 +1299,7 @@
   - Pitfall：不是靜脈曲張/靜脈池化讓 CO 下降，而是低 SVR 下心臟代償打更多。
   - 有效動脈血量不足 → RAAS/renin 活化 + 腹水/利尿劑/電解質異常 → 肌肉痙攣（低 MAP、**低 K/Na/Mg**）。
 - 靜脈曲張出血：
-  - Acute Tx：先 ABC/輸液/必要時插管 + 抗生素（ceftriaxone）+ somatostatin/octreotide + 內視鏡 band ligation。
+  - Acute Tx：先 ABC/輸液/必要時插管 + 抗生素（ceftriaxone）+ Vasopressin（首選，顯著降低門脈壓）/somatostatin/octreotide + 內視鏡 band ligation。
   - Prevention：非選擇性 β-blocker（propranolol/nadolol/carvedilol）預防首次/再出血。
   - 胃 varices：fundus 最常出血，難止血可 **TIPS**。
 - Hepatorenal syndrome（HRS，功能性腎衰竭）：
@@ -1639,7 +1643,7 @@
 - Tx：
   - Lifestyle：減重、運動、飲食控制。
   - Oral drugs：
-    - 增加胰島素分泌（DP Sulfo Gl night）：sulfonylureas、glinides（K channel；會增重）、DPP-4 inhibitors、GLP-1 agonists（減重，較不低血糖）。
+    - 增加胰島素分泌（DP Sulfo Gl night）：sulfonylureas、glinides（K channel；會增重）、DPP-4 inhibitors（Sitagliptin）、GLP-1 agonists（liraglutide；減重，較不低血糖）。
     - 增加 insulin sensitivity（Met Thai Bose）：metformin、TZD（PPAR-γ）。
     - 減少腸道吸收：α-glucosidase inhibitors（acarbose）。
     - 增加尿糖排出：SGLT2 inhibitors（empagliflozin；減重/降壓，泌尿道感染↑）。
@@ -1827,7 +1831,7 @@
   - Intrinsic（腎內性）：
     - Acute tubular necrosis（ATN）：1st intrinsic。
       - Exam：U/R 鏡檢可見 muddy brown cast（色素沉澱）。
-      - Cause：腎前性缺血、藥物毒性（NSAIDs、顯影劑）、腎移植後一週SE。
+      - Cause：腎前性缺血、藥物毒性（NSAIDs、顯影劑（英文簡稱CIN勿搞混））、腎移植後一週SE。
       - Tx：少尿期限水、利尿期補水、低鉀磷蛋白飲食、sodium bicarbonate（矯正酸中毒）、治療 underlying dx。
       - Tx if 橫紋肌溶解/尿酸相關腎病變：大量水＋利尿劑＋鹼化尿液。
     - Acute interstitial nephritis（AIN）：
@@ -1902,7 +1906,7 @@
   - G1：>90；G2：60-89；G3a：**45-59**。
   - G3b：30-44；開始低蛋白飲食，opt＝**補鐵（EPO下降，怕同時缺鐵）、補鈣、磷螯合**。
   - G4：15-29；G5：<15。
-  - 末期透析門檻：if 尿毒症狀（＋）且 **Ccr<10** then hemodialysis。
+  - 末期透析門檻：AEIOU（for急性）、if 尿毒症狀（＋）且 **Ccr<10** then hemodialysis（for 慢性）。
 - CKD 病型比較：
   - Chronic glomerular nephritis（CGN）：**濕腫（蛋白流失）**；high AG acidosis；Cause＝primary nephrotic syndrome。
   - Chronic interstitial nephritis（CIN）：**乾（EPO 貧血）**；normal AG；Cause＝中藥 toxin。
@@ -1971,7 +1975,7 @@
   - Epidemiology：90% PKD；成人為主；type I/PKD1（16p 短臂）為主。
   - SS：30-40 y/o 雙側多發囊腫；腎外常見**肝/胰/卵巢 cyst**；血壓高。
   - Exam：臨床/影像；年輕雙側 >2 cyst，老人 >4 cyst。
-  - Tx：ACEi 控壓；腎衰後透析/移植。
+  - Tx：ARB/ACEi 控壓；腎衰後透析/移植。
 - ARPKD（autosomal recessive PKD，自體隱性 PKD）：
   - Epidemiology：10% PKD；小孩為主。
   - SS/Prognosis：**羊水過少、肺發育不全**、高死亡率、肝病變。
@@ -2012,7 +2016,7 @@
   - SS：dermis/皮下脂肪紅腫熱痛，邊界不清。
   - Cause/Tx：Streptococcus pyogenes＝PCN；Staphylococcus aureus＝oxacillin；咬傷/糖尿病足＝Augmentin。
 - Necrotizing fasciitis（壞死性筋膜炎，fascia：superficial-deep）：
-  - Cause/Tx：Streptococcus pyogenes（GAS）＝PCN＋clindamycin；Vibrio＝doxycycline＋ceftriaxone（RF＝海水暴露）。
+  - Cause/Tx：Streptococcus pyogenes（GAS）＝PCN＋clindamycin；Vibrio＝doxycycline＋ceftriaxone or Tetracycline+Ceftazidime（RF＝海水暴露）。
   - SS：出血性水泡、痛超過傷口範圍。
   - Exam：CT blurring fascia。
   - Tx：緊急外科清瘡＋broad-spectrum antibiotics；高壓氧只是輔助。
@@ -2088,13 +2092,13 @@
 - MOA：抑制細胞壁合成
   - β-lactam：PCN、cephalosporin、carbapenem、monobactam。
   - PCN 類：長期使用要測腎功能。
-    - Ind：PCN＝syphilis/GAS 首選；PCNase-resistant PCN＝抗 β-lactamase/Staphylococcus（methicillin、oxacillin；oxacillin 為 MSSA 用藥且肝代謝）；amino-PCN＝對 G（-）有效（ampicillin for Listeria 腦膜炎、amoxicillin）；Augmentin/Unasyn/Tazocin（Tazocin 可顧綠膿）。
+    - Ind：PCN＝syphilis/GAS 首選；PCNase-resistant PCN＝抗 β-lactamase/Staphylococcus（methicillin、oxacillin；oxacillin 為 MSSA 用藥且肝代謝（不能MRSA））；amino-PCN＝對 G（-）有效（ampicillin for Listeria 腦膜炎、amoxicillin）；Augmentin/Unasyn/Tazocin（Tazocin 可顧綠膿）。
     - Pitfall：aminoglycoside 與 amino-PCN 無關。
-  - Cephalosporin 類：1st 偏 G（+）、3rd 偏 G（-）、4th 可抗 AmpC β-lactamase、5th 對 MRSA；ESBL 交給 carbapenem。
+  - Cephalosporin 類：1st 偏 G（+）、3rd 偏 G（-）、4th 可抗 AmpC β-lactamase、5th 對 MRSA；ESBL 交給 carbapenem；打不到Listeria、Enterococci。
     - 例：cefazolin（1st，手術預防/UTI）、cefuroxime（2nd，橫膈上/CAP）、cefoxitin（2nd，橫膈下/GI/婦科）、ceftriaxone（3rd，肝代謝、可過 BBB，for 腦膜炎/淋病）、ceftazidime/cefepime（抗綠膿）、ceftaroline（MRSA）。
   - Carbapenem：廣效；Pitfall＝MRSA 無效（用 vancomycin）、ampicillin-resistant Enterococcus 無效；ertapenem 對綠膿/不動桿菌/腸球菌無效。
   - Monobactam：aztreonam for GNB，PCN 過敏者可用。
-  - Glycopeptides：vancomycin for MRSA；SE＝紅人症候群（輸太快）、耳毒性、腎毒性。
+  - Glycopeptides：vancomycin for MRSA；SE＝紅人症候群（輸太快）、耳毒性、腎毒性；會被透析清除，透析後要監測濃度。
   - Bacitracin：毒性太強，僅外敷。
 - MOA：抑制蛋白質合成
   - 50S：macrolide（非典型肺炎；clarithromycin 對 H. pylori 有效）、clindamycin、linezolid（MRSA/VRE；SE/DD 交互作用多）、chloramphenicol（aplastic anemia、gray baby syndrome，少用）。
@@ -2219,7 +2223,7 @@
 ## RA（考題2）
 
 - 流病/機轉：
-  - 中年女、對稱手部、長期晨僵（>1 hr）；常見 HLA-DR4（＋）
+  - 中年女、對稱手部小關節（屈側synovitis / 伸側nodule）、長期晨僵（>1 hr）；常見 HLA-DR4（＋）
   - 加劇因子：RF（＋）、anti-CCP（＋；特異性較高）
   - Synovitis：macrophage **釋放 TNF-α、IL-1、IL-6，並活化 CD4 T cell**
 - SS：
@@ -2272,15 +2276,16 @@
     - 進展慢；Anti-centromere（＋）
     - 特異 SS：CREST（calcinosis cutis、Raynaud's、esophageal dysmotility、sclerodactyly、telangiectasia）、晚期肺動脈高壓
   - Anti-RNAP III：腎衰竭較明顯，皮膚/關節攣縮較輕微
-  - Tx：Raynaud's（保溫＋CCB避免血小管過度收縮）；esophageal dysmotility（**PPI**）；ILD（Cyclophosphamide）；PAH（ERA、PDE5i）
+  - Tx：Raynaud's（保溫＋CCB避免血小管過度收縮；禁用B-blocker）；esophageal dysmotility（**PPI**）；ILD（Cyclophosphamide）；PAH（ERA、PDE5i）
 - Polymyositis/Dermatomyositis（PM/DM，多發性肌炎/皮肌炎）：
   - 記法：大肌群在核心；肌炎＝近端無力
-  - Lab：Anti-Jo-1（預後差）、Anti-Mi2（預後好）
-  - SS：對稱近端肌無力、上 1/3 食道侵犯、**眼臉 sparing**（重要負向鑑別）
-  - 併發症：乳癌、大腸癌、NPC；確診應全面癌篩
+  - Lab：Anti-Jo-1（PM，預後差）、Anti-Mi2（DM，預後好）
+  - SS：無家族遺傳性對稱近端肌無力、上 1/3 食道侵犯、**眼臉 sparing**（重要負向鑑別）
   - Tx：高劑量類固醇（三個月內） > 免疫抑制劑 > IVIG
-  - PM Dx：4C4＝近端肌肉無力、**CK↑**、肌電圖 abnormal、病理 abnormal
-  - DM Dx：heliotrope rash（上眼皮向陽疹）、Gottron sign（指關節紅斑）、肢體伸側紅斑、shawl sign（後頸）、V sign（胸前）
+  - PM Dx（成人為主；CD8+）：4C4＝近端肌肉無力、**CK↑**、肌電圖 abnormal、病理 abnormal
+  - DM Dx（兒童常見，成人也有；CD4+）：heliotrope rash（上眼皮向陽疹）、Gottron sign（指關節紅斑）、肢體伸側紅斑、shawl sign（後頸）、V sign（胸前）
+    - 併發症：乳癌、大腸癌、NPC；確診應全面癌篩
+  - c.f 另外兩個發炎性肌肉病變（都有家族一傳性、肌肉侵犯不對稱）=Immune-mediated necrotizing myopathy（creatine爆高）、IBM（唯一男多，老男人）
 - Mixed connective tissue disease（MCTD，混合性結締組織病）：
   - Dx：同時有上述結締組織病特徵＋**Anti-U1 RNP**（＋）
   - 死因：肺動脈高壓
@@ -2358,7 +2363,7 @@
   - Dx：非發炎性，磨損造成
   - SS：單一負重關節；活動後加重、休息後緩解；Heberden's node（DIP）、Bouchard's node（PIP）
   - Exam：骨刺、Heberden/Bouchard node；X-ray＝subchondral cyst（fluid-filled sac）、骨刺、關節狹窄
-  - Tx：減重、止痛
+  - Tx：減重、增加肌力、止痛（非一線，Acetaminophen>NSAIDs）
 - Gout arthritis（痛風性關節炎）：
   - Dx/Risk：發炎性；中年男、停經女
   - SS：單一關節；第一 MTP > 踝 > 膝
@@ -2393,7 +2398,7 @@
   - IgE：Type I 過敏反應；抗寄生蟲主物
   - IgD：B cell 表面接受器
 - Hypersensitivity（過敏反應）四型：
-  - Type I：即時型；IgE 介導；mast cell degranulation；e.g. 尋麻疹、異位性皮膚炎（急性）
+  - Type I（5A1U）：即時型；IgE 介導；mast cell degranulation；e.g. Allergic rhinitis、Atopic dermatitis、Asthma、Anaphylaxis shock、Angioedema、Urticaria
   - Type II：細胞毒型；IgG/IgM 介導；complement 參與；e.g. 血型不合、新生兒溶血、重症肌無力
   - Type III：immune complex（IC）沉積發炎；e.g. SLE、RA、PSGN
   - Type IV：delayed type hypersensitivity；T cell 介導；e.g. contact dermatitis、異位性皮膚炎（慢性）、TB skin test
@@ -2642,7 +2647,7 @@
   - 5-FU：抑制 thymidylate synthase；Tx＝GI/ENT cancer
   - Cytarabine（Ara-C）/Gemcitabine：嘧啶類似物；Ara-C for AML，Gemcitabine for 胰臟癌/肺癌
   - 6-MP：嘌呤類似物；Tx＝ALL
-- G2 phase（topoisomerase inhibitor）：Etoposide（小細胞肺癌、骨肉瘤）；Irinotecan（CPT-11 → SN-38，for 大腸癌；SE＝急性膽鹼症候群、腹瀉）
+- G2 phase（topoisomerase inhibitor；SE=平衡染色體易位）：Etoposide（小細胞肺癌、骨肉瘤）；Irinotecan（CPT-11 → SN-38，for 大腸癌；SE＝急性膽鹼症候群、腹瀉）
 - M phase（mitotic spindle inhibitors）：
   - Vinca alkaloids：抑制微管聚合；Tx＝白血病/淋巴瘤；SE＝皮膚糜爛 → 熱敷
     - Vincristine（Oncovin）：神經毒性、不會骨髓抑制；NHL（CH"O"P）
@@ -2667,9 +2672,9 @@
     - LCIS（Lobular Carcinoma In Situ原位乳小葉癌）：手術全切 since 多發
     - DCIS（Ductal Carcinoma In Situ原位乳管癌）：lumpectomy＋放療
     - 化療：for TNBC/HER2+/LN+
-    - Hormonal：ER/PR+；停經前 Tamoxifen，停經後 **aromatase inhibitor**
-    - PARP inhibitor（Olaparib/Talazoparib）：for
-    **Aromatase**
+    - Hormonal：ER/PR+；停經前 Tamoxifen（但有子宮頸癌風險），停經後 **aromatase inhibitor**
+    - PARP inhibitor（Olaparib/Talazoparib）：for  
+    **Aromatase**  
     1/2＋TNBC（三陰性）
   - Occult breast cancer：腋下 adenocarcinoma＋乳房影像陰性；Exam＝ER/PR/HER2/GATA3；Tx＝不用切乳房，腋下處理＋全乳放療 ± 全身治療
 - Colorectal cancer（CRC，大腸癌）：

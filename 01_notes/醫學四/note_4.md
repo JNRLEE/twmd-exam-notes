@@ -25,6 +25,7 @@
 
 ## 小兒CV（考題29）
 
+- 男女比：涉及主動脈＝男多（ToF、TGA、CoA、BAC、AS）；其他=女多
 - 發紺先天心臟病
   - 5T：Tetralogy of Fallot（TOF，1st）、Transposition of great arteries（TGA，大血管轉位）、Tricuspid atresia（三尖瓣閉鎖）、Total anomalous pulmonary venous return（TAPVR，全肺靜脈異常回流）、Truncus arteriosus（共同動脈幹）
   - 其他：Pulmonary atresia（肺動脈閉鎖）、Ebstein anomaly（艾布斯坦畸形）、Hypoplastic left heart syndrome（HLHS，左心發育不全症候群）
@@ -40,7 +41,7 @@
     - 併發症：腦栓塞（>2y/o，because **polycythemia/dehydration**）、腦膿瘍（>2y/o，低燒/行為改變）、細菌心內膜炎
     - 相關先天 dx：DiGeorge（1st，染色體異常）、CATCH22（ch22q11.2 deletion）、先天肺動脈瓣缺失
     - Exam：CXR（**boot-shape heart**，肺紋減少）、EKG（右軸偏移，右心室肥厚）、Echo（for 確診）
-    - Tx：PGE1 for 維持血流/灌流 ⭢ 手術（人工血管、VSD 修補）
+    - Tx：PGE1 for 維持血流/灌流 ⭢  手術（人工血管、VSD 修補）；症狀控制=chest-knee postiton、a-agonist、beta blocker
   - Pulmonary atresia（全依靠 PDA）
     - 分類：伴隨 VSD＝重度 Fallot（但心臟不一定肥大）；無 VSD＝嚴重缺氧
     - Exam：EKG 尖 P 波、QRS 0-90 度
@@ -213,9 +214,9 @@
   - Biliary atresia：
     - Exam weight：1st肝膽dx；治不太好
     - SS：出生2-8wks內黃疸（直接型，出生時還沒）、灰白色大便、深色尿
-    - Exam：肝功能檢查（直接型黃疸）、Echo（triangular cord sign/膽囊異常，**肝內膽管通常不擴張**）、排除新生兒肝炎
+      - Exam：肝功能檢查（直接型黃疸）、Echo（triangular cord sign，**肝內膽管通常不擴張**）、切片（膽管增生/膽汁淤積/纖維化）、排除新生兒肝炎、腹部探查/術中膽道攝影 for 確診
     - Tx：
-      - Kasai hepatic procedure（肝門空腸吻合術）：**for 管徑>150um**；越早越好但非根治
+      - Kasai hepatic procedure（肝門空腸吻合術）：**for 管徑>150um**；越早越好（<60days）但非根治
       - 移植：根治；70%病人最終需要
   - 膽囊水腫/膽囊壁水腫（gallbladder hydrops/wall edema）：
     - Exam：小兒考題優先想**Kawasaki disease**（川崎病，發燒>5天＋結膜/草莓舌/手足紅腫/頸部淋巴）
@@ -236,12 +237,12 @@
       - 內視鏡治療：結紮/硬化劑注射
 - 腹壁缺損
   - Omphalocele：
-    - 特徵：有包膜；預後差、死亡率高；腹壁缺損在umbilicus
+    - 特徵：有包膜、缺口大；預後差、死亡率高；腹壁缺損在umbilicus
     - SS：包膜覆蓋的腸子暴露在羊水中
     - 伴隨其他先天dx：Malrotation（1st）、Meckel's、Fallot、ch13，18，21三倍體
     - Tx：濕紗保濕、手術
   - Gastroschisis：
-    - 特徵：無包膜；死亡率低；only**隱睪風險**；腹壁缺損在umbilicus右側
+    - 特徵：無包膜、失水多（無膜要大量靜脈輸液）、缺口小；死亡率低；only**隱睪風險**；腹壁缺損在umbilicus右側
     - SS：無包膜覆蓋的腸子暴露在羊水中（易發炎）、**母親AFP⭡**
     - Tx：同Omphalocele
 
@@ -441,8 +442,8 @@
 - Adenovirus：
   - Exam定位：老二病毒（淋巴/呼吸/消化 2nd）
   - 相關Dx：
-    - Pharyngo-conjunctival fever：發燒**感冒結膜濾泡性充血**
-    - Epidemic keratoconjunctivitis（EKC）：**眼睛水性分泌，耳前淋巴腫**
+    - Pharyngo-conjunctival fever咽結膜熱：發燒**感冒結膜濾泡性充血**
+    - Epidemic keratoconjunctivitis（EKC流行性角膜炎）：**眼睛水性分泌，耳前淋巴腫**
   - Tx：洗手，少游泳，少揉眼睛
 - EB virus（口腔終身寄生，又名**Kiss dx**）：
   - Exam：初期IgM＋；後期**Heterophile** test/EBNA＋
@@ -509,7 +510,7 @@
 - Neurocutaneous Syn
   - Neurofibromatosis（NF＝神經纖維瘤病，**AD體顯**，無有效Tx）：
     - 分類：
-      - NF1：Ch17 neurofibromin，50%偶發，**von Recklinghausen dx**
+      - NF1：Ch17 neurofibromin，50%偶發，**von Recklinghausen dx；會性早熟、智力不足**
         - SS＝6C2：Cafe-au-lait macules，腋/鼠蹊freckling，Lisch nodules，脊椎側彎，**optic pathway glioma**，**neurofibroma/plexiform neurofibroma**
         - 腫瘤：MPNST（malignant peripheral nerve sheath tumor，惡性周邊神經鞘瘤），pheochromocytoma，JMML（juvenile myelomonocytic leukemia，幼年型骨髓單核球白血病）
       - NF2：Ch22 merlin，現稱NF2-related schwannomatosis
@@ -518,7 +519,8 @@
   - Tuberous sclerosis（結節硬化症TS，**Ch9/16**突變⭢mTOR過度活化，無有效Tx）：
     - SS：
       - 皮膚病變：ash leaf低色素白斑，Shagreen patch（腰薦鯊魚皮粗糙斑），Sebaceous adenomas（臉頰青春痘斑），Subungual/Periungual fibromas（青少年指甲纖維瘤），Facial angiofibrosis
-      - 新生兒infantile spasm
+      - 心臟：橫紋肌瘤（>50%病人）
+      - 新生兒infantile spasm（s/p Vigabatrin）
     - Tx：mTOR inhibitor（**Everolimus、Sirolimus**），癲癇藥（Vigabatrin for infantile spasm）
   - Sturge-Weber syn（腦血管床Abnl⭢皮質鈣化/萎縮，癲癇）：
     - SS：Port-wine stain（葡萄酒斑面部血管瘤），leptomeningeal angioma（腦膜血管瘤），**buphthalmos（牛眼先天青光眼）**，<1y/o **酒斑對側Seizure**
@@ -642,7 +644,7 @@
       - Exam定位：1st，Rule of 10（10%沒有明顯甲亢，**10%眼病可單側**，女/男≈10，20-50y/o）
       - 成因：自體免疫刺激TSH receptor⭢**甲狀腺過度活化**
       - SS：軟組織侵犯（**眼乾澀，複視，角膜受損**），lid retraction眼瞼退縮，proptosis眼凸，肌肉水腫＋不可逆纖維化
-      - Pitfall：眼外肌侵犯順序＝下內上外
+      - Pitfall：眼外肌侵犯順序（Tendon sparing）＝下內上外
       - Tx：PTU，MMI，β-blocker（症狀控制）
 - 副甲狀腺（主要作用在osteoblast；不管降鈣升鈣）
   - Hypoparathyroidism：
@@ -690,6 +692,7 @@
   - McCune-Albright syn：
     - 成因：GNAS abnl⭢G protein突變⭢LH，FSH過度活化
     - SS：咖啡牛奶斑，fibrous dysplasia骨病變，**Ambiguous genitalia女嬰外陰肥大**
+    - **Tx:Aromatase inhibitor**
   - Familial male-limited precocious puberty（testotoxicosis）：
     - 遺傳/成因：**體顯**，LHCGR（LH receptor）活化突變⭢Leydig cell自動分泌testosterone；只有男性發病
     - SS：**2-4y/o男童virilization（陰莖變大，陰毛/腋毛，體味，acne，聲音低沉），快速長高＋骨齡超前（終身身高反矮），睪丸小/不成比例（FSH未啟動）**
@@ -721,7 +724,7 @@
       - Exam：血清Ca/PTH、Echo、Xray（無胸腺）
       - Tx：胸腺/骨髓transplant
   - B-cell缺陷（ABC）：
-    - RF/感染：>6m/o發病（母親抗體沒了），**∵莢膜細菌（能抵抗吞噬但會被Ig binding），Enterovirus、S.pneumonea、Hib、Neisseria**
+    - RF/感染：>6m/o發病（母親抗體沒了），**∵莢膜細菌（能抵抗吞噬但會被Ig binding；H.inf、P.pneu、N.men.），Enterovirus、S.pneumonea、Hib、Neisseria**
     - Dx：Selective IgA deficiency（1st），X-linked agammaglobulinemia（Bruton），CVID
     - SS：反覆**呼吸道/腸道感染**
     - Exam：血清IgA⭣，Flow cytometry
@@ -853,7 +856,7 @@
       - Lab：schistocytes（helmet cell）、LDH⭡、haptoglobin⭣；**PT/aPTT不延長**（cf. DIC＝PT/aPTT延長）
     - Hemolytic uremic syndrome（HUS，kidney local；會溶血）：
       - 成因：E. coli O157：H7/Shiga toxin；多兒童血便後AKI
-      - Tx：支持治療（補液/透析）；典型Shiga toxin HUS避免抗生素/止瀉藥
+      - Tx：支持治療（補液/透析）；典型Shiga toxin（HUS避免抗生素/止瀉藥，症狀比TTP多一個腹瀉）
     - Thrombotic thrombocytopenic purpura（TTP，systemic）：
       - 成因：多後天抗ADAMTS13（嚴重下降常<10-15%）→ vWF multimer清不掉 → platelet microthrombi
       - SS：HUS triad + fever/CNS症狀；成人、神經症狀明顯較偏TTP
@@ -1133,13 +1136,13 @@
   - Respiratory distress syndrome（RDS，hyaline membrane dx）：
     - RF：GA<37，GDM，男嬰
     - 成因：肺表面活性劑（Surfactant）不足
-    - SS：出生6hr，**呼吸急促，胸骨凹陷，鼻翼扇動**
+    - SS：出生6hr逐漸惡化，**呼吸急促，胸骨凹陷，鼻翼扇動**
     - Exam：**CXR（低肺容積，ground-glass肺小小霧霧的，air bronchogram）**，切片（**hyaline membrane**），產前**Lecithin/Sphingomyelin ratio<2.0**，shake test（-，胃液+酒精＝沒泡泡）
-    - Tx：產前給**betamethasone（長效類固醇）**，保溫箱，Surfactant
+    - Tx：Permissive hypercapnia＋避免高壓氧、產前給**betamethasone（長效類固醇）**，保溫箱，Surfactant
   - Transient tachypnea of newborn（TTN）：
     - RF：C/S
     - 成因：胎兒肺液吸收不良（哭不夠，沒有陰道擠壓）
-    - SS：出生立即，呼吸急促，胸骨凹陷，鼻翼扇動
+    - SS：出生立即，呼吸急促，胸骨凹陷，鼻翼扇動、三天內消退（鑑別RDS）
     - Exam：**CXR（hyperinflation，小葉間fluid，心肥大）**，shake test（+，胃液+酒精＝有泡泡）
     - Tx：保溫箱，O2
   - Meconium aspiration syndrome（MAS，胎便症候群）：
@@ -1154,7 +1157,7 @@
     - SS：呼吸暫停>20s，心跳慢，血氧降
     - Tx：刺激（拍背），CPAP，**咖啡因，茶鹼**（for NB therapeutic window窄，像是Asthma長期就不適合茶鹼）
   - Congenital diaphragmatic hernia（CDH）：
-    - SS：late onset喘，舟狀腹
+    - SS：late onset喘，舟狀腹（或腹部扁平即可）、心尖搏動偏右
     - Tx：插管，禁用面罩
 - Persistent pulmonary hypertension of newborn（PPHN；出生後肺血管阻力沒有正常下降，仍然走胎兒循環）：
   - RF：足月 ∪ GA>40、birth asphyxia（出生時窒息）、MAS、感染史、**懷孕用NSAIDs**（動脈導管收縮）
@@ -1275,7 +1278,7 @@
     - 病原/RF：S. aureus感染，年輕人夏天毛囊炎（手腳掌sparing）
     - SS：紅腫熱痛，膿頭
     - Tx：熱敷，Anti（Mupirocin，Retapamulin），引流
-    - cf. Hidradenitis suppurativa（HS，化膿性汗腺炎/反常性痤瘡）：
+    - cf. Hidradenitis suppurativa（HS，化膿性汗腺炎/反常性痤瘡；女多）：
       - 病理：不是汗腺細菌感染，是毛囊阻塞/慢性發炎
       - RF：好發腋下/鼠蹊/肛周
       - SS：反覆痛性結節、膿瘍、竇道、疤痕
@@ -1442,14 +1445,15 @@
 - Atopic dermatitis（異位性皮膚炎）：
   - MOA：皮膚屏障缺陷 + type 2 inflammation（IgE type I hypersensitivity為主+type IV）
   - RF：<5y/o，異位性體質，氣喘史
-  - SS（白糠毛腳魚鱗癬+白劃結錐障）：白色糠疹Pityriasis alba、毛囊角化Keratosis pilaris、尋常魚鱗癬Ichthyosis vulgaris、白色劃紋症white dermatographism、結膜炎Conjunctivitis、角膜圓錐Keratoconus、白內障Cataracts、**Dennie-Morgan眼眶下褶皺**
+  - SS（白糠毛角魚鱗癬+白劃結錐障）：白色糠疹Pityriasis alba、毛囊角化Keratosis pilaris、尋常魚鱗癬Ichthyosis vulgaris、白色劃紋症white dermatographism、結膜炎Conjunctivitis、角膜圓錐Keratoconus、白內障Cataracts、**Dennie-Morgan眼眶下褶皺**
+  - **Location：<2y/o頭臉手伸側（悶熱處不接觸外界故安全）、其他頸手屈側**
   - Complication：**eczema herpeticum**皰疹感染，keratoconus錐形角膜，cataracts白內障
   - Tx：保濕，抗組織胺，Steroid
   - 補：Wiskott-Aldrich syndrome＝血小板低下（1st，出血體質）、免疫功能低下、異位性皮膚炎
 - Seborrheic dermatitis（脂漏性皮膚炎）：
   - MOA：成因不明，但與Malassezia（皮膚常在lipophilic yeast）增生/免疫反應相關，非典型傳染病
   - RF：男多，雙峰分布（嬰兒，中年）
-  - SS：皮脂分布處油膩鱗屑（臉部T字型，耳後）
+  - SS：皮脂分布處油膩鱗屑（臉部T字型，耳後；但不侵犯關節）
   - Tx：規律生活，頭皮屑治療（焦油，硫化硒，Zinc），**抗真菌洗髮精**，Steroid
   - cf. Atopic dermatitis：常四肢伸側
 - Asteatotic eczema（缺脂性濕疹）：
@@ -1502,7 +1506,7 @@
   - Flare trigger：**TIDES**＝Trauma（Koebner）、Infection（GAS→guttate psoriasis）、Drug（**ABCD+GI**：ACEi、anti-malarial（chloroquine）、β-blocker、corticosteroid/停藥 rebound、lithium、Gemfibrozil、Imiquimod、IFN）、Environment、Sun（phototherapy可治療；反覆日曬/曬傷可惡化）
 - SS：
   - 紅色斑塊覆蓋**銀白色鱗屑**；沖洗後紅斑不退
-  - 關節/指甲侵犯
+  - 關節/指甲侵犯（指甲油滴狀變色，專一性高）
 - Exam：
   - 皮膚切片：表皮增厚，**Munro's microabscess**
   - **Auspitz sign**：刮除鱗屑出現血點
@@ -2243,7 +2247,7 @@
   - Tx：Levodopa+Benserazide（=Madopar，⭡多巴胺前驅物）；刺激dopamine釋出（Amantadine）；dopamine agonist（Bromocriptine，Pramipexole，副作用噁心嘔吐）
   - PD用藥年齡快分：
     - <60-70y/o且認知正常：可先DA agonist（pramipexole/ropinirole/rotigotine）或MAO-B inhibitor（sele**giline**/ra**sagiline**/sa**finamide；減少Dopamine分解**）；顫抖型可短期anticholinergic（**trihexyphenidyl/benztropine**）
-    - >70y/o或失智/幻覺風險高：Levodopa首選；**避免anticholinergic**（惡化認知/幻覺/尿滯留）
+    - > 70y/o或失智/幻覺風險高：Levodopa首選；**避免anticholinergic**（惡化認知/幻覺/尿滯留）
   - Parkinson disease dementia（PDD）：
     - Dx：PD motor症狀先>1y後才失智（cf. DLB一年內同時）
     - Tx：**Rivastigmine（ChE inhibitor中常考唯一有PDD適應症）**

@@ -207,6 +207,7 @@
     - Tx： threatened abortion（先兆性流產，**子宮頸未開但下腹痛/出血**）可**黃體素安胎**；inevitable/incomplete/missed abortion走流產處置
   - Pregnancy termination（人工流產）：<24wks可執行
     - 藥物：**<7wks用misoprostol**；>15wks用misoprostol ± mifepristone
+      - 子宮內孕墮胎一定要有misoprostol（宮縮、子宮軟化，才能排出）；Miifepristone、Methotrexate只是破壞懷孕
     - 手術：D&C（dilation and curettage，子宮擴刮術）for <14wks；胎兒太大會失血過多
 
 ## Postpartum產後時期（考題1）
@@ -433,8 +434,8 @@
     - Tx＝手術分期（hysterectomy+bilateral salpingo-oophorectomy（BSO，雙側輸卵管卵巢切除）±lymph node（LN，淋巴結）），**stage IV/明顯腹腔病灶才考慮cytoreduction（減積手術）**；化/放/賀爾蒙依stage/risk
     - PMB考法：最常見＝**內膜/陰道萎縮；最重要＝先排除endometrial cancer（約10%）**
     - Histology/Type：
-      - Type I：**estrogen-related**（肥胖/PCOS），endometrioid（80%，**grade 1-2，分化好，預後好，常異常出血**）
-      - Type II：non-estrogen-related，serous/clear cell（grade 3，**p53**，分化差，預後差）
+      - Type I（子宮內膜增厚）：**estrogen-related**（肥胖/PCOS），endometrioid（80%，**grade 1-2，PTEN，分化好，預後好，常異常出血**）
+      - Type II（子宮內膜萎縮）：non-estrogen-related，serous/clear cell（grade 3，**p53/Her2**，分化差，預後差）
   - **Sarcoma of uterus**（子宮肉瘤，中胚層，**易血行轉移，約10%已肺轉移**）：
     - 預後差＝high grade endometrial stromal sarcoma/undifferentiated uterine sarcoma
     - 預後好＝leiomyosarcoma（停經後快速變大的「肌瘤樣」腫塊、AUB、骨盆痛）、**adenosarcoma**、low grade endometrial stromal sarcoma
@@ -1912,8 +1913,8 @@
   - Complication：腮腺腫瘤/手術可傷facial nerve（顏面神經）；**Frey syndrome＝腮腺術後吃東西臉頰流汗**。
   - **Mucoepidermoid carcinoma（黏液表皮癌，1st惡性）：腮腺/小唾液腺為主**。
   - **Adenoid cystic carcinoma（腺樣囊性癌，2nd惡性）**：下頷腺/小唾液腺為主；生長慢但perineural invasion，疼痛/面神經麻痺；血行轉移肺骨；Tx＝手術＋放射治療。
-  - **Pleomorphic adenoma**（多形性腺瘤/良性混合瘤，1st良性）：Mainly腮腺；pseudocapsule但**有偽足，需完整切除**；久了可變carcinoma ex pleomorphic adenoma。
-  - Warthin tumor（乳頭狀囊腺淋巴瘤，2nd良性）：老年男性、吸菸；Tx＝腮腺淺葉切除即可。
+  - **Pleomorphic adenoma**（多形性腺瘤/良性混合瘤，1st良性）：Mainly腮腺；pseudocapsule但**有偽足，需完整切除（連同周邊預留margin）**；久了可變carcinoma ex pleomorphic adenoma。
+  - Warthin tumor（乳頭狀囊腺淋巴瘤，2nd良性）：老年男性、吸菸；Tx＝腮腺淺葉切除即可（連同周邊預留margin）。
     - cf. Wharton's duct＝下頷腺導管，不是Warthin tumor。
 - 頭頸癌（多為SCC＝squamous cell carcinoma；HPV＝human papillomavirus偏口咽癌；EBV＝Epstein-Barr virus偏鼻咽癌）
   - General：
@@ -1921,50 +1922,50 @@
     - Targeted Tx：Cetuximab（西妥昔單抗）target＝EGFR（epidermal growth factor receptor，表皮生長因子受體）。
   - 口腔癌（90%SCC，1st頭頸癌）：
     - Site：tongue（1st）、floor of mouth、buccal、gingiva、hard palate、lip、retromolar trigone。
-    - SS：無痛不癒潰瘍>2wks/腫塊；後期頸部淋巴腫。
+    - SS：無痛**不癒潰瘍>2wks/腫塊**；後期頸部淋巴腫。
     - Exam：觸診＋biopsy；CT看侵犯範圍。
-    - Tx：手術切除；stage III-IV常合併CCRT（concurrent chemoradiotherapy，同步化放療）。
+    - Tx：手術切除；**stage III-IV常合併CCRT（concurrent chemoradiotherapy，同步化放療）**。
   - Nasal/sinus cancer（鼻竇癌，80%SCC，上頷竇為主，2nd頭頸癌）：
-    - RF（與檳榔無關）：抽菸、喝酒、鎳、芥子氣、鉻、木屑粉塵。
-    - SS：早期無症狀；單側鼻塞/出血/複視/CN5-2神經痛。
+    - RF（與檳榔無關）**：抽菸、喝酒、鎳、芥子氣**、鉻、木屑粉塵。
+    - SS：早期無症狀；單側鼻塞、出血、複視、CN5-2神經痛。
     - Tx：手術切除＋化放療。
   - NPC（nasopharyngeal carcinoma，鼻咽癌；放射敏感，EBV相關，Mainly Rosenmuller fossa）：
-    - RF（與喝酒/檳榔關係弱）：男性、抽菸、東南亞/非洲、鹹魚/亞硝酸、HLA-A2。
-    - WHO type I（keratinizing SCC，最差預後），type III（undifferentiated，EBV最相關，盛行率最高，預後最好）；
-    - SS（六大症狀）：單側鼻塞/出血/複視/頸腫塊/耳悶＋聽損/頭痛。
-    - Exam：nasopharyngoscopy＋biopsy才可診斷；CT/MRI定位。
+    - RF（與**喝酒/檳榔關係弱**）：男性、抽菸、東南亞/非洲、鹹魚/亞硝酸、**HLA-A2**。
+    - WHO type I（**keratinizing SCC，最差預後**），type III（undifferentiated，EBV最相關，盛行率最高，預後最好）；
+    - SS（六大症狀）：單側鼻塞、出血、複視、頸腫塊、耳悶、聽損/頭痛。
+    - Exam：nasopharyngoscopy＋**biopsy才可診斷**；CT/MRI定位。
     - Tx：化放療；手術for復發或殘留病灶。
   - Hypopharyngeal cancer（下咽癌，SCC為主，淋巴結豐富易轉移）：
-    - RF：中壯年男性、ABC、VitA/B缺乏、Plummer-Vinson syndrome（女性缺鐵，postcricoid cancer）。
-    - Site：pyriform sinus（80%）、postcricoid area、posterior pharyngeal wall。
-    - Lymph：單側病灶最常同側Level II、III、IV；Level I偏口腔。
-    - SS：初期症狀輕微；聲音沙啞/吞嚥痛多較晚。
+    - RF：中壯年男性、ABC、VitA/B缺乏、**Plummer-Vinson syndrome（女性缺鐵**，postcricoid cancer）。
+    - Site：**pyriform sinus（80%）**、postcricoid area、posterior pharyngeal wall。
+    - Lymph：單側病灶最常**同側Level II、III、IV**；Level I偏口腔。
+    - SS：**初期症狀輕微**；聲音沙啞/吞嚥痛多較晚。
     - Exam/Tx：喉內視鏡＋影像分期；手術＋CCRT，術後重視聲音/吞嚥復健。
   - Esophageal cancer（食道癌）：
     - 流病：台灣/全球SCC為主；美國近年adenocarcinoma>SCC。
-    - RF：SCC＝ABC、熱飲/腐蝕傷、achalasia；adenocarcinoma＝GERD/Barrett、肥胖、distal/GE junction。
-    - SS：progressive dysphagia（固體到液體）＋體重減輕；hoarseness多為晚期喉返神經侵犯。
+    - RF：SCC＝ABC、熱飲/腐蝕傷、**achalasia**；adenocarcinoma＝GERD/Barrett、肥胖、**distal/GE junction**。
+    - SS：progressive dysphagia（**固體到液體**）＋體重減輕；hoarseness多為晚期喉返神經侵犯。
     - Exam：EGD（esophagogastroduodenoscopy，上消化道內視鏡）＋biopsy；staging＝EUS（endoscopic ultrasound，內視鏡超音波）/CT/PET。
     - Esophagectomy術式快分：
 
-      | 術式                             | 切口         | 吻合位置 | 常用情境         |
-      | ------------------------------ | ---------- | ---- | ------------ |
-      | Ivor Lewis                     | 腹＋右胸       | 胸腔內  | 中下段食道癌       |
-      | McKeown                        | 頸＋胸＋腹（三切口） | 頸部   | 上段食道癌/需頸部廓清  |
-      | Transhiatal esophagectomy（THE） | 腹＋頸        | 頸部   | 早期下段、較不耐胸腔手術 |
+      | 術式                             | 切口         | 吻合位置    | 常用情境             |
+      | ------------------------------ | ---------- | ------- | ---------------- |
+      | Ivor Lewis（Lowis）              | 腹＋右胸       | **胸腔內** | 中下段食道癌           |
+      | McKeown（馬上）                    | 頸＋胸＋腹（三切口） | **頸部**  | 上段食道癌/需頸部廓清      |
+      | Transhiatal esophagectomy（THE） | 腹＋頸        | 頸部      | **早期下段、較不耐胸腔手術** |
 
-  - Laryngeal cancer（喉癌，SCC為主，與檳榔無關）
-    - RF（與檳榔無關）：中壯年男性、抽菸喝酒、HPV。
-    - Site：glottic（聲門區，1st，早期聲音沙啞、淋巴少）、supraglottic（聲門上區，淋巴多易轉移）、subglottic（聲門下區，難早期發現）。
+  - Laryngeal cancer（喉癌，SCC為主，與**檳榔無關**）
+    - RF（與檳榔無關）：中壯年男性、**抽菸喝酒**、HPV。
+    - Site：glottic（聲門區，1st**，早期聲音沙啞、淋巴少**）、supraglottic（聲門上區，**淋巴多易轉移**）、subglottic（聲門下區，難早期發現）。
     - SS：聲音沙啞、喉嚨痛、吞嚥困難。
     - Tx：早期可放射治療/保守手術；晚期全喉切除＋永久氣管造口。
-  - Oropharyngeal cancer（口咽癌，SCC為主，早期無症狀又容易淋巴轉移）
+  - Oropharyngeal cancer（口咽癌，SCC為主，早期**無症狀又容易淋巴轉移**）
     - RF：ABC、HPV（tonsil crypts易讓HPV進basal cell）。
     - Site：舌根、扁桃體、軟顎。
     - SS：初期無症狀；喉嚨痛、吞嚥困難、頸部淋巴腫。
-    - Tx：化學/放射治療；HPV+通常對化放療反應較好。
+    - Tx：化學/放射治療；**HPV+通常對化放療反應較好**。
   - 甲狀腺癌：
-    - Papillary（乳突癌，1st）：BRAF/RET-PTC；淋巴轉移常見；RAI（radioactive iodine，放射碘）敏感，傳統化療不敏感。
-    - Follicular（濾泡癌）：RAS；血行轉移較典型；良惡性靠capsular/vascular invasion。
-    - Medullary（髓質癌，from parafollicular C cell）：RET/MEN2、calcitonin、amyloid；不吃碘，RAI無效，手術為主。
+    - Papillary（乳突癌，1st）：**BRAF**/RET-PTC；**淋巴轉移常見（預後極好，<55t/o就算遠端轉移也只有StageII（>55y/o StageIV））**；RAI（radioactive iodine，放射碘）敏感，傳統化療不敏感。
+    - Follicular（濾泡癌）：RAS；**血行轉移較典型**；良惡性靠capsular/vascular invasion。
+    - Medullary（髓質癌，from **parafollicular C cell**）：RET/MEN2、**calcitonin**、amyloid；**不吃碘，**RAI無效，手術為主。
     - Anaplastic（未分化癌）：p53/去分化；高度惡性、預後最差。
