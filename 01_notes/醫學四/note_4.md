@@ -41,7 +41,7 @@
     - 併發症：腦栓塞（>2y/o，because **polycythemia/dehydration**）、腦膿瘍（>2y/o，低燒/行為改變）、細菌心內膜炎
     - 相關先天 dx：DiGeorge（1st，染色體異常）、CATCH22（ch22q11.2 deletion）、先天肺動脈瓣缺失
     - Exam：CXR（**boot-shape heart**，肺紋減少）、EKG（右軸偏移，右心室肥厚）、Echo（for 確診）
-    - Tx：PGE1 for 維持血流/灌流 ⭢  手術（人工血管、VSD 修補）；症狀控制=chest-knee postiton、a-agonist、beta blocker
+    - Tx：PGE1 for 維持血流/灌流 ⭢ 手術（人工血管、VSD 修補）；tet spell症狀控制＝knee-chest position、α-agonist、β-blocker
   - Pulmonary atresia（全依靠 PDA）
     - 分類：伴隨 VSD＝重度 Fallot（但心臟不一定肥大）；無 VSD＝嚴重缺氧
     - Exam：EKG 尖 P 波、QRS 0-90 度
@@ -692,7 +692,7 @@
   - McCune-Albright syn：
     - 成因：GNAS abnl⭢G protein突變⭢LH，FSH過度活化
     - SS：咖啡牛奶斑，fibrous dysplasia骨病變，**Ambiguous genitalia女嬰外陰肥大**
-    - **Tx:Aromatase inhibitor**
+    - Tx：Aromatase inhibitor
   - Familial male-limited precocious puberty（testotoxicosis）：
     - 遺傳/成因：**體顯**，LHCGR（LH receptor）活化突變⭢Leydig cell自動分泌testosterone；只有男性發病
     - SS：**2-4y/o男童virilization（陰莖變大，陰毛/腋毛，體味，acne，聲音低沉），快速長高＋骨齡超前（終身身高反矮），睪丸小/不成比例（FSH未啟動）**
@@ -856,7 +856,7 @@
       - Lab：schistocytes（helmet cell）、LDH⭡、haptoglobin⭣；**PT/aPTT不延長**（cf. DIC＝PT/aPTT延長）
     - Hemolytic uremic syndrome（HUS，kidney local；會溶血）：
       - 成因：E. coli O157：H7/Shiga toxin；多兒童血便後AKI
-      - Tx：支持治療（補液/透析）；典型Shiga toxin（HUS避免抗生素/止瀉藥，症狀比TTP多一個腹瀉）
+      - Tx：支持治療（補液/透析）；典型Shiga toxin HUS：避免抗生素/止瀉藥；症狀比TTP多腹瀉
     - Thrombotic thrombocytopenic purpura（TTP，systemic）：
       - 成因：多後天抗ADAMTS13（嚴重下降常<10-15%）→ vWF multimer清不掉 → platelet microthrombi
       - SS：HUS triad + fever/CNS症狀；成人、神經症狀明顯較偏TTP
@@ -1634,6 +1634,10 @@
     - **Actinic**（Solar） keratosis（光化性角化症）：SCC癌前病灶，形態多樣；RF＝年長白男，曬太陽；SS＝曝曬部位粗糙/脫屑的丘疹/紅斑/棕斑；Tx＝光動力療法，局部抹藥（5-FU/Imiquimod，TCA）
     - Arsenical keratosis（砷化性角化症）：砷>10years；SS＝烏腳病，PAOD，Bowen's dx（SCC in situ，紅色鱗屑斑塊）；併發症＝肺/腎/膀胱/前列腺癌
     - Keratoacanthoma（角化棘皮症≈Wart）：SCC亞型症狀，迅速生長後自癒的低惡性腫瘤；RF＝50y/o男，陽光/化學暴露；SS＝火山口狀鱗狀腫塊，脫落後留疤；Tx＝切除
+- Merkel cell carcinoma（MCC，皮膚神經內分泌癌）：
+  - 地位：少見但侵襲性高，復發/轉移快
+  - RF：老年、免疫抑制、UV、Merkel cell polyomavirus（MCPyV，梅克爾細胞多瘤病毒）
+  - SS/Exam：曝曬部無痛紅紫色快速長結節；IHC（immunohistochemistry，免疫組織化學）＝CK20 dot-like、neuroendocrine markers（chromogranin/synaptophysin）；Tx＝wide excision＋sentinel lymph node biopsy ± radiation
 - Kaposi's sarcoma（血管瘤）：
   - 病因：HHV-8感染，死因多AIDS
   - RF：AIDS；典型KS＝東歐老男；cf. 地域型KS另有雙峰分布（<3y/o，>35y/o）

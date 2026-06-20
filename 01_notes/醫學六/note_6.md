@@ -207,7 +207,7 @@
     - Tx： threatened abortion（先兆性流產，**子宮頸未開但下腹痛/出血**）可**黃體素安胎**；inevitable/incomplete/missed abortion走流產處置
   - Pregnancy termination（人工流產）：<24wks可執行
     - 藥物：**<7wks用misoprostol**；>15wks用misoprostol ± mifepristone
-      - 子宮內孕墮胎一定要有misoprostol（宮縮、子宮軟化，才能排出）；Miifepristone、Methotrexate只是破壞懷孕
+      - 子宮內孕墮胎一定要有misoprostol（宮縮、子宮軟化，才能排出）；Mifepristone、Methotrexate只是破壞懷孕
     - 手術：D&C（dilation and curettage，子宮擴刮術）for <14wks；胎兒太大會失血過多
 
 ## Postpartum產後時期（考題1）
@@ -1572,7 +1572,7 @@
   - Esters（1個i；Cocaine、Procaine）：**血漿cholinesterase代謝，PABA相關過敏較多**
   - 常考藥：Lidocaine短/中效、onset快；**Bupivacaine/Ropivacaine長效，Bupivacaine心毒性較強**
 - 臨床應用
-  - 無痛分娩：epidural anesthesia（硬膜外麻醉）
+  - 無痛分娩：lumbar epidural analgesia（腰椎硬膜外止痛，可放catheter調整）
   - 局部麻醉/神經阻斷：可作**awake intubation**（清醒插管）topical anesthesia的一部分，重點是保留自主呼吸、避免過度鎮靜
   - Brachial plexus block（臂神經叢阻斷）：interscalene偏肩/上臂（**易phrenic nerve膈神經阻斷**）；supraclavicular/infraclavicular/**axillary**偏遠端上肢/手腕手術
   - Spinal anesthesia（脊髓麻醉）：L3-L4或L4-L5進**subarachnoid** space；下腹/骨盆/下肢手術、剖腹產；最常見併發症＝**交感阻斷造成hypotension**（低血壓）
@@ -1587,11 +1587,12 @@
 | Dural sac termination（硬膜囊終點） | S2    | S3-S4 |
 | Sacral hiatus（骶裂孔，caudal穿刺點） | S4-S5 | S4-S5 |
 
-| 處置                      | 位置                                          | 主要用途                                                   |
-| ----------------------- | ------------------------------------------- | ------------------------------------------------------ |
-| Spinal anesthesia（脊髓麻醉） | L3-L4或L4-L5進**subarachnoid space**（避開conus） | 下腹/骨盆/下肢手術、剖腹產；起效快、block較密；藥物沉澱原理，**受年齡、體型、CSF量、姿勢影響** |
-| Lumbar puncture（腰椎穿刺）   | L3-L4或L4-L5進subarachnoid space取CSF          | 診斷meningitis/SAH、量opening pressure、CSF檢查               |
-| **Caudal block（骶管阻滯）**  | Sacral hiatus **S4-S5**進epidural space      | **無痛分娩**、小兒常用；**肛門會陰、泌尿、下腹/下肢手術止痛**                    |
+| 處置 | 入口/目標空間 | 主要用途 | 考點 |
+| --- | --- | --- | --- |
+| Lumbar puncture（腰椎穿刺） | L3-L4或L4-L5進**subarachnoid space**取CSF | 診斷meningitis/SAH、量opening pressure、CSF檢查 | 見CSF；是診斷取樣，不是主要麻醉方式 |
+| Spinal anesthesia（脊髓麻醉） | L3-L4或L4-L5進**subarachnoid space**（避開conus） | 下腹/骨盆/下肢手術、剖腹產 | 單次給藥、起效快、block較密；常見SE＝交感阻斷低血壓/PDPH |
+| Lumbar epidural analgesia（腰椎硬膜外止痛） | L2-L4附近進**epidural space**，常放catheter | **無痛分娩**、術後止痛；可cover T10-L1（第一產程）＋S2-S4（會陰/第二產程） | 不見CSF；可連續調整；比spinal慢、block較可滴定 |
+| **Caudal block（骶管阻滯）** | Sacral hiatus（骶裂孔，約**S4-S5 level**）進**caudal epidural space** | 小兒常用；肛門/會陰、泌尿、下腹/下肢手術止痛 | 同屬epidural但從尾端進；偏sacral roots，成人頭側擴散較不穩 |
 
 - Spinal needle路徑（直上堅韌硬網）：skin⭢subcutaneous tissue⭢supraspinous ligament⭢interspinous ligament⭢ligamentum flavum⭢epidural space⭢dura mater⭢arachnoid mater⭢subarachnoid space（CSF流出）；L3-L4/L4-L5避開spinal cord/conus，路徑**不經pia mater（軟腦膜）**
 - PDPH（post-dural puncture headache，硬膜穿刺後頭痛）：dura穿刺癒合不良⭢CSF leak，orthostatic headache（站立痛、平躺緩解）
@@ -1926,7 +1927,7 @@
     - Exam：觸診＋biopsy；CT看侵犯範圍。
     - Tx：手術切除；**stage III-IV常合併CCRT（concurrent chemoradiotherapy，同步化放療）**。
   - Nasal/sinus cancer（鼻竇癌，80%SCC，上頷竇為主，2nd頭頸癌）：
-    - RF（與檳榔無關）**：抽菸、喝酒、鎳、芥子氣**、鉻、木屑粉塵。
+    - RF（與檳榔無關）：**抽菸、喝酒、鎳、芥子氣**、鉻、木屑粉塵。
     - SS：早期無症狀；單側鼻塞、出血、複視、CN5-2神經痛。
     - Tx：手術切除＋化放療。
   - NPC（nasopharyngeal carcinoma，鼻咽癌；放射敏感，EBV相關，Mainly Rosenmuller fossa）：
@@ -1936,7 +1937,7 @@
     - Exam：nasopharyngoscopy＋**biopsy才可診斷**；CT/MRI定位。
     - Tx：化放療；手術for復發或殘留病灶。
   - Hypopharyngeal cancer（下咽癌，SCC為主，淋巴結豐富易轉移）：
-    - RF：中壯年男性、ABC、VitA/B缺乏、**Plummer-Vinson syndrome（女性缺鐵**，postcricoid cancer）。
+    - RF：中壯年男性、ABC、VitA/B缺乏、**Plummer-Vinson syndrome（女性缺鐵，postcricoid cancer）**。
     - Site：**pyriform sinus（80%）**、postcricoid area、posterior pharyngeal wall。
     - Lymph：單側病灶最常**同側Level II、III、IV**；Level I偏口腔。
     - SS：**初期症狀輕微**；聲音沙啞/吞嚥痛多較晚。
@@ -1956,7 +1957,7 @@
 
   - Laryngeal cancer（喉癌，SCC為主，與**檳榔無關**）
     - RF（與檳榔無關）：中壯年男性、**抽菸喝酒**、HPV。
-    - Site：glottic（聲門區，1st**，早期聲音沙啞、淋巴少**）、supraglottic（聲門上區，**淋巴多易轉移**）、subglottic（聲門下區，難早期發現）。
+    - Site：glottic（聲門區，**1st，早期聲音沙啞、淋巴少**）、supraglottic（聲門上區，**淋巴多易轉移**）、subglottic（聲門下區，難早期發現）。
     - SS：聲音沙啞、喉嚨痛、吞嚥困難。
     - Tx：早期可放射治療/保守手術；晚期全喉切除＋永久氣管造口。
   - Oropharyngeal cancer（口咽癌，SCC為主，早期**無症狀又容易淋巴轉移**）
@@ -1967,5 +1968,5 @@
   - 甲狀腺癌：
     - Papillary（乳突癌，1st）：**BRAF**/RET-PTC；**淋巴轉移常見（預後極好，<55t/o就算遠端轉移也只有StageII（>55y/o StageIV））**；RAI（radioactive iodine，放射碘）敏感，傳統化療不敏感。
     - Follicular（濾泡癌）：RAS；**血行轉移較典型**；良惡性靠capsular/vascular invasion。
-    - Medullary（髓質癌，from **parafollicular C cell**）：RET/MEN2、**calcitonin**、amyloid；**不吃碘，**RAI無效，手術為主。
+    - Medullary（髓質癌，from **parafollicular C cell**）：RET/MEN2、**calcitonin**、amyloid；**不吃碘，RAI無效**，手術為主。
     - Anaplastic（未分化癌）：p53/去分化；高度惡性、預後最差。

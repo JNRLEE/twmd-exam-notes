@@ -2285,7 +2285,7 @@
   - PM Dx（成人為主；CD8+）：4C4＝近端肌肉無力、**CK↑**、肌電圖 abnormal、病理 abnormal
   - DM Dx（兒童常見，成人也有；CD4+）：heliotrope rash（上眼皮向陽疹）、Gottron sign（指關節紅斑）、肢體伸側紅斑、shawl sign（後頸）、V sign（胸前）
     - 併發症：乳癌、大腸癌、NPC；確診應全面癌篩
-  - c.f 另外兩個發炎性肌肉病變（都有家族一傳性、肌肉侵犯不對稱）=Immune-mediated necrotizing myopathy（creatine爆高）、IBM（唯一男多，老男人）
+  - c.f 另外兩個發炎性肌肉病變（家族遺傳性不典型、肌肉侵犯可不對稱）=Immune-mediated necrotizing myopathy（creatine爆高）、IBM（唯一男多，老男人）
 - Mixed connective tissue disease（MCTD，混合性結締組織病）：
   - Dx：同時有上述結締組織病特徵＋**Anti-U1 RNP**（＋）
   - 死因：肺動脈高壓
@@ -2673,9 +2673,7 @@
     - DCIS（Ductal Carcinoma In Situ原位乳管癌）：lumpectomy＋放療
     - 化療：for TNBC/HER2+/LN+
     - Hormonal：ER/PR+；停經前 Tamoxifen（但有子宮頸癌風險），停經後 **aromatase inhibitor**
-    - PARP inhibitor（Olaparib/Talazoparib）：for  
-    **Aromatase**  
-    1/2＋TNBC（三陰性）
+    - PARP inhibitor（Olaparib/Talazoparib）：for BRCA1/2＋TNBC（三陰性）
   - Occult breast cancer：腋下 adenocarcinoma＋乳房影像陰性；Exam＝ER/PR/HER2/GATA3；Tx＝不用切乳房，腋下處理＋全乳放療 ± 全身治療
 - Colorectal cancer（CRC，大腸癌）：
   - SS：直腸＝血便/裡急後重；降結腸＝阻塞為主；升結腸＝腸寬便軟，常較晚發現，以缺鐵貧血表現
