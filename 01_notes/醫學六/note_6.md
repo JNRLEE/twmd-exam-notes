@@ -200,7 +200,7 @@
     - RF＝巨嬰、胎肩與骨盆不對稱、GDM（gestational diabetes mellitus，妊娠糖尿病）
     - Tx原則＝先叫人、停止過度牽拉、避免fundal pressure（宮底加壓）
     - HELPERR流程＝Help（找產科/麻醉/小兒科支援）、Evaluate episiotomy（評估會陰切開，只增加操作空間）、Legs（McRoberts maneuver，雙腿屈膝抱胸）、suprapubic pressure（恥骨上施壓）、Enter maneuvers（陰道內旋轉：**Reverse Woods corkscrew推後肩背側**）、Remove posterior arm（**取出後臂，靠媽媽屁股的叫後**）、Roll to all fours（媽媽Gaskin四足位）
-    - 併發症＝Brachial plexus palsy（**臂神經叢麻痺**；Erb-Duchenne C5-6、Klumpke C8-T1）、clavicle fracture（鎖骨骨折）
+    - 併發症＝Brachial plexus palsy（**臂神經叢麻痺**；Erb-Duchenne C5-6（導致肩膀內旋、手軸伸直、肩盂關節發育不良）、Klumpke C8-T1（Horner's syn））、clavicle fracture（鎖骨骨折）
 - 流產
   - 自發性流產：
     - RF＝高齡、抽菸吸毒喝酒、**孕期NSAIDs**（non-steroidal anti-inflammatory drugs，非類固醇抗發炎藥）、葉酸不足、Trisomy、子宮異常
@@ -932,8 +932,8 @@
 - 角膜（cornea）：透明、無血管/淋巴（除了limbus），主要折射介質；limbus（角鞏膜緣）再生力強
   - 五層（外到內）：
     - 上皮層：無角質上皮；basement membrane（基底膜）含 type IV collagen
-    - Bowman's layer：**CN V1通過**，無細胞死層；受傷易留疤
-    - Stroma（基質層）：最厚，膠質纖維組成
+    - Bowman's layer：無細胞死層；受傷易留疤
+    - Stroma（基質層）：最厚，膠質纖維組成，CN5-1通過
     - Descemet's membrane（後彈力層）：type IV collagen
     - 內皮層：**pump排水**、保持透明；無再生能力
   - Exam：
@@ -1092,8 +1092,8 @@
   - SS：buphthalmos（**牛眼，眼球變大**），**角膜直徑>13mm**，**Haab's striae（Descemet氏膜裂開）**
   - Tx：Mainly手術，藥物輔助
 - Tx種類：
-  - 抑制房水產生drug：β-blocker（一線，長效Timolol）、carbonic anhydrase inhibitor（碳酸酐酶抑制劑；眼藥水可減少口服副作用，Acetazolamide；SE＝**HCO3流失，代酸，低血鉀**）、α-agonist（α致效劑，Brimonidine；減少製造、增加 uveoscleral outflow）
-  - 促進房水排出drug：cholinergic（膽鹼性藥，Pilocarpine；縮小瞳孔增加排出）、α-agonist（α致效劑，Brimonidine；增加 uveoscleral outflow（不走瞳孔））、prostaglandin analogue（前列腺素類似物，Latanoprost；增加 uveoscleral outflow）
+  - 抑制房水產生drug：β-blocker（一線，長效Timolol）、carbonic anhydrase inhibitor（碳酸酐酶抑制劑；眼藥水可減少口服副作用，Acetazolamide；SE＝**HCO3流失，代酸，低血鉀**）、α-agonist（α致效劑，Brimonidine；增加 uveoscleral outflow（會散瞳，閉鎖型少用））
+  - 促進房水排出drug：cholinergic（膽鹼性藥，Pilocarpine；縮小瞳孔增加排出）、prostaglandin analogue（前列腺素類似物，Latanoprost；增加 uveoscleral outflow）
   - 雷射治療：laser trabeculoplasty（雷射小梁成形術 for 開角型），laser iridotomy（雷射虹膜造孔術 for 閉角型）
 
 ## 玻璃體（老化＝空泡化，飛蚊症）（考題1）
@@ -1293,7 +1293,10 @@
   - 預後：好＝**<2y/o能坐下**；壞＝>4y/o坐不穩、quadriplegia（四肢麻痺）、**>2y/o還有三個原始反射**。
   - 原始反射時間：Moro/palmar grasp/ATNR（asymmetric tonic neck reflex，不對稱張力頸部反射）約4-6m消失；parachute reflex（降落傘反射）約6-9m出現後持續存在。
   - 分型：
-    - Spastic痙攣型（1st）：diplegia**雙下肢麻痺**（早產/PVL（periventricular leukomalacia，腦室旁白質軟化），下肢>上肢）、hemiplegia半邊麻痺（足月/局部腦傷，多可獨立走路，seizure較多）、quadriplegia四肢麻痺（廣泛腦病變）。
+    - Spastic痙攣型（1st）：
+      - diplegia**雙下肢麻痺**（早產/PVL（periventricular leukomalacia，腦室旁白質軟化），下肢>上肢）
+      - hemiplegia半邊麻痺（足月/局部腦傷，多可獨立走路，seizure較多，上肢>下肢）
+      - quadriplegia四肢麻痺（足月/廣泛腦病變）。
     - Athetoid/Dyskinetic徐動/動作障礙型：核黃疸/基底核傷害；**記得查聽損**。
     - Ataxic運動失調型：小腦為主。
   - 肌骨續發變形（多見痙攣型）：
@@ -1587,12 +1590,12 @@
 | Dural sac termination（硬膜囊終點） | S2    | S3-S4 |
 | Sacral hiatus（骶裂孔，caudal穿刺點） | S4-S5 | S4-S5 |
 
-| 處置 | 入口/目標空間 | 主要用途 | 考點 |
-| --- | --- | --- | --- |
-| Lumbar puncture（腰椎穿刺） | L3-L4或L4-L5進**subarachnoid space**取CSF | 診斷meningitis/SAH、量opening pressure、CSF檢查 | 見CSF；是診斷取樣，不是主要麻醉方式 |
-| Spinal anesthesia（脊髓麻醉） | L3-L4或L4-L5進**subarachnoid space**（避開conus） | 下腹/骨盆/下肢手術、剖腹產 | 單次給藥、起效快、block較密；常見SE＝交感阻斷低血壓/PDPH |
-| Lumbar epidural analgesia（腰椎硬膜外止痛） | L2-L4附近進**epidural space**，常放catheter | **無痛分娩**、術後止痛；可cover T10-L1（第一產程）＋S2-S4（會陰/第二產程） | 不見CSF；可連續調整；比spinal慢、block較可滴定 |
-| **Caudal block（骶管阻滯）** | Sacral hiatus（骶裂孔，約**S4-S5 level**）進**caudal epidural space** | 小兒常用；肛門/會陰、泌尿、下腹/下肢手術止痛 | 同屬epidural但從尾端進；偏sacral roots，成人頭側擴散較不穩 |
+| 處置                                 | 入口/目標空間                                                       | 主要用途                                             | 考點                                      |
+| ---------------------------------- | ------------------------------------------------------------- | ------------------------------------------------ | --------------------------------------- |
+| Lumbar puncture（腰椎穿刺）              | L3-L4或L4-L5進**subarachnoid space**取CSF                        | 診斷meningitis/SAH、量opening pressure、CSF檢查         | 見CSF；是診斷取樣，不是主要麻醉方式                     |
+| Spinal anesthesia（脊髓麻醉）            | L3-L4或L4-L5進**subarachnoid space**（避開conus）                   | 下腹/骨盆/下肢手術、剖腹產                                   | 單次給藥、起效快、block較密；常見SE＝交感阻斷低血壓/PDPH      |
+| Lumbar epidural analgesia（腰椎硬膜外止痛） | L2-L4附近進**epidural space**，常放catheter                         | **無痛分娩**、術後止痛；可cover T10-L1（第一產程）＋S2-S4（會陰/第二產程） | 不見CSF；可連續調整；比spinal慢、block較可滴定          |
+| **Caudal block（骶管阻滯）**             | Sacral hiatus（骶裂孔，約**S4-S5 level**）進**caudal epidural space** | 小兒常用；肛門/會陰、泌尿、下腹/下肢手術止痛                          | 同屬epidural但從尾端進；偏sacral roots，成人頭側擴散較不穩 |
 
 - Spinal needle路徑（直上堅韌硬網）：skin⭢subcutaneous tissue⭢supraspinous ligament⭢interspinous ligament⭢ligamentum flavum⭢epidural space⭢dura mater⭢arachnoid mater⭢subarachnoid space（CSF流出）；L3-L4/L4-L5避開spinal cord/conus，路徑**不經pia mater（軟腦膜）**
 - PDPH（post-dural puncture headache，硬膜穿刺後頭痛）：dura穿刺癒合不良⭢CSF leak，orthostatic headache（站立痛、平躺緩解）
@@ -1915,7 +1918,7 @@
   - **Mucoepidermoid carcinoma（黏液表皮癌，1st惡性）：腮腺/小唾液腺為主**。
   - **Adenoid cystic carcinoma（腺樣囊性癌，2nd惡性）**：下頷腺/小唾液腺為主；生長慢但perineural invasion，疼痛/面神經麻痺；血行轉移肺骨；Tx＝手術＋放射治療。
   - **Pleomorphic adenoma**（多形性腺瘤/良性混合瘤，1st良性）：Mainly腮腺；pseudocapsule但**有偽足，需完整切除（連同周邊預留margin）**；久了可變carcinoma ex pleomorphic adenoma。
-  - Warthin tumor（乳頭狀囊腺淋巴瘤，2nd良性）：老年男性、吸菸；Tx＝腮腺淺葉切除即可（連同周邊預留margin）。
+  - Warthin tumor（papillaary囊腺淋巴瘤（@腮腺尾端），2nd良性）：老年男性、吸菸；Tx＝腮腺淺葉切除即可（連同周邊預留margin）。
     - cf. Wharton's duct＝下頷腺導管，不是Warthin tumor。
 - 頭頸癌（多為SCC＝squamous cell carcinoma；HPV＝human papillomavirus偏口咽癌；EBV＝Epstein-Barr virus偏鼻咽癌）
   - General：

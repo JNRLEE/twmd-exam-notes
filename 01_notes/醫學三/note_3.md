@@ -1197,7 +1197,7 @@
 - 細菌性腹膜炎（腹水 PMN >250，cf. 肺炎痰PMN>25）：
   - Spontaneous bacterial peritonitis（SBP）：
     - Cause：E. coli、Klebsiella、S. pneumoniae。
-    - Tx：cefotaxime（3rdbj6），不用 cover 厭氧菌。
+    - Tx：cefotaxime（3rd），不用 cover 厭氧菌。
   - Secondary peritonitis：
     - Cause：腸胃破裂引起，要 cover 厭氧菌。
     - Tx：ampicillin + ciprofloxacin + metronidazole。

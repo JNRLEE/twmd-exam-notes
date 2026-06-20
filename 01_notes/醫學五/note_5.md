@@ -61,7 +61,7 @@
     - SS：**無症狀（>50%）**、副腫瘤症候群（高壓、高鈣）
     - Exam：抽血（ESR⭡、血尿、貧血）、**Echo（準度高）**、CT（arterial enhancement、venous early washout，HCC也會）、其他進階影像學/膀胱鏡都有效
     - Tx：手術（唯一cure方法）；**標靶治療 for 轉移性clear cell RCC 用**
-      **VEGF/VEGFR 標靶 ± 免疫治療**
+    **VEGF/VEGFR 標靶 ± 免疫治療**
     - Metastatic RCC risk model：International Metastatic Kidney Cancer Database Consortium（IMDC，轉移性RCC預後分層）＝Karnofsky performance status低（<80%）、Dx-to-Tx<1 yr（發病到需要全身治療）、Hb低、corrected Ca高、neutrophil高、platelet高
       - lactate dehydrogenase（LDH）屬Memorial Sloan Kettering Cancer Center（MSKCC）舊模型，不是IMDC
   - Renal pelvic/ureteral tumor（腎盂/輸尿管腫瘤）：
@@ -243,7 +243,7 @@
     - 每項0-5分；>8分中度，>20分重度
   - Tx：
     - 藥物：for >8分；**α-blocker**（放鬆膀胱）、5α-reductase inhibitor（攝護腺>40ml才明顯縮小體積，也可降癌症發生率；e.g. Finasteride、Dutasteride）、副交感（興奮劑/抑制劑皆有幫助）、TCA
-    - 手術：反覆發作或移除尿管失敗；Transurethral Incision for <30ml，Transurethral vaporization for 30-80ml
+    - 手術：反覆發作或移除尿管失敗；Transurethral Incision for <30ml，Transurethral vaporization for 30-80ml，Enucleation晚除術
     ![Prostate zones](../assets/prostate_zones.png)
 - 攝護腺癌：
   - 定位＝1st泌尿癌症（美國男性第一癌，台灣前三）；**adenocarcinoma** in **peripheral** zone為主
@@ -672,7 +672,7 @@
   - Tx：
     - 手術重建＝年輕、unhappy triad一起斷、之前ACL reconstruction失敗
     - 保守治療＝年長活動少者
-  - 併發症/Pitfall＝unhappy triad：ACL＋MCL（medial collateral ligament，內側副韌帶）＋medial meniscus（內半月板）
+  - 併發症/Pitfall＝unhappy triad：ACL＋MCL（medial collateral ligament，內側副韌帶）＋medial meniscus（內半月板；SS＝膝蓋卡住）
 - 後十字韌帶撕裂傷（PCL, posterior cruciate ligament；人體最強韌帶）：
   - SS＝下樓不舒服
   - Exam＝posterior drawer test最敏感：膝90度，垂直後推疼痛
@@ -986,7 +986,7 @@
     - Tx＝觀察；嚴重者五歲前開刀。
 - Slipped capital femoral epiphysis（SCFE，股骨頭骨骺滑脫症；激進治療）：
   - Pattern：**肥胖男孩、mainly 左側**；股骨頭骨骺後**下位移**＋external rotation（外旋）。
-  - SS：髖部/膝部疼痛、髖內轉受限（無法翹腳）、跛行；雙側 20-40%。
+  - SS：生長板處滑脫、髖部/膝部疼痛、髖內轉受限（無法翹腳）、跛行；雙側 20-40%。
   - Risk：常**合併內分泌異常（甲狀腺低下、生長激素缺乏）**。
   - Tx＝single-screw fixation（單螺釘固定）。
   - Complication＝avascular necrosis（缺血性壞死）。
