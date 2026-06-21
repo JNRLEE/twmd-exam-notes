@@ -1298,6 +1298,10 @@
   - Path：splanchnic vasodilation → SVR/MAP 下降但 **CO/HR 上升**（hyperdynamic circulation，高動力循環）。
   - Pitfall：不是靜脈曲張/靜脈池化讓 CO 下降，而是低 SVR 下心臟代償打更多。
   - 有效動脈血量不足 → RAAS/renin 活化 + 腹水/利尿劑/電解質異常 → 肌肉痙攣（低 MAP、**低 K/Na/Mg**）。
+- 肺血管併發症：
+  - HPS（hepatopulmonary syndrome，肝肺症候群；此處不是肥厚性幽門狹窄）：肺血管**擴張** → intrapulmonary shunt/VQ mismatch（肺內分流/通氣灌流不均）→ **低血氧**；肺動脈壓通常不高。
+  - PoPH（portopulmonary hypertension，門脈肺高壓）：肺血管**收縮/重塑** → PVR（pulmonary vascular resistance，肺血管阻力）上升 → **肺高壓**；可合併低氧。
+  - Pitfall：HPS 是「血管太開、氧合差」；PoPH 是「血管太緊、壓力高」。
 - 靜脈曲張出血：
   - Acute Tx：先 ABC/輸液/必要時插管 + 抗生素（ceftriaxone）+ Vasopressin（首選，顯著降低門脈壓）/somatostatin/octreotide + 內視鏡 band ligation。
   - Prevention：非選擇性 β-blocker（propranolol/nadolol/carvedilol）預防首次/再出血。
@@ -1742,6 +1746,7 @@
     - <1＝合併正常 AG 代謝性酸中毒。
 - 代謝酸中毒：
   - 高 AG 代謝性酸中毒：
+    - DDx：GOLDMARK＝Glycols（ethylene glycol 乙二醇/propylene glycol 丙二醇）、Oxoproline（慢性 acetaminophen/普拿疼）、L-lactate、D-lactate、Methanol（甲醇）、Aspirin/salicylate（水楊酸）、Renal failure（腎衰竭）、Ketoacidosis（DKA，diabetic ketoacidosis，糖尿病酮酸中毒/酒精/飢餓）。
     - Exam：測 ketone、lactate、Cr（renal failure）。
     - History：有機酸/醇類食入；osmolal gap >10 考慮醇中毒。
   - 正常 AG 代謝性酸中毒：
@@ -2306,7 +2311,7 @@
 
 - 大血管炎（記一老一小）
   - Giant cell arteritis（GCA；巨細胞動脈炎/顳動脈炎）
-    - Exam：>50 y/o、女多；頭痛、顳部壓痛、視力模糊；>50% 合併 polymyalgia rheumatica（風濕性多肌痛）
+    - Exam：>50 y/o、女多；頭痛、顳部壓痛、視力模糊；**>50% 合併 polymyalgia rheumatica（風濕性多肌痛）**
     - Dx（5C3）：>50 y/o、new headache、temporal tenderness、ESR >50 mm/h、切片肉芽腫
     - Pitfall：temporal artery biopsy 可做但發現率不高；疑似時不用等切片才治療
     - Tx：高劑量類固醇（防失明）、Tocilizumab（IL-6 receptor antagonist，for 類固醇減量）、Aspirin、Abatacept
@@ -2318,16 +2323,24 @@
   - Kawasaki disease（川崎病；小兒冠狀動脈炎）：<5 y/o 為主；發燒出疹；重點在冠狀動脈炎
   - Polyarteritis nodosa（PAN；結節性多動脈炎）：HBV 感染、睪丸痛；Dx＝切片 PMN 浸潤
 - 小血管炎（記ANCA/HSP）
+  - ANCA-associated vasculitis（AAV，ANCA 相關血管炎）快分：
+    - GPA：c-ANCA/PR3；ENT 常見；granuloma 有；腎肺可有。
+    - MPA：p-ANCA/MPO；ENT 少見；granuloma 無；腎肺常見。
+    - EGPA：p-ANCA 可有；asthma/sinus＋eosinophilia；granuloma 可有。
   - **Granulomatosis with polyangiitis（GPA；舊名 Wegener's granulomatosis）**
     - Exam：上下呼吸道侵犯（鼻、肺）＋**腎血管炎**（主要死因）
-    - Lab：c-ANCA（中央型；anti-**PR3** Ab）
+    - Lab：c-ANCA（cytoplasmic，細胞質型；anti-**PR3** Ab，proteinase 3）
     - Tx：Prednisolone＋Cyclophosphamide/Rituximab
+  - **Microscopic polyangiitis（MPA，顯微鏡多血管炎）**
+    - Exam：腎肺常見（rapidly progressive glomerulonephritis/diffuse alveolar hemorrhage）；ENT 少見、**無 granuloma**
+    - Lab：p-ANCA（perinuclear，核周型；anti-**MPO** Ab，myeloperoxidase）
+    - Pitfall：MPA 最像「沒有 ENT/granuloma 的 GPA」，腎肺反而更要抓。
   - **Eosinophilic granulomatosis with polyangiitis（EGPA；舊名 Churg-Strauss syndrome）**
     - Exam：嚴重氣喘＋mononeuritis multiplex（多發性神經病變）
-    - Lab：Eosinophilia、p-ANCA（周邊型；anti-MPO Ab）
+    - Lab：Eosinophilia、p-ANCA 可有（核周型；anti-MPO Ab）
     - Tx：類固醇＋免疫抑制劑；anti-IL-5 生物製劑（mepolizumab）
   - **Cutaneous vasculitis**（皮膚血管炎＝hypersensitivity vasculitis）：1st 常見血管炎；palpable purpura、用藥後過敏；Tx＝移除過敏藥物，給類固醇
-  - Henoch-Schonlein purpura（HSP；過敏性紫斑＝anaphylactoid purpura）：秋冬小孩、URI/用藥後；SS＝palpable purpura（下肢）、顯微血尿、皮膚 IgA 沈澱、缺血腹痛；預後極佳，不一定要治療
+  - Henoch-Schonlein purpura（HSP；過敏性紫斑＝anaphylactoid purpura）：秋冬小孩、URI/用藥後；SS＝palpable purpura（下肢）、顯微血尿、血管壁/皮膚/腎臟 IgA/ C3 沈澱（ 血清補體正常）、凝血時間正常、缺血腹痛；預後極佳，不一定要治療
 
 ## Seronegative spondyloarthropathy（考題8）
 
@@ -2367,7 +2380,7 @@
 - Gout arthritis（痛風性關節炎）：
   - Dx/Risk：發炎性；中年男、停經女
   - SS：單一關節；第一 MTP > 踝 > 膝
-  - Exam：尿酸結晶＝針狀、負偏光（平黃直藍＝痛風負評黃直男）；X-ray＝punch-out erosion（cf. CPPD＝chondrocalcinosis）
+  - Exam：尿酸結晶＝針狀、負偏光（平黃直藍＝痛風負評黃直男）；**X-ray＝punch-out erosion（cf. CPPD＝chondrocalcinosis）**
   - Tx：急性期 NSAIDs/Colchicine；慢性穩定期 Allopurinol/Febuxostat（**腎功能不佳可用**）
 - Calcium pyrophosphate dihydrate（CPPD，焦磷酸鈣沉積）：
   - Risk：高齡；副甲亢、**低鎂、鐵血沉著**、慢性痛風、切過半月板
@@ -2477,8 +2490,8 @@
   - 血小板數量不足：
     - 製造減少：aplastic anemia
     - 破壞增加：
-      - ITP：年輕女性；Dx＝排除式診斷
-      - TTP/HUS：TTP＝抗 ADAMTS13 → vWF multimer 清不掉 → 小血栓；SS triad＝血小板低下＋MAHA＋腎功能異常；PT/aPTT 不延長（可鑑別 DIC）；Tx＝TTP 血漿置換，HUS 支持治療
+      - ITP：有platelet Ab導致血小板被清掉，年輕女性；Dx＝排除式診斷(沒有MAHA、肝腎正常)；Tx＝Corticoid（1st）、IVIG（貴）、血小板輸注（only 急救）
+      - TTP/HUS：TTP＝抗 ADAMTS13 → vWF multimer 清不掉 → 小血栓；SS triad＝血小板低下＋MAHA（其中fibrin strands把路過的紅血球切碎導致溶血）＋腎功能異常；PT/aPTT 不延長（可鑑別 DIC）；Tx＝TTP 血漿置換，HUS 支持治療
   - 血小板功能不良：
     - vWD：vWF 缺乏/功能異常；Tx＝Desmopressin（促進 vWF 釋放）、Cryoprecipitate（vWF、factor VIII）
     - Uremia
@@ -2489,7 +2502,7 @@
   - Intrinsic pathway：factor VIII/IX/XI/XII；Exam＝aPTT
     - Hemophilia A：factor VIII 缺乏；Tx＝補 factor、Emicizumab（bypass）
     - Hemophilia B：factor IX 缺乏；Tx＝補 factor IX
-  - Extrinsic pathway：factor II/VII/IX/X（邪惡外奇救市）；Exam＝PT
+  - Extrinsic pathway：factor II/VII/IX/X（兩隻外奇救市）；Exam＝PT
     - Dx：vitamin K 缺乏、肝衰竭、warfarin 使用
     - 口訣：Ex-PresidenT K went to WAR
 

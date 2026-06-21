@@ -718,6 +718,7 @@
     - e.g. DiGeorge dx
     - SS：發育不良，輸血後GVHD（∵無法有效清除donor T）
     - Exam：**Abs lymphocyte count**、**Candida skin test、Mitogen test（測T功能）**
+    - X-linked hyper-IgM syn
     - DiGeorge dx：
       - 記憶：CATCH22（Cardiac、Abnormal facies、Thymic aplasia、Cleft palate顎裂、Hypocalcemia、Ch22 microdeletion）
       - SS：心臟畸形（conotruncal anomaly）、免疫缺陷（T-cell缺乏，**∵3/4 pharyngeal pouch異常**）、**低鈣（Tetany）**、特徵臉孔
@@ -731,7 +732,7 @@
     - Selective IgA deficiency：
       - Exam定位：最常見免疫缺陷（0.33%），1st B-cell缺陷
       - 遺傳/表現：體顯，**5成病人體內有IgA抗體**，5成無症狀，常合併CVID
-    - X-linked agammaglobulinemia（Bruton dx，BTK蛋白缺乏）：
+    - X-linked agammaglobulinemia（Bruton dx，BTK蛋白/CD19缺乏）：
       - 成因：X-linked（男多），ChX突變⭢**BTK蛋白缺乏**⭢B細胞發育停滯（可抗病毒不可抗細菌）
       - SS：男多，6m/o後反覆呼吸道感染（尤其**肺炎鏈球菌**），**無扁桃體/淋巴結**
       - Exam：**Total Ig<100mg/dL**
@@ -755,7 +756,7 @@
       - Tx：**骨髓/幹細胞移植**，**PEG-ADA（for ADA缺乏型）**
     - Wiskott-Aldrich syn：
       - 遺傳：**X-linked**
-      - SS：異位皮膚炎，血小板減少，免疫缺陷
+      - SS：濕疹 + 反覆感染 + 小血小板低下出血
 - 風濕Dx：
   - Juvenile idiopathic arthritis（JIA）：
     - Exam定位：1st慢性關節炎dx

@@ -894,6 +894,9 @@
     - Chondrosarcoma（CS，軟骨肉瘤）：1st成人原發惡性骨腫瘤
   - Metastasis（轉移）：
     - Meta進來（>50%骨腫瘤）＝肺、乳、前列腺、甲狀腺、肝癌；前列腺多osteoblastic/mixed，其他多osteolytic
+      - Bone involvement pattern（不是原發骨腫瘤分類）：osteoblastic/sclerotic lesion 口訣＝詩人好累尿不出，小小建骨
+        - POEMS＝plasma cell dyscrasia 相關 osteosclerotic lesion
+        - Hodgkin lymphoma、prostate cancer、medulloblastoma、small cell lung cancer（SCLC）＝可見 osteoblastic/sclerotic bone metastasis；NHL多osteolytic/osteoclast-driven
     - Meta出去＝血行微轉移；skip lesion（跳躍式病灶）要想到OS局部外擴
   - 原發位置口訣（Epiphysis⭢生長板⭢Diaphysis⭢Metaphysis）：
     - Epiphysis（骨骺）＝GCT（giant cell tumor，骨巨細胞瘤）、CB（chondroblastoma，軟骨母細胞瘤）、clear cell **chondrosarcoma**（透明細胞軟骨肉瘤）
