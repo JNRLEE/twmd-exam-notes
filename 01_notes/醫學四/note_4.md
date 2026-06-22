@@ -280,6 +280,16 @@
   - SS：阻塞、尿道後擴張（keyhole sign）；羊水⭣可肺發育不全 ⭢ 呼吸窘迫
   - Exam：產前 Echo（keyhole sign）；VCUG 確診
   - Tx：尿管導尿/膀胱引流，手術
+- 小兒尿液篩檢異常：
+  - Hematuria（血尿）Most common要看題幹：
+    - Gross hematuria（肉眼血尿）/有症狀：先想 UTI（urinary tract infection，泌尿道感染）或 hypercalciuria（高尿鈣）；若有發燒、頻尿、解尿痛更偏 UTI。
+    - Asymptomatic microscopic hematuria（無症狀顯微血尿）：常考 hypercalciuria（高尿鈣）。
+    - Glomerular hematuria（腎絲球性血尿）：IgA nephropathy 最常見；URI（upper respiratory infection，上呼吸道感染）後同步/1-2日血尿＝IgA nephropathy，URI後1-3 wk＋C3低＝PSGN。
+    - Red flag：血尿合併 proteinuria（蛋白尿）、HTN（hypertension，高血壓）、水腫、腎功能惡化 → 想 nephritic syndrome（腎炎症候群）。
+  - Proteinuria（蛋白尿）Most common：
+    - Isolated proteinuria（孤立性蛋白尿）最常見＝orthostatic proteinuria（姿勢性/直立性蛋白尿），尤其青少年；白天站立有蛋白尿，躺下就好，第一泡晨尿消失。
+    - Dx：first-morning urine（第一泡晨尿）UPCR（urine protein/creatinine ratio，尿蛋白/肌酸酐比）正常（>2 y/o 約 <0.2）支持良性 orthostatic proteinuria。
+    - Red flag：持續性蛋白尿、nephrotic-range proteinuria（腎病症候群範圍蛋白尿）、水腫/低白蛋白 → 想 nephrotic syndrome；小兒 nephrotic 最常見病理＝minimal change disease（MCD，微小變化病）。
 - 絲球腎炎（if 合併腎損傷＝nephritic syn）：mainly 自體免疫疾病
   - 分類：
     - Mesangial cell dx：IgA、MPGN、Class 2 SLE
@@ -504,6 +514,10 @@
     | 滿5歲至入國小前 | MMR 2、DTaP-IPV 1                 |
 
     - 易混：114年起HAV改18/27m；舊表常見12/18m。流感滿6m可打，8y以下初次接種2劑、間隔4wk。
+    - B: 0,1,6 / 卡: 5
+    VZV: 12 / MMR: 12, 小學
+    13: 2, 4, 12 / 白百血痹: 2, 4, 6, 18
+    日本: 15, 27 / A: 18, 27
 
 ## 小兒神經系統（考題32）
 
@@ -511,7 +525,7 @@
   - Neurofibromatosis（NF＝神經纖維瘤病，**AD體顯**，無有效Tx）：
     - 分類：
       - NF1：Ch17 neurofibromin，50%偶發，**von Recklinghausen dx；會性早熟、智力不足**
-        - SS＝6C2：Cafe-au-lait macules，腋/鼠蹊freckling，Lisch nodules，脊椎側彎，**optic pathway glioma**，**neurofibroma/plexiform neurofibroma**
+        - SS＝6C2：Cafe-au-lait macules，腋/鼠蹊freckling（Crowe's sign），Lisch nodules，脊椎側彎，**optic pathway glioma**，**neurofibroma/plexiform neurofibroma**
         - 腫瘤：MPNST（malignant peripheral nerve sheath tumor，惡性周邊神經鞘瘤），pheochromocytoma，JMML（juvenile myelomonocytic leukemia，幼年型骨髓單核球白血病）
       - NF2：Ch22 merlin，現稱NF2-related schwannomatosis
         - SS＝"雙側" vestibular schwannoma/CN8聽神經瘤
@@ -874,6 +888,7 @@
     - 分類：A缺8，B缺9
     - RF：X-linked
     - Lab：PTT延長，Bleeding Time正常
+    - Tx：預防性注射（可以注射到活性至100%）
   - cf. PT/PTT：
     - ITP/HUS/TTP/HIT：血小板/微血栓問題⭢PT/PTT正常
     - **DIC：凝血因子被消耗⭢PT/PTT延長**
@@ -944,6 +959,12 @@
     - Beckwith-Wiedemann syn：overgrowth/巨舌/臍膨出/低血糖，11p15，↑Wilms/hepatoblastoma
   - Exam：Abd Echo，Xray無鈣化（鑑別NB）
   - Tx：手術切除（腫瘤不可弄破）+化療/放療
+- 小兒 mediastinal tumor（縱隔腫瘤）：
+  - Pitfall：成人 anterior mediastinum（前縱隔）常背 4T（thymoma、teratoma、thyroid、terrible lymphoma），但小兒題不要直接套。
+  - 小兒整體最常見＝neurogenic tumor（神經源性腫瘤，約40-46%），多在 posterior mediastinum（後縱隔）；後縱隔腫瘤約9成為 neurogenic origin。
+  - 小兒前縱隔最常見＝lymphoma（淋巴瘤）；thymic cyst 少見，germ cell tumor 可在前縱隔但不是整體最常見。
+  - 來源：paravertebral sympathetic ganglia（椎旁交感神經節）；考場看到小孩＋posterior mediastinal/paravertebral mass，先想 neuroblastoma spectrum。
+  - 分化/惡性度：Neuroblastoma（神經母細胞瘤）＝高度惡性、嬰幼兒/<5y；ganglioneuroblastoma（神經節母細胞瘤）＝中間型/中度惡性、幼童；ganglioneuroma（神經節瘤）＝良性、分化成熟、較大兒童/青少年。
 - Neuroblastoma（NB）：
   - Exam定位：1st PEDS 惡性 tumor，1st PEDS Abd tumor，3rd PEDS tumor
   - RF/病理：<1y/o，全身交感細胞瘤；很會轉移（骨頭，眼睛）
@@ -1504,7 +1525,7 @@
   - 角質cell增生週期⭣、棘皮層增厚
   - **Th1活化** ⭢ Munro's microabscess（表皮內中性球膿皰）
   - Koebner phenomenon：抓癢/外傷處容易增生同型病灶
-  - Flare trigger：**TIDES**＝Trauma（Koebner）、Infection（GAS→guttate psoriasis）、Drug（**ABCD+GI**：ACEi、anti-malarial（chloroquine）、β-blocker、corticosteroid/停藥 rebound、lithium、Gemfibrozil、Imiquimod、IFN）、Environment、Sun（phototherapy可治療；反覆日曬/曬傷可惡化）
+  - Flare trigger：**TIDES**＝Trauma（Koebner）、Infection（GAS→guttate psoriasis）、Drug（**ABCD+GI**：ACEi、anti-malarial（chloroquine）、β-blocker、corticosteroid/停藥 rebound、lithium、Gemfibrozil、Imiquimod（TLR-7，活化宿主免疫）、IFN）、Environment、Sun（phototherapy可治療；反覆日曬/曬傷可惡化）
 - SS：
   - 紅色斑塊覆蓋**銀白色鱗屑**；沖洗後紅斑不退
   - 關節/指甲侵犯（指甲油滴狀變色，專一性高）
@@ -1685,6 +1706,15 @@
   - **function impairment**
 - 台灣精神病範疇：反社會人格違常不在精神病範疇
 - 考試技巧：大部分盛行率都是1%，考試猜題用
+- Schizophrenia/Bipolar/MDD 常考排序：
+  - Dx關鍵：Schizophrenia（思覺失調症）＝psychosis（精神病症狀）＋negative symptoms（負向症狀）＋functional decline；Bipolar I＝至少一次 mania（躁症）；Bipolar II＝major depressive episode（重鬱發作）＋hypomania（輕躁症），**不能有 mania**；Major depressive disorder（MDD，重鬱症）＝重鬱發作，**不能有 mania/hypomania**。
+  - 起病年齡：只背方向，不背硬排序；Schizophrenia＝男早女晚，Bipolar＝多 teens-20s，MDD＝任何年齡、平均較 Bipolar 稍晚。
+  - 性別：MDD 女多；Bipolar I 約男=女，Bipolar II 可偏女；Schizophrenia 約男=女或男稍多。
+  - 急性住院風險：**Bipolar I mania** > Schizophrenia acute psychosis > psychotic/severe MDD > Bipolar II hypomania。
+  - Psychosis典型度：Schizophrenia > Bipolar I > MDD with psychotic features > Bipolar II；**hypomania 有 psychosis＝mania → Bipolar I**。
+  - 長期功能/認知退化：Schizophrenia最重；Bipolar I > Bipolar II > MDD 只當方向，不背成絕對。
+  - Depression burden：MDD、Bipolar II 高；但 bipolar suicide risk 也高，不能只照憂鬱量排序。
+  - 盛行率粗背：MDD最多 > Bipolar disorders > Schizophrenia。
 - **Catatonia**（僵直狀態）：
   - 常見相關精神病（住院病人）：Mood disorder（Bipolar/MDD）> Schizophrenia
   - SS：活動減少/增加可交替，stupor/rigidity，mutism，waxy flexibility，echolalia/echopraxia，negativism
@@ -2258,7 +2288,7 @@
     - Tx：**Rivastigmine（ChE inhibitor中常考唯一有PDD適應症）**
   - cf. 類帕金森：
     - Essential tremor：有家族史，緊張加劇
-    - 非典型帕金森：雙側＋發展快速，不算狹義帕金森；Multiple system atrophy（自主神經症狀，小腦辨距失調）、Progressive supranuclear palsy（垂直凝視障礙，levodopa反應差）、Corticobasal degeneration
+    - 非典型帕金森：雙側＋發展快速，不算狹義帕金森；Multiple system atrophy（自主神經症狀，小腦辨距失調）、Progressive supranuclear palsy（垂直凝視障礙，不能往下看，levodopa反應差）、Corticobasal degeneration
 - Huntington's disease（HD）：
   - MOA：Ch4基因異常（**CAG** trinucleotide **repeat expansion**）⭢**基底核/尾狀核退化**
   - SS：Triad＝choreoathetosis（舞蹈徐動）、精神症狀、認知退化；前期徐動，**後期肌肉僵硬**

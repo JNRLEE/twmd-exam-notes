@@ -194,9 +194,9 @@ A：留鈉，排鉀，排氫；典型造成低血鉀、代謝性鹼中毒。
 
 ### Q：Primary aldosteronism 的尿液 pH 應更酸或更鹼？
 
-A：需回查考古題原文：原文答尿偏鹼；但醛固酮與低血鉀會增加 H+ 分泌，臨床可見酸性尿/paradoxical aciduria。
+A：考試安全版：primary aldosteronism 造成低血鉀、代謝性鹼中毒；腎臟遠端排 H+ 增加，尿液可偏酸，稱 paradoxical aciduria。若題目教材硬寫「尿偏鹼」，多半是在考「全身是 metabolic alkalosis」而非實際尿液 pH。
 
-補充：這題需看題源或教材版本，先不要硬背。原文「尿液 pH 變鹼」與常見生理說法不完全一致，建議整合時回查 101-1-(三)-46。
+補充：作答時先分清楚：血液偏鹼、尿液可因 H+ 排出而偏酸。
 
 ### Q：Primary 與 secondary 高醛固酮時 renin 濃度？
 
@@ -368,7 +368,7 @@ A：Wide splitting：A2（aortic component of S2，第二心音主動脈瓣成�
 
 A：已可整理：A2（aortic component of S2，第二心音主動脈瓣成分）延遲造成 paradoxical splitting，如 AS（aortic stenosis，主動脈瓣狹窄）、LBBB（left bundle branch block，左束支傳導阻滯）、HOCM（hypertrophic obstructive cardiomyopathy，肥厚性阻塞型心肌病變）；特色是呼氣分裂、吸氣變窄/消失。
 
-補充：目前複製內容沒有完整答案，先標為待回查。原文在 0542 截斷於「呼氣時」，後半答案缺漏；肺動脈提早關閉分支需回查來源。
+補充：背「左邊慢」即可：left heart ejection 延遲讓 A2 晚到，所以正常吸氣時右邊也延遲，反而把分裂抵消。
 
 ## IBD（inflammatory bowel disease，發炎性腸道疾病）與食道癌
 
@@ -700,9 +700,9 @@ A**：免疫清除期與不活化帶原期之間**。
 
 ### Q：Child-Pugh 有哪幾項？最低分？class B 範圍？細項數值？
 
-A：Raw 已有 5 項：bilirubin、albumin、PT/INR（prothrombin time/international normalized ratio，凝血酶原時間/國際標準化比值）、ascites、hepatic encephalopathy；最低 5 分。class B 與細項 cutoff 原文未收完整。
+A：Child-Pugh 用 5 項各 1-3 分，最低 5 分。抽血三項是 bilirubin（膽紅素）<2、2-3、>3 mg/dL；albumin（白蛋白）>3.5、2.8-3.5、<2.8 g/dL；PT/INR（prothrombin time/international normalized ratio，凝血酶原時間/國際標準化比值）或 INR <1.7、1.7-2.3、>2.3。臨床兩項是 ascites（腹水）無、輕或可控制、中重或難控制；hepatic encephalopathy（肝性腦病變）無、grade I-II、grade III-IV。Class A＝5-6 分，class B＝7-9 分，class C＝10-15 分。
 
-補充：目前複製內容沒有完整答案，先標為待回查。原文寫「細項在下頁」，本 segment 沒有下頁內容，整合時需回查。
+補充：口訣同前面：白凝膽 + 腹水腦病；class B 就背 7-9。
 
 ### Q：MELD（Model for End-stage Liver Disease，末期肝病模型） score 用途與檢驗項目？
 
@@ -1278,15 +1278,15 @@ A：反覆口腔潰瘍，加下列 4 項中 2 項：**反覆生殖器潰瘍、�
 
 ### Q：鞏膜炎、表層鞏膜炎、角膜炎、視神經炎、視網膜血管炎中，哪些不是 Behcet 常見眼表現？
 
-A：角膜炎跟鞏膜炎都不常見
+A：Behcet disease（貝賽特氏症）常見眼表現是 uveitis（葡萄膜炎）與 retinal vasculitis（視網膜血管炎）。所以這組選項中，鞏膜炎、表層鞏膜炎、角膜炎、視神經炎都不是典型常見表現；retinal vasculitis 是常見考點。
 
-補充：目前複製內容沒有完整答案，先標為待回查。常考 Behcet 眼病灶是 uveitis 與 retinal vasculitis；本題需回查原選項，避免把少見表現硬判。
+補充：若單選「最不像 Behcet」常抓角膜炎或視神經炎；若複選，除了 retinal vasculitis 之外都偏非典型。
 
 ### Q：病理切片看到 leukocytoclastic，診斷是什麼？
 
-A：缺答案；推測方向是 leukocytoclastic vasculitis（嗜中性白血球破碎的小血管炎），若有 IgA 沉積則支持 IgA vasculitis。
+A：Leukocytoclastic 指 neutrophil nuclear debris（嗜中性球核碎裂）的小血管炎病理，診斷方向是 cutaneous leukocytoclastic vasculitis（皮膚白血球碎裂性血管炎）。若病人有 palpable purpura、腹痛、關節痛、腎炎，且免疫螢光看到 IgA 沉積，則支持 IgA vasculitis（Henoch-Schonlein purpura，IgA 血管炎）。
 
-補充：目前複製內容沒有完整答案，先標為待回查。目前答案缺漏，需回查來源。
+補充：leukocytoclastic 是病理描述，不是單一病名；要靠 IgA 沉積與臨床表現決定是不是 IgA vasculitis。
 
 ## Lymphoma
 
@@ -1334,9 +1334,9 @@ A：Mycosis fungoides；Sezary syndrome 是白血病化/紅皮症表現。
 
 ### Q：Non-Hodgkin lymphoma 併發 cold IgM antibody，最可能是哪種自體免疫抗體？
 
-A：IgM
+A：最常考是 cold agglutinin（冷凝集素）＝IgM anti-I antibody，會在低溫下結合 RBC（red blood cell，紅血球）I antigen，活化補體造成 cold autoimmune hemolytic anemia（冷型自體免疫溶血性貧血）。
 
-補充：目前複製內容沒有完整答案，先標為待回查。不把推測當作 raw 答案。
+補充：Mycoplasma pneumoniae 常考 anti-I；EBV（Epstein-Barr virus，EB病毒）可考 anti-i，但 lymphoma 脈絡先背 IgM anti-I。
 
 ### Q：TRAP（tartrate-resistant acid phosphatase，抗酒石酸酸性磷酸酶）+ 是什麼診斷？
 
@@ -1364,9 +1364,9 @@ A：**小細胞肺癌常見 CD56**（cluster of differentiation 56，分化群56
 
 ### Q：PNH（paroxysmal nocturnal hemoglobinuria，陣發性夜間血紅素尿症）是什麼 gene mutation？紅血球缺哪些 CD（cluster of differentiation，分化群）？
 
-A：原文缺答案；醫學上為 **PIGA mutation**，造成 **CD55/CD59** 缺乏。
+A：PIGA mutation 造成 GPI anchor（glycosylphosphatidylinositol anchor，糖基磷脂醯肌醇錨定蛋白）合成異常，紅血球缺 CD55（decay-accelerating factor，補體衰變加速因子）與 CD59（membrane inhibitor of reactive lysis，膜反應性溶解抑制因子），所以容易被補體攻擊而溶血。
 
-補充：目前複製內容沒有完整答案，先標為待回查。目前沒有完整答案，需回查來源。
+補充：Flow cytometry 可看 CD55/CD59 缺乏或 FLAER test；臨床三聯想 intravascular hemolysis、thrombosis、pancytopenia。
 
 ### Q：Flow cytometry：CD5、CD19（cluster of differentiation 19，分化群19）、**CD20**（cluster of differentiation 20，分化群20） dim、**CD23**（cluster of differentiation 23，分化群23）是什麼診斷？怎麼治療？
 
@@ -1502,7 +1502,7 @@ A：不需要；**anti-platelet antibody 對 ITP 診斷幫助有限**。
 
 A：醫學上為 HIT type II（免疫型 anti-PF4（platelet factor 4，血小板因子4）/heparin）。
 
-補充：目前複製內容沒有完整答案，先標為待回查。目前沒有完整答案，需回查來源。
+補充：Type I 是非免疫、輕微血小板下降；type II 常在 heparin 後 5-10 天出現，雖然血小板低，反而以 thrombosis（血栓）危險為主。
 
 ### Q：TTP（thrombotic thrombocytopenic purpura，血栓性血小板低下性紫斑症）的 ADAMTS13 升或降？是什麼酶？功能？
 
@@ -1534,23 +1534,23 @@ A**：Factor VIII。**
 
 ### Q：Indirect/direct bilirubin 高的人名病、黑肝、最難活到成年、壓力誘發、皮膚變黑肝病？
 
-A：Indirect：Crigler-Najjar、Gilbert；direct：Dubin-Johnson、Rotor。黑肝：Dubin-Johnson；最難活到成年：Crigler-Najjar type I；手術/感染/壓力誘發：Gilbert；皮膚變黑肝病：hemochromatosis（血色素沉著症）。
+A：Indirect：**Crigler-Najjar、Gilbert**；direct：Dubin-Johnson、Rotor。黑肝：Dubin-Johnson；最難活到成年：**Crigler-Najjar type I**；**手術/感染/壓力誘發：Gilbert**；皮膚變黑肝病：**hemochromatosis**（血色素沉著症）。
 
 ### Q：補 vitamin K 後可改善凝血時間的黃疸，機轉是什麼？
 
-A：Obstructive/cholestatic jaundice：膽汁排出差，脂溶性 vitamin K 吸收差，補 K 可改善 prolonged PT；若不改善，想 hepatocellular failure。
+A：**Obstructive/cholestatic jaundice**：膽汁排出差，脂溶性 vitamin K 吸收差，補 K 可改善 prolonged PT；若不改善，想 hepatocellular failure。
 
-補充：題幹寫 thrombin time 可能錯；vitamin K 影響的是 PT/INR（prothrombin time/international normalized ratio，凝血酶原時間/國際標準化比值），不是典型 thrombin time。
+補充：題幹寫 thrombin time 可能錯；**vitamin K 影響的是 PT/INR**（prothrombin time/international normalized ratio，凝血酶原時間/國際標準化比值），不是典型 thrombin time。
 
 ### Q：Bile acid 在哪裡吸收、哪個器官合成、能否靠食物獲得？
 
-A：Terminal ileum 吸收；肝臟由 cholesterol 合成；不能當作食物營養直接獲得。
+A：**Terminal ileum 吸收**；肝臟**由 cholesterol 合成**；不能當作食物營養直接獲得。
 
 ### Q：Direct bilirubin 和誰結合？結合前後半衰期？
 
-A：原文缺答案；需回查。醫學上 direct bilirubin 是 bilirubin glucuronide，另 delta bilirubin 與 albumin 共價結合、半衰期接近 albumin。
+A：Direct bilirubin 主要是 conjugated bilirubin（結合型膽紅素，bilirubin glucuronide），一般半衰期約 2-4 小時；若和 albumin（白蛋白）共價結合，稱 delta bilirubin，半衰期會接近 albumin，約 2-3 週。
 
-補充：目前複製內容沒有完整答案，先標為待回查。raw 沒有半衰期答案，不可視為完整。
+補充：考點是 cholestasis/hepatitis 好轉後，delta bilirubin 清得慢，所以 direct bilirubin 可能拖很久才降。
 
 ### Q：哺乳性黃疸 breastfeeding jaundice：病因、時間、母乳餵多或少？
 
@@ -1560,23 +1560,23 @@ A：Suboptimal intake jaundice：母乳攝取不足/脫水，腸肝循環增加�
 
 ### Q：母乳性黃疸 breast milk jaundice：病因、時間、母乳餵多或少？
 
-A：母乳成分使 unconjugated bilirubin 增加，常見機轉含 beta-glucuronidase；多在第 1-2週出現、可持續數週；通常繼續母乳，嚴重時依 phototherapy threshold，少數才短暫停餵。
+A：母乳成分使 unconjugated bilirubin 增加，常見機轉含 beta-glucuronidase；**多在第 1-2週出現、可持續數週；通常繼續母乳**，嚴重時依** phototherapy threshold**，少數才短暫停餵。
 
 補充：原文寫處置是禁止母奶；現行觀念多為繼續母乳，除非嚴重或需鑑別時短暫中斷。
 
 ### Q：新生兒黃疸由頭到腳或腳到頭？如何粗估 bilirubin？
 
-A：由頭到腳進展；臉約 5、胸約 10、腹約 15、四肢約 20 mg/dL。
+A：由頭到腳進展；**臉約 5、胸約 10、腹約 15、四肢約 20 mg/dL。**
 
 ### Q：新生兒膽道閉鎖 gold standard、病理、幾天內做什麼手術？
 
-A：Gold standard：intraoperative cholangiography；肝切片可見 bile duct proliferation/portal fibrosis/bile plugs；60天內做 Kasai portoenterostomy。
+A：Gold standard：**intraoperative cholangiography**；肝切片可見 **bile duct proliferation/portal fibrosis/bile plugs**；**60天內做 Kasai portoenterostomy**。
 
 補充：原文把肝臟切片寫成黃金標準；切片是重要檢查，確診黃金標準通常是術中膽道攝影。
 
 ### Q：核黃疸來自哪型 bilirubin？會影響哪個五官能力？相關 cerebral palsy 類型？
 
-A：Kernicterus 來自 unconjugated bilirubin；常見聽力受損；相關 dyskinetic/choreoathetoid cerebral palsy。
+A：Kernicterus 來自 **unconjugated bilirubin**；常見聽力受損；相關 dyskinetic/choreoathetoid cerebral palsy。
 
 ## HLA（human leukocyte antigen，人類白血球抗原）與SJS（Stevens-Johnson syndrome，史蒂芬斯強森症候群）
 
@@ -1586,15 +1586,15 @@ A：HLA-B27。
 
 ### Q：Behcet disease 對應 HLA（human leukocyte antigen，人類白血球抗原）？
 
-A：HLA-B51。
+A：**HLA-B51**。
 
 ### Q：慢性活動肝炎對應 HLA（human leukocyte antigen，人類白血球抗原）？
 
-A：較常考 autoimmune hepatitis/chronic active hepatitis：HLA-B8、DR3/DR4；原文 B12（vitamin B12，維生素B12）需回查。
+A：較常考 autoimmune hepatitis/chronic active hepatitis：**HLA-B8、DR3/DR4**。
 
 補充：這題需看題源或教材版本，先不要硬背。原文寫 HLA-B8/B12；B12 不是常見現代考點。
 
-### Q：Goodpasture syndrome、multiple sclerosis 對應 HLA（human leukocyte antigen，人類白血球抗原）？
+### Q：**Goodpasture syndrome、multiple sclerosis **對應 HLA（human leukocyte antigen，人類白血球抗原）？
 
 A：HLA-DR2（DR15）。
 
@@ -1610,21 +1610,21 @@ A：HLA-DR3/DR4。
 
 ### Q：Rheumatoid arthritis、天皰瘡對應 HLA（human leukocyte antigen，人類白血球抗原）？
 
-A：RA（rheumatoid arthritis，類風濕性關節炎）：HLA-DR4；pemphigus vulgaris 可見 HLA-DR4/DR6，國考若單選常抓 DR4。
+A：RA（rheumatoid arthritis，類風濕性關節炎）：HLA-DR4；pemphigus vulgaris 可見** HLA-DR4/DR6**，國考若單選常抓 DR4。
 
-補充：補天皰瘡 DR6 nuance，但不擴寫。
+補充：補**天皰瘡 DR6 nuance**，但不擴寫。
 
-### Q：Hashimoto thyroiditis 對應 HLA（human leukocyte antigen，人類白血球抗原）？
+### Q：**Hashimoto thyroiditis** 對應 HLA（human leukocyte antigen，人類白血球抗原）？
 
-A：HLA-DR5。
+A：HLA-**DR5**。
 
-### Q：Psoriasis 對應 HLA（human leukocyte antigen，人類白血球抗原）？
+### Q：**Psoriasis **對應 HLA（human leukocyte antigen，人類白血球抗原）？
 
-A：HLA-Cw6。
+A：HLA-**Cw6**。
 
 ### Q：Phenytoin 小心 SJS（Stevens-Johnson syndrome，史蒂芬斯強森症候群）對應 HLA（human leukocyte antigen，人類白血球抗原）？
 
-A：HLA-B*15:02。
+A：HLA-B***15:02**。
 
 ### Q：Carbamazepine 小心 SJS（Stevens-Johnson syndrome，史蒂芬斯強森症候群）對應 HLA（human leukocyte antigen，人類白血球抗原）？
 
@@ -1636,9 +1636,9 @@ A：沒有典型必背 HLA-SJS 對應；相較 aromatic AED，valproate 不是�
 
 補充：原文藥名拼成 Vaporic acid，應為 valproic acid。
 
-### Q：Lamotrigine 小心 SJS（Stevens-Johnson syndrome，史蒂芬斯強森症候群）對應 HLA（human leukocyte antigen，人類白血球抗原）？
+### Q：**Lamotrigine** 小心 SJS（Stevens-Johnson syndrome，史蒂芬斯強森症候群）對應 HLA（human leukocyte antigen，人類白血球抗原）？
 
-A：HLA-B*15:02 可增加 Asian ancestry 的 SJS/TEN 風險；另要記慢慢 titration。
+A：**HLA-B*15:02 可增加** Asian ancestry 的 SJS/TEN 風險；另要記慢慢 titration。
 
 ### Q：Allopurinol 小心 SJS（Stevens-Johnson syndrome，史蒂芬斯強森症候群）對應 HLA（human leukocyte antigen，人類白血球抗原）？
 
@@ -1650,7 +1650,7 @@ A：HLA-B*57:01；重點是 abacavir hypersensitivity，不是典型 SJS（Steve
 
 補充：原文放在「藥物小心 SJS」下，容易誤以為 abacavir 主考 SJS。
 
-### Q：腎臟移植最重要的 HLA（human leukocyte antigen，人類白血球抗原）？
+### Q：**腎臟移植最重要的 HLA**（human leukocyte antigen，人類白血球抗原）？
 
 A：HLA-A、HLA-B、HLA-DR。
 
@@ -1658,93 +1658,93 @@ A：HLA-A、HLA-B、HLA-DR。
 
 ### Q：Child-Pugh score 怎麼算？怎麼分 stage？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：Child-Pugh score 用來評估 cirrhosis（肝硬化）預後與手術風險。5 項各 1-3 分，低分好。三個抽血是 bilirubin（膽紅素）<2、2-3、>3 mg/dL；albumin（白蛋白）>3.5、2.8-3.5、<2.8 g/dL；INR <1.7、1.7-2.3、>2.3（或 PT 延長 <4、4-6、>6 秒）。兩個臨床是 ascites（腹水）無、輕或可控制、中重或難控制；hepatic encephalopathy（肝性腦病變）無、grade I-II、grade III-IV。總分 5-6 分是 class A，7-9 分是 class B，10-15 分是 class C。
 
-補充：目前複製內容沒有完整答案，先標為待回查。這段只有題目，答案需回查。
+補充：記「白凝膽 + 腹水腦病」；不含 ALT/AST、ammonia（氨）、platelet（血小板）或 creatinine（肌酸酐）。
 
 ### Q：CHA2DS2-VASc score 怎麼算？幾分以上要處置？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：CHA2DS2-VASc 用於 non-valvular atrial fibrillation（非瓣膜性心房顫動）的中風風險。C＝congestive heart failure（心衰竭）1 分，H＝hypertension（高血壓）1 分，A2＝age ≥75 歲 2 分，D＝diabetes mellitus（糖尿病）1 分，S2＝stroke/TIA/systemic embolism（中風/暫時性腦缺血/全身栓塞）2 分，V＝vascular disease（血管疾病，如 myocardial infarction、peripheral artery disease、aortic plaque）1 分，A＝age 65-74 歲 1 分，Sc＝sex category female（女性）1 分。
 
-補充：目前複製內容沒有完整答案，先標為待回查。原文寫 CHADS2-VaSc，應為 CHA2DS2-VASc。
+補充：抗凝決策抓三層：男 0 分或女 1 分（只有性別分）通常不抗凝；男 1 分或女 2 分可考慮 oral anticoagulation（口服抗凝）；男 ≥2 分或女 ≥3 分建議抗凝。原文寫 CHADS2-VaSc，應為 CHA2DS2-VASc。
 
 ### Q：代謝症候群怎麼診斷？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：Metabolic syndrome（代謝症候群）成人診斷抓 5 項中符合 ≥3 項：腹部肥胖、TG（triglyceride，三酸甘油脂）≥150 mg/dL、HDL-C（high-density lipoprotein cholesterol，高密度脂蛋白膽固醇）低、BP（blood pressure，血壓）≥130/85 mmHg 或使用降壓藥、fasting glucose（空腹血糖）≥100 mg/dL 或已用降血糖藥。台灣/亞洲腰圍常用男 ≥90 cm、女 ≥80 cm；HDL-C 低是男 <40、女 <50 mg/dL。
 
-補充：目前複製內容沒有完整答案，先標為待回查。這段只有題目，答案需回查。
+補充：不是一定要肥胖才診斷；國考若問「幾項」先答 5 中 3。
 
 ### Q：BISAP（Bedside Index for Severity in Acute Pancreatitis，急性胰臟炎嚴重度床邊指標）怎麼算？用於什麼時間？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：BISAP 用於 acute pancreatitis（急性胰臟炎）早期死亡率/重症風險，取 admission 前 24 小時資料。5 項各 1 分：BUN（blood urea nitrogen，血中尿素氮）>25 mg/dL、impaired mental status（意識改變，常以 GCS <15）、SIRS（systemic inflammatory response syndrome，全身發炎反應症候群）、age >60 歲、pleural effusion（肋膜積液）。0-1 分偏 mild，2 分 intermediate，≥3 分重症/死亡風險明顯上升。
 
-補充：目前複製內容沒有完整答案，先標為待回查。這段只有題目，答案需回查。
+補充：BISAP 是 24 小時內可用；Ranson criteria 才常需要 48 小時才完整。
 
 ### Q：ABCD2（Age、Blood pressure、Clinical features、Duration、Diabetes，短暫性腦缺血後中風風險分數） score 怎麼算？分數對應再中風風險？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：ABCD2 用於 TIA（transient ischemic attack，暫時性腦缺血發作）後早期中風風險。Age ≥60 歲 1 分；BP ≥140/90 mmHg 1 分；clinical features 若 unilateral weakness（單側無力）2 分，speech disturbance without weakness（無無力的語言障礙）1 分；duration ≥60 分鐘 2 分，10-59 分鐘 1 分；diabetes mellitus（糖尿病）1 分。總分 0-7 分：0-3 低風險，4-5 中風險，6-7 高風險。
 
-補充：目前複製內容沒有完整答案，先標為待回查。這段只有題目，答案需回查。
+補充：2 日內中風風險粗背約 1%、4%、8%（低/中/高）；用途是 triage（分流）與 urgent stroke workup，不是診斷 TIA 本身。
 
 ### Q：TIMI（Thrombolysis In Myocardial Infarction，心肌梗塞溶栓研究風險分數） score 怎麼算？幾分以上使用哪種治療有好處？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：國考最常考 UA/NSTEMI（unstable angina/non-ST elevation myocardial infarction，不穩定心絞痛/非 ST 上升心肌梗塞）的 TIMI risk score。7 項各 1 分：age ≥65 歲、≥3 個 CAD（coronary artery disease，冠狀動脈疾病）risk factors、known CAD stenosis ≥50%、aspirin use within 7 days、≥2 angina episodes in 24 hours、ST deviation ≥0.5 mm、positive cardiac marker（心肌酵素/肌鈣蛋白陽性）。0-2 分低風險，3-4 分中風險，5-7 分高風險。
 
-補充：目前複製內容沒有完整答案，先標為待回查。這段只有題目，答案需回查。
+補充：治療門檻先背 TIMI ≥3 屬中高風險，較能從 early invasive strategy（早期心導管/血運重建策略）得益。若題目問藥物，TIMI >4 的高風險病人也較可能從 glycoprotein IIb/IIIa inhibitor（血小板 GP IIb/IIIa 抑制劑）得益；但作答主軸先抓「≥3 → early invasive」。
 
 ### Q：qSOFA（quick Sequential Organ Failure Assessment，快速序列器官衰竭評估）怎麼算？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：qSOFA 是 suspected infection（疑似感染）床邊快速風險篩檢，3 項各 1 分：RR（respiratory rate，呼吸速率）≥22/min、SBP（systolic blood pressure，收縮壓）≤100 mmHg、altered mentation（意識改變，GCS <15）。≥2 分代表 poor outcome（死亡或 ICU 風險）較高，要想到 sepsis（敗血症）與更完整評估。
 
-補充：目前複製內容沒有完整答案，先標為待回查。這段只有題目，答案需回查。
+補充：qSOFA 是警訊/篩檢，不是 sepsis 診斷的完整替代品。
 
 ### Q：SOFA（Sequential Organ Failure Assessment，序列器官衰竭評估）有哪幾項？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：SOFA 看 6 個器官系統，每項 0-4 分：respiration（呼吸，PaO2/FiO2）、coagulation（凝血/血小板，platelet）、liver（肝，bilirubin）、cardiovascular（心血管，MAP/vasopressor）、CNS（central nervous system，中樞神經，GCS）、renal（腎，creatinine/urine output）。Sepsis-3 的核心是 suspected infection 加上 SOFA 增加 ≥2 分，代表器官失能。
 
-補充：目前複製內容沒有完整答案，先標為待回查。這段只有題目，答案需回查。
+補充：這題通常考「哪 6 類」，不太會要你背完整 0-4 分表；記「肺、血小板、肝、循環、腦、腎」。
 
 ### Q：Apgar 有哪幾項？怎麼算？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：Apgar 用於出生後 1、5 分鐘評估新生兒狀態，必要時 10 分鐘或之後重複。5 項各 0-2 分，滿分 10 分：Appearance（皮膚顏色）、Pulse（心跳）、Grimace（反射反應）、Activity（肌張力）、Respiration（呼吸）。Pulse：0＝無，1＝<100/min，2＝≥100/min；Respiration：0＝無，1＝慢或不規則/弱哭，2＝規則呼吸或強哭；Activity：0＝flaccid（鬆軟），1＝四肢稍彎，2＝active motion（活動佳）；Grimace：0＝無反應，1＝grimace（皺眉），2＝咳嗽/噴嚏/哭/退縮；Appearance：0＝全身蒼白或發紺，1＝軀幹粉紅但四肢發紺，2＝全身粉紅。
 
-補充：目前複製內容沒有完整答案，先標為待回查。這段只有題目，答案需回查。
+補充：7-10 分通常 reassuring，4-6 分中度抑制，0-3 分嚴重抑制；產房復甦優先看呼吸與 heart rate（心跳），不要等 Apgar 才復甦。
 
 ### Q：Bishop score 有哪幾項？怎麼算？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：Bishop score 評估 cervix（子宮頸）成熟度與 induction of labor（引產）成功率，5 項：dilation（擴張）、effacement（變薄）、station（胎頭高度）、consistency（質地）、position（位置）。Dilation：closed 0，1-2 cm 1，3-4 cm 2，≥5 cm 3；effacement：0-30% 0，40-50% 1，60-70% 2，≥80% 3；station：-3 0，-2 1，-1/0 2，+1/+2 3；consistency：firm 0，medium 1，soft 2；position：posterior 0，mid-position 1，anterior 2。總分 0-13，≥8 通常表示 cervix favorable（子宮頸成熟），引產較容易成功；有些題源會寫 >8。
 
-補充：目前複製內容沒有完整答案，先標為待回查。這段只有題目，答案需回查。
+補充：Bishop >8 不是子宮頸開 8 cm；active phase（活動期）常抓 dilation ≥6 cm。
 
 ### Q：POP-Q stage 九宮格代表什麼？stage 怎麼算？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：POP-Q（Pelvic Organ Prolapse Quantification，骨盆器官脫垂量化系統）用 hymen（處女膜環）當 0 點，往陰道內是負值，突出到 hymen 外是正值。九宮格是 Aa、Ba、C；gh、pb、tvl；Ap、Bp、D。Aa/Ap 是前/後陰道壁距 hymen 3 cm 的固定點，Ba/Bp 是前/後陰道壁最突出點，C 是 cervix（子宮頸）或 vaginal cuff（陰道殘端），D 是 posterior fornix（後穹窿，無子宮者不記），gh 是 genital hiatus（生殖裂孔），pb 是 perineal body（會陰體），tvl 是 total vaginal length（陰道總長）。
 
-補充：目前複製內容沒有完整答案，先標為待回查。這段只有題目，答案需回查。
+補充：Stage 看「最遠端突出點」：0＝無脫垂；I＝最突出點仍在 hymen 上方 >1 cm（<-1 cm）；II＝最突出點介於 -1 到 +1 cm；III＝突出 hymen 外 >1 cm 但未達完全外翻；IV＝幾乎完全外翻（約 ≥tvl-2 cm）。不要用 Aa 或 C 單點硬判所有 prolapse。
 
 ### Q：胎兒 Biophysical profile（BPP（biophysical profile，胎兒生物物理評估））怎麼算？滿分幾分？何時需引產？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：BPP 是 NST（non-stress test，無壓力試驗）加上 4 個超音波項目，5 項各 2 分，滿分 10 分。NST reactive 2 分；fetal breathing（胎兒呼吸）30 分鐘內 ≥1 次且持續 ≥30 秒 2 分；gross body movement（胎動）30 分鐘內 ≥3 次 2 分；fetal tone（肌張力）肢體/軀幹伸展後屈曲 ≥1 次 2 分；amniotic fluid（羊水量）MVP/SDP（maximum vertical pocket/single deepest pocket，最大垂直/單一最深羊水池）≥2 cm 2 分。8-10 分 reassuring，6 分 equivocal，<6 分不 reassuring，要評估 delivery（生產/引產）或依週數立即處置。
 
-補充：目前複製內容沒有完整答案，先標為待回查。這段只有題目，答案需回查。
+補充：如果羊水過少，即使總分看起來不差也要小心胎盤功能不良；國考常把 BPP 和 NST reactive criteria 混在一起考。
 
 ### Q：Preeclampsia severe features 有哪些？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：Preeclampsia with severe features（重症子癲前症特徵）要抓母體器官受損或 severe hypertension（嚴重高血壓）。常考 severe features：BP ≥160/110 mmHg；platelet（血小板）<100,000/uL；creatinine（肌酸酐）>1.1 mg/dL 或為 baseline 兩倍，或 oliguria（寡尿）；liver transaminase（肝酵素）≥2 倍或持續 RUQ/epigastric pain（右上腹/上腹痛）；pulmonary edema（肺水腫）；new-onset headache（新發頭痛）或 visual symptoms（視覺症狀）。
 
-補充：目前複製內容沒有完整答案，先標為待回查。這段只有題目，答案需回查。
+補充：蛋白尿多寡不是 severe feature 的主軸；出現 severe features 時常要 MgSO4（magnesium sulfate，硫酸鎂）預防 seizure（癲癇）並評估 delivery。
 
 ### Q：妊娠糖尿病怎麼診斷？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：GDM（gestational diabetes mellitus，妊娠糖尿病）通常在 24-28 週篩檢。常用 75 g OGTT（oral glucose tolerance test，口服葡萄糖耐受試驗）：fasting ≥92 mg/dL、1 hr ≥180 mg/dL、2 hr ≥153 mg/dL，任一項達標即可診斷。若題目採兩步驟法，先 50 g glucose challenge test（葡萄糖篩檢）1 小時異常再做 100 g OGTT；100 g OGTT 通常要 2 項異常才診斷。
 
-補充：目前複製內容沒有完整答案，先標為待回查。這段只有題目，答案需回查。
+補充：國考最常背 75 g 的 92/180/153；GDM 胎兒/新生兒重點是 macrosomia（巨嬰）與出生後低血糖（胎兒高胰島素）。
 
 ## 氣喘
 
 ### Q：DLCO（diffusing capacity for carbon monoxide，一氧化碳肺擴散能力）上升的鑑別診斷？
 
-A：肺泡出血、紅血球增多、氣喘、輕度鬱血性心衰竭、肥胖、左到右分流。
+A：**肺泡出血、紅血球增多、氣喘**、輕度鬱血性心衰竭、肥胖、左到右分流。
 
 補充：無。
 
@@ -1756,9 +1756,9 @@ A：Polyphonic wheezing 較像氣喘或 COPD；monophonic wheezing 想固定或�
 
 ### Q：氣喘急性惡化時 PE 要看什麼？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：Asthma acute exacerbation（氣喘急性惡化）的 PE（physical examination，身體檢查）要看嚴重度：能不能講完整句、呼吸速率、心跳、輔助呼吸肌/胸凹、wheezing 或 silent chest（安靜胸）、SpO2（血氧飽和度）、意識、cyanosis（發紺）。危險徵象是 silent chest、cyanosis、exhaustion（衰竭）、altered consciousness（意識改變）、hypotension/arrhythmia（低血壓/心律不整）。PEF（peak expiratory flow，尖峰吐氣流速）<50% predicted/personal best 是 severe，<33% 是 life-threatening。
 
-補充：目前複製內容沒有完整答案，先標為待回查。可回查呼吸功、輔助肌使用、silent chest、意識、發紺。
+補充：胸很安靜不是變好，是 airflow 太差。
 
 ### Q：氣喘平時用什麼參數監測？小於多少代表控制不佳或嚴重惡化？
 
@@ -1830,9 +1830,9 @@ A：郵輪：Legionella；structural lung disease 或 bronchiectasis：Pseudomon
 
 ### Q：CURB-65 怎麼背？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：CURB-65 用於 CAP（community-acquired pneumonia，社區型肺炎）嚴重度。5 項各 1 分：Confusion（意識混亂）、Urea（尿素）>7 mmol/L 或 BUN（blood urea nitrogen，血中尿素氮）>20 mg/dL、Respiratory rate（呼吸速率）≥30/min、Blood pressure（血壓）SBP <90 或 DBP ≤60 mmHg、Age ≥65 歲。0-1 分多可門診，2 分考慮住院/短期觀察，≥3 分重症，評估 ICU 或加強治療。
 
-補充：目前複製內容沒有完整答案，先標為待回查。原文只寫回去翻第 45 題，未列 criteria。
+補充：Heart rate（心跳）不是 CURB-65 項目。
 
 ### Q：老人肋骨骨折後最常見併發症？
 
@@ -2350,9 +2350,9 @@ A：分化型甲狀腺癌整體女性預後較好，男性較差；Papillary、F
 
 ### Q：通常年紀如何預後會比較好？
 
-A：原文缺答案；校對：年輕預後較好，AJCC（American Joint Committee on Cancer，美國癌症聯合委員會）第 8 版分化型甲狀腺癌以 <55 歲作重要分期切點。
+A：分化型甲狀腺癌（papillary/follicular thyroid carcinoma）年輕預後較好；AJCC（American Joint Committee on Cancer，美國癌症聯合委員會）第 8 版用 <55 歲作重要分期切點。<55 歲即使有遠端轉移也多為 stage II，不會到 stage IV。
 
-補充：目前複製內容沒有完整答案，先標為待回查。答案群未配到此題。
+補充：這個年齡切點主要用於 differentiated thyroid carcinoma；anaplastic thyroid carcinoma（未分化癌）仍是預後最差。
 
 ### Q：碘充足比較容易是哪個癌？碘缺乏呢？
 
@@ -2406,9 +2406,9 @@ A：DM（diabetes mellitus，糖尿病）：FPG（fasting plasma glucose，空�
 
 ### Q：妊娠糖尿病怎麼診斷？通常懷孕幾週發生/篩檢？
 
-A：原文缺 GDM（gestational diabetes mellitus，妊娠糖尿病）診斷 criteria；篩檢通常在 24-28 週。
+A：GDM（gestational diabetes mellitus，妊娠糖尿病）通常在 24-28 週篩檢。常用 75 g OGTT（oral glucose tolerance test，口服葡萄糖耐受試驗）：fasting ≥92 mg/dL、1 hr ≥180 mg/dL、2 hr ≥153 mg/dL，任一項達標即可診斷。若採兩步驟法，先做 50 g glucose challenge test；異常再做 100 g OGTT，通常 2 項異常才診斷。
 
-補充：目前複製內容沒有完整答案，先標為待回查。答案寫「criteria 補充在下頁」，本 segment 未收錄；不可假裝完整。
+補充：國考最常背 75 g 的 92/180/153；發生機轉是孕中後期 placental hormones（胎盤激素）造成 insulin resistance（胰島素阻抗）。
 
 ### Q：糖尿病控制目標？缺血性中風血糖？DM（diabetes mellitus，糖尿病） + HTN（hypertension，高血壓）血壓？
 
@@ -2698,7 +2698,7 @@ A：Fluoroquinolones 可 QT prolongation；macrolides 也常考 QT prolongation�
 
 A：Rifampin；但重點應是 rifampin 會與多種 antiretroviral therapy（ART）交互作用，尤其 PI/NNRTI/部分 integrase inhibitor，不是典型只針對 NRTI（nucleoside reverse transcriptase inhibitor，核苷酸反轉錄酶抑制劑）。
 
-補充：這題需看題源或教材版本，先不要硬背。原題或原文把 NRTI 寫成主要交互作用對象可能不精確；需回查題源。
+補充：考試若只問 TB + HIV 交互作用，先選 rifampin；若細問 ART 類別，NRTI 通常不是最主要被 rifampin 影響的一群。
 
 ### Q：Erythromycin + theophylline、clarithromycin + statin、TMP-SMX（trimethoprim-sulfamethoxazole，複方新諾明） + digoxin 各會怎樣？
 
@@ -2740,9 +2740,9 @@ A：常見是 Staphylococcus aureus、Salmonella spp.；endocarditis 相關也�
 
 ### Q：Open 和 EVAR（endovascular aneurysm repair，血管內動脈瘤修復術），哪個使用 CSF（cerebrospinal fluid，腦脊髓液） drainage 會沒有保護效果？
 
-A：疑義：CSF drainage 主要用於 open thoracoabdominal aortic repair 或高風險 endovascular thoracic repair 的 spinal cord protection；一般 AAA（abdominal aortic aneurysm，腹主動脈瘤） EVAR 非例行。
+A：CSF drainage 用於降低 spinal cord ischemia（脊髓缺血）風險，主要考 open thoracoabdominal aortic aneurysm repair 或高風險 thoracic endovascular repair（TEVAR）。一般 infrarenal AAA（腎下腹主動脈瘤）的 EVAR 不太有脊髓灌流問題，因此不是例行保護措施。
 
-補充：這題需看題源或教材版本，先不要硬背。原題問「哪個沒有保護效果」，原文答「都有保護效果」互相衝突；需回查題源。
+補充：若題目只在 open TAAA vs EVAR AAA 間選，CSF drainage 對一般 AAA EVAR 最不像必要保護。
 
 ### Q：直徑 3 cm 的 TAA（thoracic aortic aneurysm，胸主動脈瘤）不開刀，追蹤時間？
 
@@ -2752,39 +2752,39 @@ A：初次常 6-12 個月追蹤影像；穩定後依大小與成長速度延長�
 
 ### Q：影響 AAA（abdominal aortic aneurysm，腹主動脈瘤）手術結果最重要危險因素？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：先分情境：最影響預後的是是否 rupture（破裂）/shock（休克）而需急診手術；elective AAA repair（選擇性腹主動脈瘤修補）則主要看 cardiovascular disease（心血管疾病，尤其 CAD/CHF）、renal insufficiency（腎功能不全）、COPD（chronic obstructive pulmonary disease，慢性阻塞性肺病）、高齡。若考單一「手術死亡率危險因子」，優先抓 cardiac/renal comorbidity。
 
-補充：目前複製內容沒有完整答案，先標為待回查。答案只寫 indication 在下頁，未回答此題。
+補充：不要只看 aneurysm 直徑；能不能承受手術多由心肺腎共病決定。
 
 ### Q：TAA（thoracic aortic aneurysm，胸主動脈瘤）開刀 indication？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：TAA 開刀/介入 indication 抓三類：有症狀、快速變大、直徑達門檻。Sporadic aortic root/ascending aorta（主動脈根部/升主動脈）常用 ≥5.5 cm；descending thoracic aorta（降胸主動脈）或 thoracoabdominal aneurysm 常用 ≥6.0 cm。若 Marfan syndrome（馬凡氏症候群）、Loeys-Dietz syndrome、bicuspid aortic valve（雙葉主動脈瓣）、家族剝離史或同時要做瓣膜手術，門檻可降到約 5.0 cm 或更低。
 
-補充：目前複製內容沒有完整答案，先標為待回查。答案寫在下一頁，本 segment 未收錄；不可假裝完整。
+補充：國考先背 ascending 5.5、descending/TAAA 6.0；症狀或快速長大不等到門檻。
 
 ### Q：AAA（abdominal aortic aneurysm，腹主動脈瘤）開刀 indication？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：AAA repair indication：破裂或有症狀一定處理；無症狀 fusiform AAA（梭形腹主動脈瘤）直徑男 ≥5.5 cm、女 ≥5.0 cm；快速增大（常用 ≥0.5 cm/6 個月或 ≥1 cm/年）；saccular aneurysm（囊狀動脈瘤）或感染性/mycotic aneurysm 也較傾向介入。
 
-補充：目前複製內容沒有完整答案，先標為待回查。答案寫在下一頁，本 segment 未收錄；不可假裝完整。
+補充：追蹤題常考 <5 cm 破裂風險低；處置門檻另背 5.5 cm（男）/5.0 cm（女）。
 
 ### Q：Crawford classification type I-V 分別為何？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：Crawford classification 分 thoracoabdominal aortic aneurysm（TAAA，胸腹主動脈瘤）範圍。Type I：left subclavian artery（左鎖骨下動脈） distal 到 suprarenal abdominal aorta（腎上腹主動脈）。Type II：left subclavian 到 aortoiliac bifurcation（主髂分叉），範圍最大。Type III：distal thoracic aorta（遠端胸主動脈）到 aortoiliac bifurcation。Type IV：主要限於 diaphragm（橫膈）以下的 abdominal/visceral aorta（腹部/臟器段主動脈）。Type V（modified/Safi）：distal descending thoracic aorta 到 suprarenal aorta，通常不延伸到腎動脈以下。
 
-補充：目前複製內容沒有完整答案，先標為待回查。答案寫補充在下頁/下下頁，本 segment 未收錄。
+補充：最常背 Type II 最大、脊髓缺血風險高。
 
 ### Q：AAA（abdominal aortic aneurysm，腹主動脈瘤）做完 EVAR（endovascular aneurysm repair，血管內動脈瘤修復術）後 Endoleak type I-V 分別發生在哪裡？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：Endoleak 是 EVAR 後 aneurysm sac（動脈瘤囊）仍有血流。Type I：graft attachment site sealing failure（近端 Ia 或遠端 Ib 密封不良）。Type II：branch retrograde flow（分支逆流，最常見；如 lumbar artery、inferior mesenteric artery）。Type III：graft fabric defect 或 modular disconnection（支架破洞/接合處分離）。Type IV：graft porosity（支架材料孔隙滲漏，術後早期）。Type V：endotension（看不到明顯漏，但 aneurysm sac 持續變大）。
 
-補充：目前複製內容沒有完整答案，先標為待回查。答案寫補充在下頁/下下頁，本 segment 未收錄。
+補充：I、III 是高壓漏，通常比 II 更需要積極處理；II 最常見但可先追蹤，若 sac 變大再處理。
 
 ### Q：AoD（aortic dissection，主動脈剝離）的 DeBakey 與 Stanford 分類？
 
-A：目前沒有完整答案，先不要背；需回查原 PDF 或題源。
+A：Stanford classification 看有沒有 ascending aorta（升主動脈）：Type A 有侵犯升主動脈，通常外科急症；Type B 沒侵犯升主動脈，多先內科降壓，除非 complicated。DeBakey classification 看起點與範圍：Type I 起於升主動脈並延伸到 arch/descending aorta；Type II 限於升主動脈；Type III 起於 descending aorta（左鎖骨下動脈遠端），IIIa 限胸腔，IIIb 延伸到橫膈以下。DeBakey I/II 約等於 Stanford A，DeBakey III 約等於 Stanford B。
 
-補充：目前複製內容沒有完整答案，先標為待回查。答案寫補充在下頁/下下頁，本 segment 未收錄。
+補充：考處置先看 Stanford：A surgery，B medical control unless malperfusion、rupture、persistent pain 等 complicated features。
 
 ### Q：IABP（intra-aortic balloon pump，主動脈內氣球幫浦）放在哪段主動脈？何時充氣/消氣？禁忌？對 MI（myocardial infarction，心肌梗塞）後 cardiogenic shock 死亡率有好處嗎？
 
@@ -2826,7 +2826,7 @@ A：Hypertrophic pyloric stenosis（肥厚性幽門狹窄）。白種人、男�
 
 A：最典型是 pancreatitis（胰臟炎）背痛/放射到背；retrocecal appendicitis 可背/腰痛但非典型；腸阻塞不是典型「轉移到背」。
 
-補充：這題需看題源或教材版本，先不要硬背。原文列胰臟炎、腸阻塞、闌尾炎；若考題單選或典型表現，腸阻塞/闌尾炎需回查題源。
+補充：若單選最典型就是 pancreatitis；appendicitis 只有 retrocecal 位置時可牽涉背/腰，不要和典型 periumbilical pain 轉移到 RLQ 混淆。
 
 ### Q：Single-bubble、Double-bubble、Triple-bubble、Corkscrew、Coiled spring、String/Shoulder/Mushroom sign 各是哪個病？
 

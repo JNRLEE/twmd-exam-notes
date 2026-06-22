@@ -715,12 +715,12 @@
   - Pitfall：年輕人反覆肺炎＋慢性鼻竇炎＋H. influenzae，要先查血清IgG/CVID方向。
 - 黴菌感染：
 
-  | Fungus             | 特徵                                                                                 |
-  | ------------------ | ---------------------------------------------------------------------------------- |
-  | Aspergillosis      | A.fumigatus（Hyphae/ KOH（＋））；銳角分頁菌絲；血管侵犯⭢Halo sign；舊TB/空洞內fungus ball（aspergilloma） |
-  | Histoplasmosis     | Ohio/Mississippi、鳥/蝙蝠糞；巨噬細胞內酵母；肺/縱膈鈣化肉芽腫                                           |
-  | Coccidioidomycosis | Arizona/California沙漠；spherule with endospores；肺炎、空洞、erythema nodosum               |
-  | Cryptococcosis     | C.neoformans；鳥糞/HIV；厚莢膜酵母、India ink/CrAg（＋）；肺結節或腦膜炎                                |
+  | Fungus             | 特徵                                                                                                |
+  | ------------------ | ------------------------------------------------------------------------------------------------- |
+  | Aspergillosis      | A.fumigatus（Hyphae/ KOH（＋））；銳角分頁菌絲；血管侵犯⭢Halo sign；舊TB/空洞內fungus ball（aspergilloma）；Tx=Obx、手術（有症狀） |
+  | Histoplasmosis     | Ohio/Mississippi、鳥/蝙蝠糞；巨噬細胞內酵母；肺/縱膈鈣化肉芽腫                                                          |
+  | Coccidioidomycosis | Arizona/California沙漠；spherule with endospores；肺炎、空洞、erythema nodosum                              |
+  | Cryptococcosis     | C.neoformans；鳥糞/HIV；厚莢膜酵母、India ink/CrAg（＋）；肺結節或腦膜炎                                               |
 
 ## Tuberculosis（TB）（考題3）
 
@@ -875,6 +875,7 @@
       - 病理subtype預後：lepidic（伏壁型/GGO/AIS-MIA概念）最好；acinar/papillary中間；micropapillary/solid最差。
     - Squamous cell carcinoma（SCC，鱗狀細胞癌）：抽菸男性、central cavitation；PTHrP高血鈣。
       - Pancoast tumor：肩頸痛＋Horner syndrome（瞳孔縮小、眼瞼下垂、無汗）。
+  - cf. Primary tracheal tumor（原發性氣管腫瘤）極罕見，常見排序和 NSCLC 相反：SCC 最常見，adenoid cystic carcinoma（ACC，腺樣囊性癌）第二；不要把肺 adenocarcinoma 最常見套到氣管。
 - Exam：
   - 症狀/CXR abnormal → chest CT → tissue biopsy；中央型（如SCC）痰液細胞學較容易陽性，周邊腺癌較不易。
   - LDCT（low-dose CT，低劑量電腦斷層）：for 高風險肺癌篩檢；PET不是篩檢工具。
@@ -1230,7 +1231,7 @@
   - Acute liver failure（猛爆型肝炎）：
     - Dx：INR ≥1.5 + hepatic encephalopathy + 病程 <26 週。
 - HBV病毒：
-  - Pattern：免疫容忍（幼兒，DNA/HBeAg 極高）→ 免疫廓清（青年，DNA/HBeAg 下降）→ 不活躍期（中年，HBeAg 陰性）→ 再活化（急性發作/癌化風險）。
+  - Pattern：免疫容忍（幼兒，DNA/HBeAg 極高；小兒9成會慢性化）→ 免疫廓清（青年，DNA/HBeAg 下降）→ 不活躍期（中年，HBeAg 陰性）→ 再活化（急性發作/癌化風險）。
   - 血清學：
     - Acute HBV：HBsAg、HBeAg、IgM HBcAb。
     - Chronic HBV：HBsAg、HBeAg、IgG/M HBcAb。
@@ -1977,13 +1978,21 @@
 ## Polycystic kidney disease（PKD）（考題2）
 
 - ADPKD（autosomal dominant PKD，自體顯性 PKD）：
-  - Epidemiology：90% PKD；成人為主；type I/PKD1（16p 短臂）為主。
-  - SS：30-40 y/o 雙側多發囊腫；腎外常見**肝/胰/卵巢 cyst**；血壓高。
-  - Exam：臨床/影像；年輕雙側 >2 cyst，老人 >4 cyst。
-  - Tx：ARB/ACEi 控壓；腎衰後透析/移植。
+  - Epidemiology：90% PKD；成人為主；type I/PKD1（16p 短臂，85%）較嚴重。
+  - SS：30-40 y/o 雙側多發囊腫；腎外常見**肝cyst（1st, 女性嚴重）、顱內berry aneurysm/SAH**；腰痛、血尿、腎結石、血壓高。
+  - Exam：臨床（Pei-Ravine criteria）/影像；年輕雙側 >2 cyst，老人 >4 cyst。
+  - Tx：ARB/ACEi 控壓、Tolvaptan（抑制囊腫新生）；腎衰後透析/移植。
 - ARPKD（autosomal recessive PKD，自體隱性 PKD）：
-  - Epidemiology：10% PKD；小孩為主。
-  - SS/Prognosis：**羊水過少、肺發育不全**、高死亡率、肝病變。
+  - Epidemiology：10% PKD；小孩為主、100%合併先天性肝纖維硬化。
+  - MOA：collecting duct微小囊腫
+  - Exam：Prenatal US：kidney大/無水泡、基因檢測、肝纖維化
+  - SS/Prognosis：**羊水過少、肺發育不全（主死因）**、高死亡率、肝病變（100%）
+  - Tx：呼吸支持、腎切除、透析、肝移植
+- Multicystic dysplastic kidney（MCDK，多囊性腎發育不全）：
+  - 定位：先天性 renal dysplasia（腎發育不良），**非遺傳性 PKD**；常 prenatal US 發現。
+  - Exam/SS：多為 unilateral（單側）；多個大小不一、**noncommunicating cysts（互不相通囊腫）**取代腎實質 → 該腎無功能；對側腎可合併 VUR（vesicoureteral reflux，膀胱輸尿管逆流）/其他尿路異常。
+  - DDx：ARPKD＝雙側腎大、高回音、**無明顯大囊泡**＋羊水過少/肺發育不全/肝纖維化；MCDK＝常單側、可見多個大小不一大囊泡。
+  - Tx：單側多觀察＋追蹤對側腎/血壓；nephrectomy（腎切除）只在症狀、感染、高血壓或持續變大時考慮。
 
 # 感染科（考題38）
 
@@ -2100,7 +2109,7 @@
     - Ind：PCN＝syphilis/GAS 首選；PCNase-resistant PCN＝抗 β-lactamase/Staphylococcus（methicillin、oxacillin；oxacillin 為 MSSA 用藥且肝代謝（不能MRSA））；amino-PCN＝對 G（-）有效（ampicillin for Listeria 腦膜炎、amoxicillin）；Augmentin/Unasyn/Tazocin（Tazocin 可顧綠膿）。
     - Pitfall：aminoglycoside 與 amino-PCN 無關。
   - Cephalosporin 類：1st 偏 G（+）、3rd 偏 G（-）、4th 可抗 AmpC β-lactamase、5th 對 MRSA；ESBL 交給 carbapenem；打不到Listeria、Enterococci。
-    - 例：cefazolin（1st，手術預防/UTI）、cefuroxime（2nd，橫膈上/CAP）、cefoxitin（2nd，橫膈下/GI/婦科）、ceftriaxone（3rd，肝代謝、可過 BBB，for 腦膜炎/淋病）、ceftazidime/cefepime（抗綠膿）、ceftaroline（MRSA）。
+    - 例：cefazolin（1st，手術預防/UTI）、cefuroxime（2nd，橫膈上/CAP）、cefoxitin（2nd，橫膈下/GI/婦科）、ceftriaxone（3rd，肝代謝、可過 BBB，for 腦膜炎/淋病）、cefoperazone/ceftazidime/cefepime（抗綠膿）、**ceftaroline（MRSA）**。
   - Carbapenem：廣效；Pitfall＝MRSA 無效（用 vancomycin）、ampicillin-resistant Enterococcus 無效；ertapenem 對綠膿/不動桿菌/腸球菌無效。
   - Monobactam：aztreonam for GNB，PCN 過敏者可用。
   - Glycopeptides：vancomycin for MRSA；SE＝紅人症候群（輸太快）、耳毒性、腎毒性；會被透析清除，透析後要監測濃度。
