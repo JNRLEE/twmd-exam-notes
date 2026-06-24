@@ -46,6 +46,10 @@
     - Exam：**尿血培養>5成沒東西，影像2成正常**
     - Tx：**廣效抗生素（vancomycin、cephalosporin）**；CT引流 if anti 48 hr無果；手術
 - 腎臟腫瘤
+  - 腎臟腫塊 US（ultrasound，超音波）快辨：
+    - 低回音（hypoechoic）＋中心不均質/實質腫塊：先想 renal cell carcinoma（RCC，腎細胞癌）；後續用 CT 分期，手術切除為主
+    - 高回音（hyperechoic）＋均質、含脂肪：先想 angiomyolipoma（AML，血管平滑肌脂肪瘤）；<4 cm 且無症狀可追蹤，>4 cm/疼痛/出血風險才切除或動脈栓塞
+    - 無回音（anechoic）＋圓形薄壁、後方增強：先想 simple renal cyst（單純腎囊腫）；用 Bosniak 分類決定追蹤或手術評估
   - Renal parenchymal neoplasms實質腫瘤：
     - Benign：
       - Oncocytoma嗜酸細胞瘤：男性、無症狀，影像不典型（像RCC）；Exam＝**FNAC棕色病灶**；Tx＝燒灼，超音波
@@ -60,6 +64,9 @@
     - 病理：mixed carcinoma
     - SS：**無症狀（>50%）**、副腫瘤症候群（高壓、高鈣）
     - Exam：抽血（ESR⭡、血尿、貧血）、**Echo（準度高）**、CT（arterial enhancement、venous early washout，HCC也會）、其他進階影像學/膀胱鏡都有效
+    - Biopsy pitfall：影像典型且預計 partial nephrectomy（部分腎切除）/radical nephrectomy（根除性腎切除）者，通常不先做 percutaneous biopsy（穿刺切片）；陰性不能排除惡性，且結果多不改變手術處置，pathology 由切除標本確認
+      - Biopsy Ind：影像不典型、懷疑 metastatic tumor（轉移性腫瘤）/lymphoma（淋巴瘤）/感染發炎；小腫瘤考慮 active surveillance（主動監測）或 ablation（燒灼）前；轉移性要 systemic therapy（全身治療）但尚無病理
+      - Safety：needle tract seeding（針道種植）極罕見，考試可當風險但不是現代主要理由；若做 biopsy 以 coaxial core biopsy（同軸核心切片）為主
     - Tx：手術（唯一cure方法）；**標靶治療 for 轉移性clear cell RCC 用**
     **VEGF/VEGFR 標靶 ± 免疫治療**
     - Metastatic RCC risk model：International Metastatic Kidney Cancer Database Consortium（IMDC，轉移性RCC預後分層）＝Karnofsky performance status低（<80%）、Dx-to-Tx<1 yr（發病到需要全身治療）、Hb低、corrected Ca高、neutrophil高、platelet高
@@ -92,7 +99,7 @@
 - 構造異常（多遺傳性，要手術）
   - 輸尿管成因
     - Duplicated ureter（雙套輸尿管）：**女多**，具遺傳性
-      - 分類：不完全型（Y，只有一條接膀胱，多無症狀） vs 完全型（兩條通道接膀胱；**上腎盂輸尿管（接到下內側膀胱）易異位/囊腫/阻塞**，下腎盂輸尿管易VUR）
+      - 分類：不完全型（Y，只有一條接膀胱，多無症狀） vs 完全型（兩條輸尿管相對位置卡到；**上腎盂輸尿管（接到下內側膀胱）易異位/囊腫/阻塞**，下腎盂輸尿管易VUR）
       - Tx＝手術
     - Ureteropelvic junction obstruction（UPJ obstruction，輸尿管腎盂接口處狹窄）：男、**左腎為主**；多無症狀，infant可嘔吐/疼痛
       - Exam＝Echo、renal scan、voiding cystourethrogram（VCUG，排尿膀胱尿道攝影）
@@ -236,6 +243,13 @@
     - SS＝攝護腺症狀+**DRE摸到腫大/脈動/疼痛攝護腺**
     - Exam＝超音波/CT
     - Tx＝影像引導引流
+- 攝護腺 zone 快辨：
+  - Transition zone（TZ，移行區/尿道周圍）＝BPH 主場；年輕時小，老化增生後壓迫 urethra（尿道）→ LUTS
+  - Peripheral zone（PZ，周邊區）＝prostate cancer（攝護腺癌）主場，約 70%，後側可被 DRE（digital rectal examination，肛門指診）摸到硬結
+  - Central zone（CZ，中央區）＝ejaculatory duct（射精管）周圍；BPH/癌都少，癌約 5-10%，考場通常不是第一答案
+  - 分布：
+    - Cancer（從輸精管往前長，DRE好摸）：PZ 約 70% > TZ 約 20% > CZ 約 5-10%；
+    - BPH（從尿道旁邊開始長）：TZ > periurethral gland（尿道周圍腺）> 其他
 - 攝護腺增生（BPH）：
   - 病理＝老男，Transitional zone細胞數增加；往外壓迫peripheral zone形成surgical capsule，可作為手術邊界
   - SS＝LUTS下泌尿道症狀
@@ -246,17 +260,18 @@
     - 手術：反覆發作或移除尿管失敗；Transurethral Incision for <30ml，Transurethral vaporization for 30-80ml，Enucleation晚除術
     ![Prostate zones](../assets/prostate_zones.png)
 - 攝護腺癌：
-  - 定位＝1st泌尿癌症（美國男性第一癌，台灣前三）；**adenocarcinoma** in **peripheral** zone為主
+  - 定位＝1st泌尿癌症（美國男性第一癌，台灣前三）；**adenocarcinoma腺癌** in **peripheral** zone為主
   - RF＝年齡、人種（黑>白>黃）、**紅肉飲食**、特定營養缺乏（**茄紅素，Vit D，Omega-3**）
   - 轉移＝**經Batson's venous plexus（脊椎靜脈叢）至脊椎骨盆**
   - SS＝多無症狀，**發現時已轉移（cf. 陰莖癌，膀胱癌）**
   - Exam＝DRE像石頭、**PSA>4ng/ml**（**free form比值越小越惡性**）、TRUS常見異常**低回音**、MRI**低訊號**
   - 分類＝切片**Gleason grading**（最大片+最高分分數）；7分中風險，>7高風險
-  - Tx（先看stage/壽命/風險）：
-    - 低風險且預期壽命>10y：active surveillance（主動監測；定期PSA/DRE/切片，進展才根治）；預期壽命<10y或不適合根治＝watchful waiting（等待觀察，症狀出現再症狀治療）
-      - **localized：中高風險且預期壽命>10y**：根除性攝護腺切除（**radical prostatectomy**）或放療；放療可合併androgen deprivation therapy（ADT，雄性素剝奪治療；中風險約4-6mo〔常考6mo〕，高風險2-3y）
-      - metastatic：ADT為骨幹（**雙側睪丸切除 or LHRH/GnRH agonist/antagonist效果相近**）；若問全身治療，常合併**androgen receptor pathway inhibitor（ARPI，雄性素受體路徑抑制劑）或docetaxel**
-    - Pitfall＝TURP攝護腺不是癌症根除手術；localized不能只用hormone當根治
+  - Tx（先看 stage + risk + life expectancy）：
+    - Localized low-risk（局部低風險）且預期壽命>10y：active surveillance（AS，主動監測；定期PSA/DRE/切片±MRI，進展才根治）為主，不是立刻手術/放療
+    - 預期壽命<10y或不適合根治：watchful waiting（等待觀察；不密集切片，症狀出現再緩和治療）
+    - Localized unfavorable intermediate/high-risk（局部不良中風險/高風險）且預期壽命>10y：根除性攝護腺切除（radical prostatectomy）或放療；放療常合併 androgen deprivation therapy（ADT，雄性素剝奪治療；中風險約4-6mo〔常考6mo〕，高風險2-3y）
+    - Metastatic（轉移性）：ADT 為骨幹（雙側睪丸切除 or LHRH/GnRH agonist/antagonist效果相近）；若問全身治療，常合併 androgen receptor pathway inhibitor（ARPI，雄性素受體路徑抑制劑）或 docetaxel
+    - Pitfall：ADT單用主要是 metastatic 或 limited life expectancy/palliative；localized可根治者不要只用 hormone 當根治。TURP 攝護腺不是癌症根除手術
 
 ## 結石（考題7）
 
@@ -274,7 +289,7 @@
   - Staghorn鹿角結石＝形狀/範圍名（分枝填滿renal pelvis/calyces，常為struvite感染石），不是成分名
 - SS：
   - hematuria（9成）
-  - pain：colicky pain＝石頭拉扯痛；noncolicky pain＝積尿痛；石頭大小與痛度無正比關係
+  - pain：colicky pain（急性腎絞痛，主要就是結石導致）＝石頭拉扯痛；noncolicky pain＝積尿痛；石頭大小與痛度無正比關係
   - 三狹窄堵塞＝UPJ輸尿腎盂、**iliac vessels髂血管旁**、UVJ輸尿膀胱
   - 感染＝Mainly Proteus（struvite結石）
 - Exam：
@@ -455,7 +470,7 @@
 - Laparoscopic cholecystectomy（腹腔鏡膽囊切除）：
   - if Calot triangle（三角）解剖不清 or critical view of safety（安全視野）做不出來 ⭢ subtotal cholecystectomy（次全膽囊切除）
   - Subtotal：fenestrating（開窗引流）/reconstituting（重建殘端）
-  - Pitfall：轉 open（開腹）只是換視野，不等於安全
+  - Pitfall：轉 open（開腹）只是換視野，不等於安全；lap（腹腔鏡）疼痛少/恢復快，但 bile duct injury（膽管損傷）不是遠低於 open，仍是嚴重併發症（常見數字：LC 約 0.4-1.5%，open 約 0.2-0.3%）
 - Appendicitis abscess/phlegmon（闌尾膿瘍/發炎塊）：
   - if 膿瘍/發炎塊明顯 ⭢ 不硬切
   - Tx：抗生素 ± percutaneous drainage（經皮引流）
@@ -474,6 +489,7 @@
 - Lap（laparoscopy，腹腔鏡）贏 open（開腹）：
   - 常見：cholecystectomy（膽囊切除）/appendectomy（闌尾切除）/fundoplication（胃底摺疊術）/colectomy（結腸切除）
   - Advantage：傷口小、疼痛少、住院短、恢復快、wound infection（傷口感染）/incisional hernia（切口疝氣）少
+  - Pitfall：短期恢復優勢不等於所有 severe complication（嚴重併發症）或 oncologic outcome（腫瘤結果）都較好
   - Colectomy：短期恢復佳；oncologic outcome（腫瘤結果）可相近
 - Robot（機器手臂）真正強項：
   - Radical prostatectomy（根除性攝護腺切除）⭢ 失血/輸血少、住院短

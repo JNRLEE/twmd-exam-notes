@@ -153,8 +153,8 @@
       - type A＝pure EA
     - RF：高臨產婦肥胖、歐洲人、抽菸
     - SS：VATER/VACTERL syn（Vertebral、Anal、Cardiac、Trachea、Esophageal、Renal、Limb anomalies）、出生羊水過多
-    - Exam：NG tube無法通過食道、Scaphoid Abd舟狀腹部
-    - Tx：prone position防嗆；only手術
+    - Exam：NG tube無法通過食道、Scaphoid Abd舟狀腹部、鋇劑攝影（看不到H型）、支氣管鏡（H型）
+    - Tx：prone position防嗆；only手術（復發可改內視鏡）
   - Hiatal Hernia：
     - Sliding：1st；胃食道交界上移；SS＝GERD
     - Paraesophageal：交界正常但胃部突出；Mainly fundus；好發於外科手術後；進食易飽
@@ -239,7 +239,7 @@
   - Omphalocele：
     - 特徵：有包膜、缺口大；預後差、死亡率高；腹壁缺損在umbilicus
     - SS：包膜覆蓋的腸子暴露在羊水中
-    - 伴隨其他先天dx：Malrotation（1st）、Meckel's、Fallot、ch13，18，21三倍體
+    - 伴隨其他先天dx：Malrotation（1st）、Beckwith-Wiedemann syn、Meckel's、Fallot、ch13/18/21三倍體、
     - Tx：濕紗保濕、手術
   - Gastroschisis：
     - 特徵：無包膜、失水多（無膜要大量靜脈輸液）、缺口小；死亡率低；only**隱睪風險**；腹壁缺損在umbilicus右側
@@ -280,6 +280,10 @@
   - SS：阻塞、尿道後擴張（keyhole sign）；羊水⭣可肺發育不全 ⭢ 呼吸窘迫
   - Exam：產前 Echo（keyhole sign）；VCUG 確診
   - Tx：尿管導尿/膀胱引流，手術
+- Cryptorchidism（undescended testis，隱睪）
+  - Timing：6 m/o後不太會自行下降 → 轉小兒泌尿/外科；多在6-18 m/o orchiopexy（睪丸固定術）。
+  - Non-palpable testis（摸不到睪丸）：**不要靠Echo/CT/MRI陰性排除**；影像不能用來確定無睪丸，仍需diagnostic laparoscopy（診斷性腹腔鏡）/surgical exploration，避免腹腔內睪丸漏掉（不孕＋germ cell tumor風險）。
+  - Bilateral non-palpable（雙側摸不到）：先加想 DSD（disorder of sex development，性發育差異）/內分泌評估。
 - 小兒尿液篩檢異常：
   - Hematuria（血尿）Most common要看題幹：
     - Gross hematuria（肉眼血尿）/有症狀：先想 UTI（urinary tract infection，泌尿道感染）或 hypercalciuria（高尿鈣）；若有發燒、頻尿、解尿痛更偏 UTI。
@@ -956,15 +960,16 @@
   - 相關SS：
     - WAGR syn：Wilms + Aniridia無虹膜 + GU anomaly + intelligence deficiency，11p13 WT1 deletion
     - Denys-Drash syn：Wilms + nephropathy + 性腺異常，WT1
-    - Beckwith-Wiedemann syn：overgrowth/巨舌/臍膨出/低血糖，11p15，↑Wilms/hepatoblastoma
+    - Beckwith-Wiedemann syn：overgrowth/巨舌/臍膨出OC/低血糖，11p15，↑Wilms/hepatoblastoma
   - Exam：Abd Echo，Xray無鈣化（鑑別NB）
   - Tx：手術切除（腫瘤不可弄破）+化療/放療
 - 小兒 mediastinal tumor（縱隔腫瘤）：
   - Pitfall：成人 anterior mediastinum（前縱隔）常背 4T（thymoma、teratoma、thyroid、terrible lymphoma），但小兒題不要直接套。
-  - 小兒整體最常見＝neurogenic tumor（神經源性腫瘤，約40-46%），多在 posterior mediastinum（後縱隔）；後縱隔腫瘤約9成為 neurogenic origin。
-  - 小兒前縱隔最常見＝lymphoma（淋巴瘤）；thymic cyst 少見，germ cell tumor 可在前縱隔但不是整體最常見。
-  - 來源：paravertebral sympathetic ganglia（椎旁交感神經節）；考場看到小孩＋posterior mediastinal/paravertebral mass，先想 neuroblastoma spectrum。
-  - 分化/惡性度：Neuroblastoma（神經母細胞瘤）＝高度惡性、嬰幼兒/<5y；ganglioneuroblastoma（神經節母細胞瘤）＝中間型/中度惡性、幼童；ganglioneuroma（神經節瘤）＝良性、分化成熟、較大兒童/青少年。
+  - 小兒整體最常見＝neurogenic tumor（神經源性腫瘤，約40-46%），多在 posterior mediastinum（後縱隔）；後縱隔腫瘤約9成為 neurogenic origin。c.f 小兒前縱隔最常見＝lymphoma（淋巴瘤）。
+  - 分化/惡性度：
+    - Neuroblastoma（神經母細胞瘤）＝高度惡性、嬰幼兒/<5y；
+    - ganglioneuroblastoma（神經節母細胞瘤）＝中間型/中度惡性、幼童；
+    - ganglioneuroma（神經節瘤）＝良性、分化成熟、較大兒童/青少年。
 - Neuroblastoma（NB）：
   - Exam定位：1st PEDS 惡性 tumor，1st PEDS Abd tumor，3rd PEDS tumor
   - RF/病理：<1y/o，全身交感細胞瘤；很會轉移（骨頭，眼睛）
@@ -1025,6 +1030,13 @@
       - 尿素循環異常：NH3↑，BUN↓
       - 氨基酸異常
     - 外觀異常：過氧化體dx，溶小體dx
+      - 溶小體儲積病（lysosomal storage diseases，LSD）速辨：
+        - Tay-Sachs disease（泰-薩克斯症）：cherry-red spot（櫻桃紅斑）＋無 hepatosplenomegaly（肝脾腫大）；Hexosaminidase A 缺乏
+        - Niemann-Pick disease（尼曼匹克病）：cherry-red spot＋hepatosplenomegaly；sphingomyelinase 缺乏，foam cells（泡沫細胞）
+        - Gaucher disease（高雪氏症）：骨痛/骨危象＋hepatosplenomegaly＋macrophage（巨噬細胞/Gaucher cells）；glucocerebrosidase 缺乏
+        - Fabry disease（法布瑞氏症）：X-linked＋angiokeratoma（血管角化瘤）＋腎衰竭/心腦病變；alpha-galactosidase A 缺乏
+        - Hunter syndrome（Mucopolysaccharidosis type II, MPS II；第2型黏多醣症）：X-linked＋無 corneal clouding（角膜混濁）；cf. Hurler syndrome（MPS I）有角膜混濁
+        - Pompe disease（龐貝氏症；Glycogen storage disease type II, GSD II）：嬰兒 hypertrophic cardiomyopathy（肥厚型心肌病）＋hypotonia/肌無力；GAA/acid alpha-glucosidase 缺乏
     - 肝臟：
       - 醣代謝dx：酮體/乳酸↑，pH↓，血糖↓
       - 脂肪氧化dx：酮體↓，血糖↓
@@ -1180,7 +1192,7 @@
     - Tx：刺激（拍背），CPAP，**咖啡因，茶鹼**（for NB therapeutic window窄，像是Asthma長期就不適合茶鹼）
   - Congenital diaphragmatic hernia（CDH）：
     - SS：late onset喘，舟狀腹（或腹部扁平即可）、心尖搏動偏右
-    - Tx：插管，禁用面罩
+    - Tx：插管＋胃管減壓，禁用面罩/避免bagging；先穩定呼吸/血流動力學、控制pulmonary hypertension（肺高壓）± ECMO，再delayed repair（延後修補，常24-72hr或更久），不是出生後emergency surgery。
 - Persistent pulmonary hypertension of newborn（PPHN；出生後肺血管阻力沒有正常下降，仍然走胎兒循環）：
   - RF：足月 ∪ GA>40、birth asphyxia（出生時窒息）、MAS、感染史、**懷孕用NSAIDs**（動脈導管收縮）
   - SS：出生12hr內，**呼吸急促**
@@ -1304,7 +1316,8 @@
       - 病理：不是汗腺細菌感染，是毛囊阻塞/慢性發炎
       - RF：好發腋下/鼠蹊/肛周
       - SS：反覆痛性結節、膿瘍、竇道、疤痕
-      - Hurley：I膿瘍無竇道/疤，II反覆且分離病灶＋竇道/疤，III瀰漫互通竇道
+      - Tx＝減重戒菸、抗生素（Tetracycline、Clinda+Rifam）、Adalizumab（anti TNF-a）、Secukinumab（IL-17）
+      - Hurley：I膿瘍無竇道/疤，II反覆且分離病灶＋竇道/疤，III瀰漫互通竇道（SCC風險）
   - Erythrasma紅癬：
     - 病原/RF：Corynebacterium微細棒桿菌感染，好發男性褶皺/粘膜
     - SS：不規則深色紅斑
@@ -1359,7 +1372,7 @@
       - Tx：口服Terbinafine
     - 頭癬（Tinea capitis）：
       - 分類：髮外＝**Microsporum**（Wood's綠螢光），髮內＝Trichophyton（無色）
-      - Tx：口服Griseofulvin、Terbinafine
+      - Tx（外用無效!!）：口服Griseofulvin、Terbinafine
   - Candidiasis：
     - KOH：pseudohyphae假菌絲（胞芽+菌絲）
     - Wood's：無色
@@ -2359,7 +2372,9 @@
     - SS：漸進對稱性無力（ascending paralysis）
     - Tx：IVIG（75%有效），plasma exchange，steroid
   - Charcot-Marie-Tooth disease（CMT，高足弓，無生命危險）
-    - 基本：遺傳性周邊神經病變
+    - 基本：遺傳性周邊神經病變；Type I（脫髓鞘型，M
+      ### 頭癬
+      CV 減慢）；Type II（軸突型，振幅降低）
     - SS：腳部變形（高弓足），感覺神經失調
     - Tx：支持性
   - Leukodystrophy（**白質失養症**；洛倫佐的油）

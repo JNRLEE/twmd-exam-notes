@@ -1682,57 +1682,57 @@ A：BISAP 用於 acute pancreatitis（急性胰臟炎）早期死亡率/重症�
 
 ### Q：ABCD2（Age、Blood pressure、Clinical features、Duration、Diabetes，短暫性腦缺血後中風風險分數） score 怎麼算？分數對應再中風風險？
 
-A：ABCD2 用於 TIA（transient ischemic attack，暫時性腦缺血發作）後早期中風風險。Age ≥60 歲 1 分；BP ≥140/90 mmHg 1 分；clinical features 若 unilateral weakness（單側無力）2 分，speech disturbance without weakness（無無力的語言障礙）1 分；duration ≥60 分鐘 2 分，10-59 分鐘 1 分；diabetes mellitus（糖尿病）1 分。總分 0-7 分：0-3 低風險，4-5 中風險，6-7 高風險。
+A：**ABCD2 用於 TIA**（transient ischemic attack，暫時性腦缺血發作）後早期中風風險。Age ≥60 歲 1 分；BP ≥140/90 mmHg 1 分；clinical features 若 unilateral weakness（單側無力）**2 分**，**speech disturbance without weakness**（無無力的語言障礙）1 分；**duration ≥60 分鐘 2 分**，**10-59 分鐘 1 分**；diabetes mellitus（糖尿病）1 分。**總分 0-7 分：0-3 低風險，4-5 中風險，6-7 高風險。**
 
 補充：2 日內中風風險粗背約 1%、4%、8%（低/中/高）；用途是 triage（分流）與 urgent stroke workup，不是診斷 TIA 本身。
 
-### Q：TIMI（Thrombolysis In Myocardial Infarction，心肌梗塞溶栓研究風險分數） score 怎麼算？幾分以上使用哪種治療有好處？
+### Q：TIMI（Thrombolysis In Myocardial Infarction，**心肌梗塞溶栓研究風險分數**） score 怎麼算？幾分以上使用哪種治療有好處？
 
-A：國考最常考 UA/NSTEMI（unstable angina/non-ST elevation myocardial infarction，不穩定心絞痛/非 ST 上升心肌梗塞）的 TIMI risk score。7 項各 1 分：age ≥65 歲、≥3 個 CAD（coronary artery disease，冠狀動脈疾病）risk factors、known CAD stenosis ≥50%、aspirin use within 7 days、≥2 angina episodes in 24 hours、ST deviation ≥0.5 mm、positive cardiac marker（心肌酵素/肌鈣蛋白陽性）。0-2 分低風險，3-4 分中風險，5-7 分高風險。
+A：國考最常考 UA/NSTEMI（unstable angina/non-ST elevation myocardial infarction，不穩定心絞痛/非 ST 上升心肌梗塞）的 TIMI risk score。**7 項各 1 分**：age ≥65 歲、≥3 個 CAD（coronary artery disease，冠狀動脈疾病）risk factors、known CAD stenosis ≥50%、aspirin use within 7 days、≥2 angina episodes in 24 hours、ST deviation ≥0.5 mm、positive cardiac marker（心肌酵素/肌鈣蛋白陽性）。0-2 分低風險，3-4 分中風險，5-7 分高風險。
 
-補充：治療門檻先背 TIMI ≥3 屬中高風險，較能從 early invasive strategy（早期心導管/血運重建策略）得益。若題目問藥物，TIMI >4 的高風險病人也較可能從 glycoprotein IIb/IIIa inhibitor（血小板 GP IIb/IIIa 抑制劑）得益；但作答主軸先抓「≥3 → early invasive」。
+補充：**治療門檻先背 TIMI ≥3 屬中高風險**，較能從 early invasive strategy（早期心導管/血運重建策略）得益。若題目問藥物，**TIMI >4 的高風險病人也較可能從 glycoprotein IIb/IIIa inhibitor（血小板 GP IIb/IIIa 抑制劑）得益**；但作答主軸先抓「≥3 → early invasive」。
 
 ### Q：qSOFA（quick Sequential Organ Failure Assessment，快速序列器官衰竭評估）怎麼算？
 
-A：qSOFA 是 suspected infection（疑似感染）床邊快速風險篩檢，3 項各 1 分：RR（respiratory rate，呼吸速率）≥22/min、SBP（systolic blood pressure，收縮壓）≤100 mmHg、altered mentation（意識改變，GCS <15）。≥2 分代表 poor outcome（死亡或 ICU 風險）較高，要想到 sepsis（敗血症）與更完整評估。
+A：qSOFA 是 suspected infection（疑似感染）床邊快速風險篩檢，3 項各 1 分：**RR（respiratory rate，呼吸速率）≥22/min**、SBP（systolic blood pressure，收縮壓）≤100 mmHg、altered mentation（意識改變，GCS <15）。≥2 分代表 poor outcome（死亡或 ICU 風險）較高，要想到 sepsis（敗血症）與更完整評估。
 
 補充：qSOFA 是警訊/篩檢，不是 sepsis 診斷的完整替代品。
 
 ### Q：SOFA（Sequential Organ Failure Assessment，序列器官衰竭評估）有哪幾項？
 
-A：SOFA 看 6 個器官系統，每項 0-4 分：respiration（呼吸，PaO2/FiO2）、coagulation（凝血/血小板，platelet）、liver（肝，bilirubin）、cardiovascular（心血管，MAP/vasopressor）、CNS（central nervous system，中樞神經，GCS）、renal（腎，creatinine/urine output）。Sepsis-3 的核心是 suspected infection 加上 SOFA 增加 ≥2 分，代表器官失能。
+A：SOFA 看 6 個器官系統，**每項 0-4 分**：respiration（呼吸，PaO2/FiO2）、coagulation（凝血/血小板，platelet）、liver（肝，bilirubin）、cardiovascular（心血管，MAP/vasopressor）、CNS（central nervous system，中樞神經，GCS）、renal（腎，creatinine/urine output）。Sepsis-3 的核心是 suspected infection 加上 SOFA 增加 ≥2 分，代表器官失能。
 
 補充：這題通常考「哪 6 類」，不太會要你背完整 0-4 分表；記「肺、血小板、肝、循環、腦、腎」。
 
 ### Q：Apgar 有哪幾項？怎麼算？
 
-A：Apgar 用於出生後 1、5 分鐘評估新生兒狀態，必要時 10 分鐘或之後重複。5 項各 0-2 分，滿分 10 分：Appearance（皮膚顏色）、Pulse（心跳）、Grimace（反射反應）、Activity（肌張力）、Respiration（呼吸）。Pulse：0＝無，1＝<100/min，2＝≥100/min；Respiration：0＝無，1＝慢或不規則/弱哭，2＝規則呼吸或強哭；Activity：0＝flaccid（鬆軟），1＝四肢稍彎，2＝active motion（活動佳）；Grimace：0＝無反應，1＝grimace（皺眉），2＝咳嗽/噴嚏/哭/退縮；Appearance：0＝全身蒼白或發紺，1＝軀幹粉紅但四肢發紺，2＝全身粉紅。
+A：Apgar 用於出生後 1、5 分鐘評估新生兒狀態，必要時 10 分鐘或之後重複。5 項各 0-2 分，滿分 10 分：Appearance（皮膚顏色）、Pulse（心跳）、Grimace（反射反應）、Activity（肌張力）、Respiration（呼吸）。Pulse：0＝無，1＝<100/min，2＝≥100/min；Respiration：0＝無，1＝慢或不規則/弱哭，2＝規則呼吸或強哭；Activity：0＝flaccid（鬆軟），1＝四肢稍彎，2＝active motion（活動佳）；Grimace：0＝無反應，1＝**grimace**（皺眉），2＝咳嗽/噴嚏/哭/退縮；Appearance：0＝全身蒼白或發紺，1＝軀幹粉紅但四肢發紺，2＝全身粉紅。
 
-補充：7-10 分通常 reassuring，4-6 分中度抑制，0-3 分嚴重抑制；產房復甦優先看呼吸與 heart rate（心跳），不要等 Apgar 才復甦。
+補充：**7-10 分通常 reassuring**，4-6 分中度抑制，0-3 分嚴重抑制；產房復甦優先看呼吸與 heart rate（心跳），不要等 Apgar 才復甦。
 
 ### Q：Bishop score 有哪幾項？怎麼算？
 
-A：Bishop score 評估 cervix（子宮頸）成熟度與 induction of labor（引產）成功率，5 項：dilation（擴張）、effacement（變薄）、station（胎頭高度）、consistency（質地）、position（位置）。Dilation：closed 0，1-2 cm 1，3-4 cm 2，≥5 cm 3；effacement：0-30% 0，40-50% 1，60-70% 2，≥80% 3；station：-3 0，-2 1，-1/0 2，+1/+2 3；consistency：firm 0，medium 1，soft 2；position：posterior 0，mid-position 1，anterior 2。總分 0-13，≥8 通常表示 cervix favorable（子宮頸成熟），引產較容易成功；有些題源會寫 >8。
+A：Bishop score 評估 cervix（子宮頸）成熟度與 induction of labor（引產）成功率，5 項：dilation（擴張）、effacement（變薄）、station（胎頭高度）、consistency（質地）、position（位置）。**Dilation：closed 0，1-2 cm 1，3-4 cm 2，≥5 cm 3**；effacement：0-30% 0，40-50% 1，60-70% 2，≥80% 3；station：-3 0，-2 1，-1/0 2，+1/+2 3；consistency：firm 0，medium 1，soft 2；position：posterior 0，mid-position 1，anterior 2。總分 0-13，≥8 通常表示 cervix favorable（子宮頸成熟），引產較容易成功；有些題源會寫 >8。
 
-補充：Bishop >8 不是子宮頸開 8 cm；active phase（活動期）常抓 dilation ≥6 cm。
+補充：Bishop >8 不是子宮頸開 8 cm；**active phase（活動期）常抓 dilation ≥6 cm**。
 
 ### Q：POP-Q stage 九宮格代表什麼？stage 怎麼算？
 
-A：POP-Q（Pelvic Organ Prolapse Quantification，骨盆器官脫垂量化系統）用 hymen（處女膜環）當 0 點，往陰道內是負值，突出到 hymen 外是正值。九宮格是 Aa、Ba、C；gh、pb、tvl；Ap、Bp、D。Aa/Ap 是前/後陰道壁距 hymen 3 cm 的固定點，Ba/Bp 是前/後陰道壁最突出點，C 是 cervix（子宮頸）或 vaginal cuff（陰道殘端），D 是 posterior fornix（後穹窿，無子宮者不記），gh 是 genital hiatus（生殖裂孔），pb 是 perineal body（會陰體），tvl 是 total vaginal length（陰道總長）。
+A：POP-Q（**Pelvic Organ Prolapse Quantification**，骨盆器官脫垂量化系統）用 **hymen（處女膜環）當 0 點**，往**陰道內是負值，突出到 hymen 外是正值**。九宮格是 Aa、Ba、C；gh、pb、tvl；Ap、Bp、D。**Aa/Ap 是前/後陰道壁距 hymen 3 cm 的固定點，Ba/Bp 是前/後陰道壁最突出點**，C 是 cervix（子宮頸）或 vaginal cuff（陰道殘端），D 是 posterior fornix（後穹窿，無子宮者不記），**gh 是 genital hiatus（生殖裂孔）**，pb 是 perineal body（會陰體），**tvl 是 total vaginal length（陰道總長）**。
 
-補充：Stage 看「最遠端突出點」：0＝無脫垂；I＝最突出點仍在 hymen 上方 >1 cm（<-1 cm）；II＝最突出點介於 -1 到 +1 cm；III＝突出 hymen 外 >1 cm 但未達完全外翻；IV＝幾乎完全外翻（約 ≥tvl-2 cm）。不要用 Aa 或 C 單點硬判所有 prolapse。
+補充：Stage 看「最遠端突出點」：0＝無脫垂；**I＝最突出點仍在 hymen 上方 >1 cm**（<-1 cm）；II＝最突出點介於 -1 到 +1 cm；III＝突出 hymen 外 >1 cm 但未達完全外翻；**IV＝幾乎完全外翻（約 ≥tvl-2 cm）**。不要用 Aa 或 C 單點硬判所有 prolapse。
 
 ### Q：胎兒 Biophysical profile（BPP（biophysical profile，胎兒生物物理評估））怎麼算？滿分幾分？何時需引產？
 
-A：BPP 是 NST（non-stress test，無壓力試驗）加上 4 個超音波項目，5 項各 2 分，滿分 10 分。NST reactive 2 分；fetal breathing（胎兒呼吸）30 分鐘內 ≥1 次且持續 ≥30 秒 2 分；gross body movement（胎動）30 分鐘內 ≥3 次 2 分；fetal tone（肌張力）肢體/軀幹伸展後屈曲 ≥1 次 2 分；amniotic fluid（羊水量）MVP/SDP（maximum vertical pocket/single deepest pocket，最大垂直/單一最深羊水池）≥2 cm 2 分。8-10 分 reassuring，6 分 equivocal，<6 分不 reassuring，要評估 delivery（生產/引產）或依週數立即處置。
+A：BPP 是 NST（non-stress test，無壓力試驗）加上 **4 個超音波項目**，**5 項各 2 分，滿分 10 分**。NST reactive 2 分(20分鐘內2次acceleration（15bpm for 15 sec）)；fetal breathing（胎兒呼吸）30 分鐘內 ≥1 次且持續 **≥30 秒** 2 分；gross body movement（胎動）**30 分鐘內 ≥3 次 2 分**；fetal tone（肌張力）肢體/軀幹伸展後屈曲 ≥1 次 2 分；amniotic fluid（羊水量）MVP/SDP（maximum vertical pocket/single deepest pocket，最大垂直/單一最深羊水池）≥2 cm 2 分。8-10 分 reassuring，6 分 equivocal，<6 分不 reassuring，要評估 delivery（生產/引產）或依週數立即處置。
 
-補充：如果羊水過少，即使總分看起來不差也要小心胎盤功能不良；國考常把 BPP 和 NST reactive criteria 混在一起考。
+補充：**如果羊水過少，即使總分看起來不差也要小心胎盤功能不良**；國考常把 BPP 和 NST reactive criteria 混在一起考。
 
 ### Q：Preeclampsia severe features 有哪些？
 
-A：Preeclampsia with severe features（重症子癲前症特徵）要抓母體器官受損或 severe hypertension（嚴重高血壓）。常考 severe features：BP ≥160/110 mmHg；platelet（血小板）<100,000/uL；creatinine（肌酸酐）>1.1 mg/dL 或為 baseline 兩倍，或 oliguria（寡尿）；liver transaminase（肝酵素）≥2 倍或持續 RUQ/epigastric pain（右上腹/上腹痛）；pulmonary edema（肺水腫）；new-onset headache（新發頭痛）或 visual symptoms（視覺症狀）。
+A：Preeclampsia with severe features（重症子癲前症特徵）要抓母體器官受損或 severe hypertension（嚴重高血壓）。常考 severe features：BP ≥160/110 mmHg；platelet（血小板**）<100,000/uL**；**creatinine（肌酸酐）>1.1 mg/dL 或為 baseline 兩倍**，或 oliguria（寡尿）；**liver transaminase（肝酵素）≥2 **倍或持續 RUQ/epigastric pain（右上腹/上腹痛）；pulmonary edema（肺水腫）；**new-onset headache（新發頭痛）或 visual symptoms（視覺症狀）**。
 
-補充：蛋白尿多寡不是 severe feature 的主軸；出現 severe features 時常要 MgSO4（magnesium sulfate，硫酸鎂）預防 seizure（癲癇）並評估 delivery。
+補充：**蛋白尿多寡不是 severe feature 的主軸；出現 severe features 時常要 MgSO4（magnesium sulfate，硫酸鎂）預防 seizure（癲癇）並評估 delivery**。
 
 ### Q：妊娠糖尿病怎麼診斷？
 
@@ -1756,9 +1756,9 @@ A：Polyphonic wheezing 較像氣喘或 COPD；monophonic wheezing 想固定或�
 
 ### Q：氣喘急性惡化時 PE 要看什麼？
 
-A：Asthma acute exacerbation（氣喘急性惡化）的 PE（physical examination，身體檢查）要看嚴重度：能不能講完整句、呼吸速率、心跳、輔助呼吸肌/胸凹、wheezing 或 silent chest（安靜胸）、SpO2（血氧飽和度）、意識、cyanosis（發紺）。危險徵象是 silent chest、cyanosis、exhaustion（衰竭）、altered consciousness（意識改變）、hypotension/arrhythmia（低血壓/心律不整）。PEF（peak expiratory flow，尖峰吐氣流速）<50% predicted/personal best 是 severe，<33% 是 life-threatening。
+A：Asthma acute exacerbation（氣喘急性惡化）的 PE（physical examination，身體檢查）要看嚴重度：能不能講完整句、呼吸速率、心跳、輔助呼吸肌/胸凹、wheezing 或 silent chest（安靜胸）、SpO2（血氧飽和度）、意識、cyanosis（發紺）。危險徵象是 **silent chest、cyanosis、exhaustion**（衰竭）、altered consciousness（意識改變）、hypotension/arrhythmia（低血壓/心律不整）。PEF（peak expiratory flow，尖峰吐氣流速）**<50%** predicted/personal best 是 **severe**，**<33% 是 life-threatening**。
 
-補充：胸很安靜不是變好，是 airflow 太差。
+補充：**胸很安靜不是變好，是 airflow 太差**。
 
 ### Q：氣喘平時用什麼參數監測？小於多少代表控制不佳或嚴重惡化？
 
@@ -1774,31 +1774,31 @@ A：FEV1 增加大於 12% 且大於 200 mL 支持氣喘；若固定阻塞再考�
 
 ### Q：Methacholine test 的 PC20（provocative concentration causing 20% fall in FEV1，使第一秒用力呼氣量下降20%的刺激濃度）是什麼？值越低代表什麼？
 
-A：PC20 是使 FEV1（forced expiratory volume in 1 second，第一秒用力呼氣量）下降 20% 所需的 methacholine 濃度；值越低代表氣道越敏感，可輔助診斷肺功能正常的氣喘。
+A：PC20 是使 FEV1（forced expiratory volume in 1 second，第一秒用力呼氣量）下降 20% 所需的 methacholine 濃度；**值越低代表氣道越敏感**，可輔助診斷肺功能正常的氣喘。
 
-補充：無。
+補充：Methacholine是膽鹼藥物會讓氣管收縮。
 
 ### Q：哪些氣喘病人更建議用 inhaled corticosteroid（ICS（inhaled corticosteroid，吸入型類固醇），相較 LAMA（long-acting muscarinic antagonist，長效抗膽鹼支氣管擴張劑））？
 
-A：Type 2 或 eosinophilic asthma：血 eosinophil 大於等於 300/uL、痰 eosinophil 大於 2-3%、FeNO（fractional exhaled nitric oxide，呼出氣一氧化氮濃度）高、過敏表現者較吃 ICS。
+A：**Type 2 或 eosinophilic asthma**：血 **eosinophil 大於等於 300/uL**、痰 eosinophil 大於 2-3%、**FeNO（fractional exhaled nitric oxide，呼出氣一氧化氮濃度）高**、過敏表現者較吃 ICS。
 
 補充：原文把大於 300 寫成痰中 eosinophil，較像血 eosinophil cutoff。
 
 ### Q：氣喘治療穩定多久可以考慮降階？
 
-A：控制穩定 2-3 個月後可考慮 step-down。
+A：**控制穩定 2-3 個月**後可考慮 step-down。
 
 補充：無。
 
-### Q：Type 2 asthma：過敏原與上皮 alarmin 路徑？
+### Q：Type 2 asthma：過敏原與上皮 **alarmin** 路徑？
 
-A：過敏原刺激 dendritic cell 釋放 CCL17/CCL22，促 Th2 分泌 IL-5，吸引 eosinophil；空汙或病毒刺激上皮釋放 IL-25、IL-33，活化 ILC2（type 2 innate lymphoid cell，第二型先天淋巴細胞）分泌 IL-5、IL-13，吸引 eosinophil。
+A：過敏原刺激 **dendritic cell 釋放 CCL17/CCL22**，促 Th2 分泌 IL-5，吸引 eosinophil；空汙或病毒刺激上皮釋放 IL-25、IL-33，**活化 ILC2（type 2 innate lymphoid cell，第二型先天淋巴細胞）分泌 IL-5、IL-13**，吸引 eosinophil。
 
 補充：TSLP 也常列為 alarmin，但原答案未列不影響主幹。
 
 ### Q：非 Type 2 asthma 的發炎路徑？
 
-A：空汙、病毒、抽菸等刺激 Th17 或 innate pathway，IL-6、IL-8、IL-17 上升，吸引 neutrophil。
+A：空汙、病毒、抽菸等刺激 **Th17 或 innate pathway**，**IL-6、IL-8、IL-17 上升**，吸引 neutrophil。
 
 補充：原文寫結核菌，作為非 Type 2 asthma 刺激源過窄且易誤導。
 
@@ -1812,19 +1812,19 @@ A：Eosinophil 越多，fractional exhaled nitric oxide（FeNO（fractional exha
 
 ### Q：怎樣算好的 sputum 檢體？
 
-A：低倍視野中中性球大於 25 個、鱗狀上皮細胞小於 10 個。
+A：**低倍視野中中性球大於 25 個、鱗狀上皮細胞小於 10 個**。
 
 補充：無。
 
 ### Q：哪兩隻菌可用尿液抗原測試？
 
-A：Legionella pneumophila 與 Streptococcus pneumoniae。
+A：**Legionella pneumophila 與 Streptococcus pneumoniae**。
 
 補充：無。
 
 ### Q：郵輪旅行、structural lung disease、鳥、羊、流感後各想到哪個肺炎病原？
 
-A：郵輪：Legionella；structural lung disease 或 bronchiectasis：Pseudomonas aeruginosa；鳥：Chlamydia psittaci；羊：Coxiella burnetii；流感後：Staphylococcus aureus，也可見 Streptococcus pneumoniae。
+A：郵輪：**Legionella**；structural lung disease 或 bronchiectasis：**Pseudomonas** aeruginosa；鳥：Chlamydia psittaci；羊：**Coxiella burnetii**；流感後：Staphylococcus aureus，也可見 Streptococcus pneumoniae。
 
 補充：無。
 
@@ -1842,19 +1842,19 @@ A：肺炎。
 
 ### Q：可 cover Pseudomonas aeruginosa（PsA（Pseudomonas aeruginosa，綠膿桿菌））的抗生素？
 
-A：Piperacillin-tazobactam、cefoperazone、ceftazidime、cefepime、anti-pseudomonal carbapenem（imipenem、meropenem；不含 ertapenem）、ciprofloxacin 或 levofloxacin、colistin、amikacin、gentamicin。
+A：P**iperacillin-tazobactam**、**cefoperazone**、**ceftazidime**、**cefepime**、anti-pseudomonal carbapenem（**imipenem、meropenem**；不含 ertapenem）、ciprofloxacin 或 levofloxacin、colistin、amikacin、gentamicin。
 
 補充：修正拼字與分類；moxifloxacin 不可靠 cover PsA。
 
 ### Q：可 cover MRSA（methicillin-resistant Staphylococcus aureus，抗甲氧西林金黃色葡萄球菌）的抗生素？
 
-A：Vancomycin、teicoplanin、linezolid、daptomycin（不可用於肺炎）、ceftaroline；輕症或特定情境可用 TMP-SMX（trimethoprim-sulfamethoxazole，複方新諾明）、doxycycline、clindamycin。
+A：**Vancomycin**、teicoplanin、**linezolid**、**daptomycin**（不可用於肺炎）、**ceftaroline**；輕症或特定情境可用 TMP-SMX（trimethoprim-sulfamethoxazole，複方新諾明）、doxycycline、**clindamycin**。
 
 補充：原文列 daptomycin 但本段是肺炎脈絡，需註明不能治 MRSA pneumonia。
 
 ### Q：PCV13（13-valent pneumococcal conjugate vaccine，13價肺炎鏈球菌結合型疫苗）與 PPSV23（23-valent pneumococcal polysaccharide vaccine，23價肺炎鏈球菌多醣體疫苗）哪個免疫記憶較持久？
 
-A：PCV13 是 conjugate vaccine，可誘發 T-cell dependent memory，記憶較持久。
+A：**PCV13 是 conjugate vaccine，可誘發 T-cell dependent memory，記憶較持久**。
 
 補充：無。
 
@@ -1866,7 +1866,7 @@ A：原文口訣：Streptococcus pneumoniae 大於 Mycoplasma pneumoniae 大於 
 
 ### Q：床頭抬高多少可減少 ventilator-associated pneumonia？
 
-A：抬高 30-45 度。
+A：**抬高 30-45 度。**
 
 補充：無。
 
@@ -1880,13 +1880,13 @@ A：常考分成 adenocarcinoma、squamous cell carcinoma、大細胞癌、small
 
 ### Q：辨識小細胞肺癌的神經內分泌 marker？
 
-A：Chromogranin、synaptophysin、CD56（cluster of differentiation 56，分化群56）/NCAM（neural cell adhesion molecule，神經細胞黏附分子）、INSM1（insulinoma-associated protein 1，胰島素瘤相關蛋白1）；傳統也可見 NSE（neuron-specific enolase，神經元特異性烯醇化酶）。
+A：**Chromogranin**、synaptophysin、CD56（cluster of differentiation 56，分化群56）/NCAM（neural cell adhesion molecule，神經細胞黏附分子）、INSM1（insulinoma-associated protein 1，胰島素瘤相關蛋白1）；傳統也可見 NSE（neuron-specific enolase，神經元特異性烯醇化酶）。
 
 補充：原文把 CD56 與 NCAM 分開列成兩項，但 CD56 即 NCAM。
 
 ### Q：最常見肺癌是哪個？與抽菸最相關是哪兩個？
 
-A：最常見是肺腺癌；與抽菸最相關是 squamous cell carcinoma 與 small cell carcinoma。
+A：最常見是**肺腺癌**；與**抽菸最相關是 squamous cell carcinoma 與 small cell carcinoma。**
 
 補充：無。
 
@@ -1898,37 +1898,37 @@ A：TTF-1（thyroid transcription factor-1，甲狀腺轉錄因子1）與 Napsin
 
 ### Q：Lepidic、papillary、acinar、solid 肺腺癌預後由好到差？
 
-A：Lepidic 最好；acinar 與 papillary 中間；solid 較差。
+A：**Lepidic** **最好**；acinar 與 papillary 中間；**solid 較差(Micropapillary也是)**。
 
 補充：無。
 
 ### Q：Micropapillary 肺腺癌預後好或差？
 
-A：Micropapillary 預後差，常和 solid 同列高風險型。
+A：**Micropapillary** 預後差，常和 solid 同列高風險型。
 
 補充：無。
 
 ### Q：肺鱗癌與肺腺癌的 Napsin A、TTF-1（thyroid transcription factor-1，甲狀腺轉錄因子1）、CK7（cytokeratin 7，細胞角蛋白7）、CK20（cytokeratin 20，細胞角蛋白20）表現？
 
-A：肺腺癌：Napsin A+、TTF-1+、CK7+、CK20-；肺鱗癌：p40/p63+、Napsin A-、TTF-1-，CK7 可變，CK20 通常陰性。
+A：肺腺癌：**Napsin A+、TTF-1+、CK7+、CK20-**；肺鱗癌：**p40/p63+**、Napsin A-、TTF-1-，CK7 可變，**CK20 通常陰性**。
 
 補充：原文把鱗癌簡化成 CK7-/CK20-，CK7 並非可靠雙陰記法。
 
 ### Q：肺腺癌、肺鱗癌、小細胞癌的周邊性、腦轉移、預後與 paraneoplastic syndrome？
 
-A：周邊：肺腺癌常見；腦轉移：small cell 高，NSCLC（non-small cell lung cancer，非小細胞肺癌）中 adenocarcinoma 高於 squamous；預後概念：small cell 最差，NSCLC 視 stage 與 mutation。高血鈣/PTHrP（parathyroid hormone-related peptide，副甲狀腺素相關蛋白）：squamous；Lambert-Eaton、SIADH、Cushing：small cell；Horner：Pancoast tumor 壓迫交感神經，不是單純細胞型；hypertrophic osteoarthropathy：常見於 adenocarcinoma/NSCLC。
+A：周邊：**肺腺癌常見**；腦轉移：**small cell 高**，NSCLC（non-small cell lung cancer，非小細胞肺癌）中 **adenocarcinoma** 高於 squamous；預後概念：small cell 最差，NSCLC 視 stage 與 mutation。**高血鈣/PTHrP**（parathyroid hormone-related peptide，副甲狀腺素相關蛋白）：**squamous**；Lambert-Eaton、SIADH、Cushing：small cell；Horner：**Pancoast tumor **壓迫交感神經，不是單純細胞型；**hypertrophic osteoarthropathy：常見於 adenocarcinoma/NSCLC**。
 
 補充：原文腦轉移排序寫 SCC（squamous cell carcinoma，鱗狀細胞癌）大於 adenocarcinoma，且把 Horner 直接歸 SCC，皆易誤導。
 
 ### Q：Trousseau syndrome 是什麼？
 
-A：惡性腫瘤造成的遊走性血栓靜脈炎/高凝血狀態；典型見於胰臟、胃、肺腺癌等 adenocarcinoma。
+A：惡性腫瘤造成的遊走性血栓靜脈炎/高凝血狀態；典型見於**胰臟、胃、肺腺癌等 adenocarcinoma**。
 
 補充：原文只說是肺癌 paraneoplastic syndrome，太限縮。
 
 ### Q：Stage 多少以上 NSCLC（non-small cell lung cancer，非小細胞肺癌）需 routine 腦部 MRI（magnetic resonance imaging，磁振造影）？
 
-A：常考舊口徑可記 stage III 以上；部分新版 guideline 對 stage II 以上或治癒意圖治療前也建議 brain MRI。Small cell lung cancer 不論 stage 都要評估腦轉移。
+A：常考舊口徑可記 stage III 以上；部分新版 guideline 對** stage II 以上或治癒意圖治療前也建議 brain MRI**。**Small cell lung cancer 不論 stage 都要評估腦轉移**。
 
 補充：這題需看題源或教材版本，先不要硬背。NSCLC 腦 MRI 門檻依 guideline 與年代不同。
 
@@ -1940,7 +1940,7 @@ A：常在周邊，多發圓形結節，邊緣平滑。
 
 ### Q：Pancoast tumor 位置、侵犯神經與 Horner triad？
 
-A：肺尖 superior sulcus tumor；可侵犯 brachial plexus 下幹 C8-T2 與交感神經。Horner triad：ptosis、miosis、anhidrosis。
+A**：肺尖 superior sulcus tumor**；可侵犯** brachial plexus 下幹 C8-T2 與交感神經**。Horner triad：ptosis、miosis、anhidrosis。
 
 補充：無。
 
@@ -1954,49 +1954,49 @@ A：Transudate：心衰竭、肝硬化、nephrotic syndrome、constrictive peric
 
 ### Q：PE（pulmonary embolism，肺栓塞）、myxedema、uremia、Meigs、LAM（lymphangioleiomyomatosis，淋巴管平滑肌增生症）胸水分類與相關疾病？
 
-A：Pulmonary embolism 多為 exudate；myxedema 可 transudate 或 exudate；uremia 為 exudate；Meigs syndrome 多為 exudative pleural effusion；lymphangioleiomyomatosis（LAM）與 tuberous sclerosis complex 相關，常見 chylous exudate。
+A：Pulmonary embolism 多為 **exudate**；myxedema 可 transudate 或 exudate；uremia 為 **exudate**；Meigs syndrome（良性卵巢腫瘤 + 腹水 + 肋膜積液）多為 exudative pleural effusion；lymphangioleiomyomatosis（LAM）與 tuberous sclerosis complex 相關，常見 chylous exudate。
 
 補充：原文未回答 LAM 與 tuberous sclerosis complex 相關；myxedema 單列 transudate 過度簡化。
 
 ### Q：Light criteria 怎麼判定 exudate？
 
-A：任一成立即 exudate：胸水/血清 total protein 大於 0.5；胸水/血清 LDH（lactate dehydrogenase，乳酸脫氫酶）大於 0.6；胸水 LDH 大於血清 LDH 正常上限的 2/3。
+A：任一成立即 exudate：胸水/血清** total protein **大於 0.5；**胸水/血清 LDH（lactate dehydrogenase，乳酸脫氫酶）大於 0.6**；胸水 LDH 大於血清** LDH 正常上限的 2/3。**
 
 補充：無。
 
 ### Q：Complicated parapneumonic effusion 定義？
 
-A：Gram stain 陽性、culture 陽性、pH 小於 7.2、glucose 小於 60 mg/dL；膿胸或 loculation 也支持需 drainage。
+A：**Gram stain 陽性、culture 陽性**、**pH 小於 7.2、glucose 小於 60 mg/d**L；膿胸或 loculation 也支持需 drainage。
 
 補充：補上膿胸/loculation 作臨床處置點。
 
 ### Q：血胸時胸水 Hct/血中 Hct 大於多少？
 
-A：大於 50%。
+A：**大於 50%。**
 
 補充：無。
 
 ### Q：懷疑肉芽腫/TB（tuberculosis，結核病）胸水驗什麼？TB 大於多少？小於多少可排除？
 
-A：驗 pleural fluid adenosine deaminase（ADA（adenosine deaminase，腺苷脫胺酶））；大於 40 U/L 支持 TB，超過 70 更強；小於 40 較可排除 TB pleuritis。
+A：驗 pleural fluid **adenosine deaminase（ADA（adenosine deaminase，腺苷脫胺酶））；大於 40 U/L 支持 TB，超過 70 更強；小於 40 較可排除 TB pleuritis**。
 
 補充：原文只用大於 70 作懷疑門檻，對常考 ADA 大於 40 口徑偏嚴。
 
 ### Q：結核病胸水白血球分類通常是什麼？
 
-A：淋巴球為主。
+A：**淋巴球為主**。
 
 補充：無。
 
 ### Q：惡性腫瘤胸水 glucose 通常大於或小於多少？
 
-A：常可小於 60 mg/dL。
+A：**常可小於 60 mg/dL**。
 
 補充：無。
 
 ### Q：間皮細胞瘤胸水中什麼會上升？
 
-A：Fibulin-3 可上升。
+A：**Fibulin-3 可上升**。
 
 補充：無。
 
@@ -2010,13 +2010,13 @@ A：傳統記法：10% bilateral、10% extra-adrenal、10% familial。
 
 ### Q：NP-59（iodocholesterol adrenal scintigraphy，腎上腺皮質核醫掃描） scan 抓什麼？Pheo（pheochromocytoma，嗜鉻細胞瘤）用什麼定位？
 
-A：NP-59 用於 adrenal cortex hyperfunction，如 Conn syndrome 或 Cushing syndrome；pheochromocytoma 定位用 MIBG（metaiodobenzylguanidine，間碘苄胍）。
+A：**NP-59 用於 adrenal cortex hyperfunction**，如 **Conn** syndrome 或 **Cushing** syndrome；pheochromocytoma 定位用 **MIBG**（metaiodobenzylguanidine，間碘苄胍）。
 
 補充：無。
 
 ### Q：Pheo（pheochromocytoma，嗜鉻細胞瘤）診斷通常驗血漿什麼？
 
-A：Plasma free metanephrines。
+A：**Plasma free metanephrines**。
 
 補充：無。
 
@@ -2028,13 +2028,13 @@ A：先 alpha-blocker（如 phenoxybenzamine 或 doxazosin）加 volume expansio
 
 ### Q：Cushing syndrome 與 Cushing disease 定義？
 
-A：Cushing syndrome 是 cortisol 過多的臨床狀態；Cushing disease 專指 pituitary ACTH（adrenocorticotropic hormone，促腎上腺皮質激素） adenoma 造成的 ACTH-dependent Cushing。
+A：Cushing syndrome 是 cortisol 過多的臨床狀態；**Cushing disease 專指 pituitary ACTH**（adrenocorticotropic hormone，促腎上腺皮質激素） adenoma 造成的 ACTH-dependent Cushing。
 
 補充：無。
 
 ### Q：Cushing syndrome 三種內生性機轉？
 
-A：Pituitary ACTH（adrenocorticotropic hormone，促腎上腺皮質激素） adenoma（Cushing disease）、adrenal cortisol-producing tumor/hyperplasia、ectopic ACTH。
+A：**Pituitary ACTH**（adrenocorticotropic hormone，促腎上腺皮質激素） adenoma（Cushing disease）、adrenal cortisol-producing tumor/hyperplasia、ectopic ACTH。
 
 補充：無。
 
@@ -2046,25 +2046,25 @@ A：最常見整體原因是醫源性 glucocorticoid。
 
 ### Q：腎上腺疾病的色素沉著為何？哪些疾病會見到？
 
-A：ACTH（adrenocorticotropic hormone，促腎上腺皮質激素）上升刺激 melanocortin receptor；見於 primary adrenal insufficiency，也可見於 ACTH-dependent Cushing（pituitary 或 ectopic ACTH），不見於 adrenal tumor 或外源性 steroid 造成的 ACTH 低下。
+A：**ACTH（adrenocorticotropic hormone，促腎上腺皮質激素）上升刺激 melanocortin receptor**；見於 **primary adrenal insufficiency**，也可見於 ACTH-dependent Cushing（pituitary 或 ectopic ACTH），**不見於 adrenal tumor 或外源性 steroid 造成的 ACTH 低下**。
 
 補充：原文寫 Cushing syndrome 與腎上腺低下都會出現，未限定 ACTH 高的型態。
 
 ### Q：厭食通常是哪個腺體亢進或低下？
 
-A：腎上腺皮質低下可有厭食。
+A：腎上腺皮質低（全身疲倦、低血糖、腸胃功能差）下可有厭食（不是指厭食症）。
 
 補充：無。
 
 ### Q：腎上腺低下診斷的額外激素試驗？
 
-A：Cosyntropin stimulation test 最標準；也可用 insulin tolerance test 或 metyrapone test 評估 HPA（hypothalamic-pituitary-adrenal，下視丘-腦下垂體-腎上腺） axis。
+A：**Cosyntropin stimulation test 最標準**；也可用 insulin tolerance test 或 metyrapone test 評估 HPA（hypothalamic-pituitary-adrenal，下視丘-腦下垂體-腎上腺） axis。
 
 補充：無。
 
 ### Q：腎上腺低下哪種血球會上升？
 
-A：Eosinophil 上升；也可見 lymphocyte 上升、neutrophil 下降。
+A：**Eosinophil** 上升；也可見 lymphocyte 上升、neutrophil 下降（正常cortisol會把前兩者壓低抗過敏抗淋巴）。
 
 補充：無。
 
@@ -2072,31 +2072,31 @@ A：Eosinophil 上升；也可見 lymphocyte 上升、neutrophil 下降。
 
 ### Q：MEN I、MEN IIA、MEN IIB 各三個病？
 
-A：MEN1（multiple endocrine neoplasia type 1，多發性內分泌腫瘤第一型）：parathyroid hyperplasia、pancreatic neuroendocrine tumor、pituitary adenoma。MEN2A（multiple endocrine neoplasia type 2A，多發性內分泌腫瘤第二型A）：medullary thyroid carcinoma、pheochromocytoma、parathyroid hyperplasia。MEN2B（multiple endocrine neoplasia type 2B，多發性內分泌腫瘤第二型B）：medullary thyroid carcinoma、pheochromocytoma、mucosal neuroma、marfanoid habitus。
+A：MEN1（multiple endocrine neoplasia type 1，多發性內分泌腫瘤第一型）：parathyroid hyperplasia、pancreatic neuroendocrine tumor、pituitary adenoma。MEN2A（multiple endocrine neoplasia type 2A，多發性內分泌腫瘤第二型A）：medullary thyroid carcinoma、pheochromocytoma、parathyroid hyperplasia。MEN2B（multiple endocrine neoplasia type 2B，多發性內分泌腫瘤第二型B）：medullary thyroid carcinoma、pheochromocytoma、**mucosal neuroma、marfanoid habitus**。
 
 補充：無。
 
 ### Q：MEN 系列基因突變？
 
-A：MEN1（multiple endocrine neoplasia type 1，多發性內分泌腫瘤第一型）：MEN1 gene（menin）。MEN2A（multiple endocrine neoplasia type 2A，多發性內分泌腫瘤第二型A）：RET（RET proto-oncogene，RET原致癌基因），常見 codon 634。MEN2B（multiple endocrine neoplasia type 2B，多發性內分泌腫瘤第二型B）：RET M918T。MEN4：CDKN1B。Familial medullary thyroid carcinoma：RET。
+A：MEN1（multiple endocrine neoplasia type 1，多發性內分泌腫瘤第一型）：MEN1 gene（**menin**）。MEN2A（multiple endocrine neoplasia type 2A，多發性內分泌腫瘤第二型A）：**RET**（RET proto-oncogene，RET原致癌基因），常見 **codon 634**。MEN2B（multiple endocrine neoplasia type 2B，多發性內分泌腫瘤第二型B）：**RET M918T**。MEN4：**CDKN1B**。**Familial medullary thyroid carcinoma：RET**。
 
 補充：無。
 
 ### Q：VHL（von Hippel-Lindau disease，馮希佩爾-林道症候群）、NF1（neurofibromatosis type 1，第一型神經纖維瘤症）、NF2（neurofibromatosis type 2，第二型神經纖維瘤症）表現？
 
-A：VHL：clear cell renal cell carcinoma、retinal/cerebellar hemangioblastoma、pheochromocytoma、pancreatic/renal cyst、polycythemia。NF1：cafe-au-lait spots、Lisch nodules、neurofibromas、optic glioma、learning disability/骨病變、pheo。NF2：bilateral vestibular schwannoma、meningioma、ependymoma。
+A：VHL：**clear cell renal cell carcinoma**、**retinal/cerebellar hemangioblastoma**、**pheochromocytoma**、**pancreatic/renal cyst**、**polycythemia**。NF1：cafe-au-lait spots、Lisch nodules、neurofibromas、**optic glioma**、learning disability/骨病變、pheo。NF2：**bilateral vestibular schwannoma**、meningioma、ependymoma。
 
 補充：原文把 NF2 寫成視網膜 hamartoma，較不典型；NF2 高頻是 ependymoma/meningioma/vestibular schwannoma。
 
 ### Q：MEN1（multiple endocrine neoplasia type 1，多發性內分泌腫瘤第一型） insulinoma 特色？MEN1 胰臟內分泌瘤最常見？pituitary tumor 最常見？
 
-A：MEN1 insulinoma 常多發；MEN1 最常見 functional pancreatic NET（neuroendocrine tumor，神經內分泌腫瘤）常考 gastrinoma；pituitary tumor 最常見 prolactinoma。
+A：**MEN1 insulinoma 常多發**；MEN1 最常見 functional pancreatic NET（neuroendocrine tumor，神經內分泌腫瘤）常考 **gastrinoma**；**pituitary tumor 最常見 prolactinoma**。
 
 補充：無。
 
 ### Q：懷疑 MEN II 要先做什麼？
 
-A：家族/疑似 MEN2（multiple endocrine neoplasia type 2，多發性內分泌腫瘤第二型）先驗 RET（RET proto-oncogene，RET原致癌基因） proto-oncogene；RET 陽性依風險安排預防性甲狀腺切除。若已要手術，需先排除或處理 pheochromocytoma。
+A：家族/疑似 MEN2（multiple endocrine neoplasia type 2，多發性內分泌腫瘤第二型）**先驗 RET**（RET proto-oncogene，RET原致癌基因） proto-oncogene；RET 陽性依風險安排**預防性甲狀腺切除**。若已要手術，**需先排除或處理 pheochromocytoma**。
 
 補充：補上手術前 pheo 風險。
 
@@ -2114,25 +2114,25 @@ A：皆以 autosomal dominant（體染色體顯性）為主。
 
 ### Q：NF1（neurofibromatosis type 1，第一型神經纖維瘤症） cafe-au-lait spot 定義？
 
-A：六顆以上；青春期前直徑大於 5 mm，青春期後大於 15 mm。
+**A：六顆以上；青春期前直徑大於 5 mm，青春期後大於 15 mm。**
 
 補充：無。
 
 ### Q：哪種貧血與骨科/骨病也會有 cafe-au-lait spot？
 
-A：Fanconi anemia；McCune-Albright syndrome（fibrous dysplasia 相關）。
+A：**Fanconi anemia**；**McCune-Albright syndrome**（fibrous dysplasia 相關）。
 
 補充：原文 Fanconi 拼字誤作 Faconi。
 
 ### Q：RET（RET proto-oncogene，RET原致癌基因）與 NF1（neurofibromatosis type 1，第一型神經纖維瘤症）是致癌或抑癌基因？
 
-A：RET 是 proto-oncogene；NF1 是 tumor suppressor gene。
+A：**RET 是 proto-oncogene**；**NF1 是 tumor suppressor gene**。
 
 補充：無。
 
 ### Q：Pheo（pheochromocytoma，嗜鉻細胞瘤）跟哪些家族病有關？
 
-A：MEN2（multiple endocrine neoplasia type 2，多發性內分泌腫瘤第二型）、VHL（von Hippel-Lindau disease，馮希佩爾-林道症候群）、NF1（neurofibromatosis type 1，第一型神經纖維瘤症）；另也可記 hereditary paraganglioma/pheochromocytoma syndromes（SDHx（succinate dehydrogenase gene family，琥珀酸去氫酶基因家族））。
+A：**MEN2**（multiple endocrine neoplasia type 2，多發性內分泌腫瘤第二型）、VHL（von Hippel-Lindau disease，馮希佩爾-林道症候群）、**NF1**（neurofibromatosis type 1，第一型神經纖維瘤症）；另也可記 **hereditary paraganglioma/pheochromocytoma syndromes（**SDHx（succinate dehydrogenase gene family，琥珀酸去氫酶基因家族））。
 
 補充：原文只列本段前述家族病，補 SDHx 作不擴張的高頻提醒。
 
@@ -2146,55 +2146,55 @@ A：Transsphenoidal surgery 手術切除為首選。
 
 ### Q：Acromegaly 篩檢、確診、OGTT（oral glucose tolerance test，口服葡萄糖耐受試驗）後 GH（growth hormone，生長激素）正常抑制到多少？
 
-A：篩檢 IGF-1（insulin-like growth factor 1，類胰島素生長因子1）；確診用 75 g OGTT 看 GH 是否可被抑制。正常 GH 應抑制到小於 1 ng/mL，敏感 assay 可用小於 0.4 ng/mL。
+A：**篩檢 IGF-1（insulin-like growth factor 1，類胰島素生長因子1，上升懷疑）**；確診用 75 g OGTT 看 GH 是否可被抑制。**正常 GH 應抑制到小於 1 ng/mL**，敏感 assay 可用小於 0.4 ng/mL。
 
 補充：cutoff 依 assay，不把 0.4 當唯一門檻。
 
 ### Q：哪個 pituitary tumor 對藥物反應最好？第二好？
 
-A：Prolactinoma 最好；acromegaly 第二，常用 somatostatin analog、dopamine agonist 或 GH（growth hormone，生長激素） receptor antagonist。
+A：Prolactinoma 最好；acromegaly 第二，常用** somatostatin analog、dopamine agonist **或 GH（growth hormone，生長激素） receptor antagonist。
 
 補充：無。
 
 ### Q：嚴重頭痛後 panhypopituitarism 診斷？
 
-A：Pituitary apoplexy。
+A：Pituitary apoplexy（腦下垂體腺瘤突然出血或梗塞，造成急性腫脹壓迫）；緊急處理=先給 **stress-dose hydrocortisone**，再做 MRI/神外評估減壓。
 
 補充：無。
 
 ### Q：Pituitary tumor 侵犯 cavernous sinus 會侵犯哪些神經？症狀？
 
-A：III、IV（intravenous，靜脈）、V1、V2、VI 與 sympathetic fibers；造成 diplopia/ophthalmoplegia、臉麻、眼痛、ptosis。
+A：III、IV（intravenous，靜脈）、V1、V2、VI 與 sympathetic fibers；造成** diplopia/ophthalmoplegia、臉麻、眼痛、ptosis**。
 
 補充：無。
 
 ### Q：除 prolactinoma 外，造成 hyperprolactinemia 的藥物與鑑別？
 
-A：藥物：methyldopa、metoclopramide、antipsychotic（如 haloperidol/risperidone）、verapamil。其他 DD（differential diagnosis，鑑別診斷）：primary hypothyroidism、renal failure、cirrhosis、seizure、empty sella/stalk effect。
+A：藥物：**methyldopa**、**metoclopramide**、**antipsychotic**（如 haloperidol/risperidone）、**verapamil**。其他 DD（differential diagnosis，鑑別診斷）：primary hypothyroidism、renal failure、cirrhosis、seizure、empty sella/stalk effect（各種dopamine被中斷）。
 
 補充：無。
 
 ### Q：甲狀腺低下會使 PRL（prolactin，泌乳素）高或低？
 
-A：Primary hypothyroidism 會使 PRL 升高。
+A**：Primary hypothyroidism 會使 PRL 升高**。
 
 補充：考試常用 TRH 上升促 PRL 作機轉。
 
 ### Q：產後 milk ejection 由什麼激素引起？被誰抑制？
 
-A：Milk ejection/let-down 由 oxytocin 引起；壓力、疼痛、catecholamine 可抑制 let-down。Dopamine 抑制的是 prolactin 分泌與 milk production。
+A：Milk ejection/let-down(幾乳) 由 **oxytocin** 引起；**壓力、疼痛、catecholamine 可抑制 let-down**。**Dopamine 抑制的是 prolactin 分泌與 milk production**。
 
 補充：原文把 dopamine 寫成抑制 milk ejection，易與 prolactin 抑制混淆。
 
 ### Q：Dopamine 路徑被促進或抑制會引起 hyperPRL？
 
-A：Dopamine 對 PRL（prolactin，泌乳素）是 tonic inhibition；dopamine pathway 被抑制或 dopamine receptor 被阻斷會 hyperprolactinemia。
+A：Dopamine 對 PRL（prolactin，泌乳素）**是 tonic inhibition**；dopamine pathway 被抑制或 dopamine receptor 被阻斷會 hyperprolactinemia。
 
 補充：原答案與 amenorrhea 治療合併，這裡拆出。
 
 ### Q：HyperPRL 造成 amenorrhea 用什麼治療？
 
-A：Dopamine agonist：bromocriptine 或 cabergoline。
+A：**Dopamine agonist：bromocriptine 或 cabergoline**。
 
 補充：無。
 
@@ -2208,43 +2208,43 @@ A：壓迫 optic chiasm 造成 bitemporal hemianopsia。
 
 ### Q：T3（triiodothyronine，三碘甲狀腺素）與 T4（thyroxine，甲狀腺素）哪個活性高？rT3（reverse T3，反三碘甲狀腺素）與什麼病相關？
 
-A：T3 活性高於 T4；reverse T3（rT3）與 sick euthyroid syndrome/non-thyroidal illness 相關。
+A：T3 活性高於 T4；reverse T3（rT3）與 **sick euthyroid syndrome/non-thyroidal illness **相關。
 
 補充：無。
 
 ### Q：TBG（thyroxine-binding globulin，甲狀腺素結合球蛋白）上升時 T4（thyroxine，甲狀腺素）如何？什麼情況 TBG 會上升？
 
-A：TBG 上升時 total T4 上升、free T4 通常維持正常；estrogen 上升如懷孕、口服避孕藥會使 TBG 上升。
+A：**TBG 上升時 total T4 上升、free T4 通常維持正常**；**estrogen 上升如懷孕、口服避孕藥會使 TBG 上升**。
 
 補充：無。
 
 ### Q：Anti-TPO（anti-thyroid peroxidase antibody，抗甲狀腺過氧化酶抗體）可幫助診斷什麼病？
 
-A：高效價 anti-TPO 支持 Hashimoto thyroiditis；也可在 Graves 或 painless thyroiditis 低效價陽性。
+A：**高效價 anti-TPO 支持 Hashimoto thyroiditis**；也可在 Graves 或 painless thyroiditis 低效價陽性。
 
 補充：無。
 
 ### Q：診斷 Graves 可驗哪三個抗體/指標？
 
-A：TSH（thyroid-stimulating hormone，促甲狀腺素） receptor antibody（TRAb（TSH receptor antibody，促甲狀腺素受體抗體）/anti-TSHR）、thyroid-stimulating immunoglobulin（TSI（thyroid-stimulating immunoglobulin，甲狀腺刺激免疫球蛋白））、thyrotropin-binding inhibitory immunoglobulin（TBII（thyrotropin-binding inhibitory immunoglobulin，促甲狀腺素結合抑制免疫球蛋白））。
+A：TSH（thyroid-stimulating hormone，促甲狀腺素） receptor antibody（TRAb（TSH receptor antibody，促甲狀腺素受體抗體）/anti-TSHR）、thyroid-stimulating immunoglobulin（**TSI**（thyroid-stimulating immunoglobulin，甲狀腺刺激免疫球蛋白））、thyrotropin-binding inhibitory immunoglobulin（**TBII**（thyrotropin-binding inhibitory immunoglobulin，促甲狀腺素結合抑制免疫球蛋白））。
 
 補充：無。
 
 ### Q：什麼可作為甲狀腺癌 marker？前提治療？
 
-A：Thyroglobulin 可追蹤 differentiated thyroid cancer，但前提是已做 total thyroidectomy 且通常接受 radioactive iodine ablation。
+A：**Thyroglobulin** 可追蹤 differentiated thyroid cancer，但**前提是已做 total thyroidectomy 且通常接受 radioactive iodine ablation**。
 
 補充：無。
 
 ### Q：TSH（thyroid-stimulating hormone，促甲狀腺素）與 free T4（thyroxine，甲狀腺素）六種組合診斷？
 
-A：TSH 高、FT4（free thyroxine，游離甲狀腺素）高：TSHoma 或 thyroid hormone resistance；TSH 高、FT4 正常：subclinical hypothyroidism；TSH 高、FT4 低：primary hypothyroidism；TSH 低、FT4 高：primary hyperthyroidism；TSH 低、FT4 正常：subclinical hyperthyroidism；TSH 低、FT4 低：central hypothyroidism 或 severe non-thyroidal illness。
+A：TSH 高、FT4（free thyroxine，游離甲狀腺素）高：**TSHoma** 或 thyroid hormone resistance；TSH 高、FT4 正常：**subclinical hypothyroidism**；TSH 高、FT4 低：primary hypothyroidism；TSH 低、FT4 高：primary hyperthyroidism；TSH 低、FT4 正常：**subclinical hyperthyroidism**；TSH 低、FT4 低：**central hypothyroidism **或 severe non-thyroidal illness。
 
 補充：無。
 
 ### Q：Hashimoto 通常可驗到哪兩種抗體？
 
-A：Anti-TPO（anti-thyroid peroxidase antibody，抗甲狀腺過氧化酶抗體）與 anti-thyroglobulin antibody。
+A：**Anti-TPO**（anti-thyroid peroxidase antibody，抗甲狀腺過氧化酶抗體）與 **anti-thyroglobulin antibody**。
 
 補充：無。
 
@@ -2256,43 +2256,43 @@ A：Non-pitting myxedema。
 
 ### Q：甲狀腺低下時手腕、眉毛、囟門表現？
 
-A：Carpal tunnel syndrome；外側 1/3 眉毛脫落；小兒囟門延遲閉合。
+A：**Carpal tunnel syndrome（黏液水腫壓迫神經）**；外側 1/3 眉毛脫落；**小兒囟門延遲閉合**。
 
 補充：無。
 
 ### Q：先天甲狀腺低下與 10 歲小孩甲狀腺低下最常見原因？
 
-A：先天最常見 thyroid dysgenesis/ectopy；學齡兒童常見 Hashimoto thyroiditis。
+A：先天最常見** thyroid dysgenesis/ectopy**；**學齡兒童常見 Hashimoto thyroiditis**。
 
 補充：原文「甲狀腺異味」應為「甲狀腺異位」。
 
 ### Q：同時有甲狀腺低下與腎上腺低下，先補什麼？
 
-A：先補 glucocorticoid，再補 levothyroxine；避免誘發 adrenal crisis。
+A：**先補 glucocorticoid，再補 levothyroxine；避免誘發 adrenal crisis。**
 
 補充：無。
 
 ### Q：Plummer 指什麼？什麼情況會出現？
 
-A：Plummer nails 指 onycholysis（指甲與甲床分離），可見於 hyperthyroidism/Graves；但 Plummer disease 另指 toxic multinodular goiter。
+A：Plummer nails 指 **onycholysis**（指甲與甲床分離），可見於 **hyperthyroidism/Graves**；但 Plummer disease 另指 toxic multinodular goiter。
 
 補充：這題需看題源或教材版本，先不要硬背。原題只寫 Plummer，需分清 Plummer nails 與 Plummer disease。
 
 ### Q：懷孕時甲狀腺素需求與甲亢變化？
 
-A：懷孕時 levothyroxine 需求上升；Graves/hyperthyroidism 可因孕期免疫耐受而緩解，產後易復發或惡化。
+A：懷孕時 levothyroxine 需求上升；Graves/hyperthyroidism 可**因孕期免疫耐受而緩解**，產後易復發或惡化。
 
 補充：無。
 
 ### Q：甲狀腺風暴怎麼治？
 
-A：支持治療與處理誘因；beta-blocker；thionamide（PTU（propylthiouracil，丙硫氧嘧啶）優先，也可 methimazole）；至少 1 小時後給 iodine/Lugol 抑制釋放；給 glucocorticoid 抑制 T4（thyroxine，甲狀腺素）轉 T3（triiodothyronine，三碘甲狀腺素）並防 adrenal insufficiency。
+A：支持治療與處理誘因；beta-blocker（急性期就可以用）；**thionamide**（PTU（propylthiouracil，丙硫氧嘧啶）優先，也可 methimazole）；至少 1 小時後給 iodine/Lugol 抑制釋放；**給 glucocorticoid 抑制 T4（thyroxine，甲狀腺素）轉 T3**（triiodothyronine，三碘甲狀腺素）並防 adrenal insufficiency。
 
 補充：原文漏 glucocorticoid，且「以防 Wolff-Chaikoff」說法錯；Wolff-Chaikoff 是 iodine 抑制合成的效果。
 
 ### Q：疼痛型甲狀腺炎怎麼治？
 
-A：Subacute painful thyroiditis：NSAID 或 aspirin；嚴重疼痛或反應差可給 steroid；甲亢症狀用 beta-blocker。
+A：Subacute painful thyroiditis：**NSAID 或 aspirin；嚴重疼痛或反應差可給 steroid；甲亢症狀用 beta-blocker**。
 
 補充：原答案行序交錯，單寫 steroid 不完整。
 
@@ -2304,13 +2304,13 @@ A：常見於產後，也可與 Hashimoto thyroiditis/anti-TPO（thyroid peroxid
 
 ### Q：PTU（propylthiouracil，丙硫氧嘧啶）系列藥物最常見與最嚴重副作用？
 
-A：Thionamide 常見副作用是 rash/pruritus；嚴重副作用為 agranulocytosis，PTU 還要記 severe hepatotoxicity。
+A：**Thionamide 常見副作用是 rash/pruritus；嚴重副作用為 agranulocytosis**，**PTU 還要記 severe hepatotoxicity**。
 
 補充：原文只列 agranulocytosis，PTU 的嚴重肝毒性也高頻。
 
 ### Q：甲亢與副甲亢誰會造成骨質疏鬆？
 
-A：兩者都會造成 bone loss/osteoporosis。
+A：兩者都會造成 bone loss/osteoporosis，甲亢骨質turnover速度會變快。
 
 補充：無。
 
@@ -2318,17 +2318,17 @@ A：兩者都會造成 bone loss/osteoporosis。
 
 ### Q：甲狀腺癌如果有症狀，通常是甲亢還是甲低下？
 
-A：多數甲狀腺癌 thyroid function 正常；若問結節風險，cold/nonfunctioning nodule 比 hot nodule 可疑，非典型甲亢。
+A：多數甲狀腺癌 thyroid function 正常；若問結節風險，**cold/nonfunctioning nodule 比 hot nodule 可疑**，非典型甲亢。
 
-補充：原文寫「通常是甲低下」太絕對，易誤導成癌症常造成 hypothyroidism。
+補充：原文寫「**通常是甲低下**」太絕對，易誤導成癌症常造成 hypothyroidism。
 
 ### Q：甲狀腺癌整體性別分布？
 
-A：女性較多。
+A：**女性較多。**
 
 ### Q：甲狀腺結節哪些年齡、性別、觸診、病史、症狀、PE 會更懷疑癌？
 
-A：年齡 <20 或 >60-70、男性、硬且固定、頸部放射線史、聲音沙啞或 dysphonia（發聲困難）、頸部淋巴結腫大。
+A：年齡 **<20 或 >60-70**、**男性、硬且固定**、頸部**放射線史、聲音沙啞或 dysphonia（發聲困難）、頸部淋巴結腫大**。
 
 補充：原文用 >70，可保留但建議記成高齡危險，部分教材用 >60。
 
@@ -2344,49 +2344,49 @@ A：Papillary thyroid carcinoma（乳突癌）最多。
 
 ### Q：Papillary ca 哪個性別預後好？Follicular ca 呢？
 
-A：分化型甲狀腺癌整體女性預後較好，男性較差；Papillary、Follicular 都可用此方向。
+A：**分化型甲狀腺癌整體女性預後較好**，男性較差；Papillary、Follicular 都可用此方向。
 
 補充：原文只寫「女性預後好」，未明示 follicular 也同方向。
 
 ### Q：通常年紀如何預後會比較好？
 
-A：分化型甲狀腺癌（papillary/follicular thyroid carcinoma）年輕預後較好；AJCC（American Joint Committee on Cancer，美國癌症聯合委員會）第 8 版用 <55 歲作重要分期切點。<55 歲即使有遠端轉移也多為 stage II，不會到 stage IV。
+A：分化型甲狀腺癌（papillary/follicular thyroid carcinoma）**年輕預後較好**；AJCC（American Joint Committee on Cancer，美國癌症聯合委員會）第 8 版用 <55 歲作重要分期切點。**<55 歲即使有遠端轉移也多為 stage II**，不會到 stage IV。
 
 補充：這個年齡切點主要用於 differentiated thyroid carcinoma；anaplastic thyroid carcinoma（未分化癌）仍是預後最差。
 
 ### Q：碘充足比較容易是哪個癌？碘缺乏呢？
 
-A：碘充足：Papillary；碘缺乏：Follicular。
+A：**碘充足：Papillary；碘缺乏：Follicular**。
 
 ### Q：Papillary vs Follicular：誰預後較差、誰淋巴轉移、誰血行轉移？
 
-A：Follicular 預後較 Papillary 差；Papillary 常淋巴轉移；Follicular 常血行轉移。
+A：Follicular 預後較 Papillary 差；**Papillary 常淋巴轉移**；**Follicular 常血行轉移**。
 
 ### Q：沒轉移的 Papillary ca 第一線治療？有轉移呢？
 
-A：可手術者第一線以手術為主；有轉移仍先評估手術，術後再依風險與 iodine-avid 轉移考慮 radioactive iodine（放射碘）。
+A：無問有無轉移，**可手術者第一線以手術為主**；有轉移仍先評估手術，術後再依風險與** iodine-avid 轉移考慮 radioactive iodine（放射碘）**。
 
-補充：原文「無論有無轉移第一線都是開刀」方向可用，但 metastatic disease 實務會加上放射碘/風險分層。
+補充：原文「**無論有無轉移第一線都是開刀**」方向可用，但 metastatic disease 實務會加上放射碘/風險分層。
 
 ### Q：哪一個 FNA（fine-needle aspiration，細針抽吸）可以提供診斷？哪個不行？
 
-A：Papillary FNA 可診斷；Follicular FNA 不能區分 adenoma vs carcinoma，需看 capsular/vascular invasion。
+**A：Papillary FNA 可診斷**；Follicular FNA 不能區分 adenoma vs carcinoma，需看 capsular/vascular invasion（Follicular診斷主要看侵犯（Adenoma是包膜完整的良性腫瘤），Papillary看長相）。
 
 ### Q：50 歲男性甲狀腺癌轉移到肺，stage 多少？
 
-A：分化型甲狀腺癌 <55 歲且 M1：Stage II。
+**A：分化型甲狀腺癌 <55 歲且 M1：Stage II。**
 
 ### Q：60 歲女性甲狀腺癌侵犯喉返神經，stage 多少？
 
-A：≥55 歲、recurrent laryngeal nerve（喉返神經）侵犯屬 T4a，M0 時 Stage III。
+A：**≥55 歲、recurrent laryngeal nerve（喉返神經）**侵犯屬 T4a，M0 時 Stage III。
 
-### Q：75 歲男性甲狀腺癌，腫瘤 5 cm 且區域淋巴結轉移，stage 多少？
+### Q：75 歲男性甲狀腺癌，**腫瘤 5 cm 且區域淋巴結轉移**，stage 多少？
 
-A：≥55 歲、T3a/N1/M0：Stage II。
+A：≥55 歲、**T3a/N1/M0：Stage II。**
 
 ### Q：甲狀腺癌哪一種組織學預後最差？
 
-A：Anaplastic thyroid carcinoma（未分化癌）預後最差。
+A**：Anaplastic thyroid carcinoma（未分化癌）預後最差。**
 
 ### Q：甲狀腺髓質癌跟 MEN 多少有關？
 
@@ -2394,47 +2394,47 @@ A：Medullary thyroid carcinoma（髓質癌）與 MEN2A（multiple endocrine neo
 
 ### Q：甲狀腺髓質癌來自什麼細胞？
 
-A：Parafollicular C cell（濾泡旁 C 細胞）。
+**A：Parafollicular C cell（濾泡旁 C 細胞）。**
 
 ## 血糖與糖尿病
 
 ### Q：糖尿病怎麼診斷？糖尿病前期是什麼？
 
-A：DM（diabetes mellitus，糖尿病）：FPG（fasting plasma glucose，空腹血漿葡萄糖） ≥126 mg/dL、HbA1c（hemoglobin A1c，糖化血色素） ≥6.5%、75 g OGTT（oral glucose tolerance test，口服葡萄糖耐受試驗） 2 hr ≥200 mg/dL、或典型症狀 + random glucose ≥200 mg/dL。PreDM：HbA1c 5.7-6.4%、FPG 100-125、OGTT 2 hr 140-199。
+A：DM（diabetes mellitus，糖尿病）：**FPG（fasting plasma glucose，空腹血漿葡萄糖） ≥126 mg/dL**、**HbA1c（hemoglobin A1c，糖化血色素） ≥6.5%**、75 g OGTT（oral glucose tolerance test，口服葡萄糖耐受試驗）** 2 hr ≥200 mg/dL、或典型症狀 + random glucose ≥200 mg/dL**。PreDM：**HbA1c 5.7-6.4%**、**FPG 100-125**、OGTT 2 hr **140-199**。
 
 補充：原文用 `>`，診斷門檻應用 `≥`。
 
 ### Q：妊娠糖尿病怎麼診斷？通常懷孕幾週發生/篩檢？
 
-A：GDM（gestational diabetes mellitus，妊娠糖尿病）通常在 24-28 週篩檢。常用 75 g OGTT（oral glucose tolerance test，口服葡萄糖耐受試驗）：fasting ≥92 mg/dL、1 hr ≥180 mg/dL、2 hr ≥153 mg/dL，任一項達標即可診斷。若採兩步驟法，先做 50 g glucose challenge test；異常再做 100 g OGTT，通常 2 項異常才診斷。
+A：GDM（gestational diabetes mellitus，妊娠糖尿病）通常在 **24-28 週**篩檢。常用 75 g OGTT（oral glucose tolerance test，口服葡萄糖耐受試驗）：fasting ≥92 mg/dL、1 hr **≥180 mg/dL、2 hr ≥153 mg/dL**，任一項達標即可診斷。若採兩步驟法，先做 50 g glucose challenge test；異常再做 100 g OGTT，通常 2 項異常才診斷。
 
-補充：國考最常背 75 g 的 92/180/153；發生機轉是孕中後期 placental hormones（胎盤激素）造成 insulin resistance（胰島素阻抗）。
+補充：**國考最常背 75 g 的 92/180/153**；發生機轉是孕中後期 placental hormones（胎盤激素）造成 insulin resistance（胰島素阻抗）。
 
 ### Q：糖尿病控制目標？缺血性中風血糖？DM（diabetes mellitus，糖尿病） + HTN（hypertension，高血壓）血壓？
 
-A：多數成人 HbA1c（hemoglobin A1c，糖化血色素） <7%；高齡/多重共病可放寬到 <8%；急性缺血性中風血糖約 140-180 mg/dL；DM + HTN 目標多抓 <130/80 mmHg（需個別化）。
+A：多數成人 HbA1c（hemoglobin A1c，糖化血色素） **<7%**；高齡/多重共病可放寬到** <8%**；急性缺血性中風血糖約** 140-180 mg/dL**；DM + HTN 目標多抓 **<130/80 mmHg**（需個別化）。
 
 ### Q：一般空腹血糖正常值下限？Whipple triad 包括？
 
-A：正常空腹血糖下限約 70 mg/dL；Whipple triad：低血糖症狀、確認低血糖、補糖後改善。
+A：**正常空腹血糖下限約 70 mg/dL**；Whipple triad：低血糖症狀、確認低血糖、補糖後改善。
 
 補充：原文提國考低血糖 cutoff 50-55，可作補充；臨床常用 <70 警戒。
 
-### Q：糖尿病病人至少有多少比例有腎病變？
+### Q：**糖尿病病人至少有多少比例有腎病變**？
 
-A：約 30-50%。
+A：**約 30-50%**。
 
 ### Q：非糖尿病孕婦胎兒估重多少要剖腹？糖尿病孕婦呢？
 
-A：非 DM（diabetes mellitus，糖尿病） >5000 g；DM >4500 g 可考慮剖腹產。
+A：非 DM（diabetes mellitus，糖尿病）** >5000 g；DM >4500 g 可考慮剖腹產。**
 
 ### Q：Type 1 DM（diabetes mellitus，糖尿病）蜜月期？黎明現象？
 
-A：蜜月期：發病初期殘存 beta-cell 功能短暫恢復，insulin 需求下降。黎明現象：清晨 GH（growth hormone，生長激素）/cortisol 增加使血糖上升，早晨血糖較難控。
+A：蜜月期：發病初期殘存 beta-cell 功能短暫恢復，insulin 需求下降。**黎明現象：清晨 GH（growth hormone，生長激素）/cortisol 增加使血糖上升，早晨血糖較難控。**
 
 ### Q：Type 1 vs Type 2 DM（diabetes mellitus，糖尿病）誰骨密度高？
 
-A：Type 2 DM 骨密度較高，但骨折風險仍高於一般人。
+A：**Type 2 DM 骨密度較高，但骨折風險仍高於一般人。**
 
 ### Q：糖尿病視網膜病變：BDR（background diabetic retinopathy，背景型糖尿病視網膜病變）三個、PPDR（preproliferative diabetic retinopathy，前增殖型糖尿病視網膜病變）兩個、PDR（proliferative diabetic retinopathy，增殖型糖尿病視網膜病變）一個。
 
@@ -2444,43 +2444,55 @@ A：BDR/NPDR：microaneurysm（微血管瘤）、retinal hemorrhage（視網膜�
 
 ### Q：Metformin 機轉、體重、腎功能禁忌、副作用、哪個 vitamin 吸收不良？
 
-A：Metformin 為 biguanide，抑制 hepatic gluconeogenesis（肝糖新生）；體重中性或微降；eGFR <30 禁用；怕 lactic acidosis（乳酸中毒）；可造成 vitamin B12（vitamin B12，維生素B12）吸收不良。
+A：Metformin 為 **biguanide**，**抑制 hepatic gluconeogenesis（肝糖新生）**；**體重中性或微降**；**eGFR <30 禁用**；怕 lactic acidosis（乳酸中毒）；**可造成 vitamin B12（vitamin B12，維生素B12）吸收不良**。
 
 ### Q：糖尿病用藥副作用：體重減輕/增加、類天皰瘡、胰臟炎、低血糖、心衰竭、水腫、肝指數上升？
 
-A：體重減輕：SGLT2（sodium-glucose cotransporter 2，鈉-葡萄糖共同運輸蛋白2） inhibitor、GLP-1 receptor agonist。體重增加：SU（sulfonylurea，磺醯脲類）、TZD（thiazolidinedione，噻唑烷二酮類）、insulin。類天皰瘡：DPP-4 inhibitor。胰臟炎：DPP-4 inhibitor、GLP-1 receptor agonist。低血糖：SU、insulin。HF（heart failure，心衰竭）：TZD、saxagliptin。水腫：TZD。肝指數上升：acarbose 可見。
+A：
+
+體重減輕：SGLT2（sodium-glucose cotransporter 2，鈉-葡萄糖共同運輸蛋白2） inhibitor、**GLP-1 receptor agonist**。
+
+**體重增加**：SU（**sulfonylurea**，磺醯脲類）、TZD（thiazolidinedione，噻唑烷二酮類）、insulin。
+
+類天皰瘡：**DPP-4 inhibitor**。
+
+胰臟炎：**DPP-4 inhibitor、GLP-1 receptor agonist**。
+
+低血糖：SU、insulin。
+
+HF（heart failure，心衰竭）：**TZD、saxagliptin**。水腫：TZD。肝指數上升：acarbose 可見。
 
 補充：原文少列 GLP-1 RA（rheumatoid arthritis，類風濕性關節炎）的胰臟炎風險；其餘方向可用。
 
 ### Q：速效胰島素兩個、短或中效兩個、長效兩個。
 
-A：速效：lispro、aspart。短效：regular insulin。中效：NPH（neutral protamine Hagedorn insulin，中效胰島素）。長效：detemir、glargine。
+A**：速效：lispro、aspart**。短效：regular insulin。中效：**NPH（neutral protamine Hagedorn insulin，中效胰島素）**。長效**：detemir、glargine。**
 
 ## DKA（diabetic ketoacidosis，糖尿病酮酸中毒）與 HHS（hyperosmolar hyperglycemic state，高滲透壓高血糖狀態）
 
 ### Q：DKA（diabetic ketoacidosis，糖尿病酮酸中毒）怎麼診斷？
 
-A：Hyperglycemia（常 >250 mg/dL）、ketonemia/ketonuria、metabolic acidosis（pH <7.3 或 HCO3（bicarbonate，碳酸氫根） ≤18）且 anion gap 增加。
+A：Hyperglycemia（常 >250 mg/dL）、ketonemia/ketonuria、**metabolic acidosis**（**pH <7.3 或 HCO3（bicarbonate，碳酸氫根） ≤18**）且 anion gap 增加。
 
 補充：原文未寫 pH，HCO3 寫 15-18 可保留但建議用 ≤18 作考試骨架。
 
 ### Q：DKA（diabetic ketoacidosis，糖尿病酮酸中毒）的呼吸叫什麼？呼氣有什麼 finding？
 
-A：Kussmaul respiration（深快呼吸）；呼氣可有 fruity odor（水果味/acetone 味）。
+A：**Kussmaul respiration（深快呼吸）**；呼氣可有** fruity odor（水果味/acetone 味）**。
 
 ### Q：DKA（diabetic ketoacidosis，糖尿病酮酸中毒）的五個 I 或六個 I？
 
-A：Insulin insufficiency、iatrogenic（SGLT2（sodium-glucose cotransporter 2，鈉-葡萄糖共同運輸蛋白2） inhibitor 或 steroid）、infection、inflammation、infarction、intoxication。
+A：Insulin insufficiency、iatrogenic（SGLT2（sodium-glucose cotransporter 2，鈉-葡萄糖共同運輸蛋白2） inhibitor 或 steroid；血糖跟insulin都低，最後默默酮酸中毒）、infection、inflammation、infarction、intoxication。
 
 ### Q：DKA（diabetic ketoacidosis，糖尿病酮酸中毒）第一線治療？
 
-A：先輸液復水；接著依 K 值補鉀並給 IV（intravenous，靜脈） insulin（K <3.3 時先補鉀再 insulin）。
+A：**先輸液復水；接著依 K 值補鉀並給 IV**（intravenous，靜脈） **insulin**（**K <3.3 時先補鉀再 insulin**）。
 
 補充：原文「視情況給 insulin」太弱，DKA 治療核心是 fluid、insulin、potassium。
 
 ### Q：DKA（diabetic ketoacidosis，糖尿病酮酸中毒）通常驗到高血鈉還是低血鈉？
 
-A：常見 dilutional hyponatremia（低血鈉）；若測得正常鈉，代表脫水可能更嚴重。
+A：常見 dilutional hyponatremia（**低血鈉**）；若測得正常鈉，代表脫水可能更嚴重。
 
 ### Q：高血糖時測血鈉怎麼校正？
 
@@ -2492,13 +2504,13 @@ A：Corrected Na = measured Na + 1.6-2.4 × [(glucose - 100)/100]。
 
 A：血中 K 常正常或偏高，但 total body potassium 是不足的。
 
-### Q：慢性胰臟炎造成的 type 3 DM 為何較不易 DKA（diabetic ketoacidosis，糖尿病酮酸中毒）？
+### Q：**慢性胰臟炎造成的 type 3 DM **為何較不易 DKA（diabetic ketoacidosis，糖尿病酮酸中毒）？
 
-A：慢性胰臟炎後期 alpha cell 也受損，glucagon 少，lipolysis/ketogenesis 較不明顯。
+A：慢性胰臟炎後期 alpha cell 也受損，**glucagon** 少，lipolysis/ketogenesis 較不明顯。
 
-### Q：HHS（hyperosmolar hyperglycemic state，高滲透壓高血糖狀態）血糖與滲透壓診斷門檻？
+### **Q：HHS（hyperosmolar hyperglycemic state，高滲透壓高血糖狀態）血糖與滲透壓診斷門檻？**
 
-A：Plasma glucose ≥600 mg/dL；effective osmolality >300 mOsm/kg 或 total osmolality >320 mOsm/kg，且無明顯酮酸中毒。
+**A：Plasma glucose ≥600 mg/dL；effective osmolality >300 mOsm/kg 或 total osmolality >320 mOsm/kg，且無明顯酮酸中毒。**
 
 ### Q：血中有效滲透壓怎麼算？
 
@@ -2508,7 +2520,7 @@ A：Effective osmolality = 2 × Na + glucose/18（glucose 單位 mg/dL；不含 
 
 ### Q：HHS（hyperosmolar hyperglycemic state，高滲透壓高血糖狀態）怎麼治療？
 
-A：第一線大量輸液；之後依 K 值、滲透壓與血糖下降速度給 insulin 與電解質校正。
+A：**第一線大量輸液；之後依 K 值**、滲透壓與血糖下降速度**給 insulin 與電解質校正。**
 
 補充：原文只寫輸液，需補 insulin/K 監測才完整。
 
@@ -2520,7 +2532,7 @@ A：DKA 偏 type 1 DM；HHS 偏 type 2 DM。HHS 血糖較高、滲透壓較高�
 
 ### Q：腦膜炎傳統 triad？
 
-A：常考可見：發燒、頭痛、頸部僵硬；若題目寫 classic bacterial meningitis triad，也常指發燒、頸僵、意識改變。
+A：常考可見：**發燒、頭痛、頸部僵硬**；若題目寫 classic bacterial meningitis triad，也常指發燒、頸僵、意識改變。
 
 補充：這題需看題源或教材版本，先不要硬背。原文只列發燒/頭痛/頸僵；不同教材的「classic triad」會把 headache 換成 altered mental status。
 
@@ -2532,11 +2544,11 @@ A：Kernig：仰臥，髖膝屈曲後被動伸膝，引發疼痛/阻力。Brudzi
 
 ### Q：新兵、瘀點/紫斑、污染乳酪、補體缺乏各猜哪隻菌？
 
-A：新兵、瘀點/紫斑、補體缺乏：Neisseria meningitidis（腦膜炎雙球菌）。污染乳製品/乳酪：Listeria monocytogenes。
+A：**新兵、瘀點/紫斑、補體缺乏**：Neisseria meningitidis（腦膜炎雙球菌）。污染乳製品/乳酪：**Listeria** monocytogenes。
 
 ### Q：正常 lumbar puncture opening pressure？
 
-A：約 9-18 cmH2O（臨床常見正常範圍可到約 6-20 cmH2O）。
+A：約 **9-18 cmH2O**（臨床常見正常範圍可到約 6-20 cmH2O）。
 
 ### Q：TB（tuberculosis，結核病）腦膜炎 CSF（cerebrospinal fluid，腦脊髓液）：白血球哪種？葡萄糖會下降嗎？
 
@@ -2548,21 +2560,21 @@ A：淋巴球為主；glucose 下降。
 
 ### Q：腦膜炎致病菌前四名？其中誰不能用 ceftriaxone，要改用什麼？
 
-A：常考：Streptococcus pneumoniae、Neisseria meningitidis、Listeria monocytogenes、Haemophilus influenzae。Listeria 對 cephalosporin 無效，需 ampicillin。
+A：常考：Streptococcus pneumoniae、Neisseria meningitidis、Listeria monocytogenes、Haemophilus influenzae。**Listeria 對 cephalosporin 無效，需 ampicillin。**
 
 補充：排名會隨年齡/疫苗世代變動；國考重點是 Listeria 要加 ampicillin。
 
 ### Q：Neisseria meningitidis 接觸者預防抗生素？
 
-A：Rifampin、ciprofloxacin 或 ceftriaxone。
+A：**Rifampin、ciprofloxacin 或 ceftriaxone**。
 
 ### Q：懷疑 TB（tuberculosis，結核病）腦膜炎，抗結核藥以外還要給什麼？
 
-A：Dexamethasone。
+A：Dexamethasone（壓發炎反應）。
 
 ### Q：HSV（herpes simplex virus，單純皰疹病毒）腦炎診斷？MRI（magnetic resonance imaging，磁振造影）侵犯哪裡？
 
-A：CSF（cerebrospinal fluid，腦脊髓液） HSV PCR（polymerase chain reaction，聚合酶鏈鎖反應）為主；MRI 常侵犯 medial temporal lobe（內側顳葉），也可見 inferior frontal lobe。
+A：CSF（cerebrospinal fluid，腦脊髓液） **HSV PCR**（polymerase chain reaction，聚合酶鏈鎖反應）為主；MRI 常侵犯 **medial temporal lobe**（內側顳葉），也可見 inferior frontal lobe。
 
 ## 感染性心內膜炎
 
@@ -2578,83 +2590,83 @@ A：Viridans streptococci、Streptococcus gallolyticus（舊稱 S. bovis）、St
 
 ### Q：HACEK（Haemophilus、Aggregatibacter、Cardiobacterium、Eikenella、Kingella，HACEK菌群）分別是什麼？
 
-A：Haemophilus、Aggregatibacter、Cardiobacterium hominis、Eikenella corrodens、Kingella kingae。
+A：**Haemophilus**、**Aggregatibacter**、**Cardiobacterium** hominis、**Eikenella** corrodens、**Kingella** kingae。
 
 補充：注意 Aggregatibacter 舊名含 Actinobacillus；不是 Acinetobacter。
 
 ### Q：Duke criteria 要滿足多少項才能診斷 IE（infective endocarditis，感染性心內膜炎）？
 
-A：Definite IE：2 major，或 1 major + 3 minor，或 5 minor。
+A：**Definite IE：2 major，或 1 major + 3 minor，或 5 minor。**
 
 ### Q：牙科手術後 IE（infective endocarditis，感染性心內膜炎）、靜脈毒癮 IE、人工瓣膜 IE 各猜哪隻菌？
 
-A：牙科：viridans streptococci。IVDU：Staphylococcus aureus。人工瓣膜：早期常見 coagulase-negative staphylococci（如 S. epidermidis）與 S. aureus；晚期較像 native valve。
+A：**牙科：viridans streptococci。IVDU：Staphylococcus aureus。人工瓣膜**：早期常見 coagulase-negative staphylococci（如 **S. epidermidis**）與 **S. aure**us；晚期較像 native valve。
 
 補充：原文人工瓣膜只寫 S. aureus，少了考試常見的 S. epidermidis/CoNS（coagulase-negative staphylococci，凝固酶陰性葡萄球菌）。
 
 ### Q：Janeway lesion、Osler node、眼底 finding？
 
-A：Janeway lesion：vascular phenomenon/ septic microembolus，painless。Osler node：immune complex，painful。眼底：Roth spots，屬 immune phenomenon。
+A：Janeway lesion：vascular phenomenon/ septic microembolus，**painless**。Osler node：immune complex，painful。眼底：**Roth spots**，屬 immune phenomenon。
 
 ### Q：主動脈瓣疾病和二尖瓣疾病，哪個是 IE（infective endocarditis，感染性心內膜炎）高風險？
 
-A：主動脈瓣疾病風險較高。
+A：**主動脈瓣疾病風險較高。**
 
 ### Q：心內膜炎通常治療多久？
 
-A：通常 4-6 週 IV（intravenous，靜脈） antibiotics。
+A：**通常 4-6 週 IV（intravenous，靜脈） antibiotics。**
 
 ### Q：TTE（transthoracic echocardiography，經胸心臟超音波） vs TEE（transesophageal echocardiography，經食道心臟超音波）誰診斷 IE（infective endocarditis，感染性心內膜炎）敏感度較高？
 
-A：TEE 敏感度高於 TTE；TTE 常先做，TEE 用於高疑慮、人工瓣膜或 TTE 陰性但仍懷疑者。
+A：TEE 敏感度高於 TTE；TTE 常先做，**TEE 用於高疑慮、人工瓣膜或 TTE 陰性但仍懷疑者**。
 
 ### Q：MVP（mitral valve prolapse，二尖瓣脫垂）或 VSD（ventricular septal defect，心室中隔缺損）做牙科手術要預防性抗生素嗎？
 
-A：MVP 不需。單純 VSD 通常不需；只有高風險 CHD（未修補發紺型、修補後前 6 個月有 prosthetic material、或殘餘缺損）才需。
+A：MVP 不需。單純 VSD 通常不需；只有高風險 CHD（**未修補發紺型、修補後前 6 個月有 prosthetic material、或殘餘缺損**）才需。
 
 ## Cellulitis
 
 ### Q：海水、淡水、髒水後 cellulitis 各猜什麼？
 
-A：海水：Vibrio vulnificus。淡水：Aeromonas hydrophila。髒水/污水：polymicrobial，含 anaerobes。
+A：海水：Vibrio vulnificus。淡水：Aeromonas hydrophila。髒水/污水：**polymicrobial**，含 anaerobes。
 
 ### Q：Vibrio cellulitis 用什麼抗生素？
 
-A：Doxycycline（或 tetracycline 類）+ third-generation cephalosporin（常考 ceftazidime）。
+A：**Doxycycline**（或 tetracycline 類）+ **third-generation cephalosporin**（常考 **ceftazidime**）。
 
 補充：原文寫「3 代 cepha + tetracycline」方向可用；整理成常用藥名。
 
-### Q：被貓、狗、猴子咬要用什麼抗生素？
+### Q：被貓、狗、猴子、人咬要用什麼抗生素？
 
-A：Amoxicillin-clavulanate。
+A：**Amoxicillin**-clavulanate。
 
 補充：原文 clavunate 拼字修正為 clavulanate。
 
 ### Q：被猴子咬除了抗生素外還要給什麼？
 
-A：依暴露風險給 rabies post-exposure prophylaxis（狂犬病暴露後預防）；獼猴/猴咬另考慮 Herpes B virus 預防或治療，如 acyclovir/valacyclovir。
+A：依暴露風險給 **rabies post-exposure prophylaxis**（狂犬病暴露後預防）；**獼猴/猴咬另考慮 Herpes B virus 預防或治療**，如 acyclovir/valacyclovir。
 
 ### Q：被貓咬、狗咬各猜什麼菌？這些菌好氧或厭氧？
 
-A：貓咬：Pasteurella multocida。狗咬：Capnocytophaga canimorsus + Pasteurella。咬傷常 polymicrobial；Pasteurella/Capnocytophaga 為 facultative anaerobes（兼性厭氧）。
+A：貓咬：**Pasteurella** multocida。狗咬：**Capnocytophaga** canimorsus + Pasteurella。咬傷常 **polymicrobial**；Pasteurella/Capnocytophaga 為 facultative anaerobes（兼性厭氧）。
 
 補充：原文 Pasturella 拼字修正為 Pasteurella。
 
 ### Q：貓咬 vs 狗咬：誰較難治？誰口腔菌叢較複雜？
 
-A：貓咬較難治/感染風險較高，因常為深部穿刺傷；狗口腔菌叢較複雜。
+A：**貓咬較難治/感染風險較高**，因常為**深部穿刺傷**；*狗口腔菌叢較複雜*。
 
 ### Q：貓咬和狗咬誰是穿刺傷？誰是開放撕裂傷？
 
-A：貓咬：穿刺傷。狗咬：開放撕裂傷較常見。
+A：**貓咬：穿刺傷**。狗咬：開放撕裂傷較常見。
 
 ### Q：貓抓病病原、淋巴腺切片染色、丹毒病原？
 
-A：Cat-scratch disease：Bartonella henselae。切片染色：Warthin-Starry stain。Erysipelas（丹毒）：Group A Streptococcus。
+A：Cat-scratch disease：**Bartonella** henselae。切片染色：**Warthin-Starry stain**。Erysipelas（丹毒）：Group A Streptococcus。
 
 ### Q：什麼 cellulitis 要懷疑 necrotizing fasciitis？
 
-A：Pain out of proportion、快速進展、發燒/全身毒性或 hemodynamic instability、crepitus、bullae、紫紅轉藍灰、hyperesthesia 或 anesthesia。
+A：Pain out of proportion、快速進展、發燒/全身毒性或** hemodynamic instability、crepitus、bullae、紫紅轉藍灰**、hyperesthesia 或 anesthesia。
 
 ### Q：發生在生殖器的 necrotizing fasciitis 叫什麼？
 
@@ -2662,41 +2674,41 @@ A：Fournier gangrene。
 
 ### Q：眼眶 cellulitis 最可能從哪個鼻竇感染過去？
 
-A：Ethmoid sinus（篩竇）。
+A：**Ethmoid sinus**（篩竇）。
 
 ## 抗生素總論
 
 ### Q：Cephalosporin 肝臟排泄兩個、FQ（fluoroquinolone，氟喹諾酮類）不用腎功能調劑量一個、再講兩個不用腎功能調劑量抗生素。
 
-A：Cephalosporin：cefoperazone、ceftriaxone。FQ：moxifloxacin。其他可記：metronidazole、linezolid、tigecycline、clindamycin、doxycycline。
+A：Cephalosporin：**cefoperazone**、ceftriaxone（都三代）。FQ：**moxifloxacin**。其他可記：**metronidazole**、**linezolid**、**tigecycline**、**clindamycin**、**doxycycline**。
 
 補充：原文列很多藥，整理成可背組。
 
-### Q：不能跟牛奶一起服用的抗生素三種？
+### Q：不能跟牛奶一起服用的抗生素三種（Ca螯合）？
 
-A：Tetracycline、doxycycline、fluoroquinolones（FQ（fluoroquinolone，氟喹諾酮類））。
+A：**Tetracycline**、**doxycycline**、**fluoroquinolones**（FQ（fluoroquinolone，氟喹諾酮類））。
 
 補充：與鈣螯合影響吸收。
 
-### Q：重症肌無力不能用的抗生素三類？
+### Q：重症肌無力不能用的抗生素三類（干擾neuromuscular transmission）？
 
-A：Aminoglycosides、fluoroquinolones、macrolides。
+A：**Aminoglycosides**、**fluoroquinolones**、**macrolides**。
 
 ### Q：懷孕婦女不能用的抗生素四類？
 
-A：常考避免：tetracycline/tigecycline、aminoglycosides、fluoroquinolones、sulfonamides（trimester/近足月需分情境）。
+A：常考避免：**tetracycline/tigecycline**、**aminoglycosides**、**fluoroquinolones**、**sulfonamides**（trimester/近足月才禁用）。
 
 補充：原文列 tetracycline、AG（aminoglycoside，胺基糖苷類）、tigecycline、sulfonamide，但少了常考 FQ（fluoroquinolone，氟喹諾酮類）；sulfonamide 不是全孕期絕對禁忌。
 
 ### Q：哪一類抗生素副作用有 QT（QT interval，QT間期） prolongation？
 
-A：Fluoroquinolones 可 QT prolongation；macrolides 也常考 QT prolongation。
+A：**Fluoroquinolones** 可 QT prolongation；**macrolides** 也常考 QT prolongation。
 
 補充：原文只寫 FQ（fluoroquinolone，氟喹諾酮類），若選項有 macrolide 也要小心。
 
 ### Q：哪個抗結核藥會跟 NRTIs 有交互作用，TB（tuberculosis，結核病） + HIV（human immunodeficiency virus，人類免疫缺乏病毒）要慎用？
 
-A：Rifampin；但重點應是 rifampin 會與多種 antiretroviral therapy（ART）交互作用，尤其 PI/NNRTI/部分 integrase inhibitor，不是典型只針對 NRTI（nucleoside reverse transcriptase inhibitor，核苷酸反轉錄酶抑制劑）。
+A：**Rifampin**；但重點應是 rifampin 會與多種 antiretroviral therapy（ART）交互作用，尤其 PI/NNRTI/部分** integrase inhibitor**，**不是典型只針對 NRTI**（nucleoside reverse transcriptase inhibitor，核苷酸反轉錄酶抑制劑）。
 
 補充：考試若只問 TB + HIV 交互作用，先選 rifampin；若細問 ART 類別，NRTI 通常不是最主要被 rifampin 影響的一群。
 
@@ -2706,89 +2718,93 @@ A：Erythromycin 增加 theophylline 毒性；clarithromycin + statin 增 rhabdo
 
 ## 主動脈瘤
 
-### Q：TAA（thoracic aortic aneurysm，胸主動脈瘤）跟 AAA（abdominal aortic aneurysm，腹主動脈瘤）男生多還是女生多？
+### **Q：TAA（thoracic aortic aneurysm，胸主動脈瘤）跟 AAA（abdominal aortic aneurysm，腹主動脈瘤）男生多還是女生多？**
 
-A：男性較多；AAA 男性明顯較多。
+**A：男性較多；AAA 男性明顯較多。**
 
 ### Q：AAA（abdominal aortic aneurysm，腹主動脈瘤）大部分在腎動脈以上還是以下？
 
-A：多為 infrarenal AAA（腎動脈以下）。
+A：**多為 infrarenal AAA（腎動脈以下）。**
 
-補充：Mycotic aneurysm 可偏 suprarenal，原文補充可保留。
+補充：Mycotic aneurysm （細菌感染性動脈瘤）可偏 suprarenal，原文補充可保留。
 
 ### Q：老年人 AAA（abdominal aortic aneurysm，腹主動脈瘤）最容易被誤診為什麼病？
 
-A：腎結石/renal colic。
+**A：腎結石/renal colic。**
 
 ### Q：TAA（thoracic aortic aneurysm，胸主動脈瘤）與 AAA（abdominal aortic aneurysm，腹主動脈瘤）常見機轉？
 
-A：TAA：cystic medial degeneration/medial degeneration、connective tissue disease、aortitis。AAA：atherosclerosis/degenerative change。
+A：TAA：**cystic medial degeneration/medial degeneration（主動脈中層退化）**、connective tissue disease、aortitis。AAA：**atherosclerosis/degenerative change。**
 
-### Q：TAA（thoracic aortic aneurysm，胸主動脈瘤） <4 cm 每年破裂 2-3%，那 >6 cm 每年破裂率？
+### Q：TAA（thoracic aortic aneurysm，胸主動脈瘤） **<4 cm 每年破裂 2-3%**，那** >6 cm** 每年破裂率？
 
-A：約 7%/年。
+A：**約 7%/年。**
 
 ### Q：AAA（abdominal aortic aneurysm，腹主動脈瘤） <幾公分時每年破裂率約 1%？
 
-A：<5 cm（臨床處置常另記修補門檻 5.5 cm 男、5.0 cm 女）。
+A：**<5 cm（臨床處置常另記修補門檻 5.5 cm 男、5.0 cm 女）。**
 
 ### Q：Mycotic aneurysm 最常見病原菌？
 
-A：常見是 Staphylococcus aureus、Salmonella spp.；endocarditis 相關也可見 Streptococcus。
+A：常見是 **Staphylococcus aureus、Salmonella spp.；endocarditis** 相關也可見 Streptococcus。
 
 補充：這題需看題源或教材版本，先不要硬背。原文列 Staph/Strep/Salmonella 並說不是 fungus；若題目問「最常見」單選，需看題源情境。
 
 ### Q：Open 和 EVAR（endovascular aneurysm repair，血管內動脈瘤修復術），哪個使用 CSF（cerebrospinal fluid，腦脊髓液） drainage 會沒有保護效果？
 
-A：CSF drainage 用於降低 spinal cord ischemia（脊髓缺血）風險，主要考 open thoracoabdominal aortic aneurysm repair 或高風險 thoracic endovascular repair（TEVAR）。一般 infrarenal AAA（腎下腹主動脈瘤）的 EVAR 不太有脊髓灌流問題，因此不是例行保護措施。
+A：**CSF drainage 用於降低 spinal cord ischemia（脊髓缺血）風險**，主要考 **open thoracoabdominal aortic aneurysm repair **或高風險 **thoracic endovascular repair（TEVAR）**。一般 infrarenal AAA（腎下腹主動脈瘤）的 EVAR 不太有脊髓灌流問題，因此不是例行保護措施。
 
 補充：若題目只在 open TAAA vs EVAR AAA 間選，CSF drainage 對一般 AAA EVAR 最不像必要保護。
 
 ### Q：直徑 3 cm 的 TAA（thoracic aortic aneurysm，胸主動脈瘤）不開刀，追蹤時間？
 
-A：初次常 6-12 個月追蹤影像；穩定後依大小與成長速度延長。
+A：**初次常 6-12 個月追蹤影像；穩定後依大小與成長速度延長。**
 
 補充：原文「半年或一年」可用。
 
 ### Q：影響 AAA（abdominal aortic aneurysm，腹主動脈瘤）手術結果最重要危險因素？
 
-A：先分情境：最影響預後的是是否 rupture（破裂）/shock（休克）而需急診手術；elective AAA repair（選擇性腹主動脈瘤修補）則主要看 cardiovascular disease（心血管疾病，尤其 CAD/CHF）、renal insufficiency（腎功能不全）、COPD（chronic obstructive pulmonary disease，慢性阻塞性肺病）、高齡。若考單一「手術死亡率危險因子」，優先抓 cardiac/renal comorbidity。
+A：先分情境：**最影響預後的是是否 rupture（破裂）/shock（休克）而需急診手術**；elective AAA repair（選擇性腹主動脈瘤修補）則主要看 **cardiovascular disease（心血管疾病，尤其 CAD/CHF）、renal insufficiency（腎功能不全）、COPD（chronic obstructive pulmonary disease，慢性阻塞性肺病）、高齡**。若考單一「手術死亡率危險因子」，優先抓 **cardiac/renal comorbidity**。
 
 補充：不要只看 aneurysm 直徑；能不能承受手術多由心肺腎共病決定。
 
 ### Q：TAA（thoracic aortic aneurysm，胸主動脈瘤）開刀 indication？
 
-A：TAA 開刀/介入 indication 抓三類：有症狀、快速變大、直徑達門檻。Sporadic aortic root/ascending aorta（主動脈根部/升主動脈）常用 ≥5.5 cm；descending thoracic aorta（降胸主動脈）或 thoracoabdominal aneurysm 常用 ≥6.0 cm。若 Marfan syndrome（馬凡氏症候群）、Loeys-Dietz syndrome、bicuspid aortic valve（雙葉主動脈瓣）、家族剝離史或同時要做瓣膜手術，門檻可降到約 5.0 cm 或更低。
+A：TAA 開刀/介入 indication 抓三類：**有症狀、快速變大、直徑達門檻**。Sporadic aortic root/ascending aorta（主動脈根部/升主動脈）**常用 ≥5.5 cm**；descending thoracic aorta（降胸主動脈）或 thoracoabdominal aneurysm **常用 ≥6.0 cm**。若 Marfan syndrome（馬凡氏症候群）、Loeys-Dietz syndrome、bicuspid aortic valve（雙葉主動脈瓣）、家族剝離史或同時要做瓣膜手術，**門檻可降到約 5.0 cm 或更低**。
 
 補充：國考先背 ascending 5.5、descending/TAAA 6.0；症狀或快速長大不等到門檻。
 
 ### Q：AAA（abdominal aortic aneurysm，腹主動脈瘤）開刀 indication？
 
-A：AAA repair indication：破裂或有症狀一定處理；無症狀 fusiform AAA（梭形腹主動脈瘤）直徑男 ≥5.5 cm、女 ≥5.0 cm；快速增大（常用 ≥0.5 cm/6 個月或 ≥1 cm/年）；saccular aneurysm（囊狀動脈瘤）或感染性/mycotic aneurysm 也較傾向介入。
+A：AAA repair indication：破裂或有症狀一定處理；**無症狀 fusiform AAA（梭形腹主動脈瘤）直徑男 ≥5.5 cm、女 ≥5.0 cm**；快速增大（**常用 ≥0.5 cm/6 個月或 ≥1 cm/年**）；**saccular aneurysm（囊狀動脈瘤，不均勻稱大，易破）或感染性/mycotic aneurysm 也較傾向介入**。
 
 補充：追蹤題常考 <5 cm 破裂風險低；處置門檻另背 5.5 cm（男）/5.0 cm（女）。
 
 ### Q：Crawford classification type I-V 分別為何？
 
-A：Crawford classification 分 thoracoabdominal aortic aneurysm（TAAA，胸腹主動脈瘤）範圍。Type I：left subclavian artery（左鎖骨下動脈） distal 到 suprarenal abdominal aorta（腎上腹主動脈）。Type II：left subclavian 到 aortoiliac bifurcation（主髂分叉），範圍最大。Type III：distal thoracic aorta（遠端胸主動脈）到 aortoiliac bifurcation。Type IV：主要限於 diaphragm（橫膈）以下的 abdominal/visceral aorta（腹部/臟器段主動脈）。Type V（modified/Safi）：distal descending thoracic aorta 到 suprarenal aorta，通常不延伸到腎動脈以下。
+A**：Crawford classification 分 thoracoabdominal aortic aneurysm（TAAA，胸腹主動脈瘤）範圍**。Type I：left subclavian artery（左鎖骨下動脈） distal 到 suprarenal abdominal aorta（腎上腹主動脈）。Type II：left subclavian 到 **aortoiliac bifurcation**（主髂分叉），範圍最大。Type III：distal thoracic aorta（遠端胸主動脈）到 aortoiliac bifurcation。Type IV：主要限於 **diaphragm**（橫膈）以下的 abdominal/visceral aorta（腹部/臟器段主動脈）。Type V（modified/Safi）：distal descending thoracic aorta 到 suprarenal aorta，通常不延伸到腎動脈以下。
 
 補充：最常背 Type II 最大、脊髓缺血風險高。
 
-### Q：AAA（abdominal aortic aneurysm，腹主動脈瘤）做完 EVAR（endovascular aneurysm repair，血管內動脈瘤修復術）後 Endoleak type I-V 分別發生在哪裡？
+### Q：AAA（abdominal aortic aneurysm，腹主動脈瘤）做完 EVAR（endovascular aneurysm repair，血管內動脈瘤修復術）後 **Endoleak type I-V** 分別發生在哪裡？
 
-A：Endoleak 是 EVAR 後 aneurysm sac（動脈瘤囊）仍有血流。Type I：graft attachment site sealing failure（近端 Ia 或遠端 Ib 密封不良）。Type II：branch retrograde flow（分支逆流，最常見；如 lumbar artery、inferior mesenteric artery）。Type III：graft fabric defect 或 modular disconnection（支架破洞/接合處分離）。Type IV：graft porosity（支架材料孔隙滲漏，術後早期）。Type V：endotension（看不到明顯漏，但 aneurysm sac 持續變大）。
+A：Endoleak 是 EVAR 後 aneurysm sac（動脈瘤囊）仍有血流。**Type I：graft attachment site sealing failure**（近端 Ia 或遠端 Ib 密封不良）。Type II：branch retrograde flow（分支逆流，最常見；如 lumbar artery、inferior mesenteric artery）。Type III：**graft fabric defect 或 modular disconnection（支架破洞/接合處分離）**。Type IV：graft porosity（支架材料孔隙滲漏，術後早期）。Type V：endotension（看不到明顯漏，但 aneurysm sac 持續變大）。
 
-補充：I、III 是高壓漏，通常比 II 更需要積極處理；II 最常見但可先追蹤，若 sac 變大再處理。
+補充：**I、III 是高壓漏，通常比 II 更需要積極處理**；II 最常見但可先追蹤，若 sac 變大再處理。
 
 ### Q：AoD（aortic dissection，主動脈剝離）的 DeBakey 與 Stanford 分類？
 
-A：Stanford classification 看有沒有 ascending aorta（升主動脈）：Type A 有侵犯升主動脈，通常外科急症；Type B 沒侵犯升主動脈，多先內科降壓，除非 complicated。DeBakey classification 看起點與範圍：Type I 起於升主動脈並延伸到 arch/descending aorta；Type II 限於升主動脈；Type III 起於 descending aorta（左鎖骨下動脈遠端），IIIa 限胸腔，IIIb 延伸到橫膈以下。DeBakey I/II 約等於 Stanford A，DeBakey III 約等於 Stanford B。
+A：Stanford classification 看有沒有 ascending aorta（升主動脈）：Type A 有侵犯升主動脈，通常外科急症；Type B 沒侵犯升主動脈，多先內科降壓，除非 complicated。DeBakey classification 看起點與範圍：**Type I 起於升主動脈並延伸到 arch/descending aorta**；Type II 限於升主動脈；Type III 起於 descending aorta（左鎖骨下動脈遠端），IIIa 限**胸腔**，**IIIb 延伸到橫膈以下**。DeBakey I/II 約等於 Stanford A，DeBakey III 約等於 Stanford B。
 
 補充：考處置先看 Stanford：A surgery，B medical control unless malperfusion、rupture、persistent pain 等 complicated features。
 
 ### Q：IABP（intra-aortic balloon pump，主動脈內氣球幫浦）放在哪段主動脈？何時充氣/消氣？禁忌？對 MI（myocardial infarction，心肌梗塞）後 cardiogenic shock 死亡率有好處嗎？
 
-A：IABP balloon 位於 descending thoracic aorta（tip 在 left subclavian distal、renal arteries proximal）。Diastole 充氣、systole 前快速消氣。禁忌：aortic regurgitation、aortic dissection、severe PAD（peripheral artery disease，周邊動脈疾病）。MI 後 cardiogenic shock 不建議常規使用，無明確死亡率改善。
+A：IABP balloon 位於 **descending thoracic aorta**（tip 在** left subclavian distal、renal arteries proximal**）。Diastole 充氣、systole 前快速消氣。
+
+Ind：Cardiogenic Shock、High-risk PCI、CABG bridge、MI mechanical complication、Bridge to LVAD/transplant。
+
+禁忌：**aortic regurgitation、aortic dissection、severe PAD**（peripheral artery disease，周邊動脈疾病）。**MI 後 cardiogenic shock 不建議常規使用，無明確死亡率改善**。
 
 補充：原文「舒張中期消氣」不對，應在收縮前/舒張末消氣以降低 afterload。
 
@@ -2796,29 +2812,29 @@ A：IABP balloon 位於 descending thoracic aorta（tip 在 left subclavian dist
 
 ### Q：幼兒腸套疊最常見原因？Lead point 容易找嗎？
 
-A：多為 idiopathic，常與 Peyer patch/腸繫膜淋巴組織增生有關；兒童多找不到 lead point。
+A：**多為 idiopathic**，常與 Peyer patch/腸繫膜淋巴組織增生有關；兒童多找不到 lead point。
 
 補充：原文「腸繫膜淋巴腺肥大」方向可用。
 
 ### Q：腸套疊 triad、好發年齡、性別？
 
-A：Triad：間歇性腹痛、可觸及腹部腫塊、currant jelly stool（草莓果醬便）。好發 6 個月-1 歲/幼兒，男生多。
+A：Triad：**間歇性腹痛、可觸及腹部腫塊、currant jelly stool**（草莓果醬便）。好發 6 個月-1 歲/幼兒，男生多。
 
 ### Q：最常見腸段、PE（physical examination，身體檢查）腫塊、US（ultrasound，超音波） signs、鋇劑 sign、最常見治療、併發症、復發率、何時手術、成人要懷疑什麼？
 
-A：最常見 ileocolic。PE：右上腹 sausage-shaped mass。US：target/doughnut/bull's-eye sign、pseudokidney sign。Contrast/air enema：coiled spring sign。治療：air/saline/contrast enema reduction。最怕 perforation。復發約 10%。手術：灌腸失敗、shock、peritonitis、perforation、疑 pathologic lead point。成人腸套疊要懷疑 tumor。
+A：**最常見 ileocolic**。PE：**右上腹 sausage-shaped mass**。US：target/doughnut/bull's-eye sign、**pseudokidney sign**。Contrast/air enema：**coiled spring sign**。治療：**air/saline/contrast enema reduction**。最怕 perforation。復發約 10%。手術：灌腸失敗、shock、peritonitis、perforation、疑 pathologic lead point。成人腸套疊要懷疑 tumor。
 
-補充：現代治療多以 air enema 或水溶性 contrast/saline reduction 為主，barium 較少用。
+補充：現**代治療多以 air enema 或水溶性 contrast/saline reduction 為主**，barium 較少用。
 
 ### Q：腹痛 + 無痛性血便猜什麼？影像診斷？第二常見表現？Rule of 2？異位組織？
 
-A：Meckel diverticulum（梅克爾憩室）。診斷：Tc-99m pertechnetate scan。第二常見表現原文缺；常考可記 obstruction/intussusception。Rule of 2：2% 人口、距 ileocecal valve 2 feet、長 2 inches、2 歲前常出現症狀、2:1 男性、2 種異位組織。異位組織：胃黏膜最常見，其次胰臟。
+A：Meckel diverticulum（梅克爾憩室）。診斷：Tc-99m pertechnetate scan。常考可記 obstruction/intussusception。Rule of 2：2% 人口、距 ileocecal valve 2 feet、長 2 inches、2 歲前常出現症狀、2:1 男性、2 種異位組織。異位組織：胃黏膜最常見，其次胰臟。
 
 補充：原文寫 Meckel's diverticulitis 不精確，無痛性血便應是 Meckel diverticulum；答案也漏「第二常見表現」。
 
 ### Q：噴射非膽汁嘔吐 + olive mass 猜什麼？族群、性別、發病時點、X 光、鋇劑、超音波、治療、術式名？
 
-A：Hypertrophic pyloric stenosis（肥厚性幽門狹窄）。白種人、男嬰多，2-8 週。X-ray：single bubble/胃擴張。UGI（upper gastrointestinal series，上消化道攝影）：string sign、shoulder sign、double-track sign。US（ultrasound，超音波）：肌層厚 >3 mm、直徑 >13-14 mm、長度 >15-17 mm。Tx（treatment，治療）：pyloromyotomy，又稱 Ramstedt procedure。
+A：Hypertrophic pyloric stenosis（肥厚性幽門狹窄）。**白種人、男嬰多**，**2-8 週**。X-ray：single bubble/胃擴張。UGI（upper gastrointestinal series，上消化道攝影）：**string sign、shoulder sign、double-track sign**。US（ultrasound，超音波）：**肌層厚 >3 mm、直徑 >13-14 mm**、長度 >15-17 mm。Tx（treatment，治療）：**pyloromyotomy**，又稱 Ramstedt procedure。
 
 補充：原文 Ramstedt 拼字錯；影像 cutoff 依教材略有差異。
 
@@ -2826,10 +2842,10 @@ A：Hypertrophic pyloric stenosis（肥厚性幽門狹窄）。白種人、男�
 
 A：最典型是 pancreatitis（胰臟炎）背痛/放射到背；retrocecal appendicitis 可背/腰痛但非典型；腸阻塞不是典型「轉移到背」。
 
-補充：若單選最典型就是 pancreatitis；appendicitis 只有 retrocecal 位置時可牽涉背/腰，不要和典型 periumbilical pain 轉移到 RLQ 混淆。
+補充：若單選最典型就是 pancreatitis；**appendicitis 只有 retrocecal 位置時可牽涉背/腰**，不要和典型 periumbilical pain 轉移到 RLQ 混淆。
 
 ### Q：Single-bubble、Double-bubble、Triple-bubble、Corkscrew、Coiled spring、String/Shoulder/Mushroom sign 各是哪個病？
 
-A：Single-bubble：hypertrophic pyloric stenosis。Double-bubble：duodenal atresia。Triple-bubble：jejunal atresia。Corkscrew：intestinal malrotation/midgut volvulus。Coiled spring：intussusception。String/shoulder/mushroom：hypertrophic pyloric stenosis。
+A：Single-bubble：hypertrophic pyloric stenosis。Double-bubble：duodenal atresia。Triple-bubble：**jejunal atresia**。Corkscrew：intestinal malrotation/midgut volvulus。Coiled spring：intussusception。String/shoulder/mushroom：hypertrophic pyloric stenosis。
 
 補充：原文 Tripple/vulvulus 拼字修正。

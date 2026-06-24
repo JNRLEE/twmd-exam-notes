@@ -18,6 +18,15 @@
     - 總血量上升：**足月可達40%**
     - 生理性貧血：**血漿增加 > 紅血球增加**
     - Exam：WBC增加、**凝血因子**增加、**血小板減少**
+  - GI/anatomic/lab changes（腸胃/解剖/檢驗）
+    - 子宮增大：appendix（闌尾）上移，妊娠後期可到右側腰部/右上腹；McBurney point（麥氏點）典型壓痛可不準
+    - Progesterone（黃體素）使平滑肌鬆弛：esophageal peristalsis（食道蠕動）速度/幅度下降，lower esophageal sphincter（LES，下食道括約肌）張力下降 ⭢ GERD（gastroesophageal reflux disease，胃食道逆流）風險↑
+    - Gastric emptying（胃排空）不要一概說後期變慢：
+      - 1st trimester（第一孕期）：液體胃排空可較非懷孕延遲
+      - 2nd/3rd trimester（第二/三孕期）：液體與固體胃排空多與非懷孕無明顯差異
+      - Term elective cesarean（足月計畫性剖腹產，未進入產程）：標準禁食後，術前2hr喝 carbohydrate drink（碳水化合物飲料）或 tea with milk（含奶茶水），胃竇橫截面積可與禁食/純水無差異
+      - Pitfall：真正 labor（產程）、近期固體食物、systemic opioids（全身性鴉片類止痛）或急診全麻仍當 aspiration（吸入）風險高，麻醉考題常保守視為 full stomach（飽胃）
+    - Serum albumin（血清白蛋白）：血漿容積擴張稀釋 ⭢ 下降約10-15%
 - Prenatal exam（產前檢查，共10次）
   - 1st trimester（第一孕期，**<17週，2次**）
     - 例行：確認懷孕、預產期（M+9，D+7）、**血型、感染、德麻篩檢**
@@ -170,7 +179,7 @@
   - Arrest disorders（進展停止）：
     - 原則：先排除CPD（**cephalopelvic disproportion，頭盆不對稱**）；有CPD不催生，改剖腹
     - 無CPD且宮縮不足：**amniotomy/oxytocin**
-    - 第一產程arrest（Active phase（6 to 10 cm））：≥6cm且破水後，**足夠宮縮4hr或不足宮縮＋oxytocin 6hr仍無擴張**
+    - 第一產程arrest（Active phase（6 to 10 cm））：≥6cm且破水後，**足夠宮縮4hr或不足宮縮＋oxytocin 6hr仍無擴張**；足夠產力＝Montevideo units（MVU/MU，蒙特維多單位）**≥200**（多數可進入/維持 active phase）
     - 第二產程arrest（子宮頸全開後仍生不出）：無**epidural止痛>2hr（初產婦3hr）**；**有epidural 多一小**
       - 補：第一產程＝開子宮頸；第二產程＝生小孩；第三產程＝生胎盤。
 - 催產、TOLAC/VBAC、過期妊娠（>42wks）
@@ -311,7 +320,7 @@
     - Suspensory ligament（懸韌帶）：卵巢血管走行
     - Round ligament（圓韌帶，弓帶遺跡）：過腹股溝連接大陰唇，維持子宮前傾
     - Ovarian ligament**（卵巢固有韌帶，弓帶遺跡）：連接卵巢與子宮**
-    - 圖：![Broad ligament and ovary](../assets/female_broad_ligament_ovary.png)
+    - 圖：![Uterine ligament atlas](../assets/uterine_ligaments_atlas.jpg)
   - 輸尿管走勢（下上下）：
     - 上段：在卵巢血管下
     - 中段：在**內髂動脈**上
@@ -374,8 +383,9 @@
         - 預後好：stage 低、年輕、術後 CA-125 快速下降
     - Ovarian germ tumor（卵巢生殖細胞瘤；多良性、年輕、**多單側**；惡性者常快速生長/有症狀）：
       - Tx：
-        - Fertility-sparing surgery（生育保留手術）：單側切除＋分期；**對側卵巢不常規切片，除非高度懷疑**
-        - BEP（bleomycin、etoposide、cisplatin）化療：for 惡性，化療敏感
+        - Fertility-sparing staging surgery（生育保留分期手術）：USO（unilateral salpingo-oophorectomy，單側輸卵管卵巢切除）＋全面分期；**對側卵巢不常規切片，除非高度懷疑**
+        - BEP（bleomycin、etoposide、cisplatin）化療：for 惡性/高風險；**immature teratoma Stage IA + grade 1 可只手術觀察**，stage > I 或 grade 2/3 多需輔助BEP
+        - Pitfall：second-look operation（二次剖腹探查）已不常規；追蹤靠影像＋tumor marker。若化療後 marker 正常但殘存腫塊變大＝growing teratoma syndrome（生長性畸胎瘤症候群）→ secondary cytoreduction（二次減積手術）
       - 分類：
         - Mature cystic teratoma（成熟囊性畸胎瘤＝**dermoid cyst 皮樣囊腫**）：AFP正常，脂肪/牙齒為主；生殖細胞腫瘤 1st；<1% 惡性轉化（**Rokitansky nodule **實質結節為惡化特徵），最常見轉成 **squamous cell carcinoma**（鱗狀細胞癌）
         - Immature teratoma（未成熟畸胎瘤，惡性）：年輕，切片含有未成熟神經組織、混有yolk sac tumor（AFP上升）；依 grade 決定風險
@@ -453,8 +463,9 @@
     - 自然史＝多數HPV 1-2年清除；**CIN1兩年內60-90%消退（觀察為主）**；**CIN3/carcinoma in situ（CIS，原位癌）未治療有癌化風險**；HPV16最常見於CIN2/3與侵犯癌
     - Exam＝抹片篩檢：koilocytosis（病毒感染SSC特徵）、核質比上升、mitosis↑；開始性行為後三年一次
     - Tx＝ablation（燒灼/破壞）、conization（錐狀切除；治療兼診斷，可治**CIN3/adenocarcinoma in situ（AIS，腺原位癌）；約10%復發**）、陰道鏡切片（懷孕時不可endocervical curettage（子宮頸內膜刮除術））、子宮切除
-- Cervical cancer（子宮頸癌，99.7%因HPV）：**SCC（70%）**/adenocarcinoma（25%）為主
+- Cervical cancer（子宮頸癌，99.7%因HPV）：**SCC（70%）**/adenocarcinoma（25%）為主（治療沒有差異）
   - RF＝多重性伴侶、過早性行為、多產、社經地位低、抽菸
+  - Exam/Dx＝Pap smear/HPV test為篩檢；診斷靠colposcopy-directed biopsy（陰道鏡導引切片）± endocervical curettage（ECC，子宮頸內膜刮除術）；若adenocarcinoma in situ（AIS，腺原位癌）或懷疑microinvasive adenocarcinoma（微侵襲腺癌）/需判定深度與切緣 → diagnostic excisional procedure/conization（診斷性切除/錐狀切片），不可只靠punch biopsy（小片切片）決定範圍
   - 分期＝FIGO staging：I局限子宮頸、II侵犯超出子宮頸但未達骨盆壁/陰道下1/3、III侵犯骨盆壁/陰道下1/3或淋巴結、IV侵犯膀胱/直腸或遠處轉移（cf. ovarian tumor）
   - Tx＝手術（早期，Stage I-IIA，包括子宮切除術、淋巴切除術、盆腔清掃術）、化放療（Stage IIB-IV）、pelvic exenteration（骨盆腔器官刨除術）
   - 保留生育：
@@ -493,7 +504,7 @@
   - Bacterial vaginosis（細菌性陰道病，1st；菌相失衡，培養非診斷標準）
     - RF＝性行為、陰道灌洗、抽菸；菌種＝Gardnerella、Prevotella、Bacteroides、Ureaplasma
     - SS＝分泌物多、腐臭味
-    - Exam＝pH>4.5；抹片（clue cell，細菌包覆表皮細胞）；whiff test（加KOH氫氧化鉀出現魚腥味）
+    - Exam＝Amsel criteria（Amsel氏準則，4取3）＝薄灰白均質分泌物、pH>4.5、whiff test（加KOH氫氧化鉀出現魚腥味）、抹片clue cell（細菌包覆表皮細胞）
     - Tx＝Metronidazole/Clindamycin（口服或陰道塞劑）
   - Candidiasis（念珠菌陰道炎，2nd；直腸陰道共生菌，C. **albicans**為主）
     - RF＝孕齡婦女；年紀越大感染/復發率越高
@@ -805,6 +816,20 @@
     - 上下直肌：眼球外展23度 → 垂直上升/下降；內收67度 → 上直肌內轉、下直肌外轉
     - 斜肌：眼球外展51度 → 上升/下降；內收39度 → 上斜肌內轉、下斜肌外轉
 - 視覺發育：**4wks開始**；2months可追視；**6months可定視**；5y/o視力達成人水平
+- 視力/視野下降快辨：
+
+  | 線索             | 先想                                               | 關鍵特徵                                                                                         |
+  | -------------- | ------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+  | 中央視力下降/直線變彎    | Age-related macular degeneration（AMD，老年性黃斑部病變）   | 老人、metamorphopsia（視物變形）、drusen（黃斑沉積物）；周邊視野多保留                                                |
+  | 周邊視野先缺損        | Glaucoma（青光眼）                                    | IOP（intraocular pressure，眼壓）高或視神經脆弱、cup/disc ratio 增大；慢性開角通常不痛                               |
+  | 黑幕拉下來/周邊視野突然缺損 | Retinal detachment（RD，視網膜剝離）                     | 飛蚊、閃光；高度近視、外傷、白內障術後風險                                                                        |
+  | 整體霧、眩光、紅反光下降   | Cataract（白內障）                                    | 無痛漸進，夜間開車眩光                                                                                  |
+  | 視力模糊＋眼底出血/新生血管 | Diabetic retinopathy（DR，糖尿病視網膜病變）                | microaneurysm（微血管瘤）、dot-blot hemorrhage（點狀/斑狀出血）、neovascularization（新生血管）                    |
+  | 突然無痛單眼失明       | Central retinal artery occlusion（CRAO，中心視網膜動脈阻塞） | cherry-red spot（櫻桃紅斑）；像 eye stroke（眼中風）                                                      |
+  | 突然無痛視力下降＋大片出血  | Central retinal vein occlusion（CRVO，中心視網膜靜脈阻塞）   | blood and thunder fundus（血雷樣眼底）                                                              |
+  | 單眼視力下降＋眼球轉動痛   | Optic neuritis（視神經炎）                             | 年輕女性、multiple sclerosis（MS，多發性硬化症）相關；RAPD（relative afferent pupillary defect，相對傳入性瞳孔缺損）、色覺變差 |
+  | 老人突然失明＋頭痛/咀嚼痛  | Giant cell arteritis（GCA，巨細胞動脈炎/顳動脈炎）            | ESR（erythrocyte sedimentation rate，紅血球沉降速率）/CRP（C-reactive protein，C反應蛋白）高；疑似就先 steroid，避免失明 |
+  | 雙眼同側視野缺損       | Homonymous hemianopia（同側偏盲）                      | 病灶在 optic tract（視束）/optic radiation（視放射）/occipital cortex（枕葉皮質），不是眼球本身                       |
 
 ## 眼瞼（考題0）
 
@@ -921,8 +946,8 @@
   - Ocular cicatricial pemphigoid（眼部瘢痕性類天皰瘡）：自體免疫攻擊基底膜，Type II 過敏
   - Stevens-Johnson syndrome（SJS）＝**Type IV 過敏**，HLA-B1502相關
 - 退化性疾病：
-  - Pinguecula（瞼裂斑/結膜贅）：limbus旁無害白色沉積；RF＝**紫外光**
-  - Pterygium（翼狀胬肉）：**Bowman's layer**斷裂，纖維血管組織**長入角膜上皮**；RF＝紫外光；Tx後仍易復發
+  - Pinguecula（瞼裂斑/結膜贅）：limbus旁無害黃白色沉積；RF＝**紫外光**
+  - Pterygium（翼狀胬肉；鼻側多）：**Bowman's layer**斷裂，良性三角形纖維血管組織**長入角膜上皮**；RF＝紫外光、乾燥、慢性發炎；Tx＝切除合併Mitomycin （單獨切除50%復發）
 - Tumor（多良性）：
   - Conjunctival papilloma（結膜乳突瘤）：HPV 6/11，良性
   - Conjunctival-corneal intraepithelial neoplasia（CCIN，結膜角膜上皮內瘤變）：良性緩慢；RF＝HPV 6/11、紫外光
@@ -1054,7 +1079,7 @@
   - 其他類型：Malignant glaucoma（惡性青光眼，術後睫狀體阻塞），Steroid glaucoma（類固醇性青光眼），neovascular glaucoma（新生血管性青光眼，視網膜缺血→VEGF（vascular endothelial growth factor，血管內皮生長因子），e.g. PDR（proliferative diabetic retinopathy，增生性糖尿病視網膜病變）/ischemic CRVO（ischemic central retinal vein occlusion，缺血性中央視網膜靜脈阻塞）），**Glaucomatocyclitic crisis**（**眼壓升高伴虹膜炎**，自限性；Tx＝**降壓藥＋類固醇**）
 - Exam：
   - Tonometry（眼壓測量）：Applanation tonometer最準；正常約**11-21mmHg**
-  - **Gonioscopy**（房角檢查）：Grade 0-4；**0分＝閉鎖性（隅角0度）**，4分＝開放性（隅角45度，近視/無水晶體aphakia常見）
+  - **Gonioscopy**（房角檢查）：Van Herick Grade 0-4；**0分＝閉鎖性（隅角0度；PACD周邊前房深度/CT角膜厚度<1/4）**，4分＝開放性（隅角45度，近視/無水晶體aphakia常見）
   - Perimetry（視野檢查）：看 scotoma（暗點），常從 **paracentral** 開始
   - Fundoscopy（眼底鏡）：cupping↑，C/D ratio（cup-to-disc ratio，杯盤比）**>0.4**；cup＝disc中凹陷/神經纖維少的區域
   - OCT（optical coherence tomography，光學同調斷層）：視神經纖維層變薄
@@ -1065,7 +1090,10 @@
     - Tx：**Mainly藥物**；控制不良才手術
   - Ocular hypertension（OHT，隱性高眼壓症）：眼壓升高但尚未有青光眼視神經/視野損傷，長期可演變青光眼
     - 轉POAG五大RF（OHT study）：**年齡↑，IOP↑，CCT薄**（central corneal thickness，中央角膜厚度，薄會低估眼壓），vertical C/D ratio↑，visual field PSD（pattern standard deviation，模式標準差）↑
-  - Normal tension glaucoma（NTG，正常眼壓性青光眼）：眼壓正常範圍但視神經受損；成因偏心血管/自體免疫/神經盤血流不穩
+  - Normal tension glaucoma（NTG，normal-tension glaucoma，正常眼壓性青光眼）：
+    - 診斷層次：有青光眼視神經損傷/視野缺損，但診間量到 IOP（intraocular pressure，眼壓）≤21 mmHg；本質是「量到正常眼壓的青光眼」phenotype，不等於單一病因。
+    - 成因層次：可能是真低眼壓但視神經灌流差/脆弱（夜間低血壓、migraine、Raynaud、sleep apnea；optic nerve perfusion pressure 約等於 BP - IOP）、也可能是薄 CCT 低估 IOP 或眼壓曾波動、或視神經對正常壓力耐受差。
+    - Pitfall：薄 CCT 不只會讓 Goldmann tonometry 低估眼壓，也可代表眼球/視神經結構較脆弱，是青光眼進展風險因子。
   - CCT校正眼壓：
     - 薄角膜：會低估IOP → 可能把實際偏高者誤當NTG
     - 厚角膜：會高估IOP → 可能誤當OHT
@@ -1093,7 +1121,7 @@
   - Tx：Mainly手術，藥物輔助
 - Tx種類：
   - 抑制房水產生drug：β-blocker（一線，長效Timolol）、carbonic anhydrase inhibitor（碳酸酐酶抑制劑；眼藥水可減少口服副作用，Acetazolamide；SE＝**HCO3流失，代酸，低血鉀**）、α-agonist（α致效劑，Brimonidine；增加 uveoscleral outflow（會散瞳，閉鎖型少用））
-  - 促進房水排出drug：cholinergic（膽鹼性藥，Pilocarpine；縮小瞳孔增加排出）、prostaglandin analogue（前列腺素類似物，Latanoprost；增加 uveoscleral outflow）
+  - 促進房水排出drug：cholinergic（膽鹼性藥，Pilocarpine；縮小瞳孔增加排出）、prostaglandin analogue（PGA前列腺素類似物，Latanoprost；增加 uveoscleral outflow）
   - 雷射治療：laser trabeculoplasty（雷射小梁成形術 for 開角型），laser iridotomy（雷射虹膜造孔術 for 閉角型）
 
 ## 玻璃體（老化＝空泡化，飛蚊症）（考題1）
@@ -1488,7 +1516,7 @@
 ## 靜脈麻醉劑（考題3）
 
 - 概論：**多用於induction**（麻醉誘導）；常見共通**SE＝呼吸抑制/低血壓**，若只有鎮靜無止痛要另外補analgesia（止痛）
-- **Propofol**：
+- **Propofol（）**：
   - MOA：**GABA**（gamma-aminobutyric acid，γ-胺基丁酸）A受體增強
   - 優點：onset/offset快、恢復清爽、**antiemetic（抗噁心）**、可用TIVA（total intravenous anesthesia，全靜脈麻醉）維持
   - SE/C/I：**低血壓（血管擴張/心肌抑制）、呼吸抑制**、注射痛；長時間高劑量注意**propofol infusion syndrome（乳酸中毒/橫紋肌溶解）**
@@ -1506,7 +1534,7 @@
   - MOA：**NMDA**（N-methyl-D-aspartate）receptor **antagonist**
   - 優點：唯一兼具明顯analgesia的induction藥；支氣管擴張（氣喘可用）；交感活化使心跳/血壓上升（休克可用）
   - SE/C/I：**幻覺/惡夢（可合併BZD減少）**、唾液分泌增加、心跳/血壓上升；顱內壓或眼壓高者避免
-- Etomidate：
+- Etomidate（無止痛功能）：
   - MOA：GABA A受體增強
   - 優點：心血管影響最小，**hemodynamic instability（血流動力不穩）/休克病人induction常用**
   - SE/C/I：adrenal suppression（腎上腺抑制，抑制11β-hydroxylase）、**myoclonus（肌陣攣）**、術後噁心嘔吐；sepsis/腎上腺不足者慎用
@@ -1550,8 +1578,8 @@
     - SE＝muscarinic副交感作用（噁心、分泌物↑、bradycardia）⭢**合併anticholinergic drug（Atropine或Glycopyrrolate）**
   - Sugammadex：包住aminosteroid NMBD（Rocuronium、Vecuronium）做reversal；不逆轉benzylisoquinolinium（Cisatracurium/Atracurium）、Pancuronium（親和力弱）
 - 個論
-  - Succinylcholine：超短效，Ind＝rapid sequence intubation（RSI，快速插管；外傷/懷孕/肥胖/嗆入風險）；SE＝**惡性高熱、高血鉀、眼內壓/顱內壓↑**、橫紋肌溶解、心律不整；C/I＝惡性高熱、**燒傷/神經損傷、高血鉀**
-  - Rocuronium/Vecuronium（aminosteroid**中效ND）**：Rocuronium onset較快，主要hepatic/biliary；Vecuronium hepatic＋部分renal；組織胺釋放少，可用Sugammadex reversal
+  - Succinylcholine：超短效，Ind＝rapid sequence intubation（RSI，快速插管；外傷/懷孕/肥胖/嗆入風險）；SE＝**惡性高熱、高血鉀、眼內壓/顱內壓↑**、橫紋肌溶解、心律不整、兒童心搏過緩、肌肉震顫（可先給低劑量非去極化肌鬆劑預防）；C/I＝惡性高熱、**燒傷/神經損傷、高血鉀、**慢性失用症（denervation 24 hr 後）
+  - Rocuronium/Vecuronium（aminosteroid**中效ND）**：Rocuronium onset較快（可作為Succinylcholine替代），主要hepatic/biliary；Vecuronium hepatic＋部分renal；組織胺釋放少，可用Sugammadex reversal
   - Pancuronium（長效ND，腎代謝）：for長時間手術；**vagolytic⭢心跳/血壓↑；無法**Sugammadex逆轉
   - Cisatracurium/Atracurium（benzylisoquinolinium ND）：**Hofmann elimination/ester hydrolysis（非肝腎主導，依體溫/pH）**；適合肝腎功能差；**代謝產物Laudanosine可致癲**；不能用Sugammadex
 - 監測：ulnar nerve（尺神經）刺激看**adductor pollicis（內收拇指肌）**，TOF＝4次2Hz刺激
@@ -1638,6 +1666,10 @@
   - 足月孕婦視為full stomach（胃排空不足）⭢常需RSI；可給nonparticulate antacid（不含顆粒制酸劑）降低吸入性肺炎風險。
   - Succinylcholine起效快、胎盤通過少，可用於剖腹產RSI；不是因怕新生兒呼吸抑制而禁用。
   - Opioid**通常胎兒娩出後再給**；吸入麻醉維持濃度不宜過高，避免子宮鬆弛與出血。
+- Surgical positioning complications（手術姿勢併發症快辨）：
+  - Supine position（仰臥）：ulnar nerve injury（尺神經傷害；肘部壓迫/屈曲）最常被考；手臂外展避免超過90度，否則偏brachial plexus injury（臂神經叢傷害）。
+  - Lithotomy position（截石位）：common peroneal nerve injury（腓總神經傷害；腓骨頭被腳架壓迫）與compartment syndrome（腔室症候群；長時間抬腿、灌流下降）要背。
+  - Fowler/sitting position（半坐臥/坐姿）：venous air embolism（靜脈空氣栓塞）與hypotension（低血壓）。
 - Prone position（趴臥，常用脊椎後路）：
   - 肺：**FRC（functional residual capacity，功能餘氣量）/V/Q matching（ventilation-perfusion matching，通氣血流配合）/oxygenation可優於supine/lateral。**
   - 循環：腹部要懸空；腹部受壓⭢inferior vena cava（IVC，下腔靜脈）壓迫⭢venous return/CO（cardiac output，心輸出量）下降、**出血增加**。
@@ -1705,6 +1737,7 @@
     - Ossicles＝malleus/incus/stapes（MIS，槌/砧/鐙骨），放大聲音。
     - **Tensor tympani**連malleus handle與**Eustachian tube（耳咽管）**；chorda tympani（鼓索神經，CN7分支）管味覺。
     - Taste innervation（味覺神經支配）：舌前2/3＝CN VII經chorda tympani；舌後1/3＝CN IX；會厭/喉咽＝CN X internal laryngeal branch；CN XII管舌肌運動，不管味覺。
+  - Pathogen pitfall：AOM 急性背 SHM＝Streptococcus pneumoniae（肺炎鏈球菌）/Haemophilus influenzae（流感嗜血桿菌）/Moraxella catarrhalis（卡他莫拉菌）；COM/CSOM 慢性背 Gram-negative rods（革蘭陰性桿菌）＋Staphylococcus aureus（金黃色葡萄球菌），因耳膜穿孔/慢性耳漏環境易有 biofilm（生物膜）。
   - Acute otitis media（AOM，急性中耳炎）：
     - Pathogen＝Streptococcus pneumoniae、Haemophilus influenzae、Moraxella catarrhalis。
     - RF＝男、**18個月-6歲**、Jan-Apr（感冒高峰）、平躺奶瓶餵食；SS＝耳痛/耳漏/頭痛、鼓膜膨出或充血。
@@ -1715,7 +1748,7 @@
     - Exam＝耳鏡air-fluid level、**耳膜塌陷**；**成人單側/反覆OME要survey鼻咽癌**。
     - Tx＝先觀察；**外科處理if 負壓加重（膽脂瘤風險）、抗生素3個月無效、傳導性聽損>15 dB。**
   - Chronic otitis media（慢性中耳炎，>3個月）：
-    - 常見菌＝**Pseudomonas、Proteus、E. coli**。
+    - 常見菌＝**Pseudomonas、Proteus、E. coli、Staphylococcus aureus**；比 AOM 更偏革蘭陰性桿菌/生物膜。
     - Chronic **suppurative** otitis media（CSOM，慢性化膿性中耳炎）：耳膜**穿孔癒合不全**；Exam＝耳膜穿孔、鼓室**硬化斑**；Tx＝tympanoplasty（鼓室成形術）/myringoplasty（耳膜成形術）為主＋**抗生素滴劑**。
     - Cholesteatoma（膽脂瘤，與膽固醇無關，是一種鱗狀上皮增生導致的keratin debris）：後天性多因**長期中耳負壓**；SS＝**惡臭、耳漏、耳脹、耳痛**；Exam＝鼓膜凹陷、角質增生、穿孔、**temporal bone CT評估侵犯**；Tx＝mastoidectomy（乳突切除術）/excision±ossicular reconstruction（聽小骨重建）。
     - Complication＝聽小骨侵犯（傳導性聽損）、內耳侵犯（**迷路瘻管**；挖耳更暈）、乳突炎、顏面神經麻痺。
@@ -1854,7 +1887,7 @@
 - Juvenile nasopharyngeal angiofibroma（JNA，青少年鼻咽血管纖維瘤）：**青春期男性；良性但局部侵犯，會吃到鼻竇/眼眶/顱底**
   - SS：反覆單側鼻出血、單側鼻塞、顏面腫脹，侵犯時可耳鳴/複視
   - Dx：**鼻咽鏡（深紅色、表面光滑、無包膜）**+ CT/MRI看範圍；Pitfall＝高度血管性，避免直接biopsy
-  - Tx：術前**血管攝影栓塞** + 手術切除
+  - Tx：術前**血管攝影栓塞(internal maxillary artery embolism)** + 手術切除、optional術後放療
 
 ## 頭頸科（考題23）
 
@@ -1924,6 +1957,8 @@
   - General：
     - RF＝ABC（alcohol酒、betel quid檳榔、cigarette菸）為主；**口咽癌另看HPV**；**鼻咽癌另看EBV**。
     - Targeted Tx：Cetuximab（西妥昔單抗）target＝EGFR（epidermal growth factor receptor，表皮生長因子受體）。
+    - Prognosis粗排（同樣SCC位置題）：**glottic laryngeal cancer（聲門喉癌）最好**（早沙啞、淋巴少） > oral cavity cancer（口腔癌）/HPV-positive oropharyngeal cancer（HPV陽性口咽癌） > nasopharyngeal cancer（鼻咽癌；放化療敏感但常頸部LN、看stage/EBV DNA） > **hypopharyngeal cancer（下咽癌）最差**（症狀晚、淋巴豐富）。
+      - Pitfall：HPV-negative oropharyngeal cancer（HPV陰性口咽癌）＋抽菸喝酒者預後較差；不要把「喉癌最好」套到supraglottic/subglottic，真正最好是glottic。
   - 口腔癌（90%SCC，1st頭頸癌）：
     - Site：tongue（1st）、floor of mouth、buccal、gingiva、hard palate、lip、retromolar trigone。
     - SS：無痛**不癒潰瘍>2wks/腫塊**；後期頸部淋巴腫。
@@ -1941,7 +1976,7 @@
     - Tx：化放療；手術for復發或殘留病灶。
   - Hypopharyngeal cancer（下咽癌，SCC為主，淋巴結豐富易轉移）：
     - RF：中壯年男性、ABC、VitA/B缺乏、**Plummer-Vinson syndrome（女性缺鐵，postcricoid cancer）**。
-    - Site：**pyriform sinus（80%）**、postcricoid area、posterior pharyngeal wall。
+    - Site：**pyriform sinus（80%）**、postcricoid area、posterior pharyngeal wall（女性Plummer-Vinson）。
     - Lymph：單側病灶最常**同側Level II、III、IV**；Level I偏口腔。
     - SS：**初期症狀輕微**；聲音沙啞/吞嚥痛多較晚。
     - Exam/Tx：喉內視鏡＋影像分期；手術＋CCRT，術後重視聲音/吞嚥復健。

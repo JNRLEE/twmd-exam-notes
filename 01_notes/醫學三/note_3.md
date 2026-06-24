@@ -661,7 +661,8 @@
     - Idiopathic pulmonary fibrosis（IPF，特發性肺纖維化）：
       - SS：老年＋乾咳＋clubbing＋basal crackles。
       - Exam：HRCT＝UIP pattern（honeycombing、reticulation、traction bronchiectasis）。
-      - Tx：pirfenidone/nintedanib減緩FVC下降；不建議傳統免疫抑制。
+      - Tx：pirfenidone/nintedanib減緩FVC下降；
+        - 已證實無效＝Colchicine、Triple tx（steroid+Azathioprine+NAC；會增加死亡率）。
     - Nonspecific interstitial pneumonia（NSIP）：活躍發炎、多GGO（ground-glass opacity，毛玻璃影），常和CTD相關。
     - Cryptogenic organizing pneumonia（COP）：類固醇有效。
     - **Respiratory Bronchiolitis（RB）**-ILD/DIP：抽菸相關；Tx＝戒菸。
@@ -1106,9 +1107,10 @@
   - X-ray：sigmoid coffee bean sign。
   - Tx：sigmoid 先內視鏡減壓後切除；cecal 多手術。
 - Intestinal obstruction：
+  - Epidemiology：small bowel obstruction（SBO，小腸阻塞）> large bowel obstruction（LBO，大腸阻塞）；SBO 常見因術後沾黏，LBO 常見因 colorectal cancer（大腸直腸癌）/volvulus（腸扭轉）。
   - Mechanical：KUB 小腸擴張。
   - SS：colicky pain（絞痛）。
-  - Tx：NPO/NG 減壓。
+  - Tx（不常規抗痙攣藥）：NPO/NG 減壓；開刀（sustained pain/fever/tachycardia/WBC/lactate/acidosis/peritonitis）。
 - Paralytic ileus（adynamic ileus）：
   - SS：腹脹為主。
   - Exam：KUB 大小腸都擴張。
@@ -1126,7 +1128,7 @@
 - Cancer related：
   - Familial adenomatous polyposis（FAP）：APC 基因突變，100% 會進展為癌症；Tx＝預防性切除結腸。
   - Peutz-Jeghers syndrome：hamartomatous polyps、黏膜黑色素沉著、STK11 基因突變，50% 會變 GI cancer。
-  - Lynch syndrome：AD，DNA mismatch repair gene 突變，右側結腸癌多；Tx＝定期結腸鏡檢查。
+  - Lynch syndrome：AD，DNA mismatch repair gene 突變，右側結腸癌多；分typeI/II，II合併乳癌、卵巢癌、子宮頸癌，子宮頸癌終身癌化率40%（每年規律抹片檢查）；Tx＝定期結腸鏡檢查。
 
 ## 肝功能異常（考題8）
 
@@ -1353,7 +1355,7 @@
   - Dx：
     - 高風險背景（肝硬化/慢性 HBV）+ 腫瘤 ≥1 cm + CT/MRI 典型影像（arterial enhancement + portal/delayed washout）可不切片診斷。
     - 非高風險背景或影像不典型才需 pathology。
-    - Pitfall：cf. RCC 影像類似但仍需 pathology。
+    - Pitfall：cf. RCC 影像可類似，但不能像高風險 HCC 純靠背景+典型影像診斷；典型 RCC 若要手術，通常不先穿刺，pathology 由切除標本確認。
   - Curative Tx：肝切除/肝移植。
     - Milan criteria：無血管侵犯/肝外轉移；單顆 ≤5 cm 或 3 顆以內 <3 cm。
   - Palliative/life-prolonging：栓塞、標靶治療（TKI；Ate**sorafenib老藥可延長 2 months**）、化放療。
@@ -1407,6 +1409,7 @@
 
 - Acute pancreatitis：
   - Cause：gallstone（台灣 1st）、alcohol（外國 1st）。
+    - Mnemonic＝**I GET SMASHED**：Idiopathic（原因不明）、Gallstones（膽結石）、Ethanol（酒精）、Trauma（外傷）、Steroids（類固醇）、Mumps/Malignancy（腮腺炎/惡性腫瘤）、Autoimmune（自體免疫）、Scorpion（蠍咬）、HyperCa/HyperTG（高血鈣/高三酸甘油酯）、ERCP、Drugs（藥物）。
   - Exam：
     - Amylase/lipase 上升 3x；lipase 專一性高。
     - Echo。
@@ -1421,6 +1424,7 @@
   - Prognosis：Ranson's criteria。
     - 入院時（ASS 是否乳白）：age >55、sugar >200、AST >250、LDH >350、WBC >1W6。
     - 入院後 48 hr（快上 BBS 告訴 CHO）：base deficit >4、BUN 上升 >5、fluid sequestration >6 L、Ca <8、hematocrit 下降 >10%、PaO2 <60。
+    - Ca方向：**HyperCa（高血鈣）是急性胰臟炎 cause；HypoCa（低血鈣）是結果/重症指標**，Ranson 看的是 48 hr **Ca <8**。
     - 11C3 代表重症。
   - Complication（胰臟炎四大腹水；依急慢性/有無 necrosis）：
     - APFC（acute peripancreatic fluid collection）：<4 週，間質水腫型，無 wall，pure fluid。
@@ -1647,9 +1651,9 @@
   - 住院：重症/非重症皆 **140-180**；Pitfall＝避免過度控制導致低血糖。
 - Tx：
   - Lifestyle：減重、運動、飲食控制。
-  - Oral drugs：
-    - 增加胰島素分泌（DP Sulfo Gl night）：sulfonylureas、glinides（K channel；會增重）、DPP-4 inhibitors（Sitagliptin）、GLP-1 agonists（liraglutide；減重，較不低血糖）。
-    - 增加 insulin sensitivity（Met Thai Bose）：metformin、TZD（PPAR-γ）。
+  - Oral drugs（不易低血糖＝Met Thai Bose GLP DPP；會減重＝GL系列（-flozin、glutide、-patide））：
+    - 增加胰島素分泌（DP Sulfo Gl night）：sulfonylureas、glinides（K channel；會增重）、DPP-4 inhibitors（Sitagliptin；不易低血糖、耐受性佳）、GLP-1 agonists（liraglutide；減重，較不低血糖）。
+    - 增加 insulin sensitivity：metformin、TZD（PPAR-γ）。
     - 減少腸道吸收：α-glucosidase inhibitors（acarbose）。
     - 增加尿糖排出：SGLT2 inhibitors（empagliflozin；減重/降壓，泌尿道感染↑）。
   - Insulin：
@@ -1660,6 +1664,7 @@
   - Metabolic syndrome：Risk＝DM、心血管疾病；Tx＝運動減肥。
   - NCEP ATP III（5C3，符合3項）：腰圍男 >90/女 >80、TG >150、HDL <40（女 <50）、BP >130/85、fasting glucose >100。
   - IFG：fasting glucose 100-125；IGT：2hr postprandial/OGTT glucose 140-199。
+  - Diabetic cystopathy（與括約肌無關的尿不出來、感覺下降）：⭣bladder sensation、⭣detrusor contractility、⭡bladder capacity（脹大也沒感覺）
 - Acute complications：
   - Trigger：先 survey 感染（1st 成因）；回顧 HbA1c 看 poor control。
   - Tx：IV fluids＋IV insulin＋K；shock 或 pH <6.9 再補 HCO3-。
