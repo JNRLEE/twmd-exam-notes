@@ -519,9 +519,9 @@
 
     - 易混：114年起HAV改18/27m；舊表常見12/18m。流感滿6m可打，8y以下初次接種2劑、間隔4wk。
     - B: 0,1,6 / 卡: 5
-    VZV: 12 / MMR: 12, 小學
-    13: 2, 4, 12 / 白百血痹: 2, 4, 6, 18
-    日本: 15, 27 / A: 18, 27
+    - VZV: 12 / MMR: 12, 小學
+    - 13: 2, 4, 12 / 白百血痹: 2, 4, 6, 18
+    - 日本: 15, 27 / A: 18, 27
 
 ## 小兒神經系統（考題32）
 
@@ -1462,10 +1462,12 @@
     - Chronic：不常規驗specific IgE
   - Tx：移除誘發因子；2nd gen H1 antihistamine（非鎮靜，e.g. desloratadine/cetirizine/fexofenadine）為一線；效果不足可加量（最多4倍）；Omalizumab（抗IgE單株抗體），Cyclosporin，短效Steroid for severe
   - Angioedema：
-    - 分類/概念：血管性水腫（≠血管炎）；遺傳型可為AD
+    - 分類/概念：血管性水腫（≠血管炎）；先分 histamine/IgE-mediated vs bradykinin-mediated；遺傳型可為AD。
+    - Histamine/IgE-mediated：常有 wheal/itch；Tx＝H1 antihistamine，若 anaphylaxis/airway/hypotension 立刻 IM epinephrine。
+    - Bradykinin-mediated：hereditary angioedema 或 ACE inhibitor；通常無 wheal/itch；epinephrine/抗組織胺/類固醇效果差。
     - SS：好發嘴唇/眼周/手腳掌，**>50%呼吸道侵犯**（喉頭水腫），深而不癢（mast cell/神經末梢少；但會痛）
-    - MOA：**C1 esterase inhibitor**濃度/功能不足 → bradykinin↑（不是IgE主軸）
-    - Tx：Bradykinin B2 antagonist（**Icatibant**），Kallikrein inhibitor（**Ecallantide**），Danazol；Epinephrine/抗組織胺/類固醇效果差
+    - HAE MOA/Lab：**C1 esterase inhibitor**濃度/功能不足 → bradykinin↑；C4低。ACE inhibitor angioedema 通常 complement 正常。
+    - Bradykinin Tx：停 ACE inhibitor＋airway watch；HAE acute＝C1-INH、Bradykinin B2 antagonist（**Icatibant**）、Kallikrein inhibitor（**Ecallantide**）；HAE prophylaxis＝lanadelumab/berotralstat/C1-INH，舊考點可記 Danazol。
   - cf. Contact dermatitis：urticaria＝真皮水腫/24hr退/不脫屑；contact dermatitis＝表皮發炎/可維持數週/脫屑留痕
 - Contact dermatitis（接觸性皮膚炎；表皮發炎）：
   - SS：紅斑，水泡，潰瘍；**可維持數週**，脫屑留痕
@@ -1538,7 +1540,7 @@
   - 角質cell增生週期⭣、棘皮層增厚
   - **Th1活化** ⭢ Munro's microabscess（表皮內中性球膿皰）
   - Koebner phenomenon：抓癢/外傷處容易增生同型病灶
-  - Flare trigger：**TIDES**＝Trauma（Koebner）、Infection（GAS→guttate psoriasis）、Drug（**ABCD+GI**：ACEi、anti-malarial（chloroquine）、β-blocker、corticosteroid/停藥 rebound、lithium、Gemfibrozil、Imiquimod（TLR-7，活化宿主免疫）、IFN）、Environment、Sun（phototherapy可治療；反覆日曬/曬傷可惡化）
+  - Flare trigger：**TIDES**＝Trauma（外傷/Koebner）、Infection（感染，GAS→guttate psoriasis）、Drugs（藥物，**ABCD+GI**＝ACE inhibitor/anti-malarial、β-blocker、corticosteroid withdrawal、lithium/NSAID；Gemfibrozil；Imiquimod/IFN）、Emotional stress/environment（壓力、寒冷乾燥）、Sunburn（曬傷/過量日曬；cf. phototherapy 可治療）
 - SS：
   - 紅色斑塊覆蓋**銀白色鱗屑**；沖洗後紅斑不退
   - 關節/指甲侵犯（指甲油滴狀變色，專一性高）

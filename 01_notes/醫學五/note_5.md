@@ -1024,8 +1024,9 @@
     - X-ray：>6 m，已骨化。
   - Tx：
     - **<6 m＝Pavlik harness（吊帶，維持外展即可不用刻意復位）**。
-    - > 6 m＝reduction（復位）。
-    - > 2 y/o＝osteotomy（截骨術）。
+    - 6-18 m＝closed reduction（閉鎖復位）+ hip spica cast（髖人字石膏）。
+    - 18 m-2 y＝多需 open reduction（開放復位），視情況加 pelvic/femoral osteotomy。
+    - > 2 y/o＝常需 open reduction + osteotomy（骨盆/股骨截骨術）。
 - Legg-Calve-Perthes disease（**股骨頭缺血壞死**）：
   - Pattern：**4-10 歲男孩**，股骨頭 epiphysis（骨骺）不明原因壞死。
   - RF＝低社經、二手菸男孩、Protein S/C deficiency（Protein S/C 缺乏）。
