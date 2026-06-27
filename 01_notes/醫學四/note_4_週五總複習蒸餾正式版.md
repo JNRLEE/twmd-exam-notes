@@ -465,8 +465,10 @@
 7. Post-traumatic stress disorder（PTSD，創傷後壓力症候群）
   - 創傷後超過 1 個月。intrusion、avoidance、negative mood/cognition、hyperarousal。
 8. Somatic symptom disorder 與 conversion disorder
-  - 症狀不是故意裝出來。重點在 distress 與 functional impairment。
-  - Management：固定一位醫師追蹤，避免過度檢查與 hospital shopping。Conversion disorder 可像神經症狀或 pseudoseizure。
+  - 共同點：症狀不是故意裝出來，和 malingering/factitious disorder 分開；都可造成 distress 與 functional impairment。
+  - Somatic symptom disorder（身體症狀疾患）：有身體症狀，加上對症狀不成比例焦慮、耗費時間心力、反覆求醫；重點不是症狀能不能被醫學解釋。
+  - Conversion disorder（轉化症；functional neurological symptom disorder，功能性神經症狀疾患）：像神經科症狀但和神經定位不吻合，例如麻痺、失明、失聲、異常步態、pseudoseizure/psychogenic nonepileptic seizure（PNES，心因性非癲癇發作）。
+  - Management：先排除急症；固定一位醫師規律追蹤，避免過度檢查與 hospital shopping。Somatic symptom disorder 偏 cognitive behavioral therapy（CBT，認知行為治療）與共病焦慮/憂鬱處理；conversion disorder 可加復健、心理治療與清楚解釋「症狀是真的但神經功能失調」。
 9. Anorexia nervosa（神經性厭食症）
   - 害怕變胖、body image distortion。amenorrhea 已非 DSM-5 必要診斷條件但仍常被提。
   - Tx＝營養恢復、心理治療、補液。死亡率高。
